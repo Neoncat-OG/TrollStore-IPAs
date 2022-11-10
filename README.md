@@ -44,6 +44,7 @@ Everything you can currently find in this repo:
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
+| Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) | 11-10-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 10-09-2022 |
 | TikTokLRD | TikTok, injected with a cracked version of TikTokLRD. *Only including this just in case it magically starts to work again, currently it will crash on launch. Use one of the other TikTok IPAs in this repo for now* | [AppDB](https://appdb.to/app/cydia/1900000893) | 09-03-2022 |
