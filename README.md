@@ -30,6 +30,7 @@ Everything you can currently find in this repo:
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 10-17-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
 | Opener.ipa | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | OVF Editor| Old version of OVF Editor. Just an alternative for people to try if they're running into issues with the latest AppStore version | N/A | 09-03-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
