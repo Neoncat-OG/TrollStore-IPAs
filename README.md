@@ -20,7 +20,7 @@ Everything you can currently find in this repo:
 | DebToIPA | App that converts .deb files into IPA files, *given that the deb is actually an application with a GUI*. Examples include Filza, Apps Manager, Sonic, etc. | [AppDB](https://appdb.to/app/cydia/1900001002) | 10-07-2022 |
 | Delta | Emulator for GBA, N64, and NDS | [AltStore Official](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fapps.altstore.io&bundleId=com.rileytestut.Delta.Beta) | 11-10-2022 |
 | DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) | 11-07-2022 |
-| Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-27-2022 |
+| Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | ESign | An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice. | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900000897) | 11-10-2022 |
 | FacebookWolf | Facebook, injected with Wolf for Facebook by Michael Lema | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 09-03-2022 |
 | GitHub | GitHub for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-09-2022 |
