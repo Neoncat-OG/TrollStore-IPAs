@@ -18,7 +18,7 @@ Everything you can currently find in this repo:
 | DebToIPA | App that converts .deb files into IPA files, *given that the deb is actually an application with a GUI*. Examples include Filza, Apps Manager, Sonic, etc. | [AppDB](https://appdb.to/app/cydia/1900001002) | 10-07-2022 |
 | DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) | 11-07-2022 |
 | Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-27-2022 |
-| ESign | An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice. | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900000897) | 11-09-2022 |
+| ESign | An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice. | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900000897) | 11-10-2022 |
 | FacebookWolf | Facebook, injected with Wolf for Facebook by Michael Lema | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 09-03-2022 |
 | GitHub | GitHub for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-09-2022 |
 | HarpyReloaded | App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
@@ -33,7 +33,7 @@ Everything you can currently find in this repo:
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 10-17-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
-| NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
 | Opener.ipa | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | OVF Editor| Old version of OVF Editor. Just an alternative for people to try if they're running into issues with the latest AppStore version | N/A | 09-03-2022 |
