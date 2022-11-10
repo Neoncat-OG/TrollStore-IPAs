@@ -3,7 +3,7 @@ A collection of IPA files from many different sources, for TrollStore!
 
 All credit to their respective maintainers, I simply gather and update all the IPAs I have in one place
 
-Everything you can find in this repo:
+Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
