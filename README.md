@@ -3,6 +3,8 @@ A collection of IPA files from many different sources, for TrollStore!
 
 All credit to their respective maintainers, I simply gather and update all the IPAs I have in one place
 
+All *future* app updates will contain some form of version numbers in the file names
+
 All files can be found in Releases
 
 Everything you can currently find in this repo:
