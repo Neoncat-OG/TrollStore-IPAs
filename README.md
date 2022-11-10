@@ -3,9 +3,9 @@ A collection of IPA files from many different sources, for TrollStore!
 
 All credit to their respective maintainers, I simply gather and update all the IPAs I have in one place
 
-All *future* app updates will contain some form of version numbers in the file names
+All *future* app updates will contain some form of version numbers in the file names. If the versioning scheme for an app changes, it is because the dev/maintainer changed up their scheme
 
-All files can be found in Releases
+All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
 Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
