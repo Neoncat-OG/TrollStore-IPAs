@@ -56,4 +56,4 @@ Everything you can currently find in this repo:
 | Twitch Toolbox | Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support | [AppDB](https://appdb.to/app/cydia/1900000232) | 10-21-2022 |
 | Uber Eats | Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 10-26-2022 |
 | uYouPlus | YouTube with a ton of different features. Think YouTube Reborn with a better UI and supporting much newer versions of YouTube | [qnblackcat](https://github.com/qnblackcat/uYouPlus) | 11-07-2022 |
-| YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) | 09-03-2022 |
+| YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) | 11-10-2022 |
