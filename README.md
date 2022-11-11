@@ -50,7 +50,7 @@ Everything you can currently find in this repo:
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) | 11-10-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 10-09-2022 |
-| TikTokLRD | TikTok, injected with a cracked version of TikTokLRD. *Only including this just in case it magically starts to work again, currently it will crash on launch. Use one of the other TikTok IPAs in this repo for now* | [AppDB](https://appdb.to/app/cydia/1900000893) | 09-03-2022 |
+| TikTokLRD | NEW VERSION THAT WORKS! TikTok, injected with a cracked version of TikTokLRD | ¯\_(ツ)_/¯ | 11-10-2022 |
 | TorBrowserPlusPlus | Tor Browser with premium features unlocked | [AppDB](https://appdb.to/app/cydia/1900000837) | 10-23-2022 |
 | TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 10-17-2022 |
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
