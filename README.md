@@ -37,7 +37,7 @@ Everything you can currently find in this repo:
 | KETSU | This is an older version of Ketsu that works with a certain AppsManager backup, also featured in this repo, that unlocks premium in the app, using [this tutorial](https://discord.com/channels/770088337867669515/770091013967446016/1036912655740440626) | N/A | 11-01-2022 |
 | Kodi | Multi-featured media player/streamer. Version 18.9 is the last version that will work with TrollStore, so this app likely won't be updated past this version | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
 | LocationSimulation (LocSim) | Location spoofer, not affiliated with udevs' locsim | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
-| MobileTSS | Shsh blobs saver | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
+| MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 10-17-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
