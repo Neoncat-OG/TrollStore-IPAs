@@ -31,6 +31,7 @@ Everything you can currently find in this repo:
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-10-2022 |
 | InShotPro | Popular video/image editor with pro features unlocked | [AppDB](https://appdb.to/app/cydia/1900000807) | 11-07-2022 |
 | InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
+| InstaSpring | App that instantly respring your phone | [haxi0](https://github.com/haxi0/InstaSpring) | 11-12-2022 |
 | iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-11-2022 |
 | IPSW.ipa | The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI | N/A | 10-17-2022 |
 | KakaManga | Manga reader, IIRC using the MangaNato source | PandaHelper | 09-03-2022 |
@@ -48,13 +49,15 @@ Everything you can currently find in this repo:
 | PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) | 11-11-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
+| Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) | 11-10-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 10-09-2022 |
 | TikTokLRD | NEW VERSION THAT WORKS! TikTok, injected with a cracked version of TikTokLRD. Entire menu is in Russian - translation [part 1](https://cdn.discordapp.com/attachments/770091013967446016/1040469856753037322/IMG_7730.png) / [part 2](https://cdn.discordapp.com/attachments/770091013967446016/1040469857080184852/IMG_7731.png) / [part 3](https://cdn.discordapp.com/attachments/770091013967446016/1040469857382170716/IMG_7732.jpg) | `¯\_(ツ)_/¯` | 11-10-2022 |
 | TorBrowserPlusPlus | Tor Browser with premium features unlocked | [AppDB](https://appdb.to/app/cydia/1900000837) | 10-23-2022 |
-| TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 10-17-2022 |
+| TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | [haxi0](https://github.com/haxi0/TrollApps) | 11-12-2022 |
+| TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 11-12-2022 |
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 11-07-2022 |
 | TSStore | Another app that gathers some Trollstore compatible apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
