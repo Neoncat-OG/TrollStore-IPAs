@@ -19,6 +19,7 @@ Everything you can currently find in this repo:
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 11-10-2022 |
 | BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) | 10-17-2022 |
 | Clip | Clipboard manager for iOS | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| CyPwn Store | App to browse the CyPwn IPA Library, regular and TrollStore | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-13-2022 |
 | DebToIPA | App that converts .deb files into IPA files, *given that the deb is actually an application with a GUI*. Examples include Filza, Apps Manager, Sonic, etc. | [AppDB](https://appdb.to/app/cydia/1900001002) | 10-07-2022 |
 | Delta | Emulator for GBA, N64, and NDS | [AltStore Official](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fapps.altstore.io&bundleId=com.rileytestut.Delta.Beta) | 11-10-2022 |
 | DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) | 11-07-2022 |
