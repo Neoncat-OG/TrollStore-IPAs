@@ -17,14 +17,14 @@ Everything you can currently find in this repo:
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | AppStorePlusPlus | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 11-10-2022 |
-| BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) | 10-17-2022 |
+| BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) | 11-14-2022 |
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Chess - Play & Learn+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Clip | Clipboard manager for iOS | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | CyPwn Store | App to browse the CyPwn IPA Library, regular and TrollStore | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-13-2022 |
 | DebToIPA | App that converts .deb files into IPA files, *given that the deb is actually an application with a GUI*. Examples include Filza, Apps Manager, Sonic, etc. | [AppDB](https://appdb.to/app/cydia/1900001002) | 10-07-2022 |
 | Delta | Emulator for GBA, N64, and NDS | [AltStore Official](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fapps.altstore.io&bundleId=com.rileytestut.Delta.Beta) | 11-10-2022 |
-| DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) | 11-07-2022 |
+| DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) | 11-14-2022 |
 | Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | ESign | An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice. | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900000897) | 11-10-2022 |
 | FacebookWolf | Facebook, injected with Wolf for Facebook by Michael Lema | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
@@ -54,6 +54,7 @@ Everything you can currently find in this repo:
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
+| Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) | 11-10-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
 | Spotify Deluxe Old | Older version of Spotify Deluxe, for those that are having issues with premium on Spotify Deluxe | [AppDB](https://appdb.to/app/cydia/1900000907) | 11-12-2022 |
