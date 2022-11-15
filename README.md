@@ -53,6 +53,7 @@ Everything you can currently find in this repo:
 | OVF Editor| Old version of OVF Editor. Just an alternative for people to try if they're running into issues with the latest AppStore version | N/A | 09-03-2022 |
 | PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) | 11-11-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
+| Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
