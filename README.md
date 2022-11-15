@@ -15,6 +15,7 @@ Everything you can currently find in this repo:
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-07-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
+| Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) | 11-14-2022 |
 | AppStorePlusPlus | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 11-10-2022 |
 | BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) | 11-14-2022 |
