@@ -29,6 +29,7 @@ Everything you can currently find in this repo:
 | Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | ESign | An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice. | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900000897) | 11-10-2022 |
 | FacebookWolf | Facebook, injected with Wolf for Facebook by Michael Lema | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
+| Filza File Manager | iOS filesystem explorer | [TigiSoftware](https://www.tigisoftware.com/default/?p=439) | 11-14-2022 |
 | GitHub | GitHub for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-09-2022 |
 | HarpyReloaded | App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | HdoPlay | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | N/A | 09-03-2022 |
