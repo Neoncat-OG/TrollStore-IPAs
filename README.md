@@ -38,7 +38,7 @@ Everything you can currently find in this repo:
 | InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | InstaSpring | App that instantly respring your phone | [haxi0](https://github.com/haxi0/InstaSpring) | 11-12-2022 |
 | iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-11-2022 |
-| IPSW.ipa | The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI | N/A | 10-17-2022 |
+| IPSW | The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI | N/A | 10-17-2022 |
 | KakaManga | Manga reader, IIRC using the MangaNato source | PandaHelper | 09-03-2022 |
 | KETSU | This is an older version of Ketsu that works with a certain AppsManager backup, also featured in this repo, that unlocks premium in the app, using [this tutorial](https://discord.com/channels/770088337867669515/770091013967446016/1036912655740440626) | N/A | 11-01-2022 |
 | Kodi | Multi-featured media player/streamer. Version 18.9 is the last version that will work with TrollStore, so this app likely won't be updated past this version | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
@@ -49,7 +49,7 @@ Everything you can currently find in this repo:
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
-| Opener.ipa | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| Opener | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | OVF Editor| Old version of OVF Editor. Just an alternative for people to try if they're running into issues with the latest AppStore version | N/A | 09-03-2022 |
 | PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) | 11-11-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
