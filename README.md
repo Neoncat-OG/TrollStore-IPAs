@@ -15,7 +15,7 @@ Everything you can currently find in this repo:
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-07-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
-| Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) | 11-16-2022 |
+| Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | AppStorePlusPlus | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 11-10-2022 |
 | BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) | 11-14-2022 |
@@ -29,7 +29,7 @@ Everything you can currently find in this repo:
 | Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | ESign | An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice. | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900000897) | 11-10-2022 |
 | FacebookWolf | Facebook, injected with Wolf for Facebook by Michael Lema | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
-| Filza File Manager | iOS filesystem explorer | [TigiSoftware](https://www.tigisoftware.com/default/?p=439) | 11-16-2022 |
+| Filza File Manager | iOS filesystem explorer | [TigiSoftware](https://www.tigisoftware.com/default/?p=439) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | GitHub | GitHub for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-09-2022 |
 | HarpyReloaded | App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | HdoPlay | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | N/A | 09-03-2022 |
