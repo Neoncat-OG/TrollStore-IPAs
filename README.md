@@ -57,7 +57,7 @@ Everything you can currently find in this repo:
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
-| Rosiecord | Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-16-2022 |
+| Rosiecord | Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-16-2022 |
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
