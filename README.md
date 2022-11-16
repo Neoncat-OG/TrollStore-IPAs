@@ -35,7 +35,7 @@ Everything you can currently find in this repo:
 | HdoPlay | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | N/A | 09-03-2022 |
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-10-2022 |
 | InShotPro | Popular video/image editor with pro features unlocked | [AppDB](https://appdb.to/app/cydia/1900000807) | 11-07-2022 |
-| InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
+| InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | InstaSpring | App that instantly respring your phone | [haxi0](https://github.com/haxi0/InstaSpring) | 11-12-2022 |
 | iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-11-2022 |
 | IPSW | The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI | N/A | 10-17-2022 |
@@ -57,10 +57,12 @@ Everything you can currently find in this repo:
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-09-2022 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
+| Rosiecord | Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-16-2022 |
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
 | Spotify Deluxe Old | Older version of Spotify Deluxe, for those that are having issues with premium on Spotify Deluxe | [AppDB](https://appdb.to/app/cydia/1900000907) | 11-12-2022 |
+| Star VPN Plus | Star VPN with pro features unlocked | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 10-09-2022 |
 | TikTokLRD | NEW VERSION THAT WORKS! TikTok, injected with a cracked version of TikTokLRD. Entire menu is in Russian - translation [part 1](https://cdn.discordapp.com/attachments/770091013967446016/1040469856753037322/IMG_7730.png) / [part 2](https://cdn.discordapp.com/attachments/770091013967446016/1040469857080184852/IMG_7731.png) / [part 3](https://cdn.discordapp.com/attachments/770091013967446016/1040469857382170716/IMG_7732.jpg) | `¯\_(ツ)_/¯` | 11-10-2022 |
 | TorBrowserPlusPlus | Tor Browser with premium features unlocked | [AppDB](https://appdb.to/app/cydia/1900000837) | 10-23-2022 |
