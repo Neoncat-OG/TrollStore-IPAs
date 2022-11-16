@@ -34,7 +34,7 @@ Everything you can currently find in this repo:
 | HarpyReloaded | App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | HdoPlay | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | N/A | 09-03-2022 |
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-10-2022 |
-| InShotPro | Popular video/image editor with pro features unlocked | [AppDB](https://appdb.to/app/cydia/1900000807) | 11-07-2022 |
+| InShotPro | Popular video/image editor with pro features unlocked | [AppDB](https://appdb.to/app/cydia/1900000807) | 11-16-2022 |
 | InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | InstaSpring | App that instantly respring your phone | [haxi0](https://github.com/haxi0/InstaSpring) | 11-12-2022 |
 | iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-11-2022 |
