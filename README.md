@@ -22,6 +22,7 @@ Everything you can currently find in this repo:
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Chess - Play & Learn+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Clip | Clipboard manager for iOS | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| Crunchyroll | Crunchyroll, the app. Yes, just the app. No tweak, no crack, no ad-block, nothing - just a decrypted Crunchyroll app. Why, you ask? Because apparently it's not available in certain other countries and someone requested it, and it works decrypted so I figured I'd throw it on this list. Will probably only update this on request, so create an issue if you need me to update this in the future | N/A | 11-17-2022 |
 | CyPwn Store | App to browse the CyPwn IPA Library, regular and TrollStore | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-13-2022 |
 | DebToIPA | App that converts .deb files into IPA files, *given that the deb is actually an application with a GUI*. Examples include Filza, Apps Manager, Sonic, etc. | [AppDB](https://appdb.to/app/cydia/1900001002) | 10-07-2022 |
 | Delta | Emulator for GBA, N64, and NDS | [AltStore Official](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fapps.altstore.io&bundleId=com.rileytestut.Delta.Beta) | 11-10-2022 |
