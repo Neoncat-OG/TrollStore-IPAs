@@ -38,6 +38,7 @@ Everything you can currently find in this repo:
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-10-2022 |
 | InShotPro | Popular video/image editor with pro features unlocked | [AppDB](https://appdb.to/app/cydia/1900000807) | 11-16-2022 |
 | InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
+| InstaRocketPlusSquare | InstaRocketPlus, with InstagramSquareAvatars injected, on Instagram v149.0. I most ilkely won't be keeping this updated with newer versions of InstaRocketPlus. Thanks to sudo in CyPwn for the InstaRocketPlus ipa | N/A | 11-18-2022 | 
 | InstaSpring | App that instantly respring your phone | [haxi0](https://github.com/haxi0/InstaSpring) | 11-12-2022 |
 | iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-11-2022 |
 | IPSW | The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI | N/A | 10-17-2022 |
