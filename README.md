@@ -47,7 +47,7 @@ Everything you can currently find in this repo:
 | LocationSimulation (LocSim) | Location spoofer, not affiliated with udevs' locsim | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
-| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 10-17-2022 |
+| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 11-17-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
@@ -63,6 +63,7 @@ Everything you can currently find in this repo:
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-11-2022 |
+| SpeedTest No Ads | SpeedTest by Ookla, but without the ads in-app | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-17-2022 |
 | Spotify Deluxe Old | Older version of Spotify Deluxe, for those that are having issues with premium on Spotify Deluxe | [AppDB](https://appdb.to/app/cydia/1900000907) | 11-12-2022 |
 | Star VPN Plus | Star VPN with pro features unlocked | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 10-09-2022 |
