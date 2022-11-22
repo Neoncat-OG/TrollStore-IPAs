@@ -72,7 +72,7 @@ Everything you can currently find in this repo:
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 10-09-2022 |
 | TikTokLRD | NEW VERSION THAT WORKS! TikTok, injected with a cracked version of TikTokLRD. Entire menu is in Russian - translation [part 1](https://cdn.discordapp.com/attachments/770091013967446016/1040469856753037322/IMG_7730.png) / [part 2](https://cdn.discordapp.com/attachments/770091013967446016/1040469857080184852/IMG_7731.png) / [part 3](https://cdn.discordapp.com/attachments/770091013967446016/1040469857382170716/IMG_7732.jpg) | `¯\_(ツ)_/¯` | 11-10-2022 |
 | TorBrowserPlusPlus | Tor Browser with premium features unlocked | [AppDB](https://appdb.to/app/cydia/1900000837) | 10-23-2022 |
-| TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | [haxi0](https://github.com/haxi0/TrollApps) | 11-13-2022 |
+| TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | [haxi0](https://github.com/haxi0/TrollApps) | 11-21-2022 |
 | TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 11-12-2022 |
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 11-07-2022 |
