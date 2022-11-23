@@ -9,6 +9,8 @@ All files can be found in Releases, either by Ctrl + F searching, or looking at 
 
 Releases are made by the day - new day, new release. I make a release one day and edit it throughout the day with new or updated IPAs until the day ends, and then create a new release post by the day and just modify it. This keeps notification spam to a minimum but will mean you might want to wait until the day ends to go through a release to make sure all files are final, since I may make changes throughout the day. Everything is done in the CST time zone
 
+*Since people see TrollStore in the title and immediately think all apps in here are TrollStore only, they aren't. A lot of apps in here will work just fine when sideloaded. However, since I am personally using these apps with TrollStore, I cannot guarantee that every app will work while properly sideloaded, nor will I offer any support if an app from this list doesn't work as intended when sideloaded*
+
 Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
