@@ -16,13 +16,13 @@ Everything you can currently find in this repo:
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore.* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-24-2022 |
-| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-07-2022 |
+| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-25-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | AppStorePlusPlus | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
 | Bear Pro | [Bear Notes](https://apps.apple.com/us/app/bear-markdown-notes/id1091189122?mt=12), with pro features unlocked. *If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore* | `¯\_(ツ)_/¯` | 11-20-2022 |
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 11-10-2022 |
-| BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) | 11-14-2022 |
+| BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! | [BandarHL](https://github.com/BandarHL/BHTwitter) / [AppDB](https://appdb.to/app/cydia/333903828) | 11-25-2022 |
 | Bundlr | App to quickly search up and copy bundleID's from App Store apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-22-2022 |
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Chess - Play & Learn+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
