@@ -15,7 +15,7 @@ Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
-| AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore.* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-24-2022 |
+| AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore.* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-26-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-25-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
@@ -46,7 +46,7 @@ Everything you can currently find in this repo:
 | InstaRocketPlus | Instagram, injected with Rocket *and* Plus for Instagram cracked. If you use the friendship status checker, enable the one from Rocket settings. The one by Plus for Instagram is broken and will cause app crashes in newer versions of Instagram | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | InstaRocketPlusSquare | InstaRocketPlus, with InstagramSquareAvatars injected, on Instagram v249.0. I most ilkely won't be keeping this updated with newer versions of InstaRocketPlus. Thanks to sudo in CyPwn for the InstaRocketPlus ipa | N/A | 11-18-2022 | 
 | InstaSpring | App that instantly respring your phone | [haxi0](https://github.com/haxi0/InstaSpring) | 11-12-2022 |
-| iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-11-2022 |
+| iPoGo | Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED | https://ipogo.app | 11-26-2022 |
 | IPSW | The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI | N/A | 10-17-2022 |
 | KakaManga | Manga reader, IIRC using the MangaNato source | PandaHelper | 09-03-2022 |
 | KETSU | This is an older version of Ketsu that works with a certain AppsManager backup, also featured in this repo, that unlocks premium in the app, using [this tutorial](https://discord.com/channels/770088337867669515/770091013967446016/1036912655740440626) | N/A | 11-01-2022 |
