@@ -15,7 +15,7 @@ Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
-| AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore.* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-26-2022 |
+| AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore.* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-25-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
@@ -60,14 +60,14 @@ Everything you can currently find in this repo:
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
 | Opener | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | OVF Editor| Old version of OVF Editor. Just an alternative for people to try if they're running into issues with the latest AppStore version | N/A | 09-03-2022 |
-| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) | 11-20-2022 |
+| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-27-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | N/A | 11-20-2022 |
 | ReFace Pro | [ReFace](https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587), a popular face-swap app, with pro features unlocked | `¯\_(ツ)_/¯` | 11-20-2022 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
-| Rosiecord | Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-16-2022 |
+| Rosiecord | *This app will no longer be updated here. Browse the latest Rosiecord IPAs on acquitelol's GitHub (hyperlinked in the next column).* Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-27-2022 |
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | SpeedTest No Ads | SpeedTest by Ookla, but without the ads in-app | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-17-2022 |
