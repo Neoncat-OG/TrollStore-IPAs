@@ -55,7 +55,7 @@ Everything you can currently find in this repo:
 | LocationSimulation (LocSim) | Location spoofer, not affiliated with udevs' locsim | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
-| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 11-27-2022 |
+| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 11-28-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
@@ -79,7 +79,7 @@ Everything you can currently find in this repo:
 | Star VPN Plus | Star VPN with pro features unlocked | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | TikTokDark | Alternative to DLTikTok with similar features | [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) / [AppDB](https://appdb.to/app/cydia/1900001007) | 11-27-2022 |
 | TikTokLRD | NEW VERSION THAT WORKS! TikTok, injected with a cracked version of TikTokLRD. In some cases, the option to save photos doesn't show up. Use the [TikPhoto shortcut](https://routinehub.co/shortcut/12002/) to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations [part 1](https://cdn.discordapp.com/attachments/770091013967446016/1040469856753037322/IMG_7730.png) / [part 2](https://cdn.discordapp.com/attachments/770091013967446016/1040469857080184852/IMG_7731.png) / [part 3](https://cdn.discordapp.com/attachments/770091013967446016/1040469857382170716/IMG_7732.jpg) | [AppDB](https://appdb.to/app/cydia/1900000893) | 11-24-2022 |
-| TorBrowserPlusPlus | Tor Browser with premium features unlocked | [AppDB](https://appdb.to/app/cydia/1900000837) | 10-23-2022 |
+| TorBrowserPlusPlus | Tor Browser with premium features unlocked | [AppDB](https://appdb.to/app/cydia/1900000837) | 11-28-2022 |
 | TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | [haxi0](https://github.com/haxi0/TrollApps) | 11-21-2022 |
 | TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 11-12-2022 |
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
