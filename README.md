@@ -62,6 +62,7 @@ Everything you can currently find in this repo:
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
 | Opener | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | OVF Editor| Old version of OVF Editor. Just an alternative for people to try if they're running into issues with the latest AppStore version | N/A | 09-03-2022 |
+| Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-27-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
