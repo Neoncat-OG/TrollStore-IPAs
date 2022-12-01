@@ -16,7 +16,7 @@ Everything you can currently find in this repo:
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
-| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-25-2022 |
+| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-30-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | AppStorePlusPlus | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
