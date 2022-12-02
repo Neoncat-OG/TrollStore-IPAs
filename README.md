@@ -76,7 +76,7 @@ Everything you can currently find in this repo:
 | Rosiecord | *This app will no longer be updated here. Browse the latest Rosiecord IPAs on acquitelol's GitHub (hyperlinked in the next column).* Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-27-2022 |
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-30-2022 |
-| SpeedTest No Ads | SpeedTest by Ookla, but without the ads in-app | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-17-2022 |
+| SpeedTest Premium | SpeedTest by Ookla, with premium features | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-17-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-28-2022 |
 | Spotify Deluxe Old | Older version of Spotify Deluxe, for those that are having issues with premium on Spotify Deluxe | [AppDB](https://appdb.to/app/cydia/1900000907) | 11-12-2022 |
 | Spotify w/ Spotilife & Sposify | Another optional version for users on iOS 15.x and up that are having issues with the other tweaked Spotify IPAs on this repo. Keep in mind, this is a lower version of Spotify, but the UI still looks fairly modern and the tweaks injected should work regardless | [u/alnoise](https://www.reddit.com/r/sideloaded/comments/wjwgv0/latest_spotilife_v18_sposify_v8552_working_lyrics/) | 11-26-2022 |
