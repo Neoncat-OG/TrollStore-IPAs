@@ -60,7 +60,7 @@ Everything you can currently find in this repo:
 | LocationSimulation (LocSim) | Location spoofer, not affiliated with udevs' locsim | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
-| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 11-28-2022 |
+| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 12-05-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
@@ -69,7 +69,7 @@ Everything you can currently find in this repo:
 | Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-27-2022 |
+| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-06-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | [AppDB](https://appdb.to/app/cydia/1900000994) | 12-04-2022 |
@@ -94,8 +94,8 @@ Everything you can currently find in this repo:
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 11-07-2022 |
 | TSStore | Another app that gathers some Trollstore compatible apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
-| Twitch + | Alternative to Twitch Toolbox. Twitch with no ads | [AppDB](https://appdb.to/app/cydia/1900000809) | 12-01-2022 |
-| Twitch Toolbox | Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support | [AppDB](https://appdb.to/app/cydia/1900000232) | 12-01-2022 |
+| Twitch + | Alternative to Twitch Toolbox. Twitch with no ads | [AppDB](https://appdb.to/app/cydia/1900000809) | 12-05-2022 |
+| Twitch Toolbox | Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support | [AppDB](https://appdb.to/app/cydia/1900000232) | 12-05-2022 |
 | Uber Eats | Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 10-26-2022 |
 | uYouPlus | YouTube with a ton of different features. Think YouTube Reborn with a better UI and supporting much newer versions of YouTube | [qnblackcat](https://github.com/qnblackcat/uYouPlus) | 11-07-2022 |
 | VSCO Lion | VSCO, injected with the tweak Lion by Michael Lema. Allows for saving pretty much all media by long-pressing on them. *Few things to note: If you're jailbroken, fully disable tweak injection into VSCO using Choicy. Signing in through Apple and Google don't work (clicking Apple does nothing, clicking Google causes a crash). If you need to sign in this way, create a backup of VSCO from the App Store using either Apps Manager or Crane, depending on if your phone is jailbroken or not, while signed in before installing this ipa through TrollStore. This version also does not include dark mode. All other features should be the same* | [ipahost](https://github.com/ipahost/Lion-for-VSCO) / [KZStore](https://kzstore.net/)* | 12-03-2022 |
