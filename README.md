@@ -69,7 +69,7 @@ Everything you can currently find in this repo:
 | Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-06-2022 |
+| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-06-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | [AppDB](https://appdb.to/app/cydia/1900000994) | 12-04-2022 |
