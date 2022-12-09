@@ -72,6 +72,7 @@ Everything you can currently find in this repo:
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
 | PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-06-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
+| PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | [AppDB](https://appdb.to/app/cydia/1900000994) | 12-08-2022 |
 | ReFace Pro | [ReFace](https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587), a popular face-swap app, with pro features unlocked | `¯\_(ツ)_/¯` | 11-20-2022 |
