@@ -35,7 +35,7 @@ Everything you can currently find in this repo:
 | Dead Cells | [Game description here](https://apps.apple.com/us/app/dead-cells/id1389752090). Normally I don't upload games but this one was requested in a server. If you want me to update this, you'll have to ask when an update to the game releases | [AppDB](https://appdb.to/app/ios/1389752090) | 12-01-2022 |
 | DebToIPA | App that converts .deb files into IPA files, *given that the deb is actually an application with a GUI*. Examples include Filza, Apps Manager, Sonic, etc. | [AppDB](https://appdb.to/app/cydia/1900001002) | 10-07-2022 |
 | Delta | Emulator for GBA, N64, and NDS | [AltStore Official](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fapps.altstore.io&bundleId=com.rileytestut.Delta.Beta) | 11-10-2022 |
-| DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) / [CydiaAbdullah](https://t.me/CAbdullahiPA) / [KZStore](https://kzstore.net/)* | 12-03-2022 |
+| DLTikTok | TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc. | [AppDB](https://appdb.to/app/cydia/1900000911) / [CydiaAbdullah](https://t.me/CAbdullahiPA) / [KZStore](https://kzstore.net/)* | 12-11-2022 |
 | DPixelCup | App that lets you stream World Cup 2022 matches, ad free! *App is in Arabic, but is very intuitive to use* | [DPixel](https://t.me/dpixel) | 12-01-2022 |
 | Dragons, Rise of Berk | App cracked for free skips, free Odin's Market, free purchases, etc | [AppDB](https://appdb.to/app/cydia/1900001037) | 12-04-2022 |
 | Enmity | Discord, injected with the popular tweak Enmity! | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Enmity Team](https://github.com/enmity-mod/tweak) | 11-28-2022 |
@@ -80,7 +80,7 @@ Everything you can currently find in this repo:
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
 | Rosiecord | *This app will no longer be updated here. Browse the latest Rosiecord IPAs on acquitelol's GitHub (hyperlinked in the next column).* Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-27-2022 |
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
-| Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-30-2022 |
+| Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [CydiaAbdullah](https://t.me/CAbdullahiPA) | 12-11-2022 |
 | SpeedTest Premium | SpeedTest by Ookla, with premium features | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-09-2022 |
 | Spotify Deluxe Old | Older version of Spotify Deluxe, for those that are having issues with premium on Spotify Deluxe | [AppDB](https://appdb.to/app/cydia/1900000907) | 11-12-2022 |
