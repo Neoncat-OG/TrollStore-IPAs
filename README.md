@@ -78,12 +78,13 @@ Everything you can currently find in this repo:
 | PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | [AppDB](https://appdb.to/app/cydia/1900000994) | 12-08-2022 |
-| ReFace Pro | [ReFace](https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587), a popular face-swap app, with pro features unlocked | `¯\_(ツ)_/¯` | 11-20-2022 |
+| ReFace Pro | [ReFace](https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587), a popular face-swap app, with pro features unlocked | [iPAWiND](https://t.me/iPAWiND) | 12-14-2022 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
 | Rosiecord | *This app will no longer be updated here. Browse the latest Rosiecord IPAs on acquitelol's GitHub (hyperlinked in the next column).* Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features | [acquitelol](https://github.com/acquitelol/rosiecord) | 11-27-2022 |
 | Santander | Alternative file manager to Filza | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-14-2022 |
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [CydiaAbdullah](https://t.me/CAbdullahiPA) | 12-11-2022 |
+| Sonic Dash + | [Sonic Dash](https://apps.apple.com/us/app/sonic-dash/id1608888053), the Apple Arcade version | [iPAWiND](https://t.me/iPAWiND) | 12-14-2022 |
 | Soor | [Soor](https://apps.apple.com/us/app/soor/id1439731526), free. Best way for scrobbling apple music streams to last.fm. *I don't check Starfiles often, so if this app ever gets updated and you want the new update uploaded here, you'll have to create an issue and request it.* | [Starfiles](https://starfiles.co/bundle_id/me.tanmay.Music) | 12-12-2022 |
 | SpeedTest Premium | SpeedTest by Ookla, with premium features | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-09-2022 |
