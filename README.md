@@ -16,7 +16,7 @@ Everything you can currently find in this repo:
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
-| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 11-30-2022 |
+| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 12-15-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | AppCake 6 | iOS app for iPhoneCake. Older UI, but more search results | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
 | AppCake 7 | iOS app for iPhoneCake, Newer UI, supports dark mode, slightly more user-friendly, less search results than AppCake 6 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
