@@ -24,7 +24,7 @@ Everything you can currently find in this repo:
 | AppStorePlusPlus | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
 | AsTools | *I can only verify that this works with TrollStore. Also, the entire app is in Chinese.* Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), *as if they were from the App Store*. No certificates, no Apple ID, none of that. It just installs, and it works | N/A | 12-11-2022 |
 | Bear Pro | [Bear Notes](https://apps.apple.com/us/app/bear-markdown-notes/id1091189122?mt=12), with pro features unlocked. *If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore* | `¯\_(ツ)_/¯` | 11-20-2022 |
-| BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 11-10-2022 |
+| BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 12-17-2022 |
 | BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! *For people who aren't using TrollStore, use the non-TS IPA from BandarHL's GitHub* | [BandarHL](https://github.com/BandarHL/BHTwitter) / [AppDB](https://appdb.to/app/cydia/333903828) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) | 11-25-2022 |
 | Bundlr | App to quickly search up and copy bundleID's from App Store apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-22-2022 |
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
@@ -73,7 +73,7 @@ Everything you can currently find in this repo:
 | Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-06-2022 |
+| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-17-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
@@ -105,10 +105,10 @@ Everything you can currently find in this repo:
 | Twitch Toolbox | Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support | [AppDB](https://appdb.to/app/cydia/1900000232) | 12-05-2022 |
 | Uber Eats | Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 10-26-2022 |
 | uYouPlus | YouTube with a ton of different features. Think YouTube Reborn with a better UI and supporting much newer versions of YouTube | [qnblackcat](https://github.com/qnblackcat/uYouPlus) / [AppDB](https://appdb.to/app/cydia/1900000830) | 12-17-2022 |
-| Violyn | App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-11-2022 |
+| Violyn | App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-17-2022 |
 | VSCO Lion | VSCO, injected with the tweak Lion by Michael Lema. Allows for saving pretty much all media by long-pressing on them. *Few things to note: If you're jailbroken, fully disable tweak injection into VSCO using Choicy. Signing in through Apple and Google don't work (clicking Apple does nothing, clicking Google causes a crash). If you need to sign in this way, create a backup of VSCO from the App Store using either Apps Manager or Crane, depending on if your phone is jailbroken or not, while signed in before installing this ipa through TrollStore. This version also does not include dark mode. All other features should be the same* | [ipahost](https://github.com/ipahost/Lion-for-VSCO) / [KZStore](https://kzstore.net/)* | 12-03-2022 |
 | Watusi 3 | *This is a TrollStore-only application. I say that because I know a lot of people often look for tweaked WhatsApp IPAs to sideload.* WhatsApp, injected with Watusi, Stalky, and OnlineNotify. Notifications and iCloud backups work with TrollStore | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) | 11-10-2022 |
+| YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) / [DPixel](https://t.me/dpixel) | 12-17-2022 |
 | YT Music Ultimate | *It's back!* YouTube Music, injected with YTMusicUltimate | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 12-09-2022 |
 
 *KZStore is not free. Huge thanks to a fellow pirate in the CyPwn server for sharing these IPAs
