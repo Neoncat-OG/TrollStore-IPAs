@@ -47,6 +47,7 @@ Everything you can currently find in this repo:
 | FacebookWolf | Facebook, injected with Wolf for Facebook by Michael Lema | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 12-09-2022 |
 | Filza File Manager | iOS filesystem explorer | [TigiSoftware](https://www.tigisoftware.com/default/?p=439) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-16-2022 |
 | FineReader PDF Pro | FineReader PDF, with pro features unlocked | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-22-2022 |
+| Gangstar Vegas | [Gangstar Vegas](https://apps.apple.com/us/app/gangstar-vegas-mafia-action/id571393580), with the following hacks: unlimited coins/ammo, no reload, no cops | [CRAZYiOS](https://t.me/CRAZYIOS) | 12-18-2022 |
 | GitHub | GitHub for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-09-2022 |
 | HarpyReloaded | App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | HdoPlay | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | N/A | 09-03-2022 |
