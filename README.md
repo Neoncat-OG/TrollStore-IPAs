@@ -14,6 +14,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
+| AdGuardPro | *This is a TrollStore-only IPA.* [App description here](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-19-2022 |
 | Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 12-15-2022 |
