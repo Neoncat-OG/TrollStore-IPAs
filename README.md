@@ -77,7 +77,7 @@ Everything you can currently find in this repo:
 | Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-17-2022 |
+| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-21-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
@@ -105,7 +105,7 @@ Everything you can currently find in this repo:
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 11-07-2022 |
 | TSStore | Another app that gathers some Trollstore compatible apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
-| Twitch + | Alternative to Twitch Toolbox. Twitch with no ads | [AppDB](https://appdb.to/app/cydia/1900000809) | 12-05-2022 |
+| Twitch + | Alternative to Twitch Toolbox. Twitch with no ads | [AppDB](https://appdb.to/app/cydia/1900000809) / [DPixel](https://t.me/dpixel) | 12-21-2022 |
 | Twitch Toolbox | Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support | [AppDB](https://appdb.to/app/cydia/1900000232) | 12-05-2022 |
 | Uber Eats | Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 10-26-2022 |
 | uYouPlus | YouTube with a ton of different features. Think YouTube Reborn with a better UI and supporting much newer versions of YouTube | [qnblackcat](https://github.com/qnblackcat/uYouPlus) / [AppDB](https://appdb.to/app/cydia/1900000830) | 12-17-2022 |
