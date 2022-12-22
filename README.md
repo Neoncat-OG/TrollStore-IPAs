@@ -14,9 +14,10 @@ Releases are made by the day - new day, new release. I make a release one day an
 Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
-| Aidoku | Webtoon/manga browser | https://aidoku.app | 10-22-2022 |
+| Aidoku | Webtoon/manga browser | https://aidoku.app | 12-22-2022 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 12-15-2022 |
+| Any Video Saver | [Any Video Saver](https://apps.apple.com/tr/app/any-video-saver/id1553745971), with premium enabled. Use the same tutorial linked in Ketsu's description to restore premium, using `au.com.topapps.ym8.adbk` in releases | [DPixel](https://t.me/dpixel) | 12-22-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
 | AppCake 6 | iOS app for iPhoneCake. Older UI, but more search results | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
 | AppCake 7 | iOS app for iPhoneCake, Newer UI, supports dark mode, slightly more user-friendly, less search results than AppCake 6 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
