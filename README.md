@@ -83,7 +83,7 @@ Everything you can currently find in this repo:
 | Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| PicsArtPlusPlus | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-23-2022 |
+| PicsArt++ | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-30-2022 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
@@ -113,7 +113,7 @@ Everything you can currently find in this repo:
 | TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | [haxi0](https://github.com/haxi0/TrollApps) | 11-21-2022 |
 | TrollBox | A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. *This is still in alpha, so expect bugs if you try it* | [c22dev](https://github.com/c22dev/TrollBox) | 12-27-2022 |
 | TrollLock Reborn | [TrollLock](https://github.com/verygenericname/TrollLock), for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub | [haxi0](https://github.com/haxi0/TrollLock-Reborn) | 12-25-2022 |
-| TrollMods | A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot | [aethercot](https://github.com/aethercot/TrollMods) | 12-29-2022 | 
+| TrollMods | A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot | [aethercot](https://github.com/aethercot/TrollMods) | 12-30-2022 | 
 | TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 11-12-2022 |
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 11-07-2022 |
