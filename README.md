@@ -113,6 +113,7 @@ Everything you can currently find in this repo:
 | TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | [haxi0](https://github.com/haxi0/TrollApps) | 11-21-2022 |
 | TrollBox | A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. *This is still in alpha, so expect bugs if you try it* | [c22dev](https://github.com/c22dev/TrollBox) | 12-27-2022 |
 | TrollLock Reborn | [TrollLock](https://github.com/verygenericname/TrollLock), for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub | [haxi0](https://github.com/haxi0/TrollLock-Reborn) | 12-25-2022 |
+| TrollMods | A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot | [aethercot](https://github.com/aethercot/TrollMods) | 12-29-2022 | 
 | TrollNonce | Nonce setter for jailed devices | [opa334](https://github.com/opa334/TrollNonce) | 11-12-2022 |
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 11-07-2022 |
