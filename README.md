@@ -133,6 +133,6 @@ Everything you can currently find in this repo:
 | Watusi 3 | *This is a TrollStore-only application. I say that because I know a lot of people often look for tweaked WhatsApp IPAs to sideload.* WhatsApp, injected with Watusi, Stalky, and OnlineNotify. Notifications and iCloud backups work with TrollStore | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-02-2022 |
 | WDBFontOverwrite | Font changer app. Supports iOS 15-16.1.2. Dev released the app as a POC, use at your own risk | [zhouwei](https://github.com/zhuowei/WDBFontOverwrite) / [ginsudev](https://github.com/ginsudev/WDBFontOverwrite) | 01-05-2023 |
 | YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) / [DPixel](https://t.me/dpixel) | 12-17-2022 |
-| YT Music Ultimate | *It's back!* YouTube Music, injected with YTMusicUltimate | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 12-09-2022 |
+| YT Music Ultimate | *It's back!* YouTube Music, injected with YTMusicUltimate | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) / [AppDB](https://appdb.to/app/cydia/1900000918) | 01-05-2023 |
 
 *KZStore is not free. Huge thanks to a fellow pirate in the CyPwn server for sharing these IPAs
