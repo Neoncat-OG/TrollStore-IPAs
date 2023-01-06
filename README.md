@@ -83,7 +83,7 @@ Everything you can currently find in this repo:
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 12-05-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
-| Nicegram | *This app is TrollStore only.* Nicegram, cracked for premium features (including having the translate button next to messages in chats) | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-07-2022 |
+| Nicegram | *This app is TrollStore only.* Nicegram, cracked for premium features (including having the translate button next to messages in chats) | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900001040) | 01-06-2023 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
 | Opener | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | OVF Editor| App that lets you upload "live" images/videos to Snapchat. Perfectly safe. If the developer stops releasing updates for this, I will manually repackage this IPA with an edited info.plist to match the latest version in the App Store. Create an issue on GitHub if I've missed an update | [DPixel](https://t.me/dpixel) | 01-01-2023 |
