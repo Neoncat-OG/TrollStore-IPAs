@@ -27,7 +27,7 @@ Everything you can currently find in this repo:
 | AsTools | *I can only verify that this works with TrollStore. Also, the entire app is in Chinese.* Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), *as if they were from the App Store*. No certificates, no Apple ID, none of that. It just installs, and it works | N/A | 12-11-2022 |
 | Bear Pro | [Bear Notes](https://apps.apple.com/us/app/bear-markdown-notes/id1091189122?mt=12), with pro features unlocked. *If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore* | `¯\_(ツ)_/¯` | 11-20-2022 |
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 12-17-2022 |
-| BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! *For people who aren't using TrollStore, use the non-TS IPA from BandarHL's GitHub* | [BandarHL](https://github.com/BandarHL/BHTwitter) / [AppDB](https://appdb.to/app/cydia/333903828) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) / [DPixel](https://t.me/dpixel) | 01-04-2023 |
+| BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! *For people who aren't using TrollStore, use the non-TS IPA from BandarHL's GitHub* | [BandarHL](https://github.com/BandarHL/BHTwitter) / [AppDB](https://appdb.to/app/cydia/333903828) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) / [DPixel](https://t.me/dpixel) | 01-08-2023 |
 | Bundlr | App to quickly search up and copy bundleID's from App Store apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-22-2022 |
 | ChatGPT | A GUI app for the popular AI everyone is talking about. No sign-in required. Please don't use this to do all your homework | [DPixel](https://t.me/dpixel) | 12-19-2022 |
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
@@ -80,6 +80,7 @@ Everything you can currently find in this repo:
 | Meitu++ | [Meitu](https://apps.apple.com/us/app/meitu-photo-editor-ai-art/id416048305), a photo & AI Art generator, cracked for premium features | [ipalibrary.me](https://ipalibrary.me/meitu-vip-meitu/) | 01-01-2023 |
 | MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
+| Monster Legends | [Monster Legends](https://apps.apple.com/us/app/monster-legends-collect-them/id653508448), hacked with the following: one-hit kill, skip enemy turn, insane score (always 3 stars), and no skill cost | [KAMO HACkS](https://t.me/kamohacks) | 01-08-2023 |
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 12-05-2022 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
