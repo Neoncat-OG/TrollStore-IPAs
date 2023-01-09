@@ -82,7 +82,7 @@ Everything you can currently find in this repo:
 | MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
 | Monster Legends | [Monster Legends](https://apps.apple.com/us/app/monster-legends-collect-them/id653508448), hacked with the following: one-hit kill, skip enemy turn, insane score (always 3 stars), and no skill cost | [KAMO HACkS](https://t.me/kamohacks) | 01-08-2023 |
-| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) | 12-05-2022 |
+| MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) / [DPixel](https://t.me/dpixel) | 01-09-2023 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | Nicegram | *This app is TrollStore only.* Nicegram, cracked for premium features (including having the translate button next to messages in chats) | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900001040) | 01-06-2023 |
