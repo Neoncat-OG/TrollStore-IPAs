@@ -29,7 +29,7 @@ Everything you can currently find in this repo:
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 12-17-2022 |
 | BHTwitter | Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more! *For people who aren't using TrollStore, use the non-TS IPA from BandarHL's GitHub* | [BandarHL](https://github.com/BandarHL/BHTwitter) / [AppDB](https://appdb.to/app/cydia/333903828) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) / [DPixel](https://t.me/dpixel) | 01-08-2023 |
 | Bundlr | App to quickly search up and copy bundleID's from App Store apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-22-2022 |
-| CarTube | YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc | [Avangelista](https://github.com/Avangelista/CarTube) | 01-09-2023 |
+| CarTube | YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc | [Avangelista](https://github.com/Avangelista/CarTube) | 01-10-2023 |
 | ChatGPT | A GUI app for the popular AI everyone is talking about. No sign-in required. Please don't use this to do all your homework | [DPixel](https://t.me/dpixel) | 12-19-2022 |
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Chess - Play & Learn+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
