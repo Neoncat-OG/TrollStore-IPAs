@@ -82,7 +82,7 @@ Everything you can currently find in this repo:
 | Meitu++ | [Meitu](https://apps.apple.com/us/app/meitu-photo-editor-ai-art/id416048305), a photo & AI Art generator, cracked for premium features | [ipalibrary.me](https://ipalibrary.me/meitu-vip-meitu/) | 01-01-2023 |
 | MobileTSS | Shsh blobs saver. May not work on iOS 15+ | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [lucaIz-ldx](https://github.com/lucaIz-ldx/MobileTSS) | 10-17-2022 |
 | ModMyIPA | App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app | [powenn](https://github.com/powenn/ModMyIPA) | 10-28-2022 |
-| Monopoly | [Monopoly Classic](https://apps.apple.com/au/app/monopoly-classic-board-game/id1477966166), a bit late but posting since someone had requested it a couple days ago | [DPixel](https://t.me/dpixel) | 01-10-2023 |
+| Monopoly | *May only work with TrollStore, if this works sideloaded, let me know, and I will remove this note.* [Monopoly Classic](https://apps.apple.com/au/app/monopoly-classic-board-game/id1477966166), a bit late but posting since someone had requested it a couple days ago | [DPixel](https://t.me/dpixel) | 01-10-2023 |
 | Monster Legends | [Monster Legends](https://apps.apple.com/us/app/monster-legends-collect-them/id653508448), hacked with the following: one-hit kill, skip enemy turn, insane score (always 3 stars), and no skill cost | [KAMO HACkS](https://t.me/kamohacks) | 01-08-2023 |
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) / [DPixel](https://t.me/dpixel) | 01-09-2023 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
