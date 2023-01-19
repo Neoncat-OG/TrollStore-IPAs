@@ -95,7 +95,7 @@ Everything you can currently find in this repo:
 | Panda Helper | Third party app store similar to TutuApp and AppValley, except this one lets you download apps so you can install them with TrollStore. *This works if you download an app in Panda Helper and then use Filza/Santander and go to PandaHelper's Documents folder (you can find this with Apps Manager) to find the downloaded IPA file* | N/A | 11-30-2022 |
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Pro | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) | 12-02-2022 |
-| PicsArt++ | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 01-12-2023 |
+| PicsArt++ | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 01-19-2023 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | N/A | 11-15-2022 |
@@ -140,7 +140,7 @@ Everything you can currently find in this repo:
 | Watusi 3 | *This is a TrollStore-only application. I say that because I know a lot of people often look for tweaked WhatsApp IPAs to sideload.* WhatsApp, injected with Watusi, Stalky, and OnlineNotify. Notifications and iCloud backups work with TrollStore | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) | 12-02-2022 |
 | WDBFontOverwrite | Font changer app. Supports iOS 15-16.1.2. Dev released the app as a POC, use at your own risk | [zhouwei](https://github.com/zhuowei/WDBFontOverwrite) / [ginsudev](https://github.com/ginsudev/WDBFontOverwrite) | 01-05-2023 |
 | YouTube Elite | If I'm correctly understanding the description, this is YouTube with DLTube, YouTubeKiller, YouTube Reborn, YouPiP etc. injected *As uYou+ is having video/audio download errors (403), this is currently the best modded IPA for YouTube in existence. This also has multiple toggles in the YouTubeKiller, etc. sections that may fix Google sign-in errors* | [iPAWiND](https://t.me/iPAWiND) | 01-13-2022 |
-| YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) / [DPixel](https://t.me/dpixel) / [FayezUpdates](https://t.me/fayezupdatespublic) | 01-14-2023 |
+| YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) / [DPixel](https://t.me/dpixel) / [FayezUpdates](https://t.me/fayezupdatespublic) | 01-19-2023 |
 | YT Music Ultimate | *It's back!* YouTube Music, injected with YTMusicUltimate | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) / [AppDB](https://appdb.to/app/cydia/1900000918) | 01-18-2023 |
 
 *KZStore is not free. Huge thanks to a fellow pirate in the CyPwn server for sharing these IPAs
