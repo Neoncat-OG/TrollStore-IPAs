@@ -1,0 +1,30 @@
+{
+  "name": "Jailbrick3d's Trollstore IPAs that also might work when sideloaded",
+  "identifier": "com.jailbrick3d.trollstorestuff",
+  "sourceURL": "TBD",
+  "apps": [
+  {
+    "name": "Aidoku",
+    "bundleIdentifier": "xyz.skitty.Aidoku",
+    "developerName": "Aidoku",
+    "subtitle": "Webtoon/manga browser",
+    "versions": [
+      {
+        "version": "0.6.0-2",
+        "date": "2023-01-18",
+        "localizedDescription": "Changelog on dev's GitHub",
+        "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Aidoku-0.6.1-2.ipa",
+      },
+      {
+        "version": "0.6",
+        "date": "2022-12-22",
+        "localizedDescription": "Changelog on AppDB. Some sources may not work",
+        "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Aidoku-0.6.ipa",
+      }
+    ],
+    "localizedDescription": "Webtoon/manga browser",
+    "iconURL": "https://github.com/swaggyP36000/TrollStore-IPAs/raw/main/Icons/Aidoku.png",
+    "tintColor": "8A28F7",
+    "beta": false
+  }
+],
