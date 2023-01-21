@@ -33,7 +33,7 @@ if __name__ == "__main__":
                 app_name = name
                 version = "1.0"
 
-            data["apps"].append(
+            data["apps"].insert(0,
                 {
                     "name": app_name,
                     "version": version,

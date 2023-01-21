@@ -5,6 +5,27 @@
     "lastUpdateDate": "2023-01-20",
     "apps": [
         {
+            "name": "TrollBox",
+            "version": "0.0.9.",
+            "versionDate": "2023-01-20",
+            "size": 13673796,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/TrollBox-0.0.9..ipa"
+        },
+        {
+            "name": "FileSwitcherX",
+            "version": "1.7b8",
+            "versionDate": "2023-01-20",
+            "size": 2476731,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/FileSwitcherX-1.7b8.ipa"
+        },
+        {
+            "name": "BHTwitter",
+            "version": "3.7-9.41.1",
+            "versionDate": "2023-01-20",
+            "size": 91823176,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/BHTwitter-3.7-9.41.1.ipa"
+        },
+        {
             "name": "Cowabunga",
             "version": "6.0.0",
             "versionDate": "2023-01-19",
@@ -2131,27 +2152,6 @@
             "versionDate": "2022-11-10",
             "size": 129661988,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/YoutubeReborn.ipa"
-        },
-        {
-            "name": "BHTwitter",
-            "version": "3.7-9.41.1",
-            "versionDate": "2023-01-20",
-            "size": 91823176,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/BHTwitter-3.7-9.41.1.ipa"
-        },
-        {
-            "name": "FileSwitcherX",
-            "version": "1.7b8",
-            "versionDate": "2023-01-20",
-            "size": 2476731,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/FileSwitcherX-1.7b8.ipa"
-        },
-        {
-            "name": "TrollBox",
-            "version": "0.0.9.",
-            "versionDate": "2023-01-20",
-            "size": 13673796,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/TrollBox-0.0.9..ipa"
         }
     ]
 }
