@@ -9,15 +9,16 @@ if __name__ == "__main__":
     g = Github()
     repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
+    data["lastUpdateDate"] = releases[0].created_at.strftime("%Y-%m-%d")
 
     for release in releases:
-        print(release.title)
         date = release.created_at
         release_date = date.strftime("%m-%d-%Y")
         versionDate = date.strftime("%Y-%m-%d")
         if versionDate <= lastUpdateDate:
-            continue
-        data["lastUpdateDate"] = versionDate
+            break
+
+        print(release.title)
 
         # second oldest release date, folder is "Update"
         if release_date == "11-10-2022":
@@ -34,14 +35,16 @@ if __name__ == "__main__":
                 version = "1.0"
 
             data["apps"].insert(0,
-                {
-                    "name": app_name,
-                    "version": version,
-                    "versionDate": versionDate,
-                    "size": asset.size,
-                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{asset.name}"
-                }
-            )
+                                {
+                                    "name": app_name,
+                                    "version": version,
+                                    "versionDate": versionDate,
+                                    "size": asset.size,
+                                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{asset.name}"
+                                }
+                                )
 
+    data["apps"] = sorted(data["apps"],
+                          key=lambda k: k['versionDate'], reverse=True)
     with open('apps.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
