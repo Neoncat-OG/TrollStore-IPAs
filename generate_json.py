@@ -39,7 +39,7 @@ if __name__ == "__main__":
                     "version": version,
                     "versionDate": versionDate,
                     "size": asset.size,
-                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{name}.ipa"
+                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{asset.name}"
                 }
             )
 
