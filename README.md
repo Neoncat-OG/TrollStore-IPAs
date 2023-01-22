@@ -2,6 +2,8 @@
 
 ## Add source to AltStore, ESign, Scarlet: https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json
 
+*Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running*
+
 A collection of IPA files from many different sources, for TrollStore!
 
 All credit to their respective maintainers, I simply gather and update all the IPAs I have in one place
