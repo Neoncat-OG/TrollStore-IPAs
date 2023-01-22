@@ -2,8 +2,15 @@
     "name": "swaggyP36000 IPA Library",
     "identifier": "xyz.hieuddo.ipalibrary",
     "sourceURL": "https://raw.githubusercontent.com/hieuddo/hieuddo.github.io/dev/apps.json",
-    "lastUpdateDate": "2023-01-20",
+    "lastUpdateDate": "2023-01-21",
     "apps": [
+        {
+            "name": "FileSwitcherX",
+            "version": "1.7",
+            "versionDate": "2023-01-21",
+            "size": 2476981,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2023/FileSwitcherX-1.7.ipa"
+        },
         {
             "name": "TrollBox",
             "version": "0.0.9.",
