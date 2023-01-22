@@ -2,8 +2,29 @@
     "name": "swaggyP36000 IPA Library",
     "identifier": "xyz.hieuddo.ipalibrary",
     "sourceURL": "https://raw.githubusercontent.com/hieuddo/hieuddo.github.io/dev/apps.json",
-    "lastUpdateDate": "2023-01-21",
+    "lastUpdateDate": "2023-01-22",
     "apps": [
+        {
+            "name": "WDBFontOverwrite",
+            "version": "1.10.5",
+            "versionDate": "2023-01-22",
+            "size": 5343815,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/WDBFontOverwrite-1.10.5.ipa"
+        },
+        {
+            "name": "Spotilife",
+            "version": "1.8-8.8.6",
+            "versionDate": "2023-01-22",
+            "size": 61780974,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/Spotilife-1.8-8.8.6.ipa"
+        },
+        {
+            "name": "FacebookWolf",
+            "version": "2.1-399.0",
+            "versionDate": "2023-01-22",
+            "size": 149355244,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-2.1-399.0.ipa"
+        },
         {
             "name": "FileSwitcherX",
             "version": "1.7",
