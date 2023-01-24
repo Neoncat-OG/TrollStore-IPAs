@@ -148,6 +148,6 @@ Everything you can currently find in this repo:
 | WDBFontOverwrite | Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk | [zhouwei](https://github.com/zhuowei/WDBFontOverwrite) / [ginsudev](https://github.com/ginsudev/WDBFontOverwrite) | 01-22-2023 |
 | YouTube Elite | If I'm correctly understanding the description, this is YouTube with DLTube, YouTubeKiller, YouTube Reborn, YouPiP etc. injected *As uYou+ is having video/audio download errors (403), this is currently the best modded IPA for YouTube in existence. This also has multiple toggles in the YouTubeKiller, etc. sections that may fix Google sign-in errors* | [iPAWiND](https://t.me/iPAWiND) | 01-13-2022 |
 | YouTube Reborn | Youtube, injected with the popular YouTube Reborn tweak | [AppDB](https://appdb.to/app/cydia/1900000987) / [DPixel](https://t.me/dpixel) / [FayezUpdates](https://t.me/fayezupdatespublic) | 01-19-2023 |
-| YT Music Ultimate | *It's back!* YouTube Music, injected with YTMusicUltimate | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) / [AppDB](https://appdb.to/app/cydia/1900000918) | 01-18-2023 |
+| YT Music Ultimate | *It's back!* YouTube Music, injected with YTMusicUltimate | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) / [AppDB](https://appdb.to/app/cydia/1900000918) | 01-24-2023 |
 
 *KZStore is not free. Huge thanks to a fellow pirate in the CyPwn server for sharing these IPAs
