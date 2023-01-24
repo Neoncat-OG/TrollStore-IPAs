@@ -1,14 +1,21 @@
 from github import Github
 import json
+import argparse
+
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-t", "--token", help="Github token")
+    args = parser.parse_args()
+    token = args.token
+
     with open("apps.json", "r") as f:
         data = json.load(f)
 
     # clear apps
     data["apps"] = []
 
-    g = Github("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")
+    g = Github(token)
     repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
 
