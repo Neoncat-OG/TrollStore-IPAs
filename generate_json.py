@@ -8,7 +8,7 @@ if __name__ == "__main__":
     # clear apps
     data["apps"] = []
 
-    g = Github()
+    g = Github("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")
     repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
 
