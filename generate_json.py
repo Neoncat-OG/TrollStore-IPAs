@@ -4,19 +4,18 @@ import json
 if __name__ == "__main__":
     with open("apps.json", "r") as f:
         data = json.load(f)
-    lastUpdateDate = data["lastUpdateDate"]
+
+    # clear apps
+    data["apps"] = []
 
     g = Github()
     repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
-    data["lastUpdateDate"] = releases[0].created_at.strftime("%Y-%m-%d")
 
     for release in releases:
         date = release.created_at
         release_date = date.strftime("%m-%d-%Y")
         versionDate = date.strftime("%Y-%m-%d")
-        if versionDate <= lastUpdateDate:
-            break
 
         print(release.title)
 
@@ -34,17 +33,18 @@ if __name__ == "__main__":
                 app_name = name
                 version = "1.0"
 
-            data["apps"].insert(0,
-                                {
-                                    "name": app_name,
-                                    "version": version,
-                                    "versionDate": versionDate,
-                                    "size": asset.size,
-                                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{asset.name}"
-                                }
-                                )
+            data["apps"].append(
+                {
+                    "name": app_name,
+                    "version": version,
+                    "versionDate": versionDate,
+                    "size": asset.size,
+                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{asset.name}"
+                }
+            )
 
-    data["apps"] = sorted(data["apps"],
-                          key=lambda k: k['versionDate'], reverse=True)
+    # data["apps"] = sorted(data["apps"],
+    #                       key=lambda k: k['versionDate'], reverse=True)
+
     with open('apps.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
