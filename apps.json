@@ -4,6 +4,13 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InstagramElite",
+            "version": "266.0",
+            "versionDate": "2023-01-23",
+            "size": 117477390,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/InstagramElite-266.0.ipa"
+        },
+        {
             "name": "PhotomathPlus",
             "version": "8.18.0",
             "versionDate": "2023-01-23",
@@ -23,6 +30,13 @@
             "versionDate": "2023-01-23",
             "size": 217136,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/u0Launcher.ipa"
+        },
+        {
+            "name": "YouTubeElite",
+            "version": "18.02.3",
+            "versionDate": "2023-01-23",
+            "size": 118253465,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/YouTubeElite-18.02.3.ipa"
         },
         {
             "name": "YTMusicUltimate",
