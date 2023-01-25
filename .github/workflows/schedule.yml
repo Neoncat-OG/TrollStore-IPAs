@@ -24,7 +24,7 @@ jobs:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: |
-          python generate_json.py -t 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
+          python generate_json.py -t ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automated Change
