@@ -22,7 +22,7 @@ if __name__ == "__main__":
     for release in releases:
         # date = release.created_at
         release_date = release.title[:10]
-        versionDate = release_date[3:6] + release_date[0:3] + release_date[6:]
+        versionDate = release_date[-4:] + "-" + release_date[:5]
         print(release.title)
 
         # second oldest release date, folder is "Update"
