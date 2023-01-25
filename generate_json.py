@@ -15,15 +15,14 @@ if __name__ == "__main__":
     # clear apps
     data["apps"] = []
 
-    g = Github(token)
+    g = Github("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")
     repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
 
     for release in releases:
-        date = release.created_at
-        release_date = date.strftime("%m-%d-%Y")
-        versionDate = date.strftime("%Y-%m-%d")
-
+        # date = release.created_at
+        release_date = release.title[:10]
+        versionDate = release_date[3:6] + release_date[0:3] + release_date[6:]
         print(release.title)
 
         # second oldest release date, folder is "Update"
