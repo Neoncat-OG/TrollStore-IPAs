@@ -66,7 +66,7 @@ Everything you can currently find in this repo:
 | FineReader PDF Pro | FineReader PDF, with pro features unlocked | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-22-2022 |
 | Gangstar Vegas | [Gangstar Vegas](https://apps.apple.com/us/app/gangstar-vegas-mafia-action/id571393580), with the following hacks: unlimited coins/ammo, no reload, no cops. To install, open the .txt file in Releases and use the given link to download the IPA from Anonym File (the IPA itself is too large to be directly uploaded to GitHub) | [CRAZYiOS](https://t.me/CRAZYIOS) | 12-20-2022 |
 | GitHub | GitHub for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-09-2022 |
-| HarpyReloaded | App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| HarpyReloaded | *Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best.* App that lets you block internet to other devices on the same network as yours | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | HDO Play | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | N/A | 09-03-2022 |
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | N/A | 11-10-2022 |
 | ImageSearch | [Reverse Image Search App](https://apps.apple.com/us/app/reverse-image-search-app/id1003144513?uo=4), cracked for pro features. Click Pro at the top right, then the purchase button | [DPixel](https://t.me/dpixel) | 01-04-2023 |
