@@ -93,6 +93,7 @@ Everything you can currently find in this repo:
 | Monster Legends | [Monster Legends](https://apps.apple.com/us/app/monster-legends-collect-them/id653508448), hacked with the following: one-hit kill, skip enemy turn, insane score (always 3 stars), and no skill cost | [KAMO HACkS](https://t.me/kamohacks) | 01-08-2023 |
 | MovieBoxPro | MovieBoxPro, without ads | [AppDB](https://appdb.to/app/cydia/1900000702) / [DPixel](https://t.me/dpixel) | 01-09-2023 |
 | Mugunghwa | App/passcode/badge theming for jailed devices via TrollStore | [s8ngyu](https://github.com/s8ngyu/Mugunghwa) | 10-28-2022 |
+| NBA 2K20 | Since Apple doesn't have the app up anymore, read the [app description here](https://pandahelp.vip/app/10014935). Cheats are enabled but you can play without them if you want the authentic experience. Just go to the text file and download the file off Mega | N/A | 01-27-2023 |
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 |
 | Nicegram | *This app is TrollStore only.* Nicegram, cracked for premium features (including having the translate button next to messages in chats) | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900001040) | 01-06-2023 |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 11-09-2022 |
