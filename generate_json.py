@@ -20,14 +20,8 @@ if __name__ == "__main__":
     releases = repo.get_releases()
 
     for release in releases:
-        # date = release.created_at
-        release_date = release.title[:10]
-        versionDate = release_date[-4:] + "-" + release_date[:5]
         print(release.title)
-
-        # second oldest release date, folder is "Update"
-        if release_date == "11-10-2022":
-            release_date = "Update"
+        date = release.created_at.strftime("%Y-%m-%d-%H-%M-%S")
 
         for asset in release.get_assets():
             if (asset.name[-3:] != "ipa"):
@@ -43,9 +37,9 @@ if __name__ == "__main__":
                 {
                     "name": app_name,
                     "version": version,
-                    "versionDate": versionDate,
+                    "versionDate": date,
                     "size": asset.size,
-                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release_date}/{asset.name}"
+                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release.tag_name}/{asset.name}"
                 }
             )
 
