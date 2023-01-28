@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
     for release in releases:
         print(release.title)
-        date = release.created_at.strftime("%Y-%m-%d-%H-%M-%S")
+        date = release.created_at.strftime("%Y-%m-%d")
 
         for asset in release.get_assets():
             if (asset.name[-3:] != "ipa"):
