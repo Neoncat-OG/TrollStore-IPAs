@@ -28,7 +28,7 @@ Everything you can currently find in this repo:
 | AppCake 6 | iOS app for iPhoneCake. Older UI, but more search results | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
 | AppCake 7 | iOS app for iPhoneCake, Newer UI, supports dark mode, slightly more user-friendly, less search results than AppCake 6 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-01-2022 |
 | Apps Manager | Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak | [TigiSoftware](https://www.tigisoftware.com/default/?p=435) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 12-23-2022 |
-| AppStore++ | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 11-10-2022 |
+| AppStore++ | CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps | [CokePokes](https://github.com/CokePokes/AppStorePlus-TrollStore) | 01-29-2023 |
 | AsTools | *I can only verify that this works with TrollStore. Also, the entire app is in Chinese.* Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), *as if they were from the App Store*. No certificates, no Apple ID, none of that. It just installs, and it works | N/A | 12-11-2022 |
 | Bear Pro | [Bear Notes](https://apps.apple.com/us/app/bear-markdown-notes/id1091189122?mt=12), with pro features unlocked. *If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore* | `¯\_(ツ)_/¯` | 11-20-2022 |
 | BeRealUnblur | BeReal, injected with the tweak BeRealUnblur | [u/LOST_iPhone_btw](https://www.reddit.com/r/sideloaded/comments/ypwu9z/release_bereal_with_berealunblur/) | 01-23-2023 |
