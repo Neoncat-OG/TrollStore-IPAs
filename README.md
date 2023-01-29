@@ -1,6 +1,6 @@
 # TrollStore-IPAs
 
-## Add source to AltStore, ESign, Scarlet: https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json
+## Add source to ESign (currently not working with AltStore/SideStore): https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currenlty the best way to catch up on all IPA releases.*
 
