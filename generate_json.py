@@ -2,6 +2,7 @@ from github import Github
 import json
 import argparse
 import pandas as pd
+from get_bundle_id import get_single_bundle_id
 
 
 if __name__ == "__main__":
@@ -36,7 +37,12 @@ if __name__ == "__main__":
                 app_name = name
                 version = "1.0"
 
-            bundle_id = str(df[df.name == app_name].bundleId.values[0])
+            if app_name in df.name.values:
+                bundle_id = get_single_bundle_id(asset.browser_download_url)
+                df = pd.concat([df, pd.DataFrame(
+                    {"name": [app_name], "bundleId": [bundle_id]})], ignore_index=True)
+            else:
+                bundle_id = str(df[df.name == app_name].bundleId.values[0])
 
             data["apps"].append(
                 {
@@ -45,7 +51,7 @@ if __name__ == "__main__":
                     "version": version,
                     "versionDate": date,
                     "size": asset.size,
-                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release.tag_name}/{asset.name}",
+                    "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": "",
                     "iconURL": "about:blank"
