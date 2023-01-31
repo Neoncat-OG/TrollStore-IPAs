@@ -37,7 +37,7 @@ jobs:
           # Optional. Options used by `git-commit`.
           # See https://git-scm.com/docs/git-commit#_options
           commit_options: '--no-verify --signoff'
-          file_pattern: 'apps.json'
+          file_pattern: 'apps.json bundleId.csv'
 
           # Optional commit user and author settings
           commit_user_name: My GitHub Actions Bot # defaults to "github-actions[bot]"

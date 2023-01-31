@@ -38,11 +38,11 @@ if __name__ == "__main__":
                 version = "1.0"
 
             if app_name in df.name.values:
+                bundle_id = str(df[df.name == app_name].bundleId.values[0])
+            else:
                 bundle_id = get_single_bundle_id(asset.browser_download_url)
                 df = pd.concat([df, pd.DataFrame(
                     {"name": [app_name], "bundleId": [bundle_id]})], ignore_index=True)
-            else:
-                bundle_id = str(df[df.name == app_name].bundleId.values[0])
 
             data["apps"].append(
                 {
@@ -58,8 +58,7 @@ if __name__ == "__main__":
                 }
             )
 
-    # data["apps"] = sorted(data["apps"],
-    #                       key=lambda k: k['versionDate'], reverse=True)
+    df = pd.to_csv("bundleId.csv", index=False)
 
     with open('apps.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
