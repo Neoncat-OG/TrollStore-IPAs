@@ -36,7 +36,7 @@ if __name__ == "__main__":
                 app_name = name
                 version = "1.0"
 
-            bundle_id = df[df.name == app_name].bundleId.values[0]
+            bundle_id = str(df[df.name == app_name].bundleId.values[0])
 
             data["apps"].append(
                 {
