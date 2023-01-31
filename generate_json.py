@@ -58,7 +58,7 @@ if __name__ == "__main__":
                 }
             )
 
-    df = pd.to_csv("bundleId.csv", index=False)
+    df.to_csv("bundleId.csv", index=False)
 
     with open('apps.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
