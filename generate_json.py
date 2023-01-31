@@ -1,6 +1,7 @@
 from github import Github
 import json
 import argparse
+import pandas as pd
 
 
 if __name__ == "__main__":
@@ -11,6 +12,8 @@ if __name__ == "__main__":
 
     with open("apps.json", "r") as f:
         data = json.load(f)
+
+    df = pd.read_csv("bundleId.csv")
 
     # clear apps
     data["apps"] = []
@@ -33,13 +36,19 @@ if __name__ == "__main__":
                 app_name = name
                 version = "1.0"
 
+            bundle_id = df[df.name == app_name].bundleId.values[0]
+
             data["apps"].append(
                 {
                     "name": app_name,
+                    "bundleIdentifier": bundle_id,
                     "version": version,
                     "versionDate": date,
                     "size": asset.size,
-                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release.tag_name}/{asset.name}"
+                    "downloadURL": f"https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/{release.tag_name}/{asset.name}",
+                    "developerName": "",
+                    "localizedDescription": "",
+                    "iconURL": "about:blank"
                 }
             )
 
