@@ -26,6 +26,17 @@
             "iconURL": "about:blank"
         },
         {
+            "name": "Procreate",
+            "bundleIdentifier": "au.com.savageinteractive.procreate",
+            "version": "5.3.1",
+            "versionDate": "2023-01-30",
+            "size": 491083921,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/Procreate-5.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "SubwaySurfers",
             "bundleIdentifier": "com.kiloo.subwaysurfers",
             "version": "3.7.0",
