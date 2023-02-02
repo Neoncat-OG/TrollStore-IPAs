@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AnimeNow",
+            "bundleIdentifier": "com.errorerrorerror.animenow",
+            "version": "beta-ac2e8f9",
+            "versionDate": "2023-02-01",
+            "size": 6943676,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/AnimeNow-beta-ac2e8f9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "PicsArtPlusPlus",
             "bundleIdentifier": "com.picsart.studio",
             "version": "21.5.3",
