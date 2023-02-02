@@ -21,7 +21,7 @@ Everything you can currently find in this repo:
 |----------|-------------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | [Aidoku](https://github.com/Aidoku/Aidoku) | 01-18-2023 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
-| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 01-22-2023 |
+| Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 02-01-2023 |
 | Anonycord | Background anonymous video recording. Similar functionality to [SneakyCam by SparkDev](https://www.sparkdev.me/package/com.spark.sneakycam) | [c22dev](https://github.com/c22dev/Anonycord) | 01-31-2023 |
 | Any Video Saver | [Any Video Saver](https://apps.apple.com/tr/app/any-video-saver/id1553745971), with premium enabled. Use the same tutorial linked in Ketsu's description to restore premium, using `au.com.topapps.ym8.adbk` in releases | [DPixel](https://t.me/dpixel) | 12-22-2022 |
 | AppAddict | An app library matching AppDB's catalog | N/A | 10-23-2022 |
