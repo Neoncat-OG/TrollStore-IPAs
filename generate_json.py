@@ -25,12 +25,12 @@ if __name__ == "__main__":
 
     for release in releases:
         print(release.title)
-        date = release.created_at.strftime("%Y-%m-%d")
 
         for asset in release.get_assets():
             if (asset.name[-3:] != "ipa"):
                 continue
             name = asset.name[:-4]
+            date = asset.created_at.strftime("%Y-%m-%d")
             try:
                 app_name, version = name.split("-", 1)
             except:
