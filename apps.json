@@ -4,12 +4,45 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.43.1",
+            "versionDate": "2023-02-06",
+            "size": 104061572,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/BHTwitter-9.43.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "iPoGo",
             "bundleIdentifier": "com.nianticlabs.pokemongo",
             "version": "2.8.2",
             "versionDate": "2023-02-05",
             "size": 122913076,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "StatusMagic",
+            "bundleIdentifier": "com.avangelista.StatusMagic",
+            "version": "1.0",
+            "versionDate": "2023-02-06",
+            "size": 1195805,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/StatusMagic-1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.2.75",
+            "versionDate": "2023-02-06",
+            "size": 90626818,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/Watusi3-23.2.75.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "about:blank"
