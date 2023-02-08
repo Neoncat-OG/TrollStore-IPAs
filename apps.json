@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "DeadCellsPlus",
+            "bundleIdentifier": "com.playdigious.deadcells.applearcade",
+            "version": "3.0.10",
+            "versionDate": "2023-02-08",
+            "size": 907256106,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DeadCellsPlus-3.0.10.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "DLTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "9.42",
@@ -32,6 +43,17 @@
             "versionDate": "2023-02-06",
             "size": 135002490,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-2.1-400.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "269.0",
+            "versionDate": "2023-02-08",
+            "size": 133250003,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-269.0.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "about:blank"
@@ -917,6 +939,61 @@
             "iconURL": "about:blank"
         },
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "5.2.1",
+            "versionDate": "2023-01-18",
+            "size": 7339759,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/Cowabunga-5.2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "version": "4.7.4",
+            "versionDate": "2023-01-17",
+            "size": 8796490,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/ESign-4.7.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "266.0",
+            "versionDate": "2023-01-18",
+            "size": 121430039,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/InstaRocketPlus-266.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "SpringForTwitter",
+            "bundleIdentifier": "com.jonny.spring",
+            "version": "4.3.1",
+            "versionDate": "2023-01-17",
+            "size": 39469083,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/SpringForTwitter-4.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "2.3.1-18.01.6",
+            "versionDate": "2023-01-18",
+            "size": 110043700,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/uYouPlus-2.3.1-18.01.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "2.3.1-18.01.6",
@@ -1247,6 +1324,61 @@
             "iconURL": "about:blank"
         },
         {
+            "name": "FileSwitcherX",
+            "bundleIdentifier": "com.straight-tamago.FileSwitcherX",
+            "version": "0.6",
+            "versionDate": "2023-01-06",
+            "size": 154415,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/FileSwitcherX-0.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "iPoGo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "2.8.0",
+            "versionDate": "2023-01-07",
+            "size": 119064262,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.1.8",
+            "versionDate": "2023-01-06",
+            "size": 203814208,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/Nicegram-1.1.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "2.3.1-17.49.6_2.3.1",
+            "versionDate": "2023-01-07",
+            "size": 116059621,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/uYouPlus-2.3.1-17.49.6_2.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "WDBFontOverwrite",
+            "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
+            "version": "1.10.3",
+            "versionDate": "2023-01-06",
+            "size": 5410246,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/WDBFontOverwrite-1.10.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "TikTokDark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "27.6.0",
@@ -1275,105 +1407,6 @@
             "versionDate": "2023-01-05",
             "size": 63888827,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/YTMusicUltimate-1.2.7-5.38.3.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "BHTwitter",
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "version": "9.39",
-            "versionDate": "2023-01-05",
-            "size": 94954991,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/BHTwitter-9.39.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "DirtyCowApp",
-            "bundleIdentifier": "com.mineek.dirtycow",
-            "version": "1.0",
-            "versionDate": "2023-01-05",
-            "size": 32877,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/DirtyCowApp-1.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "ImageSearch",
-            "bundleIdentifier": "com.ipopapp.imagesearchfree",
-            "version": "6.6",
-            "versionDate": "2023-01-05",
-            "size": 10303693,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/ImageSearch-6.6.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "TrollTools",
-            "bundleIdentifier": "net.sourceloc.TrollTools",
-            "version": "3.0.",
-            "versionDate": "2023-01-05",
-            "size": 4372418,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.tipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "WDBFontOverwrite",
-            "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
-            "version": "1.0.1",
-            "versionDate": "2023-01-05",
-            "size": 5384493,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/WDBFontOverwrite-1.0.1.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "DramaFlix",
-            "bundleIdentifier": "com.dramaflix.co",
-            "version": "1.1.0",
-            "versionDate": "2023-01-03",
-            "size": 9164315,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/DramaFlix-1.1.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "FindUnfollow",
-            "bundleIdentifier": "co.iinvent.whounfollowed",
-            "version": "4.2.2",
-            "versionDate": "2023-01-04",
-            "size": 9517006,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/FindUnfollow-4.2.2.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "TrollMods",
-            "bundleIdentifier": "io.hex36.TrollMods",
-            "version": "0.4",
-            "versionDate": "2023-01-03",
-            "size": 4626929,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/TrollMods-0.4.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "about:blank"
-        },
-        {
-            "name": "WDBFontOverwrite",
-            "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
-            "version": "1.9.1",
-            "versionDate": "2023-01-03",
-            "size": 5360532,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/WDBFontOverwrite-1.9.1.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "about:blank"
