@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "StatusMagic",
+            "bundleIdentifier": "com.avangelista.StatusMagic",
+            "version": "1.0.2",
+            "versionDate": "2023-02-08",
+            "size": 1218528,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/StatusMagic-1.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "VSCOPremium",
             "bundleIdentifier": "co.visualsupply.cam",
             "version": "306.0.0",
