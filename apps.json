@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "VSCOPremium",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "306.0.0",
+            "versionDate": "2023-02-08",
+            "size": 110193844,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "DeadCellsPlus",
             "bundleIdentifier": "com.playdigious.deadcells.applearcade",
             "version": "3.0.10",
