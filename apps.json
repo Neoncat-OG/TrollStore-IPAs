@@ -15,6 +15,17 @@
             "iconURL": "about:blank"
         },
         {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "21.5.5",
+            "versionDate": "2023-02-09",
+            "size": 83700828,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "StatusMagic",
             "bundleIdentifier": "com.avangelista.StatusMagic",
             "version": "1.0.2",
