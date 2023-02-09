@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "GoogleNews",
+            "bundleIdentifier": "com.google.GoogleDigitalEditions",
+            "version": "5.38",
+            "versionDate": "2023-02-09",
+            "size": 52542995,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/GoogleNews-5.38.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "InstaRocketCracked",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "269.0",
@@ -15,12 +26,23 @@
             "iconURL": "about:blank"
         },
         {
-            "name": "YouTubeElite",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "version": "18.05.2",
+            "name": "LikeeLRD",
+            "bundleIdentifier": "video.like",
+            "version": "1.4-3.85.3",
             "versionDate": "2023-02-09",
-            "size": 127292620,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/YouTubeElite-18.05.2.ipa",
+            "size": 82647067,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/LikeeLRD-1.4-3.85.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "ZiniTeviPlusPlus",
+            "bundleIdentifier": "jb.zini.tevi",
+            "version": "1.5.0",
+            "versionDate": "2023-02-09",
+            "size": 7948926,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/ZiniTeviPlusPlus-1.5.0.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "about:blank"
