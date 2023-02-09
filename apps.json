@@ -4,12 +4,34 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "OVFEditor",
+            "bundleIdentifier": "com.mutaeb.OVF-Editor",
+            "version": "9.9.9",
+            "versionDate": "2023-02-09",
+            "size": 21128331,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/OVFEditor-9.9.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "StatusMagic",
             "bundleIdentifier": "com.avangelista.StatusMagic",
             "version": "1.0.2",
             "versionDate": "2023-02-08",
             "size": 1218528,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/StatusMagic-1.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "28.1.0",
+            "versionDate": "2023-02-09",
+            "size": 227925817,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "about:blank"
