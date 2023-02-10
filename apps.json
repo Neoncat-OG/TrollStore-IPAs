@@ -37,6 +37,17 @@
             "iconURL": "about:blank"
         },
         {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "21.5.6",
+            "versionDate": "2023-02-10",
+            "size": 94968087,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "WDBFontOverwrite",
             "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
             "version": "1.10.8",
