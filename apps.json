@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "2.1-401.0",
+            "versionDate": "2023-02-11",
+            "size": 126709146,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-2.1-401.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "3.8.4-269.1",
+            "versionDate": "2023-02-11",
+            "size": 126820351,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/InstaRocketCracked-3.8.4-269.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "GoogleNews",
             "bundleIdentifier": "com.google.GoogleDigitalEditions",
             "version": "5.38",
