@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "8.0.1",
+            "versionDate": "2023-02-12",
+            "size": 12238315,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/Cowabunga-8.0.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "DLTikTok",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "1.9.7-28.1.0",
+            "versionDate": "2023-02-12",
+            "size": 149415663,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTikTok-1.9.7-28.1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "DLTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "2.0.4-9.43.1",
+            "versionDate": "2023-02-12",
+            "size": 86624661,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTwitter-2.0.4-9.43.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "FacebookWolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "2.1-401.0",
@@ -15,12 +48,45 @@
             "iconURL": "about:blank"
         },
         {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "2.1-401.1",
+            "versionDate": "2023-02-12",
+            "size": 123861738,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-2.1-401.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "InstaRocketCracked",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "3.8.4-269.1",
             "versionDate": "2023-02-11",
             "size": 126820351,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/InstaRocketCracked-3.8.4-269.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "SharkForMessenger",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "version": "395.0",
+            "versionDate": "2023-02-12",
+            "size": 44367430,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/SharkForMessenger-395.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "YoutubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.05.2",
+            "versionDate": "2023-02-12",
+            "size": 108602507,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/YoutubeReborn-18.05.2.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "about:blank"
