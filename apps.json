@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "21.6.4",
+            "versionDate": "2023-02-15",
+            "size": 90803300,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "AnimeNow",
             "bundleIdentifier": "com.errorerrorerror.animenow",
             "version": "1.0.0b1",
