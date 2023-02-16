@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.06.6",
+            "versionDate": "2023-02-16",
+            "size": 127743548,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/uYouPlus-18.06.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.06.6",
+            "versionDate": "2023-02-16",
+            "size": 125707547,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/YouTubeElite-18.06.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "Antoine",
             "bundleIdentifier": "com.serena.Antoine",
             "version": "1.0.0.",
