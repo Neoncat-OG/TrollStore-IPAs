@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "HPHogwartsMystery",
+            "bundleIdentifier": "com.tinyco.potter",
+            "version": "4.8.1",
+            "versionDate": "2023-02-16",
+            "size": 135305643,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/HPHogwartsMystery-4.8.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "TikTokDarkTouch",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "28.2.0",
+            "versionDate": "2023-02-16",
+            "size": 216395572,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/TikTokDarkTouch-28.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "18.06.6",
