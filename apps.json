@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "iPoGo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "2.8.3",
+            "versionDate": "2023-02-18",
+            "size": 118904543,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
             "name": "InstaRocketCracked",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "3.8.5-270.0",
@@ -12,7 +23,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/InstaRocketCracked-3.8.5-270.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -23,7 +34,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/InstaRocketPlus-270.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "TempoPro",
@@ -34,7 +45,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/TempoPro-4.33.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
         },
         {
             "name": "YouTubeReborn",
@@ -45,7 +56,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/YouTubeReborn-18.06.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "HPHogwartsMystery",
@@ -56,7 +67,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/HPHogwartsMystery-4.8.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
             "name": "TikTokDarkTouch",
@@ -67,7 +78,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/TikTokDarkTouch-28.2.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "uYouPlus",
@@ -78,7 +89,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/uYouPlus-18.06.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeElite",
@@ -89,7 +100,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/YouTubeElite-18.06.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Antoine",
@@ -100,7 +111,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/Antoine-1.0.0.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
         },
         {
             "name": "PhotomathPlus",
@@ -111,7 +122,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PhotomathPlus-8.19.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -122,7 +133,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "SnapchatFalcon",
@@ -133,7 +144,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/SnapchatFalcon-1.3-12.20.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
             "name": "AnimeNow",
@@ -144,7 +155,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/AnimeNow-1.0.0b1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "BHTwitter",
@@ -155,7 +166,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/BHTwitter-9.44.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Cowabunga",
@@ -166,7 +177,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/Cowabunga-8.0.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "InstagramDark",
@@ -177,7 +188,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/InstagramDark-267.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstagramElite",
@@ -188,7 +199,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/InstagramElite-270.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -199,7 +210,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/InstaRocketCracked-270.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -210,7 +221,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/InstaRocketPlus-270.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -221,7 +232,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "SharkForMessenger",
@@ -232,7 +243,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/SharkForMessenger-396.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "TikTokDark",
@@ -243,7 +254,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TikTokLRD",
@@ -254,7 +265,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokLRD-2.1-28.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -265,7 +276,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/YTMusicUltimate-5.44.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Cowabunga",
@@ -276,7 +287,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/Cowabunga-8.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "DLTikTok",
@@ -287,7 +298,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTikTok-1.9.7-28.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "DLTwitter",
@@ -298,7 +309,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTwitter-2.0.4-9.43.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "FacebookWolf",
@@ -309,7 +320,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-2.1-401.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "FacebookWolf",
@@ -320,7 +331,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-2.1-401.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -331,7 +342,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/InstaRocketCracked-3.8.4-269.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "SharkForMessenger",
@@ -342,7 +353,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/SharkForMessenger-395.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "YoutubeReborn",
@@ -353,7 +364,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/YoutubeReborn-18.05.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "GoogleNews",
@@ -364,7 +375,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/GoogleNews-5.38.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -375,7 +386,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/InstaRocketCracked-269.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "LikeeLRD",
@@ -386,7 +397,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/LikeeLRD-1.4-3.85.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/video.like.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -397,7 +408,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -408,7 +419,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/WDBFontOverwrite-1.10.8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "YouTubeiVanced",
@@ -419,7 +430,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/YouTubeiVanced-18.04.3.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "ZiniTeviPlusPlus",
@@ -430,7 +441,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/ZiniTeviPlusPlus-1.5.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/jb.zini.tevi.png"
         },
         {
             "name": "OVFEditor",
@@ -441,7 +452,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/OVFEditor-9.9.9.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -452,7 +463,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "StatusMagic",
@@ -463,7 +474,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/StatusMagic-1.0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png"
         },
         {
             "name": "TikTokDark",
@@ -474,7 +485,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "VSCOPremium",
@@ -485,7 +496,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
         },
         {
             "name": "DeadCellsPlus",
@@ -496,7 +507,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DeadCellsPlus-3.0.10.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.playdigious.deadcells.applearcade.png"
         },
         {
             "name": "DLTwitter",
@@ -507,7 +518,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DLTwitter-9.42.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "FacebookTxC",
@@ -518,7 +529,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookTxC-400.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "FacebookWolf",
@@ -529,7 +540,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-2.1-400.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -540,7 +551,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-269.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -551,7 +562,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-3.8.4-267.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "MovieBoxPro",
@@ -562,7 +573,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/MovieBoxPro-12.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -573,7 +584,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "SpeedTestPremium",
@@ -584,7 +595,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/SpeedTestPremium-4.5.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
         },
         {
             "name": "StatusMagic",
@@ -595,7 +606,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/StatusMagic-1.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png"
         },
         {
             "name": "BHTwitter",
@@ -606,7 +617,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/BHTwitter-9.43.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "iPoGo",
@@ -617,7 +628,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "StatusMagic",
@@ -628,7 +639,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/StatusMagic-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png"
         },
         {
             "name": "Watusi3",
@@ -639,7 +650,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/Watusi3-23.2.75.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "Cowabunga",
@@ -650,7 +661,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2023/Cowabunga-7.0.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "AnimeNow",
@@ -661,7 +672,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/AnimeNow-beta-ac2e8f9.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "Cowabunga",
@@ -672,7 +683,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/Cowabunga-7.0.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -683,7 +694,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "TikTokLRD",
@@ -694,7 +705,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/TikTokLRD-2.1-27.9.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Anonycord",
@@ -705,7 +716,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/Anonycord-1.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.Anonycord.png"
         },
         {
             "name": "DramasFlic",
@@ -716,7 +727,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/DramasFlic-4.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bonov.sensial.png"
         },
         {
             "name": "Procreate",
@@ -727,7 +738,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/Procreate-5.3.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
         },
         {
             "name": "SubwaySurfers",
@@ -738,7 +749,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/SubwaySurfers-3.7.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kiloo.subwaysurfers.png"
         },
         {
             "name": "uYouPlus18.04.3",
@@ -749,7 +760,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/uYouPlus18.04.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeElite",
@@ -760,7 +771,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeElite-18.03.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeElite",
@@ -771,7 +782,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeElite-18.04.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeiVanced",
@@ -782,7 +793,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeiVanced-18.04.03.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -793,7 +804,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YTMusicUltimate-1.2.7-5.42.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -804,7 +815,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2023/WDBFontOverwrite-1.10.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "Anonycord",
@@ -815,7 +826,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/Anonycord-1.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.Anonycord.png"
         },
         {
             "name": "AppStorePlusPlus",
@@ -826,7 +837,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/AppStorePlusPlus-1.0.3-2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png"
         },
         {
             "name": "Cowabunga",
@@ -837,7 +848,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/Cowabunga-7.0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "iPoGo",
@@ -848,7 +859,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "TrollBox",
@@ -859,7 +870,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/TrollBox-b0.1.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -870,7 +881,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/WDBFontOverwrite-1.10.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "TikTokDark",
@@ -881,7 +892,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "BHTwitter",
@@ -892,7 +903,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/BHTwitter-3.7-9.42.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Cowabunga",
@@ -903,7 +914,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/Cowabunga-7.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -914,7 +925,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/InstaRocketCracked-267.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "Spotilife",
@@ -925,7 +936,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/Spotilife-1.8-8.8.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "Watusi3",
@@ -936,7 +947,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/Watusi3-23.1.75.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "Cowabunga",
@@ -947,7 +958,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2023/Cowabunga-6.1.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "SubwaySurfers",
@@ -958,7 +969,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2023/SubwaySurfers-3.6.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kiloo.subwaysurfers.png"
         },
         {
             "name": "Cowabunga",
@@ -969,7 +980,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/Cowabunga-6.1.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "CyPwnStore",
@@ -980,7 +991,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/CyPwnStore-5.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Ed0ardo.CyPwn-Store.png"
         },
         {
             "name": "DLTikTok",
@@ -991,7 +1002,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTikTok-1.9.7-27.7.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "DLTwitter",
@@ -1002,7 +1013,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTwitter-9.41.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "InstagramDark",
@@ -1013,7 +1024,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/InstagramDark-267.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -1024,7 +1035,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/InstaRocketPlus-267.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "YoutubeReborn",
@@ -1035,7 +1046,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/YoutubeReborn-18.03.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Cowabunga",
@@ -1046,7 +1057,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/Cowabunga-6.1.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "InstagramElite",
@@ -1057,7 +1068,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/InstagramElite-266.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -1068,7 +1079,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/InstaRocketCracked-3.8.3-267.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "PhotomathPlus",
@@ -1079,7 +1090,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/PhotomathPlus-8.18.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
         },
         {
             "name": "TikTokDarkTouch",
@@ -1090,7 +1101,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/TikTokDarkTouch-27.7.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "u0Launcher",
@@ -1101,7 +1112,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/u0Launcher.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.opa334.u0launcher.png"
         },
         {
             "name": "YouTubeElite",
@@ -1112,7 +1123,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/YouTubeElite-18.02.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -1123,7 +1134,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/YTMusicUltimate-1.2.7-5.41.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "BeRealUnblur",
@@ -1134,7 +1145,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/BeRealUnblur-0.31.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
         },
         {
             "name": "CarTube",
@@ -1145,7 +1156,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/CarTube-1.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
         },
         {
             "name": "ObjectRemoval",
@@ -1156,7 +1167,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/ObjectRemoval-3.8.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -1167,7 +1178,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "YouTubeiVanced",
@@ -1178,7 +1189,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/YouTubeiVanced-18.03.03.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "AnimeNow",
@@ -1189,7 +1200,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/AnimeNow-1.0.0-beta-a86eb9e.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "CyPwnStore",
@@ -1200,7 +1211,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/CyPwnStore-4.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Ed0ardo.CyPwn-Store.png"
         },
         {
             "name": "FacebookWolf",
@@ -1211,7 +1222,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-2.1-399.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -1222,7 +1233,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/WDBFontOverwrite-1.10.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1233,7 +1244,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2023/FileSwitcherX-1.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "BHTwitter",
@@ -1244,7 +1255,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/BHTwitter-3.7-9.41.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1255,7 +1266,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/FileSwitcherX-1.7b8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "TrollBox",
@@ -1266,7 +1277,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/TrollBox-0.0.9.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
         },
         {
             "name": "Cowabunga",
@@ -1277,7 +1288,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/Cowabunga-6.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1288,7 +1299,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/FileSwitcherX-1.7b6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -1299,7 +1310,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "YouTubeiVanced",
@@ -1310,7 +1321,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeiVanced-18.02.03.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeReborn",
@@ -1321,7 +1332,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeReborn-4.0.9-18.02.03.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Aidoku",
@@ -1332,7 +1343,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Aidoku-0.6.1-2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
         },
         {
             "name": "FacebookWolf",
@@ -1343,7 +1354,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-2.1-398.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1354,7 +1365,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FileSwitcherX-1.7b.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1365,7 +1376,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FileSwitcherX-1.7b3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1376,7 +1387,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FileSwitcherX-1.7b4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "InstaRocketCracked",
@@ -1387,7 +1398,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/InstaRocketCracked-3.8.3-266.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "Spotilife",
@@ -1398,7 +1409,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Spotilife-1.8-8.8.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TempoPro",
@@ -1409,7 +1420,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/TempoPro-4.31.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -1420,7 +1431,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/YTMusicUltimate-1.2.7-5.40.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Cowabunga",
@@ -1431,7 +1442,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/Cowabunga-5.2.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "ESign",
@@ -1442,7 +1453,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/ESign-4.7.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -1453,7 +1464,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/InstaRocketPlus-266.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "SpringForTwitter",
@@ -1464,7 +1475,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/SpringForTwitter-4.3.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.jonny.spring.png"
         },
         {
             "name": "uYouPlus",
@@ -1475,7 +1486,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/uYouPlus-2.3.1-18.01.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "uYouPlus",
@@ -1486,7 +1497,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2023/uYouPlus-2.3.1-18.01.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeiVanced",
@@ -1497,7 +1508,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2023/YouTubeiVanced-18.01.6-2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "BHTwitter",
@@ -1508,7 +1519,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/BHTwitter-3.7-9.40.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1519,7 +1530,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/FileSwitcherX-1.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "InShotPro",
@@ -1530,7 +1541,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
         },
         {
             "name": "RedditPlus",
@@ -1541,7 +1552,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/RedditPlus-2023.01.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "YouTubeReborn",
@@ -1552,7 +1563,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/YouTubeReborn-4.0.9-18.01.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "FacebookWolf",
@@ -1563,7 +1574,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "SharkForMessenger",
@@ -1574,7 +1585,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/SharkForMessenger-391.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "YouTubeElite",
@@ -1585,7 +1596,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/YouTubeElite-18.01.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1596,7 +1607,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/FileSwitcherX-1.2b.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -1607,7 +1618,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "TempoPro",
@@ -1618,7 +1629,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TempoPro-4.31.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
         },
         {
             "name": "TikTokDark",
@@ -1629,7 +1640,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "CarTube",
@@ -1640,7 +1651,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2023/CarTube-1.02.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
         },
         {
             "name": "AnimeNow",
@@ -1651,7 +1662,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/AnimeNow-1.0.0b70f1679.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "CarTube",
@@ -1662,7 +1673,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/CarTube-1.01.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
         },
         {
             "name": "Monopoly",
@@ -1673,7 +1684,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/Monopoly-1.8.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.marmalade.monopoly.png"
         },
         {
             "name": "TikTokDark",
@@ -1684,7 +1695,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TikTokDarkTouch",
@@ -1695,7 +1706,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDarkTouch-27.7.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "uYouPlus",
@@ -1706,7 +1717,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/uYouPlus-2.3.1-18.02.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTubeReborn",
@@ -1717,7 +1728,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YouTubeReborn-4.0.9-18.01.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -1728,7 +1739,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YTMusicUltimate-1.2.7-5.39.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "CarTube",
@@ -1739,7 +1750,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2023/CarTube-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
         },
         {
             "name": "MovieBoxPro",
@@ -1750,7 +1761,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2023/MovieBoxPro-11.9.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "BHTwitter",
@@ -1761,7 +1772,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2023/BHTwitter-3.6-9.39.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Cowabunga",
@@ -1772,7 +1783,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2023/Cowabunga-5.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "MonsterLegends",
@@ -1783,7 +1794,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2023/MonsterLegends-14.5.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/es.socialpoint.MonsterCity.png"
         },
         {
             "name": "TikTokDark",
@@ -1794,7 +1805,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TikTokDarkTouch",
@@ -1805,7 +1816,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDarkTouch-27.6.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "FileSwitcherX",
@@ -1816,7 +1827,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/FileSwitcherX-0.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.FileSwitcherX.png"
         },
         {
             "name": "iPoGo",
@@ -1827,7 +1838,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "Nicegram",
@@ -1838,7 +1849,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/Nicegram-1.1.8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
         },
         {
             "name": "uYouPlus",
@@ -1849,7 +1860,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/uYouPlus-2.3.1-17.49.6_2.3.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -1860,7 +1871,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/WDBFontOverwrite-1.10.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "TikTokDark",
@@ -1871,7 +1882,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -1882,7 +1893,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/WDBFontOverwrite-1.10.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -1893,7 +1904,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/YTMusicUltimate-1.2.7-5.38.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "BHTwitter",
@@ -1904,7 +1915,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/BHTwitter-9.39.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "DirtyCowApp",
@@ -1915,7 +1926,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/DirtyCowApp-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mineek.dirtycow.png"
         },
         {
             "name": "ImageSearch",
@@ -1926,7 +1937,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/ImageSearch-6.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png"
         },
         {
             "name": "TrollTools",
@@ -1937,7 +1948,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -1948,7 +1959,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/WDBFontOverwrite-1.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "DramaFlix",
@@ -1959,7 +1970,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/DramaFlix-1.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dramaflix.co.png"
         },
         {
             "name": "FindUnfollow",
@@ -1970,7 +1981,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/FindUnfollow-4.2.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.iinvent.whounfollowed.png"
         },
         {
             "name": "TrollMods",
@@ -1981,7 +1992,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/TrollMods-0.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/io.hex36.TrollMods.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -1992,7 +2003,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/WDBFontOverwrite-1.9.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "KAMOInstaller",
@@ -2003,7 +2014,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/KAMOInstaller-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.AppInstalleriOS.IPA-Installer.png"
         },
         {
             "name": "MeituPlusPlus",
@@ -2014,7 +2025,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
         },
         {
             "name": "OVFEditor",
@@ -2025,7 +2036,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/OVFEditor-3.5.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
         },
         {
             "name": "TrollMods",
@@ -2036,7 +2047,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/TrollMods-0.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/io.hex36.TrollMods.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -2047,7 +2058,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "TrollMods",
@@ -2058,7 +2069,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/TrollMods-0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/io.hex36.TrollMods.png"
         },
         {
             "name": "AnimeNow",
@@ -2069,7 +2080,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/AnimeNow-1.0.0-beta.d223ee4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "DPixelGPT",
@@ -2080,7 +2091,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/DPixelGPT-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dpixel.chatgpt.png"
         },
         {
             "name": "TikWipe",
@@ -2091,7 +2102,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/TikWipe-1.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tikwipe.tikwipe.png"
         },
         {
             "name": "TrollMods",
@@ -2102,7 +2113,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/TrollMods-0.1.1b.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/io.hex36.TrollMods.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -2113,7 +2124,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/WDBFontOverwrite-1.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -2124,7 +2135,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/WDBFontOverwrite-1.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -2135,7 +2146,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2022/InstaRocketPlus-264.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "DLTwitter",
@@ -2146,7 +2157,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/DLTwitter-9.38.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "InstagramDark",
@@ -2157,7 +2168,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramDark-264.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "InstagramLRD",
@@ -2168,7 +2179,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramLRD-250.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "Rosiecord",
@@ -2179,7 +2190,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/Rosiecord-157.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "TorBrowserPlusPlus",
@@ -2190,7 +2201,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/TorBrowserPlusPlus-3.2.10.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
         },
         {
             "name": "TrollBox",
@@ -2201,7 +2212,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/TrollBox-0.0.8a.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -2212,7 +2223,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/WDBFontOverwrite-1.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "Soor",
@@ -2223,7 +2234,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2022/Soor-3.0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png"
         },
         {
             "name": "SubwaySurfers",
@@ -2234,7 +2245,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2022/SubwaySurfers-3.4.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kiloo.subwaysurfers.png"
         },
         {
             "name": "TrollBox",
@@ -2245,7 +2256,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2022/TrollBox-0.0.7a.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -2256,7 +2267,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2022/WDBFontOverwrite-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "WDBFontOverwrite",
@@ -2267,7 +2278,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2022/WDBFontOverwrite-1.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png"
         },
         {
             "name": "BHTwitter",
@@ -2278,7 +2289,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/BHTwitter-3.5-9.38.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "SharkForMessenger",
@@ -2289,7 +2300,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/SharkForMessenger-390.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "TrollLockReborn",
@@ -2300,7 +2311,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/TrollLockReborn-0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollLock.png"
         },
         {
             "name": "uYouPlus",
@@ -2311,7 +2322,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/uYouPlus-17.49.6_2.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Anonycord",
@@ -2322,7 +2333,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/Anonycord-RC2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.Anonycord.png"
         },
         {
             "name": "AppsManager",
@@ -2333,7 +2344,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/AppsManager-1.8.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png"
         },
         {
             "name": "EhPanda",
@@ -2344,7 +2355,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/EhPanda-1.0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/zeng.EhPanda.png"
         },
         {
             "name": "PicsArtGold",
@@ -2355,7 +2366,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtGold-21.3.11.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "SonicRacing",
@@ -2366,7 +2377,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/SonicRacing-2.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.sega.kartios.png"
         },
         {
             "name": "TiktokDark",
@@ -2377,7 +2388,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TiktokDark-27.4.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TrollBox",
@@ -2388,7 +2399,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TrollBox-0.0.6a.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
         },
         {
             "name": "Aidoku",
@@ -2399,7 +2410,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Aidoku-0.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
         },
         {
             "name": "AnyVideoSaver",
@@ -2410,7 +2421,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/AnyVideoSaver-3.4.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.topapps.ym8.png"
         },
         {
             "name": "Enmity",
@@ -2421,7 +2432,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "Filza",
@@ -2432,7 +2443,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Filza-4.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
         },
         {
             "name": "InShotPro",
@@ -2443,7 +2454,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
         },
         {
             "name": "TempoPro",
@@ -2454,7 +2465,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/TempoPro-4.29.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
         },
         {
             "name": "TikTokDarkTouch",
@@ -2465,7 +2476,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/TikTokDarkTouch-27.3.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "InShotPro",
@@ -2476,7 +2487,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
         },
         {
             "name": "PicsArtPlus21.3.9",
@@ -2487,7 +2498,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlus21.3.9.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "TwitchPlus",
@@ -2498,7 +2509,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "BHTwitter",
@@ -2509,7 +2520,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2022/BHTwitter-3.4-9.38.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "ChatGPT",
@@ -2520,7 +2531,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2022/ChatGPT-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/aichat.socialmediaappsgames.com.png"
         },
         {
             "name": "Manga",
@@ -2531,7 +2542,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2022/Manga-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.manga.maslayer.png"
         },
         {
             "name": "BHTwitter",
@@ -2542,7 +2553,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2022/BHTwitter-3.4-9.37.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "BeRealUnblur0.28.2",
@@ -2553,7 +2564,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/BeRealUnblur0.28.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -2564,7 +2575,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "uYouPlus",
@@ -2575,7 +2586,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/uYouPlus-2.1-17.49.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Violyn",
@@ -2586,7 +2597,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/Violyn-1.4.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Lilliana.Violyn.png"
         },
         {
             "name": "YoutubeReborn",
@@ -2597,7 +2608,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/YoutubeReborn-4.0.9-17.49.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "AnimeNow",
@@ -2608,7 +2619,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/AnimeNow-1.0.0-beta7c885c5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "iPoGo",
@@ -2619,7 +2630,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "RedditPlus",
@@ -2630,7 +2641,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/RedditPlus-2022.45.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "TikTokDark",
@@ -2641,7 +2652,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "ReFacePro",
@@ -2652,7 +2663,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2022/ReFacePro-3.5.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png"
         },
         {
             "name": "SonicDashPlus",
@@ -2663,7 +2674,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2022/SonicDashPlus-1.0.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.sega.sonicdashplus.png"
         },
         {
             "name": "DeadCellsPlus",
@@ -2674,7 +2685,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2022/DeadCellsPlus-2.7.12.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.playdigious.deadcells.applearcade.png"
         },
         {
             "name": "uYouPlus",
@@ -2685,7 +2696,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2022/uYouPlus-2.1-17.49.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "CrossyRoadPlus",
@@ -2696,7 +2707,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2022/CrossyRoadPlus-2.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hipsterwhale.crossyarcade.png"
         },
         {
             "name": "Soor",
@@ -2707,7 +2718,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2022/Soor-3.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png"
         },
         {
             "name": "AsTools",
@@ -2718,7 +2729,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/AsTools-2.1.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/rn.notes.best.png"
         },
         {
             "name": "DLTikTok",
@@ -2729,7 +2740,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/DLTikTok-1.9.6-27.2.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "SharkForMessenger",
@@ -2740,7 +2751,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/SharkForMessenger-389.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "uYouPlus",
@@ -2751,7 +2762,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/uYouPlus-17.48.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Violyn",
@@ -2762,7 +2773,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/Violyn-1.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Lilliana.Violyn.png"
         },
         {
             "name": "FacebookWolf",
@@ -2773,7 +2784,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-2.1-396.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "SpotifyDeluxe",
@@ -2784,7 +2795,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/SpotifyDeluxe-8.7.90.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "Spotilife",
@@ -2795,7 +2806,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/Spotilife-1.8-8.7.92.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TikTokDark",
@@ -2806,7 +2817,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "YTMusicultimate",
@@ -2817,7 +2828,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/YTMusicultimate-1.2.7-5.36.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.WatchKitApp.png"
         },
         {
             "name": "PlayTally",
@@ -2828,7 +2839,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2022/PlayTally-1.2.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png"
         },
         {
             "name": "RedditPlus",
@@ -2839,7 +2850,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2022/RedditPlus-2022.45.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "uYouPlus",
@@ -2850,7 +2861,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2022/uYouPlus-2.1-17.48.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "FacebookWolf",
@@ -2861,7 +2872,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-2.1-395.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Nicegram",
@@ -2872,7 +2883,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/Nicegram-1.1.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
         },
         {
             "name": "TempoPro",
@@ -2883,7 +2894,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/TempoPro-4.28.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -2894,7 +2905,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/InstaRocketPlus-262.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -2905,7 +2916,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "MovieBoxPro",
@@ -2916,7 +2927,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/MovieBoxPro-11.8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "RedditPlus",
@@ -2927,7 +2938,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/RedditPlus-2022.44.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "TwitchPlus",
@@ -2938,7 +2949,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "TwitchToolbox",
@@ -2949,7 +2960,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchToolbox-14.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "iPoGo",
@@ -2960,7 +2971,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "Pandolife",
@@ -2971,7 +2982,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/Pandolife-1.1a-2211.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pandora.png"
         },
         {
             "name": "RedditPlus",
@@ -2982,7 +2993,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/RedditPlus-2022.44.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "RiseOfBerk",
@@ -2993,7 +3004,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/RiseOfBerk-1.70.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ludia.dragons.png"
         },
         {
             "name": "SpotifyDeluxe",
@@ -3004,7 +3015,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/SpotifyDeluxe-8.7.88.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "DLTikTok",
@@ -3015,7 +3026,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/DLTikTok-1.9.6-27.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TikTokLRD",
@@ -3026,7 +3037,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/TikTokLRD-2.4-26.9.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "VSCOLion",
@@ -3037,7 +3048,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/VSCOLion-1.4-282.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
         },
         {
             "name": "PhotomathPlus",
@@ -3048,7 +3059,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
         },
         {
             "name": "Watusi3",
@@ -3059,7 +3070,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/Watusi3-22.23.77.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "AppCake",
@@ -3070,7 +3081,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/AppCake-6.1.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/appcake2.iphonecake.com.png"
         },
         {
             "name": "AppCake",
@@ -3081,7 +3092,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/AppCake-7.2.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/appcake2.iphonecake.com.png"
         },
         {
             "name": "DeadCells",
@@ -3092,7 +3103,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/DeadCells-3.0.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.playdigious.deadcells.png"
         },
         {
             "name": "DLTikTok",
@@ -3103,7 +3114,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/DLTikTok-27.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "DPixelCup",
@@ -3114,7 +3125,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/DPixelCup-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dpixel.cup.png"
         },
         {
             "name": "SpeedTestPremium",
@@ -3125,7 +3136,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/SpeedTestPremium-4.5.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
         },
         {
             "name": "TempoPro",
@@ -3136,7 +3147,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TempoPro-4.27.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
         },
         {
             "name": "TikTokDark",
@@ -3147,7 +3158,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TwitchPlus",
@@ -3158,7 +3169,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "TwitchToolbox",
@@ -3169,7 +3180,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchToolbox-14.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "AnimeNow",
@@ -3180,7 +3191,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2022/AnimeNow-1.0.0-beta.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "DeadCells",
@@ -3191,7 +3202,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2022/DeadCells-3.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.playdigious.deadcells.png"
         },
         {
             "name": "PandaHelper",
@@ -3202,7 +3213,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2022/PandaHelper-2.3.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pandahelper.deb.png"
         },
         {
             "name": "SharkForMessenger",
@@ -3213,7 +3224,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2022/SharkForMessenger-2.2.1-388.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "YTMusicUltimate",
@@ -3224,7 +3235,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2022/YTMusicUltimate-1.2.7-5.34.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Enmity",
@@ -3235,7 +3246,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "ESign",
@@ -3246,7 +3257,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/ESign-4.7.3.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "iPoGo",
@@ -3257,7 +3268,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "MovieBoxPro",
@@ -3268,7 +3279,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/MovieBoxPro-11.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "SpotifyDeluxe",
@@ -3279,7 +3290,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/SpotifyDeluxe-8.7.87.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TorBrowserPlusPlus",
@@ -3290,7 +3301,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/TorBrowserPlusPlus-3.2.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
         },
         {
             "name": "AirTroller",
@@ -3301,7 +3312,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/AirTroller-1.1.1.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.AirTroller.png"
         },
         {
             "name": "CrazyMEGA",
@@ -3312,7 +3323,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/CrazyMEGA-7.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/mega.ios.png"
         },
         {
             "name": "DLTikTok",
@@ -3323,7 +3334,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/DLTikTok-27.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "FacebookWolf",
@@ -3334,7 +3345,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-2.1-394.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "MovieBoxPro",
@@ -3345,7 +3356,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/MovieBoxPro-11.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -3356,7 +3367,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "Rosiecord",
@@ -3367,7 +3378,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/Rosiecord-155.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "Spotilife",
@@ -3378,7 +3389,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/Spotilife-8.7.88.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TikTokDark",
@@ -3389,7 +3400,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "AirTroller",
@@ -3400,7 +3411,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2022/AirTroller-1.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.AirTroller.png"
         },
         {
             "name": "SpotifySposifySpotilife",
@@ -3411,7 +3422,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2022/SpotifySposifySpotilife-8.5.60.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "AnimeNow",
@@ -3422,7 +3433,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/AnimeNow-1.0.0-beta%2B051cf78.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png"
         },
         {
             "name": "BHTwitter",
@@ -3433,7 +3444,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHTwitter-3.2-9.34.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "BHTwitter",
@@ -3444,7 +3455,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHTwitter-3.3-9.34.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "AirTroller",
@@ -3455,7 +3466,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/AirTroller-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.AirTroller.png"
         },
         {
             "name": "TikTokLRD",
@@ -3466,7 +3477,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/TikTokLRD-1.9-27.0.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Bundlr",
@@ -3477,7 +3488,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/Bundlr-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cpdigitaldarkroom.bundlr.png"
         },
         {
             "name": "ESign",
@@ -3488,7 +3499,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/ESign-4.7.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "FineReaderPDFPro",
@@ -3499,7 +3510,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/FineReaderPDFPro-15.5.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.abbyy.finescanner-pro.png"
         },
         {
             "name": "VSCOLion",
@@ -3510,7 +3521,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/VSCOLion-1.4-211.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
         },
         {
             "name": "TrollApps",
@@ -3521,7 +3532,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2022/TrollApps-1.2-Final.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollApps.png"
         },
         {
             "name": "BearPro",
@@ -3532,7 +3543,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
         },
         {
             "name": "ESign",
@@ -3543,7 +3554,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/ESign-4.7.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "PicsArtPlus",
@@ -3554,7 +3565,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlus-21.0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "RedditPlus",
@@ -3565,7 +3576,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/RedditPlus-2022.43.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "RefacePro",
@@ -3576,7 +3587,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/RefacePro-3.15.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png"
         },
         {
             "name": "SpotifyDeluxe",
@@ -3587,7 +3598,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/SpotifyDeluxe-8.7.42.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TwitchPlus",
@@ -3598,7 +3609,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "TwitchToolbox",
@@ -3609,7 +3620,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchToolbox-14.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "ESign",
@@ -3620,7 +3631,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2022/ESign-4.7.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "InstaRocketPlusSquare",
@@ -3631,7 +3642,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2022/InstaRocketPlusSquare-249.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "Crunchyroll",
@@ -3642,7 +3653,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-17-2022/Crunchyroll-4.25.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png"
         },
         {
             "name": "MovieBoxPro",
@@ -3653,7 +3664,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-17-2022/MovieBoxPro-11.6.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "SpeedTestNoAds",
@@ -3664,7 +3675,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-17-2022/SpeedTestNoAds-4.5.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
         },
         {
             "name": "AppsManager",
@@ -3675,7 +3686,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/AppsManager-1.7.0k.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png"
         },
         {
             "name": "EnmityFlowercord",
@@ -3686,7 +3697,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/EnmityFlowercord-2.1.4-153.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "FacebookWolf",
@@ -3697,7 +3708,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-2.1-393.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Filza",
@@ -3708,7 +3719,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Filza-3.9.8k.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
         },
         {
             "name": "InShotPro",
@@ -3719,7 +3730,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -3730,7 +3741,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InstaRocketPlus-261.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "Rosiecord",
@@ -3741,7 +3752,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Rosiecord-154.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "StarVPNPlus",
@@ -3752,7 +3763,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/StarVPNPlus-3.6.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.peach.app.png"
         },
         {
             "name": "PostboxPocket",
@@ -3763,7 +3774,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/PostboxPocket-0.8.1-7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.simplycode.PostBox-Pocket.png"
         },
         {
             "name": "TwitchPlus",
@@ -3774,7 +3785,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "AppsManager",
@@ -3785,7 +3796,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/AppsManager-1.7.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png"
         },
         {
             "name": "BHTwitter",
@@ -3796,7 +3807,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/BHTwitter-3.2-9.34.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "CheckersRoyalePlus",
@@ -3807,7 +3818,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/CheckersRoyalePlus-1.78.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gamma.checkers.arc.png"
         },
         {
             "name": "ChessPlayLearnPlus",
@@ -3818,7 +3829,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/ChessPlayLearnPlus-1.0.3.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.chess.chessarcade.png"
         },
         {
             "name": "DLTikTok",
@@ -3829,7 +3840,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/DLTikTok-26.8.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Filza",
@@ -3840,7 +3851,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Filza-3.9.8.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -3851,7 +3862,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/InstaRocketPlus-249.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "Santander",
@@ -3862,7 +3873,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Santander-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.santander.png"
         },
         {
             "name": "SharkForMessenger",
@@ -3873,7 +3884,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/SharkForMessenger-2.2.1-385.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
         },
         {
             "name": "CyPwnStore",
@@ -3884,7 +3895,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2022/CyPwnStore-3.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Ed0ardo.CyPwn-Store.png"
         },
         {
             "name": "TrollApps",
@@ -3895,7 +3906,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2022/TrollApps-1.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollApps.png"
         },
         {
             "name": "InstaSpring",
@@ -3906,7 +3917,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/InstaSpring-1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.InstaSpring.png"
         },
         {
             "name": "Reporizator",
@@ -3917,7 +3928,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/Reporizator-1.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.Reporizator.png"
         },
         {
             "name": "SpotifyDeluxeOld",
@@ -3928,7 +3939,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/SpotifyDeluxeOld-8.6.94.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TrollApps",
@@ -3939,7 +3950,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/TrollApps-1.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollApps.png"
         },
         {
             "name": "TrollNonce",
@@ -3950,7 +3961,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/TrollNonce-1.1.1.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.opa334.trollnonce.png"
         },
         {
             "name": "TrollNonce",
@@ -3961,7 +3972,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/TrollNonce-1.1.2.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.opa334.trollnonce.png"
         },
         {
             "name": "iPoGo",
@@ -3972,7 +3983,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "Kodi",
@@ -3983,7 +3994,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/Kodi-18.9.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png"
         },
         {
             "name": "PicsArtPlusPlus",
@@ -3994,7 +4005,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
             "name": "Spotify",
@@ -4005,7 +4016,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/Spotify-8.7.82.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "Watusi3",
@@ -4016,7 +4027,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/Watusi3-22.21.27.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "AppStorePlusPlus",
@@ -4027,7 +4038,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/AppStorePlusPlus-1.0.3-2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png"
         },
         {
             "name": "BeRealUnblur",
@@ -4038,7 +4049,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/BeRealUnblur-0.24.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
         },
         {
             "name": "Delta",
@@ -4049,7 +4060,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Delta-1.4b4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png"
         },
         {
             "name": "Enmity",
@@ -4060,7 +4071,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "ESign",
@@ -4071,7 +4082,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/ESign-4.7.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "Facebook",
@@ -4082,7 +4093,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Facebook-2.1-392.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "iFont",
@@ -4093,7 +4104,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/iFont-9.1.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/uk.co.codingcorner.iFont.png"
         },
         {
             "name": "LocSim",
@@ -4104,7 +4115,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/LocSim-1.3.7.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
         },
         {
             "name": "Mugunghwa",
@@ -4115,7 +4126,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Mugunghwa-3.0.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.soongyu.mugunghwautil.png"
         },
         {
             "name": "PlayDiary",
@@ -4126,7 +4137,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/PlayDiary-1.1.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pt.playdiary.png"
         },
         {
             "name": "Shark.for.Messenger",
@@ -4137,7 +4148,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Shark.for.Messenger-2.2.1-311.0.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ipashark.SharkApp.png"
         },
         {
             "name": "TikTokLRD",
@@ -4148,7 +4159,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/TikTokLRD-2.1-26.6.1.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "YouTubeReborn",
@@ -4159,7 +4170,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/YouTubeReborn-4.0.8-17.46.4.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Aidoku",
@@ -4170,7 +4181,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Aidoku.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
         },
         {
             "name": "Anime.Now",
@@ -4181,7 +4192,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Anime.Now.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.anime-now.png"
         },
         {
             "name": "AppAddict",
@@ -4192,7 +4203,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/AppAddict.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/it.ned.appdaddict.png"
         },
         {
             "name": "BHTwitter",
@@ -4203,7 +4214,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/BHTwitter.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Clip",
@@ -4214,7 +4225,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Clip.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Clip.png"
         },
         {
             "name": "DebToIPA",
@@ -4225,7 +4236,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/DebToIPA.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
         },
         {
             "name": "DLTikTok",
@@ -4236,7 +4247,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/DLTikTok.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Enmity",
@@ -4247,7 +4258,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "ESign",
@@ -4258,7 +4269,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "FacebookWolf",
@@ -4269,7 +4280,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
         },
         {
             "name": "GitHub",
@@ -4280,7 +4291,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/GitHub.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.github.stormbreaker.prod.png"
         },
         {
             "name": "HarpyReloaded",
@@ -4291,7 +4302,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/HarpyReloaded.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.midnightchips.harpy-reloaded.png"
         },
         {
             "name": "HdoPlay",
@@ -4302,7 +4313,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/HdoPlay.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hdoplay.apt.png"
         },
         {
             "name": "InShotPro",
@@ -4313,7 +4324,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
         },
         {
             "name": "InstaRocketPlus",
@@ -4324,7 +4335,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InstaRocketPlus.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "iPoGo",
@@ -4335,7 +4346,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
         },
         {
             "name": "IPSW",
@@ -4346,7 +4357,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/IPSW.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hyperixa.IPSW.png"
         },
         {
             "name": "KakaManga",
@@ -4357,7 +4368,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/KakaManga.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/kaka.manga.com.png"
         },
         {
             "name": "KETSU_1.4_CrackerXI",
@@ -4368,7 +4379,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/KETSU_1.4_CrackerXI.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.ketsu.ketsu4.png"
         },
         {
             "name": "MobileTSS",
@@ -4379,7 +4390,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/MobileTSS.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/luca.MobileTSS.png"
         },
         {
             "name": "ModMyIPA",
@@ -4390,7 +4401,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ModMyIPA.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.powen.ModMyIPA.png"
         },
         {
             "name": "MovieBoxPro",
@@ -4401,7 +4412,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/MovieBoxPro.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
         },
         {
             "name": "Mugunghwa",
@@ -4412,7 +4423,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Mugunghwa.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.soongyu.mugunghwautil.png"
         },
         {
             "name": "NetflixChecker",
@@ -4423,7 +4434,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/NetflixChecker.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.julioverne.netflixchecker.png"
         },
         {
             "name": "NineAnimator",
@@ -4434,7 +4445,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/NineAnimator.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.marcuszhou.NineAnimator.png"
         },
         {
             "name": "Opener",
@@ -4445,7 +4456,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Opener.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
         },
         {
             "name": "OVFEditor",
@@ -4456,7 +4467,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/OVFEditor.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
         },
         {
             "name": "RedditPlus",
@@ -4467,7 +4478,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/RedditPlus.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
         },
         {
             "name": "ResolutionSetter",
@@ -4478,7 +4489,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ResolutionSetter.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.haoict.ResolutionSetterSwift.png"
         },
         {
             "name": "SpotifyDeluxe",
@@ -4489,7 +4500,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/SpotifyDeluxe.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
             "name": "TikTokDark",
@@ -4500,7 +4511,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TikTokLRD",
@@ -4511,7 +4522,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokLRD.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TorBrowserPlusPlus",
@@ -4522,7 +4533,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TorBrowserPlusPlus.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
         },
         {
             "name": "TrollNonce",
@@ -4533,7 +4544,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollNonce.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.opa334.trollnonce.png"
         },
         {
             "name": "TrollSign",
@@ -4544,7 +4555,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollSign.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.AppInstalleriOS.TrollSign.png"
         },
         {
             "name": "TrollTools.",
@@ -4555,7 +4566,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollTools.tipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png"
         },
         {
             "name": "TSStore",
@@ -4566,7 +4577,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TSStore.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.trst.storek.png"
         },
         {
             "name": "TwitchToolbox",
@@ -4577,7 +4588,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TwitchToolbox.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "Uber.Eats",
@@ -4588,7 +4599,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Uber.Eats.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ubercab.UberEats.png"
         },
         {
             "name": "uYouPlus",
@@ -4599,7 +4610,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/uYouPlus.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YoutubeReborn",
@@ -4610,7 +4621,7 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YoutubeReborn.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         }
     ]
 }
