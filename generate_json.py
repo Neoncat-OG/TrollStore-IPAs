@@ -3,6 +3,7 @@ import json
 import argparse
 import pandas as pd
 from get_bundle_id import get_single_bundle_id
+import os
 
 
 if __name__ == "__main__":
@@ -14,7 +15,10 @@ if __name__ == "__main__":
     with open("apps.json", "r") as f:
         data = json.load(f)
 
-    df = pd.read_csv("bundleId.csv")
+    if os.path.exists("bundleId.csv"):
+        df = pd.read_csv("bundleId.csv")
+    else:
+        df = pd.DataFrame(columns=["name", "bundleId"])
 
     # clear apps
     data["apps"] = []
@@ -54,7 +58,7 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": "",
-                    "iconURL": "about:blank"
+                    "iconURL": f"https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/{bundle_id}.png"
                 }
             )
 
