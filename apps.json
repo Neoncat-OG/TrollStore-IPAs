@@ -4,6 +4,50 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "3.8.5-270.0",
+            "versionDate": "2023-02-18",
+            "size": 133910429,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/InstaRocketCracked-3.8.5-270.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "270.0",
+            "versionDate": "2023-02-18",
+            "size": 136309702,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/InstaRocketPlus-270.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "TempoPro",
+            "bundleIdentifier": "com.quvideo.VISO",
+            "version": "4.33.0",
+            "versionDate": "2023-02-18",
+            "size": 90634685,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/TempoPro-4.33.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "YouTubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.06.6",
+            "versionDate": "2023-02-18",
+            "size": 109090111,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/YouTubeReborn-18.06.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "HPHogwartsMystery",
             "bundleIdentifier": "com.tinyco.potter",
             "version": "4.8.1",
