@@ -4,6 +4,61 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "8.0.5",
+            "versionDate": "2023-02-22",
+            "size": 20553183,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/Cowabunga-8.0.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "2.1-403.0",
+            "versionDate": "2023-02-22",
+            "size": 133721522,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-2.1-403.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "3.8.5-271.0",
+            "versionDate": "2023-02-22",
+            "size": 115983786,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/InstaRocketCracked-3.8.5-271.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "1.8-8.8.14",
+            "versionDate": "2023-02-22",
+            "size": 62594417,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/Spotilife-1.8-8.8.14.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "SubwaySurfers",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.8.0",
+            "versionDate": "2023-02-22",
+            "size": 151083340,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/SubwaySurfers-3.8.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kiloo.subwaysurfers.png"
+        },
+        {
             "name": "BHTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "9.45",
