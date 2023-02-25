@@ -39,7 +39,7 @@ Everything you can currently find in this repo:
 | ChatGPT | A GUI app for the popular AI everyone is talking about. No sign-in required. Please don't use this to do all your homework | [DPixel](https://t.me/dpixel) | 12-19-2022 |
 | Checkers Royale+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
 | Chess - Play & Learn+ | Apple Arcade edition, untested | `¯\_(ツ)_/¯` | 11-14-2022 |
-| Cine Mate | Yet another remake of HDO Play. [Full app description here](https://apps.apple.com/us/app/cin%C3%A9-mate/id1670591599) | [DPixel](https://t.me/dpixel) | 02-24-2023 |
+| Cine Mate | Yet another remake of HDO Play, with ads removed. [Full app description here](https://apps.apple.com/us/app/cin%C3%A9-mate/id1670591599) | [DPixel](https://t.me/dpixel) | 02-24-2023 |
 | Clip | Clipboard manager for iOS | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
 | Cowabunga | *If you're using a device with a home button, [please read this](https://www.reddit.com/r/Trollstore/comments/10lr0qq/important_psa_for_cowabunga_users_with_home/).* A Jailed toolbox application for iOS 14.0-16.1.2 using [CVE-2022-46689](https://support.apple.com/en-us/HT213530). *Changes are permanent on iOS 14-14.8.1, use at your own risk* | [leminlimez](https://github.com/leminlimez/Cowabunga) | 02-21-2023 |
 | Crazy MEGA | MEGA with unlimited transfer limit. I have modified the bundleID to use the App Store bundleID. Basically, you will be able to overwrite MEGA if you already had it installed from the App Store. *I am not responsible for anyone who gets banned for abusing this* | [AppDB](https://appdb.to/app/cydia/1900001028) | 11-27-2022 |
