@@ -4,6 +4,72 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "version": "4.7.7.3",
+            "versionDate": "2023-02-26",
+            "size": 11324448,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/ESign-4.7.7.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+        },
+        {
+            "name": "ObjectRemoval",
+            "bundleIdentifier": "com.skysoft.removalfree",
+            "version": "3.9.0",
+            "versionDate": "2023-02-26",
+            "size": 54832010,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/ObjectRemoval-3.9.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+        },
+        {
+            "name": "OVFEditor",
+            "bundleIdentifier": "com.mutaeb.OVF-Editor",
+            "version": "3.5.9",
+            "versionDate": "2023-02-26",
+            "size": 30025366,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/OVFEditor-3.5.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
+        },
+        {
+            "name": "PolishPro",
+            "bundleIdentifier": "com.photoeditor.polish",
+            "version": "1.5.3",
+            "versionDate": "2023-02-26",
+            "size": 76533227,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/PolishPro-1.5.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "14.6",
+            "versionDate": "2023-02-26",
+            "size": 75478804,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "TwitchToolbox",
+            "bundleIdentifier": "tv.twitch",
+            "version": "14.6",
+            "versionDate": "2023-02-26",
+            "size": 77474635,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchToolbox-14.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
             "name": "CineMate",
             "bundleIdentifier": "com.cinemtt.apt",
             "version": "1.1",
@@ -17,10 +83,10 @@
         {
             "name": "InstagramElite",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "271.1.vip",
+            "version": "271.1",
             "versionDate": "2023-02-25",
             "size": 118965887,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/InstagramElite-271.1.vip.ipa",
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/InstagramElite-271.1.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
