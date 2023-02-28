@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BeRealUnblur",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "0.33.1",
+            "versionDate": "2023-02-28",
+            "size": 28582063,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/BeRealUnblur-0.33.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "8.1.0",
+            "versionDate": "2023-02-28",
+            "size": 21796707,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/Cowabunga-8.1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "InShotPro",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.66.0",
+            "versionDate": "2023-02-28",
+            "size": 89073088,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "21.7.2",
+            "versionDate": "2023-02-28",
+            "size": 84242704,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "TikTokDarkTouch",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "28.2.0",
+            "versionDate": "2023-02-28",
+            "size": 227269025,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/TikTokDarkTouch-28.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.08.1",
+            "versionDate": "2023-02-28",
+            "size": 130617784,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/uYouPlus-18.08.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.08.1",
+            "versionDate": "2023-02-28",
+            "size": 128570358,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/YouTubeElite-18.08.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "FacebookWolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "2.1-404.0",
