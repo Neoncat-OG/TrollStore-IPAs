@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "8.1.1",
+            "versionDate": "2023-02-28",
+            "size": 21849921,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/Cowabunga-8.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "3.8.5-272.0",
+            "versionDate": "2023-02-28",
+            "size": 117934381,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/InstaRocketCracked-3.8.5-272.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "272.0",
+            "versionDate": "2023-02-28",
+            "size": 122952031,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/InstaRocketPlus-272.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "TikTokDark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "28.4.0",
@@ -13,6 +46,28 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "28.4.0",
+            "versionDate": "2023-02-28",
+            "size": 220648541,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokLRD-28.4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "2.3.1-18.08.1",
+            "versionDate": "2023-02-28",
+            "size": 111605806,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/uYouPlus-2.3.1-18.08.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "BeRealUnblur",
