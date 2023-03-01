@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BloonsTD6",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "version": "35.1",
+            "versionDate": "2023-03-01",
+            "size": 60705282,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2023/BloonsTD6-35.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ninjakiwi.bloonstd6.png"
+        },
+        {
             "name": "Cowabunga",
             "bundleIdentifier": "com.leemin.Cowabunga",
             "version": "8.1.1",
