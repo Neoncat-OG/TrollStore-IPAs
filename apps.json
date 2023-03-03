@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "iPoGo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "2.8.4",
+            "versionDate": "2023-03-03",
+            "size": 123377179,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "MovieBoxPro",
+            "bundleIdentifier": "com.xd.mbp31",
+            "version": "12.1",
+            "versionDate": "2023-03-03",
+            "size": 55393466,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/MovieBoxPro-12.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
+        },
+        {
+            "name": "Soor",
+            "bundleIdentifier": "me.tanmay.Music",
+            "version": "3.0.2",
+            "versionDate": "2023-03-03",
+            "size": 39246200,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/Soor-3.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png"
+        },
+        {
             "name": "BloonsTD6",
             "bundleIdentifier": "com.ninjakiwi.bloonstd6",
             "version": "35.1",
