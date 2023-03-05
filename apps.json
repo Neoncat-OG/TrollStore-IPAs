@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "KAMOMEGA",
+            "bundleIdentifier": "mega.ios",
+            "version": "9.6.1",
+            "versionDate": "2023-03-05",
+            "size": 22738390,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2023/KAMOMEGA-9.6.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/mega.ios.png"
+        },
+        {
             "name": "Monopoly",
             "bundleIdentifier": "com.marmalade.monopoly",
             "version": "1.8.9",
