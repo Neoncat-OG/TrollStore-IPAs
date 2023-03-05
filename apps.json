@@ -15,6 +15,50 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
         },
         {
+            "name": "BloonsTD6",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "version": "35.2",
+            "versionDate": "2023-03-05",
+            "size": 60277911,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/BloonsTD6-35.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ninjakiwi.bloonstd6.png"
+        },
+        {
+            "name": "DLTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.47",
+            "versionDate": "2023-03-05",
+            "size": 93568761,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/DLTwitter-9.47.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "MessengerShark",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "version": "398.0",
+            "versionDate": "2023-03-05",
+            "size": 51440043,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/MessengerShark-398.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
+        },
+        {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "21.7.3",
+            "versionDate": "2023-03-05",
+            "size": 89057077,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "HPHogwartsMystery",
             "bundleIdentifier": "com.tinyco.potter",
             "version": "4.9.1",
