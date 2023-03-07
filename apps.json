@@ -4,6 +4,50 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "1.8-8.8.18",
+            "versionDate": "2023-03-07",
+            "size": 60739957,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/Spotilife-1.8-8.8.18.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "14.7",
+            "versionDate": "2023-03-07",
+            "size": 72562212,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "YouTubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.09.4",
+            "versionDate": "2023-03-07",
+            "size": 108893819,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YouTubeReborn-18.09.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "5.47.1",
+            "versionDate": "2023-03-07",
+            "size": 66342434,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YTMusicUltimate-5.47.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "BHTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "3.9-9.47",
