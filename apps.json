@@ -4,6 +4,50 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "3.9-9.47",
+            "versionDate": "2023-03-07",
+            "size": 95320317,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/BHTwitter-3.9-9.47.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "8.1.2",
+            "versionDate": "2023-03-07",
+            "size": 21849343,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/Cowabunga-8.1.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.09.4",
+            "versionDate": "2023-03-07",
+            "size": 128668139,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/uYouPlus-18.09.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.09.4",
+            "versionDate": "2023-03-07",
+            "size": 126620732,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/YouTubeElite-18.09.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "KAMOMEGA",
             "bundleIdentifier": "mega.ios",
             "version": "9.6.1",
