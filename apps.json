@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BlackHole",
+            "bundleIdentifier": "com.shadow.blackhole1160.ios",
+            "version": "1.15.6",
+            "versionDate": "2023-03-08",
+            "size": 26410422,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/BlackHole-1.15.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png"
+        },
+        {
             "name": "GeniusScanEnterprise",
             "bundleIdentifier": "com.thegrizzlylabs.GeniusScanPro",
             "version": "7.3",
@@ -13,6 +24,39 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.thegrizzlylabs.GeniusScanPro.png"
+        },
+        {
+            "name": "InstagramElite",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "273.0",
+            "versionDate": "2023-03-08",
+            "size": 114477627,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/InstagramElite-273.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "273.0",
+            "versionDate": "2023-03-08",
+            "size": 112405921,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/InstaRocketCracked-273.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "273.0",
+            "versionDate": "2023-03-08",
+            "size": 117423834,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/InstaRocketPlus-273.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "AnimeNow",
