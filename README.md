@@ -115,7 +115,7 @@ Everything you can currently find in this repo:
 | Pandolife | Pandora, injected with Pandolife | [AppDB](https://appdb.to/app/cydia/1900000048) | 12-04-2022 |
 | Photomath Plus | Photomath, with pro features unlocked | [DPixel](https://t.me/dpixel) / [KAMO HACkS](https://t.me/kamohacks) / [IPA Fire](https://t.me/ipafire) | 02-15-2023 |
 | Photoshop Express | Adobe's Photoshop Express, cracked for all premium features *except cloud storage* | [AppDB](https://appdb.to/app/cydia/1900000737} | 03-09-2023 |
-| PicsArt++ | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) / [FayezUpdates](https://t.me/fayezupdatespublic) | 03-10-2023 |
+| PicsArt++ | PicsArt with premium features enbled | [AppDB](https://appdb.to/app/cydia/1900000593) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [DPixel](https://t.me/dpixel) / [FayezUpdates](https://t.me/fayezupdatespublic) | 03-08-2023 |
 | Play Diary | HDO Play's catalog under a slightly different UI. See app description for HDO Play | [AppDB](https://appdb.to/app/cydia/1900000875) | 11-10-2022 |
 | PlayTally - Apple Music Stats | [PlayTally](https://apps.apple.com/us/app/playtally-apple-music-stats/id1513271356) lets you view your listening history ("rewinds") for any period you choose | N/A | 12-08-2022 |
 | Polish Pro | Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. [Full app description here](https://apps.apple.com/us/app/polish-photo-video-editor/id1481174327) | [DPixel](https://t.me/dpixel) | 02-25-2023 |
