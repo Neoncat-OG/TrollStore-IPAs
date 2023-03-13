@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "8.1.3",
+            "versionDate": "2023-03-13",
+            "size": 21862959,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/Cowabunga-8.1.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
             "name": "InstaRocketCracked",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "3.8.6-273.0",
