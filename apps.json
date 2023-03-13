@@ -15,15 +15,48 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
         },
         {
-            "name": "InstaRocketCracked",
+            "name": "InstagramElite",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "3.8.6-273.0",
-            "versionDate": "2023-03-12",
-            "size": 115383485,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2023/InstaRocketCracked-3.8.6-273.0.ipa",
+            "version": "273.0",
+            "versionDate": "2023-03-13",
+            "size": 119240475,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/InstagramElite-273.0.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "273.0",
+            "versionDate": "2023-03-13",
+            "size": 122186585,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/InstaRocketPlus-273.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.10.1",
+            "versionDate": "2023-03-13",
+            "size": 128111002,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/YouTubeElite-18.10.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.10.1",
+            "versionDate": "2023-03-13",
+            "size": 110244056,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/YouTubeReborn-18.10.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "AnimeNow",
@@ -68,39 +101,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
-        },
-        {
-            "name": "ESign",
-            "bundleIdentifier": "p3.xyz.yyyue.esign",
-            "version": "4.7.8",
-            "versionDate": "2023-03-11",
-            "size": 9054260,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/ESign-4.7.8.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
-        },
-        {
-            "name": "InfusePro",
-            "bundleIdentifier": "com.firecore.infuse",
-            "version": "7.4.10",
-            "versionDate": "2023-03-11",
-            "size": 44545614,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
-        },
-        {
-            "name": "SecondHand",
-            "bundleIdentifier": "com.leemin.SecondHand",
-            "version": "1.2.",
-            "versionDate": "2023-03-11",
-            "size": 2935463,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/SecondHand-1.2.tipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.SecondHand.png"
         },
         {
             "name": "BHTwitter",
@@ -1641,6 +1641,116 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "7.0.4",
+            "versionDate": "2023-02-03",
+            "size": 10796661,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2023/Cowabunga-7.0.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "Anonycord",
+            "bundleIdentifier": "live.cclerc.Anonycord",
+            "version": "1.2",
+            "versionDate": "2023-01-31",
+            "size": 1392905,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/Anonycord-1.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.Anonycord.png"
+        },
+        {
+            "name": "DramasFlic",
+            "bundleIdentifier": "com.bonov.sensial",
+            "version": "4.0",
+            "versionDate": "2023-01-31",
+            "size": 17727292,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/DramasFlic-4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bonov.sensial.png"
+        },
+        {
+            "name": "Procreate",
+            "bundleIdentifier": "au.com.savageinteractive.procreate",
+            "version": "5.3.1",
+            "versionDate": "2023-02-01",
+            "size": 491083921,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/Procreate-5.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
+        },
+        {
+            "name": "SubwaySurfers",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.7.0",
+            "versionDate": "2023-02-01",
+            "size": 146757068,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/SubwaySurfers-3.7.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kiloo.subwaysurfers.png"
+        },
+        {
+            "name": "uYouPlus18.04.3",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "1.0",
+            "versionDate": "2023-02-02",
+            "size": 127443063,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/uYouPlus18.04.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.03.3",
+            "versionDate": "2023-01-31",
+            "size": 114178068,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeElite-18.03.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.04.3",
+            "versionDate": "2023-02-01",
+            "size": 125769968,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeElite-18.04.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeiVanced",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.04.03",
+            "versionDate": "2023-01-31",
+            "size": 109177007,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeiVanced-18.04.03.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.2.7-5.42.2",
+            "versionDate": "2023-02-01",
+            "size": 64088498,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YTMusicUltimate-1.2.7-5.42.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Cowabunga",
