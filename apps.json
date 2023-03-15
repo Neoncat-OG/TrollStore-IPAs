@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Aidoku",
+            "bundleIdentifier": "xyz.skitty.Aidoku",
+            "version": "0.6.1-6",
+            "versionDate": "2023-03-15",
+            "size": 2494959,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/Aidoku-0.6.1-6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+        },
+        {
             "name": "BHTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "3.9.1-9.49",
