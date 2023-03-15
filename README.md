@@ -19,7 +19,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
-| Aidoku | Webtoon/manga browser | [Aidoku](https://github.com/Aidoku/Aidoku) | 01-18-2023 |
+| Aidoku | Webtoon/manga browser | [Aidoku](https://github.com/Aidoku/Aidoku) | 03-14-2023 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 03-11-2023 |
 | Anonycord | Background anonymous video recording. Similar functionality to [SneakyCam by SparkDev](https://www.sparkdev.me/package/com.spark.sneakycam) | [c22dev](https://github.com/c22dev/Anonycord) | 01-31-2023 |
