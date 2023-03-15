@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "SharkForMessenger",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "version": "400.0",
+            "versionDate": "2023-03-15",
+            "size": 51482477,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/SharkForMessenger-400.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.5.75",
+            "versionDate": "2023-03-15",
+            "size": 94801790,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/Watusi3-23.5.75.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Aidoku",
             "bundleIdentifier": "xyz.skitty.Aidoku",
             "version": "0.6.1-6",
