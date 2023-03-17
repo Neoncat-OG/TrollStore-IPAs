@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "version": "4.7.9",
+            "versionDate": "2023-03-17",
+            "size": 9219477,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2023/ESign-4.7.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+        },
+        {
             "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "version": "7.5",
