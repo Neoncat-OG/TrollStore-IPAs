@@ -4,17 +4,6 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
-            "name": "Cowabunga",
-            "bundleIdentifier": "com.leemin.Cowabunga",
-            "version": "10.0.0",
-            "versionDate": "2023-03-22",
-            "size": 21555968,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/Cowabunga-10.0.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
-        },
-        {
             "name": "iPoGo",
             "bundleIdentifier": "com.nianticlabs.pokemongo",
             "version": "2.8.6",
