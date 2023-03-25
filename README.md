@@ -19,7 +19,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 Everything you can currently find in this repo:
 | App Name | Description | Source/Maintainer | Last Updated |
 |----------|-------------|-------------------|--------------|
-| Aidoku | Webtoon/manga browser | [Aidoku](https://github.com/Aidoku/Aidoku) | 03-14-2023 |
+| Aidoku | Webtoon/manga browser | [Aidoku](https://github.com/Aidoku/Aidoku) | 03-24-2023 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 03-11-2023 |
 | Anonycord | Background anonymous video recording. Similar functionality to [SneakyCam by SparkDev](https://www.sparkdev.me/package/com.spark.sneakycam) | [c22dev](https://github.com/c22dev/Anonycord) | 01-31-2023 |
@@ -159,6 +159,7 @@ Everything you can currently find in this repo:
 | TrollSign | Modify an app's entitlements before installing | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-09-2022 |
 | TrollTools | In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa | [sourcelocation](https://github.com/sourcelocation/TrollTools) | 01-04-2023 |
 | TSStore | Another app that gathers some Trollstore compatible apps | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 |
+| Turbo VPN | [Full app description](https://apps.apple.com/us/app/turbo-vpn-private-browser/id1365309175). VPN app and private browser, cracked for premium | [KAMO HACkS](https://t.me/kamohacks) | 03-24-2023 |
 | Twitch + | Alternative to Twitch Toolbox. Twitch with no ads | [AppDB](https://appdb.to/app/cydia/1900000809) / [DPixel](https://t.me/dpixel) / [FayezUpdates](https://t.me/fayezupdatespublic) | 03-23-2023 |
 | Twitch Toolbox | Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support | [AppDB](https://appdb.to/app/cydia/1900000232) | 02-25-2023 |
 | u0Launcher | *After thinking this over for a couple months, I have elected to include a copy of u0Launcher, but NOT unc0ver itself. Download the latest unc0ver IPA from the [official website](https://unc0ver.dev).* u0Launcher fixes the codesigning issue that some unc0ver users experience when installing unc0ver via TrollStore. Simply install unc0ver, then install u0Launcher, then launch u0Launcher and let it work its magic. Then launch unc0ver and jailbreak freely | [opa334](https://github.com/opa334/u0Launcher) | 01-24-2023 |
