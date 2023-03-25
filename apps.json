@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Aidoku",
+            "bundleIdentifier": "xyz.skitty.Aidoku",
+            "version": "0.6.2",
+            "versionDate": "2023-03-25",
+            "size": 3268944,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Aidoku-0.6.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+        },
+        {
             "name": "Cowabunga",
             "bundleIdentifier": "com.leemin.Cowabunga",
             "version": "10.0.1",
@@ -13,6 +24,28 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "10.0.2",
+            "versionDate": "2023-03-25",
+            "size": 21557066,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Cowabunga-10.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "TurboVPN",
+            "bundleIdentifier": "com.allconnected.turbovpn",
+            "version": "2.9.16",
+            "versionDate": "2023-03-25",
+            "size": 58002559,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/TurboVPN-2.9.16.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.allconnected.turbovpn.png"
         },
         {
             "name": "Cowabunga",
