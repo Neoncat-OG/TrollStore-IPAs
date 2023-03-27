@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "DLTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.49",
+            "versionDate": "2023-03-27",
+            "size": 100152728,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2023/DLTwitter-9.49.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "Aidoku",
             "bundleIdentifier": "xyz.skitty.Aidoku",
             "version": "0.6.2",
@@ -32,6 +43,17 @@
             "versionDate": "2023-03-25",
             "size": 21557066,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Cowabunga-10.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "10.0.3",
+            "versionDate": "2023-03-25",
+            "size": 21557626,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Cowabunga-10.0.3.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
