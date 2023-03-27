@@ -15,6 +15,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.foundry63.tailor.png"
         },
         {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "14.8.1",
+            "versionDate": "2023-03-27",
+            "size": 71872886,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
             "name": "Violet",
             "bundleIdentifier": "xyz.project.violet",
             "version": "1.28.3",
