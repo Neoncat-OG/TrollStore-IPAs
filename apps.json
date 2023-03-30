@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BeRealUnblur",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "0.36.0",
+            "versionDate": "2023-03-30",
+            "size": 25189113,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2023/BeRealUnblur-0.36.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
+            "name": "Remini",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.24",
+            "versionDate": "2023-03-30",
+            "size": 39982980,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2023/Remini-2.9.24.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
             "name": "RobloxPlus",
             "bundleIdentifier": "com.roblox.nk",
             "version": "2.568.524",
