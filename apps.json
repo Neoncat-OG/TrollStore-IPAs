@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InShotPro",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.67.0",
+            "versionDate": "2023-04-01",
+            "size": 101978286,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.12.1",
+            "versionDate": "2023-04-01",
+            "size": 116943668,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.11.2",
+            "versionDate": "2023-04-01",
+            "size": 117050963,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/YouTubeElite-18.11.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "BHTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "3.9.1-9.51.1",
