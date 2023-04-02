@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "YouTube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.11.2",
+            "versionDate": "2023-04-02",
+            "size": 122067144,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2023/YouTube-18.11.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "InShotPro",
             "bundleIdentifier": "com.camerasideas.InstaShot",
             "version": "1.67.0",
