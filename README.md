@@ -4,6 +4,8 @@
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currenlty the best way to catch up on all IPA releases.*
 
+**Please include your device specs and app versions when reporting issues, otherwise I have even less idea of what the reason behind your issue is**
+
 A collection of IPA files from many different sources, for TrollStore!
 
 All credit to their respective maintainers, I simply gather and update all the IPAs I have in one place
