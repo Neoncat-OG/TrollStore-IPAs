@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.11.2",
+            "versionDate": "2023-04-03",
+            "size": 115784672,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2023/YouTubeElite-18.11.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "InstagramDark",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "276.1",
