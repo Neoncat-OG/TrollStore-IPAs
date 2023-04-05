@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "28.9.0",
+            "versionDate": "2023-04-05",
+            "size": 224953059,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "2.5-28.9.0",
+            "versionDate": "2023-04-05",
+            "size": 233114654,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokLRD-2.5-28.9.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "AppIndex",
             "bundleIdentifier": "com.serena.AppIndex",
             "version": "1.0.",
