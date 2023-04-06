@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BloonsTD6",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "version": "36.1",
+            "versionDate": "2023-04-06",
+            "size": 58466449,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/BloonsTD6-36.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ninjakiwi.bloonstd6.png"
+        },
+        {
             "name": "YouTubeElite",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "18.13.4",
