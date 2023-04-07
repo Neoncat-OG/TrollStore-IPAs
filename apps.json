@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "DLTikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "28.9.1",
+            "versionDate": "2023-04-07",
+            "size": 153024174,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/DLTikTokLRD-28.9.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "BloonsTD6",
             "bundleIdentifier": "com.ninjakiwi.bloonstd6",
             "version": "36.1",
