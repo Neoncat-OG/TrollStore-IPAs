@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "HPHogwartsMystery",
+            "bundleIdentifier": "com.tinyco.potter",
+            "version": "5.0.0",
+            "versionDate": "2023-04-09",
+            "size": 128568818,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2023/HPHogwartsMystery-5.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "2.1-410.0",
+            "versionDate": "2023-04-09",
+            "size": 146204031,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-2.1-410.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "Violet",
+            "bundleIdentifier": "xyz.project.violet",
+            "version": "1.28.4",
+            "versionDate": "2023-04-09",
+            "size": 93832933,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/Violet-1.28.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
+        },
+        {
             "name": "DLTikTokLRD",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "28.9.1",
