@@ -15,6 +15,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "DDDasher",
+            "bundleIdentifier": "com.doordash.dasher",
+            "version": "2.263.0",
+            "versionDate": "2023-04-13",
+            "size": 82444706,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/DDDasher-2.263.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.doordash.dasher.png"
+        },
+        {
             "name": "DoorDash",
             "bundleIdentifier": "doordash.DoorDashConsumer",
             "version": "4.112.2",
@@ -24,6 +35,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/doordash.DoorDashConsumer.png"
+        },
+        {
+            "name": "iGameGod",
+            "bundleIdentifier": "com.gamegod.igg",
+            "version": "1.0",
+            "versionDate": "2023-04-13",
+            "size": 69866423,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/iGameGod-1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gamegod.igg.png"
         },
         {
             "name": "RobloxPlus",
