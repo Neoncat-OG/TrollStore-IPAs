@@ -15,6 +15,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "BloonsTD6",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "version": "36.2",
+            "versionDate": "2023-04-14",
+            "size": 64937239,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/BloonsTD6-36.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ninjakiwi.bloonstd6.png"
+        },
+        {
+            "name": "DLTikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.0.0",
+            "versionDate": "2023-04-14",
+            "size": 163784045,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/DLTikTokLRD-29.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.0.0",
+            "versionDate": "2023-04-14",
+            "size": 163208192,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/TikTokLRD-29.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "DDDasher",
             "bundleIdentifier": "com.doordash.dasher",
             "version": "2.263.0",
