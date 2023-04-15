@@ -15,6 +15,28 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "BeRealBea",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "1.0-0.36.2",
+            "versionDate": "2023-04-15",
+            "size": 25156227,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.4.0",
+            "versionDate": "2023-04-15",
+            "size": 137605730,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
             "name": "BloonsTD6",
             "bundleIdentifier": "com.ninjakiwi.bloonstd6",
             "version": "36.2",
