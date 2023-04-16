@@ -15,6 +15,50 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "BHTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.51.1",
+            "versionDate": "2023-04-16",
+            "size": 104374009,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/BHTwitter-9.51.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "iPoGo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "2.8.8",
+            "versionDate": "2023-04-16",
+            "size": 122882233,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "SharkForMessenger",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "version": "403.1",
+            "versionDate": "2023-04-16",
+            "size": 46498634,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/SharkForMessenger-403.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.6.74",
+            "versionDate": "2023-04-16",
+            "size": 95654802,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/Watusi3-23.6.74.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "BeRealBea",
             "bundleIdentifier": "AlexisBarreyat.BeReal",
             "version": "1.0-0.36.2",
