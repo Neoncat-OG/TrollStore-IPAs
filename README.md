@@ -24,7 +24,7 @@ Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated |
 |----------|-------------|---------|-------------------|--------------|
 | Aidoku | Webtoon/manga browser | 0.6.2 | [Aidoku](https://github.com/Aidoku/Aidoku) | 03-24-2023 |
-| AI Smith | A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. [Full app description here](https://apps.apple.com/my/app/ai-chat-ai-smith-open-chatbot/id1559479889} | 5.2.2 | | [تطبيقات IPA 🌙](https://t.me/ipa_crack) | 04-19-2023 |
+| AI Smith | A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. [Full app description here](https://apps.apple.com/my/app/ai-chat-ai-smith-open-chatbot/id1559479889} | 5.2.2 | [تطبيقات IPA 🌙](https://t.me/ipa_crack) | 04-19-2023 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | 1.1.1 | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
 | Anime Now! | Anime streaming app. Currently supports streaming from GoGoAnime (sub & dub) and Zoro (dub only) | 1.0.0b3 | [ErrorErrorError](https://github.com/ErrorErrorError/anime-now) | 03-11-2023 |
 | Anonycord | Background anonymous video recording. Similar functionality to [SneakyCam by SparkDev](https://www.sparkdev.me/package/com.spark.sneakycam) | 1.2 | [c22dev](https://github.com/c22dev/Anonycord) | 01-31-2023 |
