@@ -134,7 +134,7 @@ Everything you can currently find in this repo:
 | Polish Pro | Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. [Full app description here](https://apps.apple.com/us/app/polish-photo-video-editor/id1481174327) | 1.5.3 | [DPixel](https://t.me/dpixel) | 02-25-2023 |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | 0.8.1 | N/A | 11-15-2022 |
 | Procreate | [App description here], this app is not modded, but a user requested it so here it is | 5.3.1 | [AppDB](https://appdb.to/app/ios/425073498) | 01-31-2023 |
-| RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | 2023.01.0 | [AppDB](https://appdb.to/app/cydia/1900000994) | 01-14-2023 |
+| RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | 2023.14.0 | [AppDB](https://appdb.to/app/cydia/1900000994) | 04-21-2023 |
 | ReFace Pro | *EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release.* [ReFace](https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587), a popular face-swap app, with pro features unlocked | 3.5.1 | [iPAWiND](https://t.me/iPAWiND) | 03-21-2023 |
 | Reporizator | App to add repos to your favorite package managers. Compatible with iOS 15+ | 1.1 | [haxi0](https://github.com/haxi0/Reporizator) | 11-12-2022 |
 | ResolutionSetter | Custom resolution setter for jailed devices | 1.0 | [haoict](https://github.com/haoict/haoict.github.io/tree/master/cydia/ipa/ResolutionSetterSwift) | 10-17-2022 |
