@@ -15,6 +15,28 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "MEGA",
+            "bundleIdentifier": "mega.ios",
+            "version": "9.8",
+            "versionDate": "2023-04-22",
+            "size": 88794881,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2023/MEGA-9.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/mega.ios.png"
+        },
+        {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.2.6",
+            "versionDate": "2023-04-22",
+            "size": 65266874,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2023/Nicegram-1.2.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
             "name": "RedditPlus",
             "bundleIdentifier": "com.reddit.Reddit",
             "version": "2023.14.0",
