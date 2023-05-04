@@ -15,6 +15,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "15.1",
+            "versionDate": "2023-05-04",
+            "size": 61746901,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "TwitchToolbox",
+            "bundleIdentifier": "tv.twitch",
+            "version": "15.1",
+            "versionDate": "2023-05-04",
+            "size": 63685099,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchToolbox-15.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.3.5-5.55.1",
+            "versionDate": "2023-05-04",
+            "size": 75481849,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/YTMusicUltimate-1.3.5-5.55.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "BHTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "3.9.1-9.56.1",
