@@ -15,6 +15,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "2.2.5-176.0",
+            "versionDate": "2023-05-06",
+            "size": 89066297,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "iPoGo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "2.8.9",
+            "versionDate": "2023-05-06",
+            "size": 122907896,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.17.1",
+            "versionDate": "2023-05-06",
+            "size": 126750253,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
             "name": "YouTubeEliteSideloadFix",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "18.17.2",
@@ -26,26 +59,15 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
-            "name": "YouTube",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "version": "18.17.2-Test2",
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.3.6-6.01.2",
             "versionDate": "2023-05-06",
-            "size": 129479163,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Testing/YouTube-18.17.2-Test2.ipa",
+            "size": 75596211,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/YTMusicUltimate-1.3.6-6.01.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
-        },
-        {
-            "name": "YouTube_18.17.2",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "version": "SideloadOnly",
-            "versionDate": "2023-05-06",
-            "size": 126506283,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Testing/YouTube_18.17.2-SideloadOnly.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "TwitchPlus",
