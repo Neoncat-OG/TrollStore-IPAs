@@ -15,6 +15,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "YouTubeEliteSideloadFix",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.17.2",
+            "versionDate": "2023-05-06",
+            "size": 129479163,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/YouTubeEliteSideloadFix-18.17.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.17.2-Test2",
+            "versionDate": "2023-05-06",
+            "size": 129479163,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Testing/YouTube-18.17.2-Test2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTube_18.17.2",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "SideloadOnly",
+            "versionDate": "2023-05-06",
+            "size": 126506283,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Testing/YouTube_18.17.2-SideloadOnly.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "TwitchPlus",
             "bundleIdentifier": "tv.twitch",
             "version": "15.1",
