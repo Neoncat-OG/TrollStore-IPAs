@@ -37,6 +37,50 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
+            "name": "InstagramElite",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "281.0",
+            "versionDate": "2023-05-10",
+            "size": 153271303,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/InstagramElite-281.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "282.0",
+            "versionDate": "2023-05-10",
+            "size": 129399520,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/InstaRocketCracked-282.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "PhotomathPlus",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.23.0",
+            "versionDate": "2023-05-10",
+            "size": 13513357,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/PhotomathPlus-8.23.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.3.0",
+            "versionDate": "2023-05-10",
+            "size": 162910551,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "TikTokDarkTouch",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "29.2.0",
