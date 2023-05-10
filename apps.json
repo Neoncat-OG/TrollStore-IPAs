@@ -15,6 +15,61 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
+            "name": "BHTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.57",
+            "versionDate": "2023-05-10",
+            "size": 101344258,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/BHTwitter-9.57.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "177.1",
+            "versionDate": "2023-05-10",
+            "size": 95348126,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "TikTokDarkTouch",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.2.0",
+            "versionDate": "2023-05-10",
+            "size": 161775028,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDarkTouch-29.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.3.0",
+            "versionDate": "2023-05-10",
+            "size": 217083160,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokLRD-29.3.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.18.2",
+            "versionDate": "2023-05-10",
+            "size": 113633962,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/YouTubeElite-18.18.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "Enmity",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "version": "2.2.5-176.0",
