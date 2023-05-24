@@ -4,15 +4,169 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
-            "name": "HPHogwartsMystery",
-            "bundleIdentifier": "com.tinyco.potter",
-            "version": "5.0.0",
-            "versionDate": "2023-04-09",
-            "size": 128568818,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2023/HPHogwartsMystery-5.0.0.ipa",
+            "name": "BHTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "3.9.1-9.59",
+            "versionDate": "2023-05-24",
+            "size": 85369199,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/BHTwitter-3.9.1-9.59.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "DLTikTok",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.5.0",
+            "versionDate": "2023-05-24",
+            "size": 158586010,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTikTok-29.5.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "DLTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.58.1",
+            "versionDate": "2023-05-24",
+            "size": 94293200,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTwitter-9.58.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "415.1",
+            "versionDate": "2023-05-24",
+            "size": 128531017,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "iPoGo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "2.9.2",
+            "versionDate": "2023-05-24",
+            "size": 123750627,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "MovieBoxPro",
+            "bundleIdentifier": "com.xd.mbp31",
+            "version": "12.5",
+            "versionDate": "2023-05-24",
+            "size": 139758301,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/MovieBoxPro-12.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
+        },
+        {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.2.9",
+            "versionDate": "2023-05-24",
+            "size": 64992543,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/Nicegram-1.2.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
+            "name": "PhotomathPlus",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.24.0",
+            "versionDate": "2023-05-24",
+            "size": 13704658,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotomathPlus-8.24.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.19.0",
+            "versionDate": "2023-05-24",
+            "size": 123085415,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "SharkForMessenger",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "version": "409.0",
+            "versionDate": "2023-05-24",
+            "size": 47247796,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/SharkForMessenger-409.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
+        },
+        {
+            "name": "SnapchatFalcon",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.35.0",
+            "versionDate": "2023-05-24",
+            "size": 105933742,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/SnapchatFalcon-12.35.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "15.2.1",
+            "versionDate": "2023-05-24",
+            "size": 56367481,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.20.3",
+            "versionDate": "2023-05-24",
+            "size": 114488152,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YouTubeElite-18.20.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YoutubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.20.3",
+            "versionDate": "2023-05-24",
+            "size": 114162479,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YoutubeReborn-18.20.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.4.0-6.03",
+            "versionDate": "2023-05-24",
+            "size": 60369129,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YTMusicUltimate-1.4.0-6.03.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Cowabunga",
@@ -1256,6 +1410,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+        },
+        {
+            "name": "HPHogwartsMystery",
+            "bundleIdentifier": "com.tinyco.potter",
+            "version": "5.0.0",
+            "versionDate": "2023-04-09",
+            "size": 128568818,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2023/HPHogwartsMystery-5.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
         },
         {
             "name": "FacebookWolf",
