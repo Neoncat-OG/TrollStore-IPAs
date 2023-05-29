@@ -4,6 +4,61 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "10.3.0",
+            "versionDate": "2023-05-29",
+            "size": 16285936,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/Cowabunga-10.3.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
+            "name": "Monopoly",
+            "bundleIdentifier": "com.marmalade.monopoly",
+            "version": "1.9.0",
+            "versionDate": "2023-05-29",
+            "size": 494414845,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/Monopoly-1.9.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.marmalade.monopoly.png"
+        },
+        {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "22.3.5",
+            "versionDate": "2023-05-29",
+            "size": 94718889,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.6.0",
+            "versionDate": "2023-05-29",
+            "size": 164606635,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.21.3",
+            "versionDate": "2023-05-29",
+            "size": 114530381,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/YouTubeElite-18.21.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "BHTwitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "3.9.1-9.59",
