@@ -18,7 +18,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 *Since people see TrollStore in the title and immediately think all apps in here are TrollStore only, they aren't. A lot of apps in here will work just fine when sideloaded. However, since I am personally using these apps with TrollStore, I cannot guarantee that every app will work while properly sideloaded, nor will I offer any support if an app from this list doesn't work as intended when sideloaded*
 
-**Note about the Version column:** sometimes it will just be the app base version, sometimes it will be [tweak version]-[app version]. This is subject to change on a per-app basis
+**Note about the Version column:** sometimes it will just be the app base version, sometimes it will be [tweak version]-[app version]. This is subject to change on a per-app, per-update basis
 
 Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated |
