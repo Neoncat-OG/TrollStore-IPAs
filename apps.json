@@ -4,6 +4,72 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AIChat",
+            "bundleIdentifier": "com.enjoy.aichat.chatbot.openchat",
+            "version": "1.0.2",
+            "versionDate": "2023-06-25",
+            "size": 42649021,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/AIChat-1.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.enjoy.aichat.chatbot.openchat.png"
+        },
+        {
+            "name": "CyPwnStore",
+            "bundleIdentifier": "Ed0ardo.CyPwn-Store",
+            "version": "7.0",
+            "versionDate": "2023-06-25",
+            "size": 914692,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/CyPwnStore-7.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Ed0ardo.CyPwn-Store.png"
+        },
+        {
+            "name": "ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "version": "4.8.2",
+            "versionDate": "2023-06-25",
+            "size": 7120626,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/ESign-4.8.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "2.1-419.0",
+            "versionDate": "2023-06-25",
+            "size": 147584969,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-2.1-419.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "ShowMania",
+            "bundleIdentifier": "com.showmania.co",
+            "version": "2.0",
+            "versionDate": "2023-06-25",
+            "size": 9764447,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/ShowMania-2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.showmania.co.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.0.0",
+            "versionDate": "2023-06-25",
+            "size": 227767318,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/TikTokLRD-30.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "BeRealBea",
             "bundleIdentifier": "AlexisBarreyat.BeReal",
             "version": "1.2.2-1.5",
