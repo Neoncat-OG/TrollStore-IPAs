@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InfusePro",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.5.7",
+            "versionDate": "2023-06-29",
+            "size": 44492277,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+        },
+        {
+            "name": "InstagramElite",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "289.1",
+            "versionDate": "2023-06-29",
+            "size": 145214663,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InstagramElite-289.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "289.1",
+            "versionDate": "2023-06-29",
+            "size": 143202331,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InstaRocketCracked-289.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.48",
+            "versionDate": "2023-06-29",
+            "size": 62089458,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/Spotilife-8.8.48.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.1.0",
+            "versionDate": "2023-06-29",
+            "size": 226257129,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "15.5",
+            "versionDate": "2023-06-29",
+            "size": 78060639,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.12.76",
+            "versionDate": "2023-06-29",
+            "size": 105959446,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/Watusi3-23.12.76.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "InstaRocketCracked",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "289",
