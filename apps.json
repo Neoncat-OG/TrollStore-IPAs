@@ -4,6 +4,50 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "MonstersLegends",
+            "bundleIdentifier": "es.socialpoint.MonsterCity",
+            "version": "15.2.2",
+            "versionDate": "2023-06-30",
+            "size": 101363014,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/MonstersLegends-15.2.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/es.socialpoint.MonsterCity.png"
+        },
+        {
+            "name": "PicsartPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "22.6.2",
+            "versionDate": "2023-06-30",
+            "size": 97907313,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsartPlusPlus-22.6.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "Vendetta",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "181.0",
+            "versionDate": "2023-06-30",
+            "size": 93987800,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/Vendetta-181.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.08.2",
+            "versionDate": "2023-06-30",
+            "size": 72233781,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/YTMusicUltimate-6.08.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "version": "7.5.7",
