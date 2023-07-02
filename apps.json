@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "PhotomathPlus",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.26.0",
+            "versionDate": "2023-07-02",
+            "size": 16295410,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/PhotomathPlus-8.26.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
+            "name": "YouTubeElite",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.25.1",
+            "versionDate": "2023-07-02",
+            "size": 128699163,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/YouTubeElite-18.25.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "MonstersLegends",
             "bundleIdentifier": "es.socialpoint.MonsterCity",
             "version": "15.2.2",
