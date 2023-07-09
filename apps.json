@@ -4,6 +4,72 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Aidoku",
+            "bundleIdentifier": "xyz.skitty.Aidoku",
+            "version": "0.6.4",
+            "versionDate": "2023-07-09",
+            "size": 5567793,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/Aidoku-0.6.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+        },
+        {
+            "name": "BHTwitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.65",
+            "versionDate": "2023-07-09",
+            "size": 86994858,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/BHTwitter-9.65.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "422.0",
+            "versionDate": "2023-07-09",
+            "size": 148850803,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "InShotPro",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.70.0",
+            "versionDate": "2023-07-09",
+            "size": 104584718,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "MonstersLegends",
+            "bundleIdentifier": "es.socialpoint.MonsterCity",
+            "version": "15.2.3",
+            "versionDate": "2023-07-09",
+            "size": 101384384,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/MonstersLegends-15.2.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/es.socialpoint.MonsterCity.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "2.5-30.2.0",
+            "versionDate": "2023-07-09",
+            "size": 221657400,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/TikTokLRD-2.5-30.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "TikTokDark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "30.2.0",
