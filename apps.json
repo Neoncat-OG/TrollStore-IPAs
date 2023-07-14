@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.3.0",
+            "versionDate": "2023-07-14",
+            "size": 239475937,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/BHTikTokLRD-30.3.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "Paperback",
             "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
             "version": "0.8.2",
@@ -13,6 +24,28 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.14.0",
+            "versionDate": "2023-07-14",
+            "size": 102817118,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/Watusi3-23.14.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.10.1",
+            "versionDate": "2023-07-14",
+            "size": 66404774,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/YTMusicUltimate-6.10.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Aidoku",
