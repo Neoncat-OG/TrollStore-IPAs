@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "293.1",
+            "versionDate": "2023-07-26",
+            "size": 133110300,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/InstaRocketBH-293.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "iTorrent",
+            "bundleIdentifier": "ru.nonamedude.iTorrent",
+            "version": "1.9",
+            "versionDate": "2023-07-26",
+            "size": 23999317,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/iTorrent-1.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.29.0",
+            "versionDate": "2023-07-26",
+            "size": 115405351,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "RobloxPlus",
+            "bundleIdentifier": "com.roblox.nk",
+            "version": "2.586.0",
+            "versionDate": "2023-07-26",
+            "size": 111176202,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/RobloxPlus-2.586.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.roblox.nk.png"
+        },
+        {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.5.0",
+            "versionDate": "2023-07-26",
+            "size": 228728729,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.14.82",
+            "versionDate": "2023-07-26",
+            "size": 100871259,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/Watusi3-23.14.82.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "YouTubeOLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.29.1",
+            "versionDate": "2023-07-26",
+            "size": 123943163,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/YouTubeOLED-18.29.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "BHTikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "0.0.1-30.4.0",
