@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTikTok",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "0.0.1-30.5.0",
+            "versionDate": "2023-07-27",
+            "size": 170947897,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTok-0.0.1-30.5.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "3.0-30.5.0",
+            "versionDate": "2023-07-27",
+            "size": 234249467,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "InstaRocketBH",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "293.1",
