@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.29.1",
+            "versionDate": "2023-07-30",
+            "size": 115403508,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "RobloxPlus",
+            "bundleIdentifier": "com.roblox.nk",
+            "version": "2.586.0",
+            "versionDate": "2023-07-30",
+            "size": 118216962,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/RobloxPlus-2.586.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.roblox.nk.png"
+        },
+        {
             "name": "InstaRocketCracked",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "293.1",
