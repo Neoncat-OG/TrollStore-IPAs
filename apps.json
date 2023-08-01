@@ -37,6 +37,50 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "294.0",
+            "versionDate": "2023-08-01",
+            "size": 124694635,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/InstaRocketBH-294.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.30.6",
+            "versionDate": "2023-08-01",
+            "size": 109530389,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/uYouPlus-18.30.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeOLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.30.6",
+            "versionDate": "2023-08-01",
+            "size": 121891056,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/YouTubeOLED-18.30.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.13.1",
+            "versionDate": "2023-08-01",
+            "size": 65044981,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/YTMusicUltimate-6.13.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "PhotoshopExpress",
             "bundleIdentifier": "com.adobe.PSMobile",
             "version": "23.29.1",
