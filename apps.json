@@ -37,6 +37,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "BHTikTok",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.6.0",
+            "versionDate": "2023-08-02",
+            "size": 169954110,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTok-30.6.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokDark",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.6.0",
+            "versionDate": "2023-08-02",
+            "size": 169756636,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.30.7",
+            "versionDate": "2023-08-02",
+            "size": 108885324,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/uYouPlusExtra-18.30.7.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "InstaRocketBH",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "294.0",
