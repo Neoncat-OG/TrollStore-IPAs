@@ -37,6 +37,50 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.30.0",
+            "versionDate": "2023-08-03",
+            "size": 136902646,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.56",
+            "versionDate": "2023-08-03",
+            "size": 56728119,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/Spotilife-8.8.56.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "3.0-30.6.0",
+            "versionDate": "2023-08-03",
+            "size": 236300889,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "15.7",
+            "versionDate": "2023-08-03",
+            "size": 64346228,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
             "name": "BHTikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "30.6.0",
