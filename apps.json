@@ -59,6 +59,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
+            "name": "Paperback",
+            "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
+            "version": "0.8.6",
+            "versionDate": "2023-08-05",
+            "size": 10727226,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/Paperback-0.8.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
+        },
+        {
             "name": "Watusi3",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
             "version": "23.15.78",
