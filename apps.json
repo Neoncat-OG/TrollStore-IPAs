@@ -37,6 +37,50 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "Antoine",
+            "bundleIdentifier": "com.serena.Antoine",
+            "version": "1.2.tipa",
+            "versionDate": "2023-08-12",
+            "size": 1680847,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-12-2023/Antoine-1.2.tipa.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
+        },
+        {
+            "name": "DebToIPA",
+            "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+            "version": "1.1.1",
+            "versionDate": "2023-08-12",
+            "size": 1238055,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-12-2023/DebToIPA-1.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
+        },
+        {
+            "name": "DirtyCowApp",
+            "bundleIdentifier": "com.mineek.dirtycow",
+            "version": "1.1.1",
+            "versionDate": "2023-08-12",
+            "size": 1286450,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-12-2023/DirtyCowApp-1.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mineek.dirtycow.png"
+        },
+        {
+            "name": "RedditPlus",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.31.0",
+            "versionDate": "2023-08-12",
+            "size": 93109645,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-12-2023/RedditPlus-2023.31.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
+        },
+        {
             "name": "BHTikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "30.7.0-1.3",
