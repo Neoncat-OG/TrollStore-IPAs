@@ -37,6 +37,61 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "inshot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.70.3",
+            "versionDate": "2023-08-14",
+            "size": 94184469,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/inshot-1.70.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "SnapchatWicked",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.47",
+            "versionDate": "2023-08-14",
+            "size": 95894033,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/SnapchatWicked-12.47.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.61",
+            "versionDate": "2023-08-14",
+            "size": 84629975,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/SpotifyDeluxe-8.8.61.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.61",
+            "versionDate": "2023-08-14",
+            "size": 57388693,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/Spotilife-8.8.61.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.32.2",
+            "versionDate": "2023-08-14",
+            "size": 107094274,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/uYouPlusExtra-18.32.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "Antoine",
             "bundleIdentifier": "com.serena.Antoine",
             "version": "1.2.tipa",
