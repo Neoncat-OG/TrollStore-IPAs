@@ -37,6 +37,72 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.2",
+            "versionDate": "2023-08-16",
+            "size": 77660779,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/BHX-10.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "CarrotWeatherUltra",
+            "bundleIdentifier": "com.grailr.CARROTweather",
+            "version": "5.11.2",
+            "versionDate": "2023-08-16",
+            "size": 51651080,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/CarrotWeatherUltra-5.11.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png"
+        },
+        {
+            "name": "inshot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.71.0",
+            "versionDate": "2023-08-16",
+            "size": 109555080,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/inshot-1.71.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "RedditPlus",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.32.0",
+            "versionDate": "2023-08-16",
+            "size": 85296283,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/RedditPlus-2023.32.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
+        },
+        {
+            "name": "RobloxPlus",
+            "bundleIdentifier": "com.roblox.nk",
+            "version": "2.589.593",
+            "versionDate": "2023-08-16",
+            "size": 103451902,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/RobloxPlus-2.589.593.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.roblox.nk.png"
+        },
+        {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.62",
+            "versionDate": "2023-08-16",
+            "size": 85248239,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/SpotifyDeluxe-8.8.62.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
             "name": "inshot",
             "bundleIdentifier": "com.camerasideas.InstaShot",
             "version": "1.70.3",
