@@ -37,6 +37,28 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.64",
+            "versionDate": "2023-08-23",
+            "size": 65515998,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-23-2023/SpotifyDeluxe-8.8.64.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.5-6.16.4",
+            "versionDate": "2023-08-23",
+            "size": 58817762,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-23-2023/YTMusicUltimate-1.5-6.16.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "BHTikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "30.8.0-1.4",
@@ -123,17 +145,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-        },
-        {
-            "name": "YTMusicUltimate",
-            "bundleIdentifier": "com.google.ios.youtubemusic",
-            "version": "1.5-6.14.4",
-            "versionDate": "2023-08-22",
-            "size": 58817762,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/YTMusicUltimate-1.5-6.14.4.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "BeRealBea",
