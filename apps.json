@@ -37,6 +37,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.3.2",
+            "versionDate": "2023-08-27",
+            "size": 77825585,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2023/BHX-10.3.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "BHTikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "30.9.0-1.4",
