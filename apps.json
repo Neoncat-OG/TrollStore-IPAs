@@ -37,6 +37,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "LingoDeer",
+            "bundleIdentifier": "com.lingodeer",
+            "version": "2.9.3",
+            "versionDate": "2023-09-03",
+            "size": 163259362,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2023/LingoDeer-2.9.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lingodeer.png"
+        },
+        {
             "name": "AIChatSmith",
             "bundleIdentifier": "co.vulcanlabs.moodtracker",
             "version": "6.1",
