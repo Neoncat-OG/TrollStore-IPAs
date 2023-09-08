@@ -48,6 +48,28 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "2.2.6-194.0",
+            "versionDate": "2023-09-08",
+            "size": 103897880,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "298.0",
+            "versionDate": "2023-09-08",
+            "size": 130530731,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/InstaRocketPlus-298.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "SnapchatFalcon",
             "bundleIdentifier": "com.toyopagroup.picaboo",
             "version": "2.1-12.50",
