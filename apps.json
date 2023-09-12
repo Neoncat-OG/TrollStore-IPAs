@@ -37,6 +37,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "Aidoku",
+            "bundleIdentifier": "xyz.skitty.Aidoku",
+            "version": "0.6.5",
+            "versionDate": "2023-09-12",
+            "size": 3206258,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/Aidoku-0.6.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+        },
+        {
             "name": "BeRealBea",
             "bundleIdentifier": "AlexisBarreyat.BeReal",
             "version": "1.3.1-1.10.1",
@@ -442,6 +453,50 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lingodeer.png"
+        },
+        {
+            "name": "AIChatSmith",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "version": "6.1",
+            "versionDate": "2023-09-02",
+            "size": 48912919,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmith-6.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+        },
+        {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.0.0-2.0",
+            "versionDate": "2023-09-02",
+            "size": 169557840,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "3.0-31.0.0",
+            "versionDate": "2023-09-02",
+            "size": 171969348,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.17.78-1.2",
+            "versionDate": "2023-09-02",
+            "size": 75874909,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/Watusi3-23.17.78-1.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "BHTikTok",
@@ -1531,50 +1586,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "PhotoshopExpress",
-            "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "23.30.0",
-            "versionDate": "2023-08-03",
-            "size": 136902646,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
-        },
-        {
-            "name": "Spotilife",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.58",
-            "versionDate": "2023-08-03",
-            "size": 56728119,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/Spotilife-8.8.58.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "TikTokLRD",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "version": "3.0-30.6.0",
-            "versionDate": "2023-08-03",
-            "size": 231719368,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
-            "name": "TwitchPlus",
-            "bundleIdentifier": "tv.twitch",
-            "version": "15.7",
-            "versionDate": "2023-08-03",
-            "size": 64346228,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
         },
         {
             "name": "PhotoshopExpress",
