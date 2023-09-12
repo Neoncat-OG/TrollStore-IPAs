@@ -23,7 +23,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated |
 |----------|-------------|---------|-------------------|--------------|
-| Aidoku | Webtoon/manga browser | 0.6.4-10b1121 | [Aidoku](https://github.com/Aidoku/Aidoku) | 07-17-2023 |
+| Aidoku | Webtoon/manga browser | 0.6.5 | [Aidoku](https://github.com/Aidoku/Aidoku) | 09-12-2023 |
 | AI Chat | Yet another AI thing, bunch of different assistants, including poet, comedian, interviewer, poet, etc. *p.s. you can trick this one into giving you info about stuff it normally shouldn't, if you can word it the right way ;)* | 1.02 | [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) | 06-25-2023 |
 | AI Chat Smith Premium | A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. [Full app description here](https://apps.apple.com/fj/app/ai-chatbot-ai-chat-smith-4/id1559479889) | 6.1 | [تطبيقات IPA 🌙](https://t.me/ipa_crack) / [AppleFavour iPA Library](https://t.me/iparsiv) | 09-02-2023 |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | 1.1.1 | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 |
