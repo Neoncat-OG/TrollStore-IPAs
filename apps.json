@@ -37,6 +37,105 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "BeRealBea",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "1.3.1-1.11.0",
+            "versionDate": "2023-09-14",
+            "size": 40372995,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.1.0-2.2",
+            "versionDate": "2023-09-14",
+            "size": 230428022,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "2.2.6-195.0",
+            "versionDate": "2023-09-14",
+            "size": 108435829,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "LingoDeer",
+            "bundleIdentifier": "com.lingodeer",
+            "version": "2.9.4",
+            "versionDate": "2023-09-14",
+            "size": 174574258,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/LingoDeer-2.9.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lingodeer.png"
+        },
+        {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.4.0",
+            "versionDate": "2023-09-14",
+            "size": 92868382,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Nicegram-1.4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
+            "name": "RedditPlus",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.36.0",
+            "versionDate": "2023-09-14",
+            "size": 115883349,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/RedditPlus-2023.36.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
+        },
+        {
+            "name": "SnapchatFalcon",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "2.0-12.51",
+            "versionDate": "2023-09-14",
+            "size": 116089073,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/SnapchatFalcon-2.0-12.51.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.70",
+            "versionDate": "2023-09-14",
+            "size": 66308661,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/SpotifyDeluxe-8.8.70.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "16.2",
+            "versionDate": "2023-09-14",
+            "size": 71678888,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
             "name": "Aidoku",
             "bundleIdentifier": "xyz.skitty.Aidoku",
             "version": "0.6.5",
@@ -90,17 +189,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-        },
-        {
-            "name": "SnapchatFalcon",
-            "bundleIdentifier": "com.toyopagroup.picaboo",
-            "version": "2.0-12.50",
-            "versionDate": "2023-09-12",
-            "size": 116089073,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/SnapchatFalcon-2.0-12.50.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
             "name": "SnapchatWicked",
