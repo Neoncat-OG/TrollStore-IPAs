@@ -41,7 +41,7 @@ These emojis should assist you in making informed decisions when selecting apps 
    ### Known reposters: *(09-20-2023)*
    
     | Reposter | Original Tweak/Maintainer |
-    | --------- | --------------------------|
+    |:---------|---------------------------|
     | [KAMO HACkS](https://t.me/kamohacks)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) |
     | [IPA Fire](https://t.me/ipafire)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) |
     | [AppleFavour iPA Library](https://t.me/iparsiv)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
@@ -52,7 +52,7 @@ These emojis should assist you in making informed decisions when selecting apps 
 
 Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated | Status |
-|----------|-------------|---------|-------------------|--------------|--------|
+|:---------|:-----------:|:-------:|:-----------------:|:------------:|:-------|
 | Aidoku | Webtoon/manga browser | 0.6.5 | [Aidoku](https://github.com/Aidoku/Aidoku) | 09-12-2023 | :heavy_check_mark: |
 | AI Chat | Yet another AI thing, bunch of different assistants, including poet, comedian, interviewer, poet, etc. *p.s. you can trick this one into giving you info about stuff it normally shouldn't, if you can word it the right way ;)* | 1.02 | [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) | 06-25-2023 | :x: |
 | AI Chat Smith Premium | A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. [Full app description here](https://apps.apple.com/fj/app/ai-chatbot-ai-chat-smith-4/id1559479889) | 6.2 | [تطبيقات IPA 🌙](https://t.me/ipa_crack) / [AppleFavour iPA Library](https://t.me/iparsiv) | 09-19-2023 | :heavy_check_mark: :thumbsup: |
