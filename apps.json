@@ -37,6 +37,83 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "BlackHole",
+            "bundleIdentifier": "com.shadow.blackhole1160.ios",
+            "version": "1.15.9",
+            "versionDate": "2023-09-23",
+            "size": 28764405,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/BlackHole-1.15.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png"
+        },
+        {
+            "name": "Delta",
+            "bundleIdentifier": "com.rileytestut.Delta.Beta",
+            "version": "1.4rc",
+            "versionDate": "2023-09-23",
+            "size": 46299284,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Delta-1.4rc.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png"
+        },
+        {
+            "name": "EGG3DS",
+            "bundleIdentifier": "com.xiaoji.wuziqi",
+            "version": "v2.5.9",
+            "versionDate": "2023-09-23",
+            "size": 88945634,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/EGG3DS-v2.5.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xiaoji.wuziqi.png"
+        },
+        {
+            "name": "ipogo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "3.1.1",
+            "versionDate": "2023-09-23",
+            "size": 127591654,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/ipogo-3.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "Otraku",
+            "bundleIdentifier": "com.otraku.app",
+            "version": "1.2.5",
+            "versionDate": "2023-09-23",
+            "size": 9842869,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Otraku-1.2.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
+        },
+        {
+            "name": "Rosiecord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "197.0",
+            "versionDate": "2023-09-23",
+            "size": 139028037,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Rosiecord-197.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.19.76-1.2.4-3.4.4",
+            "versionDate": "2023-09-23",
+            "size": 98950997,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Watusi3-23.19.76-1.2.4-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "BHTikTokPlus",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "31.3.0-2.2.1",
