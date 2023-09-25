@@ -37,6 +37,28 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.38.2",
+            "versionDate": "2023-09-25",
+            "size": 125683291,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-25-2023/uYouPlusExtra-18.38.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YouTubeOLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.38.2",
+            "versionDate": "2023-09-25",
+            "size": 114674975,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-25-2023/YouTubeOLED-18.38.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "BlackHole",
             "bundleIdentifier": "com.shadow.blackhole1160.ios",
             "version": "1.15.9",
