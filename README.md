@@ -38,7 +38,7 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 -  **Reposters Notice:** If you wish to grab IPA files outside of this repository, please be aware that there has been a persistent issue of Telegram channels stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository may list Telegram channels that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. This list may be updated frequently and is subject to change over time.
 
-   ### Known reposters: *(09-20-2023)*
+   ### Known reposters: *(09-27-2023)*
    
     | Reposter | Original Tweak/Maintainer |
     |:---------|---------------------------|
@@ -46,6 +46,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [IPA Fire](https://t.me/ipafire)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) |
     | [AppleFavour iPA Library](https://t.me/iparsiv)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
     | [Panda Helper](https://pandahelp.vip/)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) |
+    | [HertzSign iPA Library](https://t.me/HertzSign)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
 
    *Important Clarification: Reposters **are not** automatically **unsafe or malicious**; they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.*
    
