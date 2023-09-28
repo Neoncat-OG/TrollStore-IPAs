@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AIChatSmith",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "version": "6.2.2",
+            "versionDate": "2023-09-28",
+            "size": 58152963,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmith-6.2.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+        },
+        {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.8-4.0",
+            "versionDate": "2023-09-28",
+            "size": 100204461,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/BHX-10.8-4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "433.1",
+            "versionDate": "2023-09-28",
+            "size": 147521226,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "Snapchatiota",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.49.0-ipa",
+            "versionDate": "2023-09-28",
+            "size": 100454729,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Snapchatiota-12.49.0-ipa.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "SnapchatWicked",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.53.1",
+            "versionDate": "2023-09-28",
+            "size": 106337033,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/SnapchatWicked-12.53.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.75",
+            "versionDate": "2023-09-28",
+            "size": 67029587,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/SpotifyDeluxe-8.8.75.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.74",
+            "versionDate": "2023-09-28",
+            "size": 61057682,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Spotilife-8.8.74.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
             "name": "BHX",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "10.0",
