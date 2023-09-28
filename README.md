@@ -38,7 +38,7 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 -  **Reposters Notice:** If you wish to grab IPA files outside of this repository, please be aware that there has been a persistent issue of Telegram channels stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository may list Telegram channels that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. This list may be updated frequently and is subject to change over time.
 
-   ### Known reposters: *(09-27-2023)*
+   ### Known reposters: *(09-29-2023)*
    
     | Reposter | Original Tweak/Maintainer |
     |:---------|---------------------------|
