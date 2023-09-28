@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.0",
+            "versionDate": "2023-07-31",
+            "size": 83115116,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/BHX-10.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "SnapchatWicked",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.45",
+            "versionDate": "2023-07-31",
+            "size": 104166054,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/SnapchatWicked-12.45.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.56",
+            "versionDate": "2023-07-31",
+            "size": 58996898,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/Spotilife-8.8.56.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
             "name": "AIChatSmith",
             "bundleIdentifier": "co.vulcanlabs.moodtracker",
             "version": "6.2.2",
@@ -39,7 +72,7 @@
         {
             "name": "Snapchatiota",
             "bundleIdentifier": "com.toyopagroup.picaboo",
-            "version": "12.49.0-ipa",
+            "version": "12.49.0",
             "versionDate": "2023-09-28",
             "size": 100454729,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Snapchatiota-12.49.0.ipa",
@@ -76,39 +109,6 @@
             "versionDate": "2023-09-28",
             "size": 61057682,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Spotilife-8.8.74.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "BHX",
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "version": "10.0",
-            "versionDate": "2023-07-31",
-            "size": 83115116,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/BHX-10.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
-        },
-        {
-            "name": "SnapchatWicked",
-            "bundleIdentifier": "com.toyopagroup.picaboo",
-            "version": "12.45",
-            "versionDate": "2023-07-31",
-            "size": 104166054,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/SnapchatWicked-12.45.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
-        },
-        {
-            "name": "Spotilife",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.56",
-            "versionDate": "2023-07-31",
-            "size": 58996898,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/Spotilife-8.8.56.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
