@@ -6,15 +6,11 @@
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
 
-All credit to their respective maintainers, I simply gather and update all the IPAs I have in one place
-
 All *future* app updates will contain some form of version numbers in the file names. If the versioning scheme for an app changes, it is because the dev/maintainer changed up their scheme
 
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
 Releases are made by the day - new day, new release. I make a release one day and edit it throughout the day with new or updated IPAs until the day ends, and then create a new release post by the day and just modify it. This keeps notification spam to a minimum but will mean you might want to wait until the day ends to go through a release to make sure all files are final, since I may make changes throughout the day. Everything is done in the CST time zone
-
-*Since people see TrollStore in the title and immediately think all apps in here are TrollStore only, they aren't. A lot of apps in here will work just fine when sideloaded. However, since I am personally using these apps with ESign and Sideloadly, I cannot guarantee that every app will work properly with TrollStore, nor will I offer any support if an app from this list doesn't work as intended..*
 
 ## Emoji Guide for App Selection *(Status)*
 
@@ -32,13 +28,17 @@ These emojis should assist you in making informed decisions when selecting apps 
 
 ## Additional Information
 
+- **Crediting Contributions:** Ensuring proper recognition of the hard work put in by the respective maintainers is of utmost importance. It's crucial to acknowledge that I gather and update all the IPAs I have in one central location. This process is carried out with immense respect for the creators, emphasizing that credits are obligatory and placed at the forefront because they reflect the dedication and effort invested by these individuals.
+
+- **TrollStore Apps Compatibility:** In order to clarify, the presence of the term "TrollStore" in the title may lead some individuals to assume that all the applications listed herein are exclusively compatible with TrollStore. This, however, is not the case. Many of the apps featured on this list can indeed function seamlessly when sideloaded. Nevertheless, it is important to note that since I personally employ these apps in conjunction with ESign and Sideloadly, I cannot provide an absolute guarantee that every app will function as intended within TrollStore. Furthermore, it is essential to understand that I will not be able to offer any form of support in the event that an app from this list does not perform as expected in TrollStore.
+
 - **Reporting Issues:** When reporting issues or problems with the apps in this repository, please include details about your device specifications and the versions of the apps you are using. This information is crucial for diagnosing and addressing issues effectively. Without it, it can be challenging to pinpoint the reasons behind the problems you encounter.
 
 - **Version Column:** The version column in this repository may vary. Sometimes, it will display the base version of the app, and in other cases, it may show a combination of the tweak version and the app version (e.g., [tweak version]-[app version]). Please note that this format is subject to change for each app and update, depending on the developer's or maintainer's preferences.
   
--  **Reposters Notice:** If you wish to grab IPA files outside of this repository, please be aware that there has been a persistent issue of Telegram channels stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository may list Telegram channels that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. This list may be updated frequently and is subject to change over time.
+-  **Reposters Notice:** If you intend to download IPA files from sources other than this repository, it's important to note that there is an ongoing problem with Telegram channels, websites, and individuals stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository will list parties that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. Expect regular updates to this list, as it is subject to change.
 
-   ### Known reposters: *(09-29-2023)*
+   ### Known reposters: *(09-30-2023)*
    
     | Reposter | Original Tweak/Maintainer |
     |:---------|---------------------------|
@@ -48,6 +48,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [Panda Helper](https://pandahelp.vip/)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) |
     | [HertzSign iPA Library](https://t.me/HertzSign)  | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
     | [DVC iPA](https://t.me/dvcipaios) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
+    | [WuXu1](https://github.com/WuXu1/WuXu1.github.io/)→ [AppDB](https://appdb.to/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [Kanji's discord](https://discord.gg/iotatweak) / [Haidar_Phantom](https://iosgods.com/topic/171723-ytkillerplus_v18229_2214-cracked/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
 
    *Important Clarification: Reposters **are not** automatically **unsafe or malicious**; they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.*
    
