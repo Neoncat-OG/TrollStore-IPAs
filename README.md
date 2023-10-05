@@ -18,9 +18,11 @@ In this repository, you'll find various apps and tweaks that may serve similar p
 
 - :white_check_mark: Indicates that an app is working or up-to-date.
 
-- :x: Indicates that an app is either discontinued, outdated or not working.
+- :x: Indicates that an app is either discontinued or not working.
 
 - :thumbsup: Indicates that an app or tweak is considered better than another one from the repo. (Example: Paperback > Aidoku)
+
+- :warning: Indicates that an app is outdated but still functional.
 
 - :grey_question: Indicates that the app's original source is inaccessible or has not been tested and its functionality is uncertain.
 
