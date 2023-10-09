@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.5.0-2.2.1",
+            "versionDate": "2023-10-09",
+            "size": 233187621,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "FacebookWolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "433.1",
@@ -46,6 +57,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.40.1",
+            "versionDate": "2023-10-09",
+            "size": 126797323,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/uYouPlusExtra-18.40.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "AIChatSmith",
