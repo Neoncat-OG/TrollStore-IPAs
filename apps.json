@@ -4,6 +4,72 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.5.0-2.3",
+            "versionDate": "2023-10-14",
+            "size": 239507576,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.10-4.0",
+            "versionDate": "2023-10-14",
+            "size": 100530438,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHX-10.10-4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "CarrotWeatherUltra",
+            "bundleIdentifier": "com.grailr.CARROTweather",
+            "version": "5.12.5",
+            "versionDate": "2023-10-14",
+            "size": 215675993,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/CarrotWeatherUltra-5.12.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png"
+        },
+        {
+            "name": "QuizletPlus",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "8.6",
+            "versionDate": "2023-10-14",
+            "size": 57652265,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+        },
+        {
+            "name": "ReminiPro",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.82",
+            "versionDate": "2023-10-14",
+            "size": 180582739,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/ReminiPro-2.9.82.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
+            "name": "TorBrowserPlusPlus",
+            "bundleIdentifier": "ch.b-eng.tor",
+            "version": "3.3.4",
+            "versionDate": "2023-10-14",
+            "size": 102332595,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/TorBrowserPlusPlus-3.3.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+        },
+        {
             "name": "InstaRocketBH",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "304.0-3.8.15",
