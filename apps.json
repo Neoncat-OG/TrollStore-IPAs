@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.7.0-2.3",
+            "versionDate": "2023-10-18",
+            "size": 242989351,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/BHTikTokPlus-31.7.0-2.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "Quizlet.8.8",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "1.0",
+            "versionDate": "2023-10-18",
+            "size": 57483552,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/Quizlet.8.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+        },
+        {
+            "name": "Snapchatiota",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.55-4.0.1",
+            "versionDate": "2023-10-18",
+            "size": 104344891,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/Snapchatiota-12.55-4.0.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
             "name": "Enmity",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "version": "2.2.6-199.0",
@@ -101,17 +134,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
-        },
-        {
-            "name": "Snapchatiota",
-            "bundleIdentifier": "com.toyopagroup.picaboo",
-            "version": "12.55-4.0",
-            "versionDate": "2023-10-16",
-            "size": 104344891,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/Snapchatiota-12.55-4.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
             "name": "BHTikTokPlus",
