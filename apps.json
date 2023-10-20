@@ -70,6 +70,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
         },
         {
+            "name": "QuizletPlus",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "8.8",
+            "versionDate": "2023-10-20",
+            "size": 57483552,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/QuizletPlus-8.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+        },
+        {
             "name": "Snapchatiota",
             "bundleIdentifier": "com.toyopagroup.picaboo",
             "version": "12.56-4.1",
@@ -112,17 +123,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "Quizlet.8.8",
-            "bundleIdentifier": "com.quizlet.quizlet",
-            "version": "1.0",
-            "versionDate": "2023-10-18",
-            "size": 57483552,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/Quizlet.8.8.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
         },
         {
             "name": "Snapchatiota",
