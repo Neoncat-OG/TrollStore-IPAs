@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AIChatSmith",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "version": "6.2.6",
+            "versionDate": "2023-10-20",
+            "size": 83774996,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmith-6.2.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+        },
+        {
             "name": "AIEnlargerPro",
             "bundleIdentifier": "com.app.aiimglarger",
             "version": "2.7.0",
@@ -15,12 +26,12 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.app.aiimglarger.png"
         },
         {
-            "name": "BHTwitter_10.11_@TrollStoreApps",
+            "name": "BHX",
             "bundleIdentifier": "com.atebits.Tweetie2",
-            "version": "1.0",
+            "version": "10.11-4.0",
             "versionDate": "2023-10-20",
             "size": 96308985,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/BHTwitter_10.11_%40TrollStoreApps.ipa",
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/BHX-10.11-4.0.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
@@ -37,23 +48,12 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png"
         },
         {
-            "name": "Chat.Smith_6.2.6_1697819076",
-            "bundleIdentifier": "co.vulcanlabs.moodtracker",
-            "version": "1.0",
-            "versionDate": "2023-10-20",
-            "size": 83774996,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Chat.Smith_6.2.6_1697819076.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
-        },
-        {
-            "name": "FacebookWolf_437.2_Mumuisdog",
+            "name": "FacebookWolf",
             "bundleIdentifier": "com.facebook.Facebook",
-            "version": "1.0",
+            "version": "437.2",
             "versionDate": "2023-10-20",
             "size": 149712884,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf_437.2_Mumuisdog.ipa",
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
@@ -81,12 +81,12 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
-            "name": "LingoDeer++_2.9.6_LeTi",
+            "name": "LingoDeer",
             "bundleIdentifier": "com.lingodeer",
-            "version": "1.0",
+            "version": "2.9.6",
             "versionDate": "2023-10-20",
             "size": 161508999,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/LingoDeer%2B%2B_2.9.6_LeTi.ipa",
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/LingoDeer-2.9.6.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lingodeer.png"
@@ -105,10 +105,10 @@
         {
             "name": "Otraku",
             "bundleIdentifier": "com.otraku.app",
-            "version": "v.1.2.6+1",
+            "version": "1.2.6",
             "versionDate": "2023-10-20",
             "size": 9843461,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Otraku-v.1.2.6%2B1.ipa",
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Otraku-1.2.6.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
@@ -123,17 +123,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
-        },
-        {
-            "name": "Quizlet.8.8",
-            "bundleIdentifier": "com.quizlet.quizlet",
-            "version": "1.0",
-            "versionDate": "2023-10-20",
-            "size": 57483552,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Quizlet.8.8.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
         },
         {
             "name": "QuizletPlus",
@@ -158,37 +147,26 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
-            "name": "WA_Troll_Allwatusi",
-            "bundleIdentifier": "net.whatsapp.WhatsApp",
-            "version": "K-23.21.0_Revael",
-            "versionDate": "2023-10-20",
-            "size": 114140172,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/WA_Troll_Allwatusi-K-23.21.0_Revael.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-        },
-        {
-            "name": "WhatsApp_23.21.0_@TrollStoreApps",
-            "bundleIdentifier": "net.whatsapp.WhatsApp",
-            "version": "1.0",
-            "versionDate": "2023-10-20",
-            "size": 100895645,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/WhatsApp_23.21.0_%40TrollStoreApps.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
-        },
-        {
-            "name": "WickedPlus2.0.3k_12.56.0_",
+            "name": "SnapchatWicked",
             "bundleIdentifier": "com.toyopagroup.picaboo",
-            "version": "1.0",
+            "version": "12.56",
             "versionDate": "2023-10-20",
             "size": 112838848,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/WickedPlus2.0.3k_12.56.0_.ipa",
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/SnapchatWicked-12.56.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.21.0-1.2.8-3.4.4",
+            "versionDate": "2023-10-20",
+            "size": 109755609,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Watusi3-23.21.0-1.2.8-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "BHTikTokPlus",
