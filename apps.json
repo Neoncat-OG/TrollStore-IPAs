@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "RedditPlus",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.41.0",
+            "versionDate": "2023-10-21",
+            "size": 125437154,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-21-2023/RedditPlus-2023.41.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.80",
+            "versionDate": "2023-10-21",
+            "size": 61211721,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-21-2023/Spotilife-8.8.80.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
             "name": "AIChatSmith",
             "bundleIdentifier": "co.vulcanlabs.moodtracker",
             "version": "6.2.6",
