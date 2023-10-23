@@ -26,6 +26,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "16.7.2",
+            "versionDate": "2023-10-23",
+            "size": 63055501,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
             "name": "Vendetta",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "version": "200.0",
