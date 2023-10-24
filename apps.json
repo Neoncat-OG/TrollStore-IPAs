@@ -4,6 +4,50 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.81",
+            "versionDate": "2023-10-24",
+            "size": 66992739,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/SpotifyDeluxe-8.8.81.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.81",
+            "versionDate": "2023-10-24",
+            "size": 60795559,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Spotilife-8.8.81.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Vendetta",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "201.0",
+            "versionDate": "2023-10-24",
+            "size": 132097406,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Vendetta-201.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.5.2-6.25.0",
+            "versionDate": "2023-10-24",
+            "size": 68162034,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/YTMusicUltimate-1.5.2-6.25.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "PhotomathPlus",
             "bundleIdentifier": "com.microblink.PhotoMath",
             "version": "8.31.1",
