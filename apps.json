@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "GeniePro",
+            "bundleIdentifier": "co.appnation.geniechat",
+            "version": "5.4.0",
+            "versionDate": "2023-10-28",
+            "size": 54206994,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-28-2023/GeniePro-5.4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.png"
+        },
+        {
             "name": "SnapchatWicked",
             "bundleIdentifier": "com.toyopagroup.picaboo",
             "version": "12.57",
