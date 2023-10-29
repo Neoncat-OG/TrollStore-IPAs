@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "ipogo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "3.1.7",
+            "versionDate": "2023-10-29",
+            "size": 129089719,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/ipogo-3.1.7.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
             "name": "GeniePro",
             "bundleIdentifier": "co.appnation.geniechat",
             "version": "5.4.0",
