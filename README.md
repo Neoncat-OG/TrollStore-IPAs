@@ -1,8 +1,25 @@
-# TrollStore-IPAs
+<h1 align="center">TrollStore-IPAs</h1>
 
-**A collection from many different sources, for TrollStore!**
+<p align="center"><strong>A collection from many different sources, for TrollStore!</strong></p>
 
-## Add source to ESign/AltStore/SideStore: https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS%2012%2B%20%7C%20iPadOS%2014%2B-yellow?logo=apple&logoColor=darkgray" alt="Platform Badge">
+</p>
+
+<p align="center">
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Latest%20Release" alt="Latest Release Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/latest/total?color=%23e81e8a&label=Downloads%20(Latest%20Release)" alt="Downloads (Latest Release) Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/total?color=%23e81e8a&label=Total%20Downloads" alt="Total Downloads Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/commit"><img src="https://img.shields.io/github/last-commit/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Last%20Commit" alt="Last Commit Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/issues"><img src="https://img.shields.io/github/issues-raw/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Issues" alt="Issues Badge"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/stargazers"><img src="https://img.shields.io/github/stars/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Stars" alt="Stars Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/network/members"><img src="https://img.shields.io/github/forks/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Forks" alt="Forks Badge"></a>
+</p>
+
+<h2 align="center">Add source to ESign/AltStore/SideStore:(https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json)</h2>
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
 
