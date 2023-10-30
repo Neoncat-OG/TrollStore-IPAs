@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.42.0",
+            "versionDate": "2023-10-30",
+            "size": 156653773,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
             "name": "ipogo",
             "bundleIdentifier": "com.nianticlabs.pokemongo",
             "version": "3.1.7",
