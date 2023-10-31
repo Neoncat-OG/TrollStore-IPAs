@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "inshot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.73.0",
+            "versionDate": "2023-10-31",
+            "size": 119766666,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/inshot-1.73.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "Vendetta",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "202.0",
+            "versionDate": "2023-10-31",
+            "size": 101108112,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/Vendetta-202.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "YouTubeOLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.43.4",
+            "versionDate": "2023-10-31",
+            "size": 126125783,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/YouTubeOLED-18.43.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "PhotoshopExpress",
             "bundleIdentifier": "com.adobe.PSMobile",
             "version": "23.42.0",
