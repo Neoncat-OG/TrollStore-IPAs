@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BearPro",
+            "bundleIdentifier": "net.shinyfrog.bear-iOS",
+            "version": "2.0.15",
+            "versionDate": "2023-11-01",
+            "size": 31176993,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
+        },
+        {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.9.0-2.3",
+            "versionDate": "2023-11-01",
+            "size": 235764456,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "307.0.2-3.8.16",
+            "versionDate": "2023-11-01",
+            "size": 129029504,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketBH-307.0.2-3.8.16.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "307.0.2-3.8.16",
+            "versionDate": "2023-11-01",
+            "size": 140478771,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketCracked-307.0.2-3.8.16.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "PicsartPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "23.5.1",
+            "versionDate": "2023-11-01",
+            "size": 102531555,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsartPlusPlus-23.5.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "Snapchatiota",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.58-4.2",
+            "versionDate": "2023-11-01",
+            "size": 104554508,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/Snapchatiota-12.58-4.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.23.0-1.2.8-3.4.4",
+            "versionDate": "2023-11-01",
+            "size": 102717889,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/Watusi3-23.23.0-1.2.8-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "inshot",
             "bundleIdentifier": "com.camerasideas.InstaShot",
             "version": "1.73.0",
