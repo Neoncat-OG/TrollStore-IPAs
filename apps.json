@@ -4,6 +4,50 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.14-4.0",
+            "versionDate": "2023-11-02",
+            "size": 113353182,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/BHX-10.14-4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "439.1",
+            "versionDate": "2023-11-02",
+            "size": 144715433,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "inshot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.73.1",
+            "versionDate": "2023-11-02",
+            "size": 105286019,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/inshot-1.73.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "TikTokLRDCracked",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "2.5-31.9.0",
+            "versionDate": "2023-11-02",
+            "size": 239968530,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/TikTokLRDCracked-2.5-31.9.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "BearPro",
             "bundleIdentifier": "net.shinyfrog.bear-iOS",
             "version": "2.0.15",
