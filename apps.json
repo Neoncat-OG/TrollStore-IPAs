@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InfusePro",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.6.2",
+            "versionDate": "2023-11-03",
+            "size": 41922343,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-03-2023/InfusePro-7.6.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+        },
+        {
+            "name": "ReminiPro",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.88",
+            "versionDate": "2023-11-03",
+            "size": 69543353,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-03-2023/ReminiPro-2.9.88.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
             "name": "BHX",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "10.14-4.0",
