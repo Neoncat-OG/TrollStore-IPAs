@@ -4,6 +4,61 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "2.2.6",
+            "versionDate": "2023-11-05",
+            "size": 100528562,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "MemrisePremium",
+            "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+            "version": "2023.10.20",
+            "versionDate": "2023-11-05",
+            "size": 146348694,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+        },
+        {
+            "name": "Rosiecord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "203.0",
+            "versionDate": "2023-11-05",
+            "size": 104908802,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Rosiecord-203.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.41.5-3.0.1-F2",
+            "versionDate": "2023-11-05",
+            "size": 129441983,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/uYouPlusExtra-18.41.5-3.0.1-F2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "Violet",
+            "bundleIdentifier": "xyz.project.violet",
+            "version": "1.29.0",
+            "versionDate": "2023-11-05",
+            "size": 94207694,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Violet-1.29.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
+        },
+        {
             "name": "PicsartPlusPlus",
             "bundleIdentifier": "com.picsart.studio",
             "version": "23.5.2",
