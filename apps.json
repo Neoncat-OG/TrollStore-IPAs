@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "InfusePro",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.6.2",
+            "versionDate": "2023-11-06",
+            "size": 45192576,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+        },
+        {
+            "name": "PhotomathPlus",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.32.0",
+            "versionDate": "2023-11-06",
+            "size": 9538298,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/PhotomathPlus-8.32.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
             "name": "Enmity",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "version": "2.2.6",
@@ -79,17 +101,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
-        },
-        {
-            "name": "InfusePro",
-            "bundleIdentifier": "com.firecore.infuse",
-            "version": "7.6.2",
-            "versionDate": "2023-11-03",
-            "size": 41922343,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-03-2023/InfusePro-7.6.2.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         },
         {
             "name": "ReminiPro",
@@ -772,17 +783,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
-        },
-        {
-            "name": "Enmity",
-            "bundleIdentifier": "com.hammerandchisel.discord",
-            "version": "2.2.6-199.0",
-            "versionDate": "2023-10-17",
-            "size": 132865222,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/Enmity-2.2.6-199.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "ipogo",
