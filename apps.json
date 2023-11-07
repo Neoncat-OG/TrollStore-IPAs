@@ -4,6 +4,94 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.15-4.0",
+            "versionDate": "2023-11-07",
+            "size": 113439012,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/BHX-10.15-4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "308.0-3.8.16",
+            "versionDate": "2023-11-07",
+            "size": 129814402,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/InstaRocketBH-308.0-3.8.16.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.4.5",
+            "versionDate": "2023-11-07",
+            "size": 102030679,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Nicegram-1.4.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
+            "name": "SnapchatWicked",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.59",
+            "versionDate": "2023-11-07",
+            "size": 103419568,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/SnapchatWicked-12.59.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.44.3-3.0.1-F2",
+            "versionDate": "2023-11-07",
+            "size": 118235934,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/uYouPlusExtra-18.44.3-3.0.1-F2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "Vendetta",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "203.0",
+            "versionDate": "2023-11-07",
+            "size": 99550048,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Vendetta-203.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.23.77-1.2.10-3.4.4",
+            "versionDate": "2023-11-07",
+            "size": 102740303,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Watusi3-23.23.77-1.2.10-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.5.2-6.27.0",
+            "versionDate": "2023-11-07",
+            "size": 68589271,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/YTMusicUltimate-1.5.2-6.27.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "version": "7.6.2",
