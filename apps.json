@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "440.0",
+            "versionDate": "2023-11-10",
+            "size": 145279761,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
+            "name": "Noir",
+            "bundleIdentifier": "nl.jeffreykuiken.NoirApp.9H5AM43A53",
+            "version": "2023.2.5",
+            "versionDate": "2023-11-10",
+            "size": 7717466,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/Noir-2023.2.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/nl.jeffreykuiken.NoirApp.9H5AM43A53.png"
+        },
+        {
             "name": "BHTikTokPlus",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "32.0.0-2.3",
