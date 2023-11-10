@@ -23,11 +23,33 @@
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
 
-All *future* app updates will contain some form of version numbers in the file names. If the versioning scheme for an app changes, it is because the dev/maintainer changed up their scheme
-
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
 Releases are made by the day - new day, new release. I make a release one day and edit it throughout the day with new or updated IPAs until the day ends, and then create a new release post by the day and just modify it. This keeps notification spam to a minimum but will mean you might want to wait until the day ends to go through a release to make sure all files are final, since I may make changes throughout the day. Everything is done in the CST time zone
+
+
+## Announcements
+
+### (11-10-2023): Significant Repository Update
+
+**Dear Users,**
+
+I hope this message finds you well. I am writing to share some key updates regarding the changes I plan to implement in the repository.
+
+Given the vast array of trusted sources hosting daily games, I have decided to shift my focus solely towards applications, which have always been my primary area of interest.
+
+You may have noticed that I seldom update or introduce new games to the repository. The only exception was "RobloxPlus", which has been discontinued and is no longer functioning. My commitment to application updates will, I believe, serve this community better.
+
+Therefore, I would like to announce that I'll be removing all games from the repository within a couple of hours to allow users time to download them before their removal. This decision is aimed at focusing the repository more on applications, providing a more dedicated and streamlined service.
+
+I am excited about this new direction, and the opportunity to delve deeper into the realm of applications, aiming to provide you with the most efficient, reliable, and innovative tools. I trust that you will continue to support this new path.
+
+Thank you for your understanding and continued support. As always, I welcome your feedback and suggestions.
+
+**Kind Regards,**
+
+[ArianaMinajj](https://github.com/ArianaMinajj)
+
 
 ## Emoji Guide for App Selection *(Status)*
 
@@ -59,7 +81,7 @@ These emojis should assist you in making informed decisions when selecting apps 
 
    ### Known reposters: *(10-31-2023)*
    
-    | Reposter | Original Tweak/Maintainer |
+    | Reposter* | Original Tweak/Maintainer |
     |:---------|---------------------------|
     | [KAMO HACkS](https://t.me/kamohacks) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) |
     | [AppleFavour iPA Library](https://t.me/iparsiv) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
@@ -75,8 +97,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [TweakHome: Telegram channel](https://t.me/tweakhomeapps) **(UNSAFE)**| [iOSGods!](https://iosgods.com/) |
     | [iexmo](https://iexmo.com/ipastore/) | **([ipalibrary.me](https://ipalibrary.me)** + **[TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)) Cloner** |
 
-   *Important Clarification: Reposters **are not** automatically **unsafe or malicious**; they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.*
-   
+   *Important Clarification: Reposters **are not** automatically **unsafe or malicious**; they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.
 
 Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated | Status |
