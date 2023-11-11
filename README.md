@@ -30,7 +30,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-### (11-10-2023): All games have been removed to focus solely on applications.
+**(11-10-2023):** All games have been removed to focus solely on applications.
 
 ## Emoji Guide for App Selection *(Status)*
 
