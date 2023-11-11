@@ -30,26 +30,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-### (11-10-2023): Significant Repository Update
-
-**Dear Users,**
-
-I hope this message finds you well. I am writing to share some key updates regarding the changes I plan to implement in the repository.
-
-Given the vast array of trusted sources hosting daily games, I have decided to shift my focus solely towards applications, which have always been my primary area of interest.
-
-You may have noticed that I seldom update or introduce new games to the repository. The only exception was "RobloxPlus", which has been discontinued and is no longer functioning. My commitment to application updates will, I believe, serve this community better.
-
-Therefore, I would like to announce that I'll be removing all games from the repository within a couple of hours to allow users time to download them before their removal. This decision is aimed at focusing the repository more on applications, providing a more dedicated and streamlined service.
-
-I am excited about this new direction, and the opportunity to delve deeper into the realm of applications, aiming to provide you with the most efficient, reliable, and innovative tools. I trust that you will continue to support this new path.
-
-Thank you for your understanding and continued support. As always, I welcome your feedback and suggestions.
-
-**Kind Regards,**
-
-[ArianaMinajj](https://github.com/ArianaMinajj)
-
+### (11-10-2023): All games have been removed to focus solely on applications.
 
 ## Emoji Guide for App Selection *(Status)*
 
