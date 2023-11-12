@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AIChatSmith",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "version": "6.3.1",
+            "versionDate": "2023-11-12",
+            "size": 68210762,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmith-6.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+        },
+        {
+            "name": "ipogo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "3.1.8",
+            "versionDate": "2023-11-12",
+            "size": 129188645,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/ipogo-3.1.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "iTorrent",
+            "bundleIdentifier": "ru.nonamedude.iTorrent",
+            "version": "1.8.3",
+            "versionDate": "2023-11-12",
+            "size": 21247865,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iTorrent-1.8.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.44.1",
+            "versionDate": "2023-11-12",
+            "size": 154639594,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "Snapchatiota",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.59-4.3.1",
+            "versionDate": "2023-11-12",
+            "size": 105002426,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/Snapchatiota-12.59-4.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "SpeedtestPremium",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "version": "5.2.0",
+            "versionDate": "2023-11-12",
+            "size": 50349482,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/SpeedtestPremium-5.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.44.3-3.0.1-F2",
+            "versionDate": "2023-11-12",
+            "size": 130682484,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/uYouPlusExtra-18.44.3-3.0.1-F2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "FacebookWolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "440.0",
@@ -4083,17 +4160,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-        },
-        {
-            "name": "iTorrent",
-            "bundleIdentifier": "ru.nonamedude.iTorrent",
-            "version": "1.9",
-            "versionDate": "2023-07-26",
-            "size": 23999317,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/iTorrent-1.9.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
         },
         {
             "name": "PhotoshopExpress",
