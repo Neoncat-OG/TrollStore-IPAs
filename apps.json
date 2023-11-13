@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "PicsartPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "23.6.3",
+            "versionDate": "2023-11-13",
+            "size": 90738824,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsartPlusPlus-23.6.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "ReminiPro",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.93",
+            "versionDate": "2023-11-13",
+            "size": 159704507,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/ReminiPro-2.9.93.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
             "name": "AIChatSmith",
             "bundleIdentifier": "co.vulcanlabs.moodtracker",
             "version": "6.3.1",
