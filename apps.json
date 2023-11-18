@@ -59,6 +59,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
         },
         {
+            "name": "PicsartPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "23.6.4",
+            "versionDate": "2023-11-18",
+            "size": 99766481,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsartPlusPlus-23.6.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "ReminiPro",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.97",
+            "versionDate": "2023-11-18",
+            "size": 165665822,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/ReminiPro-2.9.97.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
+            "name": "SpeedtestPremium",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "version": "5.2.1",
+            "versionDate": "2023-11-18",
+            "size": 51508775,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/SpeedtestPremium-5.2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
+        },
+        {
             "name": "Spotilife",
             "bundleIdentifier": "com.spotify.client",
             "version": "8.8.88",
