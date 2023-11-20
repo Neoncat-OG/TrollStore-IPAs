@@ -4,6 +4,28 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "CarrotWeatherUltra",
+            "bundleIdentifier": "com.grailr.CARROTweather",
+            "version": "5.12.9",
+            "versionDate": "2023-11-20",
+            "size": 181851780,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/CarrotWeatherUltra-5.12.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png"
+        },
+        {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "309.1.1-3.8.17",
+            "versionDate": "2023-11-20",
+            "size": 130879951,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/InstaRocketBH-309.1.1-3.8.17.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "version": "7.6.3",
