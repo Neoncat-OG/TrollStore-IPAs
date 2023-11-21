@@ -4,11 +4,44 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "32.2.0-2.3",
+            "versionDate": "2023-11-21",
+            "size": 230416806,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "Vendetta",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "205.0",
+            "versionDate": "2023-11-21",
+            "size": 97185610,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/Vendetta-205.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.24.0-1.2.10-3.4.4",
+            "versionDate": "2023-11-21",
+            "size": 96258781,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/Watusi3-23.24.0-1.2.10-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "CarrotWeatherUltra",
             "bundleIdentifier": "com.grailr.CARROTweather",
             "version": "5.12.9",
             "versionDate": "2023-11-20",
-            "size": 181851780,
+            "size": 181990197,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/CarrotWeatherUltra-5.12.9.ipa",
             "developerName": "",
             "localizedDescription": "",
