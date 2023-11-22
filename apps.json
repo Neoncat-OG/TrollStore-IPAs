@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "FacebookWolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "441.1",
+            "versionDate": "2023-11-22",
+            "size": 151559278,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "BHTikTokPlus",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "32.2.0-2.3",
