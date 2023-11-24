@@ -4,6 +4,94 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "BeRealBea",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "1.3.3-1.17.1",
+            "versionDate": "2023-11-24",
+            "size": 39021872,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
+            "name": "ipogo",
+            "bundleIdentifier": "com.nianticlabs.pokemongo",
+            "version": "3.1.9",
+            "versionDate": "2023-11-24",
+            "size": 127974496,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/ipogo-3.1.9.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "Mangayomi",
+            "bundleIdentifier": "com.kodjodevf.mangayomi",
+            "version": "0.1.0",
+            "versionDate": "2023-11-24",
+            "size": 93145110,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Mangayomi-0.1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+        },
+        {
+            "name": "MemrisePremium",
+            "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+            "version": "2023.11.17",
+            "versionDate": "2023-11-24",
+            "size": 90694453,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.46.0",
+            "versionDate": "2023-11-24",
+            "size": 155089400,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "SpotifyDeluxe",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.90",
+            "versionDate": "2023-11-24",
+            "size": 67936334,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/SpotifyDeluxe-8.8.90.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.90",
+            "versionDate": "2023-11-24",
+            "size": 61685294,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Spotilife-8.8.90.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "YouTubeOLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.46.3",
+            "versionDate": "2023-11-24",
+            "size": 130724274,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/YouTubeOLED-18.46.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "FacebookWolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "version": "441.1",
