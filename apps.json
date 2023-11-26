@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Snapchatiota",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.60-4.4.1",
+            "versionDate": "2023-11-26",
+            "size": 105706025,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2023/Snapchatiota-12.60-4.4.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
             "name": "BeRealBea",
             "bundleIdentifier": "AlexisBarreyat.BeReal",
             "version": "1.3.3-1.17.1",
