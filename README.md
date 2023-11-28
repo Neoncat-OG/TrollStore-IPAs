@@ -31,7 +31,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 ## Announcements
 
 ### **(11-28-2023):** Future of "TrollStore-IPAs" 
-Following the successful deployment of TrollStore 2, a comprehensive update for this repository is presently underway. This process represents a commitment to maintaining and enhancing the quality of the apps.
+Following the successful deployment of **[TrollStore 2](https://github.com/opa334/TrollStore)**, a comprehensive update for this repository is presently underway. This process represents a commitment to maintaining and enhancing the quality of the apps.
 
 The current enhancement phase involves an review and re-testing of every application encapsulated within the repo. Each application's status will be examined and revised based on the results of my tests. This could ensure the repository remains updated with the most accurate and reliable information.
 
