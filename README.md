@@ -30,6 +30,18 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
+### **(11-28-2023):** Future of "TrollStore-IPAs" 
+Following the successful deployment of TrollStore 2, a comprehensive update for this repository is presently underway. This process represents a commitment to maintaining and enhancing the quality of the apps.
+
+The current enhancement phase involves an review and re-testing of every application encapsulated within the repo. Each application's status will be examined and revised based on the results of my tests. This could ensure the repository remains updated with the most accurate and reliable information.
+
+As a recent adopter of TrollStore, I can now extend my support for this environment and this strategic move is anticipated to significantly enhance the reliability and accuracy of the IPAs contained within the repository.
+
+Looking ahead, the use of TrollStore presents (for me) an possible inclusion of additional applications in the future. (Including a potential reintroduction of games)
+
+TrollStore will greatly facilitate the individual testing and integration of these applications, ensuring a diverse and high-quality selection of applications is delivered.
+
+---
 **(11-10-2023):** All games have been removed to focus solely on applications.
 
 ## Emoji Guide for App Selection *(Status)*
@@ -52,7 +64,8 @@ These emojis should assist you in making informed decisions when selecting apps 
 
 - **Crediting Contributions:** Ensuring proper recognition of the hard work put in by the respective maintainers is of utmost importance. It's crucial to acknowledge that I gather and update all the IPAs I have in one central location. This process is carried out with immense respect for the creators, emphasizing that credits are obligatory and placed at the forefront because they reflect the dedication and effort invested by these individuals.
 
-- **TrollStore Apps Compatibility:** In order to clarify, the presence of the term "TrollStore" in the title may lead some individuals to assume that all the applications listed herein are exclusively compatible with TrollStore. This, however, is not the case. Many of the apps featured on this list can indeed function seamlessly when sideloaded. Nevertheless, it is important to note that since I personally employ these apps in conjunction with ESign and Sideloadly, I cannot provide an absolute guarantee that every app will function as intended within TrollStore. Furthermore, it is essential to understand that I will not be able to offer any form of support in the event that an app from this list does not perform as expected in TrollStore.
+- **TrollStore Apps Compatibility:** In order to clarify, the presence of the term "TrollStore" in the title may lead some individuals to assume that all the applications listed herein are exclusively compatible with TrollStore. This, however, is not the case. Many of the apps featured on this list can indeed function seamlessly when sideloaded. ~~Nevertheless, it is important to note that since I personally employ these apps in conjunction with ESign and Sideloadly, I cannot provide an absolute guarantee that every app will function as intended within TrollStore. Furthermore, it is essential to understand that I will not be able to offer any form of support in the event that an app from this list does not perform as expected in TrollStore.~~
+  **Edit: As of 28.11, I can offer support for TrollStore. However, in the event of any compatibility issues arising with an application within this environment, I will use alternative methods such as ESign or Sideloadly. My commitment remains steadfast towards delivering a seamless user experience, and I am willing to utilize the required tools and platforms to ensure this outcome.**
 
 - **Reporting Issues:** When reporting issues or problems with the apps in this repository, please include details about your device specifications and the versions of the apps you are using. This information is crucial for diagnosing and addressing issues effectively. Without it, it can be challenging to pinpoint the reasons behind the problems you encounter.
 
