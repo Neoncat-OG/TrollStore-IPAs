@@ -37,6 +37,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         },
         {
+            "name": "Mangayomi",
+            "bundleIdentifier": "com.kodjodevf.mangayomi",
+            "version": "0.1.1",
+            "versionDate": "2023-11-29",
+            "size": 93143303,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Mangayomi-0.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+        },
+        {
             "name": "SpotifyDeluxe",
             "bundleIdentifier": "com.spotify.client",
             "version": "8.8.92",
@@ -57,6 +68,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "TrollBox",
+            "bundleIdentifier": "live.cclerc.trollbox",
+            "version": "b0.2.",
+            "versionDate": "2023-11-29",
+            "size": 26633972,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/TrollBox-b0.2.tipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
         },
         {
             "name": "Vendetta",
