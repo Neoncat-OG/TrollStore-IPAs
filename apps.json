@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AIChatGP",
+            "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
+            "version": "2.252",
+            "versionDate": "2023-11-30",
+            "size": 34025790,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatGP-2.252.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.chatgtp.gpt-3.Chat-GPT.png"
+        },
+        {
             "name": "AIChatSmith",
             "bundleIdentifier": "co.vulcanlabs.moodtracker",
             "version": "6.3.2",
@@ -46,17 +57,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.png"
-        },
-        {
-            "name": "AIChatGP",
-            "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
-            "version": "2.252",
-            "versionDate": "2023-11-30",
-            "size": 34025790,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatGP-2.252.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.chatgtp.gpt-3.Chat-GPT.png"
         },
         {
             "name": "ImageSearch",
