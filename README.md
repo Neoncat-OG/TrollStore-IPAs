@@ -3,20 +3,20 @@
 <p align="center"><strong>A collection from many different sources, for TrollStore!</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS%2012%2B%20%7C%20iPadOS%2014%2B-yellow?logo=apple&logoColor=darkgray" alt="Platform Badge">
+  <img src="https://img.shields.io/badge/Platform-iOS%2012%2B%20%7C%20iPadOS%2014%2B-blue?logo=apple&logoColor=white" alt="Platform Badge">
 </p>
 
 <p align="center">
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Latest%20Release" alt="Latest Release Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/latest/total?color=%23e81e8a&label=Downloads%20(Latest%20Release)" alt="Downloads (Latest Release) Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/total?color=%23e81e8a&label=Total%20Downloads" alt="Total Downloads Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/commit"><img src="https://img.shields.io/github/last-commit/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Last%20Commit" alt="Last Commit Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/issues"><img src="https://img.shields.io/github/issues-raw/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Issues" alt="Issues Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/latest/total?color=%23007BFF&label=Downloads%20(Latest%20Release)" alt="Downloads (Latest Release) Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/total?color=%23007BFF&label=Total%20Downloads" alt="Total Downloads Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/commit"><img src="https://img.shields.io/github/last-commit/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Last%20Commit" alt="Last Commit Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/issues"><img src="https://img.shields.io/github/issues-raw/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Issues" alt="Issues Badge"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/stargazers"><img src="https://img.shields.io/github/stars/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Stars" alt="Stars Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/network/members"><img src="https://img.shields.io/github/forks/swaggyP36000/TrollStore-IPAs?color=%23e81e8a&label=Forks" alt="Forks Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/stargazers"><img src="https://img.shields.io/github/stars/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Stars" alt="Stars Badge"></a>
+    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/network/members"><img src="https://img.shields.io/github/forks/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Forks" alt="Forks Badge"></a>
 </p>
 
 <h2 align="center">Add source to ESign/AltStore/SideStore:(https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json)</h2>
@@ -52,9 +52,13 @@ In this repository, you'll find various apps and tweaks that may serve similar p
 
 - :x: Indicates that an app is either discontinued or not working.
 
+- :warning: Indicates that an app is outdated but still functional.
+
+- :no_entry_sign: Indicates that an app is not Trollstore compatible, and support will not be provided.
+
 - :thumbsup: Indicates that an app or tweak is considered better than another one from the repo. (Example: Paperback > Aidoku)
 
-- :warning: Indicates that an app is outdated but still functional.
+- :bulb: Indicates that an app contains a hand-made tutorial. (Linked in its description)
 
 - :grey_question: Indicates that the app's original source is inaccessible or has not been tested and its functionality is uncertain.
 
@@ -92,7 +96,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [TweakHome: Telegram channel](https://t.me/tweakhomeapps) **(UNSAFE)**| [iOSGods!](https://iosgods.com/) |
     | [iexmo](https://iexmo.com/ipastore/) | **([ipalibrary.me](https://ipalibrary.me)** + **[TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)) Cloner** |
 
-   *Important Clarification: Reposters **are not** automatically **unsafe or malicious**; they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.
+   *Reposters **are not** automatically **unsafe or malicious** (unless specified); they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.
 
 Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated | Status |
@@ -142,7 +146,7 @@ Everything you can currently find in this repo:
 | DPixelGPT | ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a limited number of questions per hour, so using one account between multiple people will just be an inconvenience | 1.0 | [DPixel](https://t.me/dpixel) | 12-29-2022 | :x: |
 | Drama Flix | Movie app, same as HDO Play but also slightly updated | 1.1.0 | N/A | 01-03-2023 | :warning: :grey_question: |
 | Dramas Flic | Yet another HDO Play app. All in-app ads removed | 4.0 | [DPixel](https://t.me/dpixel) | 01-31-2023 | :warning: |
-| Duolingo | **Injected with premium.** Full app description [here](https://apps.apple.com/us/app/duolingo/id570060128). Please note that the premium tweak currently does not support Oral and Pronunciation training. | 6.233 | [iOSGods!](https://iosgods.com/topic/78624-duolingo-v62330-jailed-mod-1/) | 09-30-2023 | :white_check_mark: :thumbsup: |
+| Duolingo | **Injected with premium.** Full app description [here](https://apps.apple.com/us/app/duolingo/id570060128). Please note that the premium tweak currently does not support Oral and Pronunciation training. | 6.233 | [iOSGods!](https://iosgods.com/topic/78624-duolingo-v62330-jailed-mod-1/) | 09-30-2023 | :white_check_mark: :thumbsup: :no_entry_sign: |
 | Egg 3DS | 3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion | 2.5.9 | [EGG-3DS](http://www.eggios.com/) | 09-23-2023 | :warning: |
 | EhPanda | A strictly 18+ NSFW manga reader. *Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.* | 1.0.2 | [EhPanda-Team](https://github.com/EhPanda-Team/EhPanda) | 12-23-2022 | :x: |
 | Enmity | Discord, injected with the popular tweak Enmity! | 2.2.6 | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Enmity Team](https://github.com/enmity-mod/tweak) / [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) | 11-05-2023 | :white_check_mark: |
@@ -162,7 +166,7 @@ Everything you can currently find in this repo:
 | HarpyReloaded | *Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best.* App that lets you block internet to other devices on the same network as yours | 1.0.1 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 | :white_check_mark: |
 | HDO Play | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | 1.0.2 | N/A | 09-03-2022 | :warning: |
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | 9.1.2 | N/A | 11-10-2022 | :warning: |
-| iGameGod | *This app is TrollStore-only.* Can decrypt and repack on-device apps, inject tweaks, spoof device info, etc. [Full description here](https://appdb.to/app/cydia/1900001167) | 1.0 | [AppDB](https://appdb.to/app/cydia/1900001167) | 04-13-2023 | :white_check_mark: |
+| iGameGod | *This app is TrollStore-only.* Can decrypt and repack on-device apps, inject tweaks, spoof device info, etc. [Full description here](https://appdb.to/app/cydia/1900001167) | 1.0 | [AppDB](https://appdb.to/app/cydia/1900001167) | 04-13-2023 | :warning: |
 | ImageSearch | [Reverse Image Search App](https://apps.apple.com/us/app/reverse-image-search-app/id1003144513?uo=4), cracked for pro features. Click Pro at the top right, then the purchase button | 6.6 | [DPixel](https://t.me/dpixel) | 01-04-2023 | :white_check_mark: |
 | Infuse Pro | Fancy media/video player, cracked for premium. [Full app description here](https://apps.apple.com/us/app/infuse-video-player/id1136220934) | 7.6.4 | [DPixel](https://t.me/dpixel) / [AppDB](https://appdb.to/app/cydia/1900000822) / [zxcvbn’s tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iApps](https://t.me/iapps_ipa) / [HertzSign iPA Library](https://t.me/HertzSign) | 11-29-2023 | :white_check_mark: :thumbsup: |
 | InShotPro | Popular video/image editor with pro features unlocked | 1.73.1 | [AppDB](https://appdb.to/app/cydia/1900000807) / [DPixel](https://t.me/dpixel) / [iApps](https://t.me/iapps_ipa) / [FayezUpdates](https://t.me/fayezupdatespublic) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) / [zxcvbn’s tweaked IPAs](https://t.me/zxcvbn_tweaked) | 11-02-2023 | :white_check_mark: |
@@ -197,7 +201,7 @@ Everything you can currently find in this repo:
 | NetflixChecker | App that checks a username-password combination, or list of them, against Netflix's servers | 0.2 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 | :white_check_mark: |
 | Nicegram | Nicegram, cracked for premium features (including having the translate button next to messages in chats) | 1.4.6 | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/app/cydia/1900001040) / [IPA Library](https://t.me/fcksanction) / [MeemNon](https://twitter.com/MeemNon) / [DPixel](https://t.me/dpixel) / [zxcvbn’s tweaked IPAs](https://t.me/zxcvbn_tweaked) | 11-09-2023 | :white_check_mark: |
 | NineAnimator | Anime streamer, supports multiple sources and comes with a user-friendly GUI | 1.3.0-3 | [SuperMarcus](https://github.com/SuperMarcus/NineAnimator) | 07-17-2023 | :white_check_mark: :thumbsup: |
-| Noir | **Not TrollStore related.** Probably the best Safari extension for iOS that effortlessly introduces a dark mode to all websites, enhancing nighttime web browsing. *Confirmed working with Sideloadly* | 2023.2.5 | [Noir](https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954) | 11-10-2023 | :white_check_mark: :thumbsup: |
+| Noir | Probably the best Safari extension for iOS that effortlessly introduces a dark mode to all websites, enhancing nighttime web browsing. *Confirmed working with Sideloadly* | 2023.2.5 | [Noir](https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954) | 11-10-2023 | :white_check_mark: :thumbsup: :no_entry_sign: |
 | Object Removal | [App description here.](https://apps.apple.com/us/app/object-removal-retouch-fix/id1457711961) App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections | 3.9.0 | [FayezUpdates](https://t.me/fayezupdatespublic) | 02-25-2023 | :warning: |
 | Opener | Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps | 1.10.14 | [CyPwn IPA library](https://ipa.cypwn.xyz) | 10-17-2022 | :white_check_mark: |
 | Otraku | Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store | 1.2.6+1 | [lotusprey](https://github.com/lotusprey/otraku) | 10-20-2023 | :white_check_mark: |
@@ -225,8 +229,8 @@ Everything you can currently find in this repo:
 | Shark for Messenger | Facebook Messenger, injected with Shark by Michael Lema | 411.0 | [ipahost](https://github.com/ipahost/Shark-for-Messenger) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [CydiaAbdullah](https://t.me/CAbdullahiPA) / [FayezUpdates](https://t.me/fayezupdatespublic) | 06-24-2023 | :warning: |
 | Show Mania | Yet another HDO Play under a different name, modded for no ads | 2.0 | [DPixel](https://t.me/dpixel) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) |  06-25-2023 | :warning: |
 | Snapchat Falcon | **Before signing Falcon, make sure to remove Mobileprovision.** Unfortunately, Falcon allows the use of SnapChat with Mobileprovision, so it's crucial to remove it. Confirmed to work with TrollStore and ESign, **do not use Sideloadly**. Please be aware that using Falcon is **at your own risk**. This modded version of Snapchat offers additional features like media downloads, ad removal, and anonymous story viewing. You can find the full feature list [here](https://i.postimg.cc/wjfmL4jg/image.png). | 12.54 | [iCrackIPA](https://t.me/iCrackiPADone) / [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/app/cydia/1900001240) | 10-03-2023 | :warning: |
-| Snapchat iota | Snapchat iota is hailed as the **ultimate** Snapchat tweak, surpassing all other variants possible. Note that this tweak is a premium offering, and it neither currently nor in the future will I provide a cracked version. To support the dedicated developer, Kanji, in his continuous efforts to provide timely and valuable updates, please consider joining his official Discord and purchasing the tweak! *Confirmed working with ESign, GBox and TrollStore.* **In-depth tutorial [HERE](https://rentry.co/whadaflip)**. | 12.60-4.4.1 | [Kanji's discord](https://discord.gg/iotatweak) | 11-26-2023 | :white_check_mark: :thumbsup: |
-| Snapchat Wicked Cracked | **Not TrollStore related.** *Confirmed working with ESign and GBox.* Modded version of Snapchat offering a broader range of features compared to Falcon. **In-depth tutorial [HERE](https://rentry.co/whadahell)**. | 12.59 | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [MeemNon](https://twitter.com/MeemNon) | 11-07-2023 | :warning: |
+| Snapchat iota | Snapchat iota is hailed as the **ultimate** Snapchat tweak, surpassing all other variants possible. Note that this tweak is a premium offering, and it neither currently nor in the future will I provide a cracked version. To support the dedicated developer, Kanji, in his continuous efforts to provide timely and valuable updates, please consider joining his official Discord and purchasing the tweak! *Confirmed working with ESign, GBox and TrollStore.* **In-depth tutorial [HERE](https://rentry.co/whadaflip)**. | 12.60-4.4.1 | [Kanji's discord](https://discord.gg/iotatweak) | 11-26-2023 | :white_check_mark: :thumbsup: :bulb: |
+| Snapchat Wicked Cracked | *Confirmed working with ESign and GBox.* Modded version of Snapchat offering a broader range of features compared to Falcon. **In-depth tutorial [HERE](https://rentry.co/whadahell)**. | 12.59 | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [MeemNon](https://twitter.com/MeemNon) | 11-07-2023 | :warning: :bulb: :no_entry_sign: |
 | Soor | [Soor](https://apps.apple.com/us/app/soor/id1439731526), free. Best way for scrobbling apple music streams to last.fm. | 3.0.2 | [Starfiles](https://starfiles.co/bundle_id/me.tanmay.Music) / [AppDB](https://appdb.to/app/ios/1439731526) | 03-03-2023 | :white_check_mark: |
 | SpeedTest Premium | SpeedTest by Ookla, with premium features | 5.2.1 | [CyPwn IPA Library](https://ipa.cypwn.xyz) / [Manpreet Singh @thisismanpreets](https://t.me/AppleTesters) | 11-18-2023 | :white_check_mark: |
 | Spotify Deluxe | Spotify with many extra features injected, Spotilife being one of them | 8.8.92 | [AppDB](https://appdb.to/app/cydia/1900000882) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-29-2023 | :white_check_mark: |
