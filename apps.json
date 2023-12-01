@@ -4,6 +4,138 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AppsManager",
+            "bundleIdentifier": "com.tigisoftware.ADManager",
+            "version": "1.8.4",
+            "versionDate": "2023-12-01",
+            "size": 3073412,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/AppsManager-1.8.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png"
+        },
+        {
+            "name": "Crunchyroll",
+            "bundleIdentifier": "com.crunchyroll.iphone",
+            "version": "4.40.0",
+            "versionDate": "2023-12-01",
+            "size": 72594141,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Crunchyroll-4.40.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png"
+        },
+        {
+            "name": "Filza",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "version": "4.0.0",
+            "versionDate": "2023-12-01",
+            "size": 13977293,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Filza-4.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
+        },
+        {
+            "name": "Goodnotes6",
+            "bundleIdentifier": "com.goodnotesapp.x",
+            "version": "6.2.15",
+            "versionDate": "2023-12-01",
+            "size": 315141070,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+        },
+        {
+            "name": "GoogleNews",
+            "bundleIdentifier": "com.google.GoogleDigitalEditions",
+            "version": "5.87",
+            "versionDate": "2023-12-01",
+            "size": 46477554,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/GoogleNews-5.87.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png"
+        },
+        {
+            "name": "MeituPlusPlus",
+            "bundleIdentifier": "com.meitu.mtxx",
+            "version": "9.10.21",
+            "versionDate": "2023-12-01",
+            "size": 231652715,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png"
+        },
+        {
+            "name": "ObjectRemoval",
+            "bundleIdentifier": "com.skysoft.removalfree",
+            "version": "4.1.4",
+            "versionDate": "2023-12-01",
+            "size": 79934637,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/ObjectRemoval-4.1.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+        },
+        {
+            "name": "PolishPro",
+            "bundleIdentifier": "com.photoeditor.polish",
+            "version": "1.6.3",
+            "versionDate": "2023-12-01",
+            "size": 84943731,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/PolishPro-1.6.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
+        },
+        {
+            "name": "Procreate",
+            "bundleIdentifier": "au.com.savageinteractive.procreate",
+            "version": "5.3.6",
+            "versionDate": "2023-12-01",
+            "size": 492323229,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Procreate-5.3.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
+        },
+        {
+            "name": "QuizletPlus",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "8.14",
+            "versionDate": "2023-12-01",
+            "size": 54472832,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/QuizletPlus-8.14.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+        },
+        {
+            "name": "ReminiPro",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.101",
+            "versionDate": "2023-12-01",
+            "size": 69713882,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/ReminiPro-2.9.101.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
+            "name": "TrollInstallerMDC",
+            "bundleIdentifier": "com.dhinakg.trollinstallermdc",
+            "version": "1.0.4",
+            "versionDate": "2023-12-01",
+            "size": 228202,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/TrollInstallerMDC-1.0.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dhinakg.trollinstallermdc.png"
+        },
+        {
             "name": "AIChatGP",
             "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
             "version": "2.252",
