@@ -26,6 +26,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "17.3-0.1.0",
+            "versionDate": "2023-12-02",
+            "size": 104676718,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
             "name": "Watusi3",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
             "version": "23.24.73-1.2.10-3.4.4",
