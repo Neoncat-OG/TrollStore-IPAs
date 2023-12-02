@@ -4,6 +4,39 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.4.7",
+            "versionDate": "2023-12-02",
+            "size": 79913529,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Nicegram-1.4.7.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.92",
+            "versionDate": "2023-12-02",
+            "size": 61808561,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Spotilife-8.8.92.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.24.73-1.2.10-3.4.4",
+            "versionDate": "2023-12-02",
+            "size": 96266745,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Watusi3-23.24.73-1.2.10-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "AppsManager",
             "bundleIdentifier": "com.tigisoftware.ADManager",
             "version": "1.8.4",
@@ -274,17 +307,6 @@
             "versionDate": "2023-11-29",
             "size": 68109949,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/SpotifyDeluxe-8.8.92.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "Spotilife",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.92",
-            "versionDate": "2023-11-29",
-            "size": 62243919,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Spotilife-8.8.92.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
