@@ -25,7 +25,7 @@
 
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
-Releases are made by the day - new day, new release. I make a release one day and edit it throughout the day with new or updated IPAs until the day ends, and then create a new release post by the day and just modify it. This keeps notification spam to a minimum but will mean you might want to wait until the day ends to go through a release to make sure all files are final, since I may make changes throughout the day. Everything is done in the CST time zone
+Releases are made by the day - new day, new release. I make a release one day and edit it throughout the day with new or updated IPAs until the day ends, and then create a new release post by the day and just modify it. This keeps notification spam to a minimum but will mean you might want to wait until the day ends to go through a release to make sure all files are final, since I may make changes throughout the day. Everything is done in the CEST time zone
 
 
 ## Announcements
