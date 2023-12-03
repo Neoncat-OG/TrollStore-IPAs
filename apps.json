@@ -4,6 +4,116 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "ApolloICAPI",
+            "bundleIdentifier": "com.christianselig.Apollo",
+            "version": "1.0.5",
+            "versionDate": "2023-12-03",
+            "size": 87165733,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICAPI-1.0.5.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
+        },
+        {
+            "name": "BearPro",
+            "bundleIdentifier": "net.shinyfrog.bear-iOS",
+            "version": "2.0.17",
+            "versionDate": "2023-12-03",
+            "size": 26179550,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
+        },
+        {
+            "name": "BeRealBea",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "1.3.3-1.18.0",
+            "versionDate": "2023-12-03",
+            "size": 43204143,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "2.2.6-206.0",
+            "versionDate": "2023-12-03",
+            "size": 97983202,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "InstagramNyx",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "309.1.1-1.1.4",
+            "versionDate": "2023-12-03",
+            "size": 133971258,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Rosiecord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "208.0",
+            "versionDate": "2023-12-03",
+            "size": 99949821,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Rosiecord-208.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "ShowBox",
+            "bundleIdentifier": "com.tovuen.play",
+            "version": "3.0",
+            "versionDate": "2023-12-03",
+            "size": 24663117,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ShowBox-3.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tovuen.play.png"
+        },
+        {
+            "name": "Things3",
+            "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
+            "version": "3.19.3",
+            "versionDate": "2023-12-03",
+            "size": 51164188,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Things3-3.19.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
+        },
+        {
+            "name": "TwitchPlus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "17.3.2-0.1.0",
+            "versionDate": "2023-12-03",
+            "size": 105305867,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+        },
+        {
+            "name": "uYouPlusExtra",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.46.3-3.0.1-F2",
+            "versionDate": "2023-12-03",
+            "size": 125914250,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/uYouPlusExtra-18.46.3-3.0.1-F2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "Nicegram",
             "bundleIdentifier": "app.nicegram",
             "version": "1.4.7",
