@@ -4,6 +4,83 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AIChatSmith",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "version": "6.4",
+            "versionDate": "2023-12-04",
+            "size": 58544194,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmith-6.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+        },
+        {
+            "name": "BlackHole",
+            "bundleIdentifier": "com.shadow.blackhole1160.ios",
+            "version": "1.15.10",
+            "versionDate": "2023-12-04",
+            "size": 17380366,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/BlackHole-1.15.10.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png"
+        },
+        {
+            "name": "Filza",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "version": "4.0.0",
+            "versionDate": "2023-12-04",
+            "size": 13925062,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/Filza-4.0.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
+        },
+        {
+            "name": "InstagramNyx",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "310.0.4-1.1.4",
+            "versionDate": "2023-12-04",
+            "size": 133602409,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "310.0.4-3.8.17",
+            "versionDate": "2023-12-04",
+            "size": 132891484,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstaRocketBH-310.0.4-3.8.17.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Opener",
+            "bundleIdentifier": "com.tijo.opener.Opener",
+            "version": "1.12.1",
+            "versionDate": "2023-12-04",
+            "size": 619940,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/Opener-1.12.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+        },
+        {
+            "name": "TempoPro",
+            "bundleIdentifier": "com.quvideo.VISO",
+            "version": "4.46.0",
+            "versionDate": "2023-12-04",
+            "size": 91555638,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/TempoPro-4.46.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png"
+        },
+        {
             "name": "ApolloICAPI",
             "bundleIdentifier": "com.christianselig.Apollo",
             "version": "1.0.5",
@@ -200,17 +277,6 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png"
-        },
-        {
-            "name": "Filza",
-            "bundleIdentifier": "com.tigisoftware.Filza",
-            "version": "4.0.0",
-            "versionDate": "2023-12-01",
-            "size": 13977293,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Filza-4.0.0.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png"
         },
         {
             "name": "Goodnotes6",
