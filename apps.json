@@ -103,6 +103,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
         },
         {
+            "name": "TruecallerPremium",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "version": "12.69.6",
+            "versionDate": "2023-12-05",
+            "size": 88640952,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png"
+        },
+        {
             "name": "TwitchPlus",
             "bundleIdentifier": "tv.twitch",
             "version": "17.4.1-0.1.0",
