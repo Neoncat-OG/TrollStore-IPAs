@@ -59,6 +59,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png"
         },
         {
+            "name": "PhotomathPlus",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.33.0",
+            "versionDate": "2023-12-05",
+            "size": 8908705,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotomathPlus-8.33.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
             "name": "PhotoshopExpress",
             "bundleIdentifier": "com.adobe.PSMobile",
             "version": "23.48.0",
@@ -79,6 +90,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "SparkPremium",
+            "bundleIdentifier": "com.readdle.smartemail",
+            "version": "3.6.2",
+            "versionDate": "2023-12-05",
+            "size": 184885684,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
         },
         {
             "name": "TwitchPlus",
