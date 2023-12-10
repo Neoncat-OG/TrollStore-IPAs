@@ -4,6 +4,61 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "2.2.6-207.0",
+            "versionDate": "2023-12-10",
+            "size": 94194608,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
+            "name": "InstaRocketBH",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "310.0.4-3.8.18",
+            "versionDate": "2023-12-10",
+            "size": 132270053,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketBH-310.0.4-3.8.18.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.4.8",
+            "versionDate": "2023-12-10",
+            "size": 108750042,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Nicegram-1.4.8.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
+            "name": "Spotilife",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.94",
+            "versionDate": "2023-12-10",
+            "size": 62123025,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Spotilife-8.8.94.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Watusi3",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.25.6-1.2.11-3.4.4",
+            "versionDate": "2023-12-10",
+            "size": 97168799,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Watusi3-23.25.6-1.2.11-3.4.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "BHX",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "version": "10.19-4.1",
@@ -164,17 +219,6 @@
             "versionDate": "2023-12-06",
             "size": 68352416,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/SpotifyDeluxe-8.8.94.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "Spotilife",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.94",
-            "versionDate": "2023-12-06",
-            "size": 62563687,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/Spotilife-8.8.94.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
