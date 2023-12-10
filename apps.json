@@ -37,6 +37,28 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
+            "name": "InstaRocketPlus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "310.0.4-3.8.18-2.5.0",
+            "versionDate": "2023-12-10",
+            "size": 135909810,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketPlus-310.0.4-3.8.18-2.5.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Misaka",
+            "bundleIdentifier": "com.straight-tamago.misakaRS",
+            "version": "3.3.3",
+            "versionDate": "2023-12-10",
+            "size": 24020194,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Misaka-3.3.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+        },
+        {
             "name": "Nicegram",
             "bundleIdentifier": "app.nicegram",
             "version": "1.4.8",
@@ -46,6 +68,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png"
+        },
+        {
+            "name": "Noir",
+            "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
+            "version": "2023.2.6",
+            "versionDate": "2023-12-10",
+            "size": 7581350,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Noir-2023.2.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/nl.jeffreykuiken.NoirApp.png"
         },
         {
             "name": "Spotilife",
@@ -68,6 +101,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.resonance.store.png"
+        },
+        {
+            "name": "Violet",
+            "bundleIdentifier": "xyz.project.violet",
+            "version": "1.29.2",
+            "versionDate": "2023-12-10",
+            "size": 94253440,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Violet-1.29.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
         },
         {
             "name": "Watusi3",
