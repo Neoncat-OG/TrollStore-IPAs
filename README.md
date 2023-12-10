@@ -3,25 +3,31 @@
 <p align="center"><strong>A collection from many different sources, for TrollStore!</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS%2012%2B%20%7C%20iPadOS%2014%2B-blue?logo=apple&logoColor=white" alt="Platform Badge">
+  <img src="https://img.shields.io/badge/Platform-iOS%2012%2B%20%7C%20iPadOS%2014%2B-%23007BFF?logo=apple&logoColor=white" alt="Platform Badge">
 </p>
 
 <p align="center">
     <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
     <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/latest/total?color=%23007BFF&label=Downloads%20(Latest%20Release)" alt="Downloads (Latest Release) Badge"></a>
     <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/total?color=%23007BFF&label=Total%20Downloads" alt="Total Downloads Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/commit"><img src="https://img.shields.io/github/last-commit/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Last%20Commit" alt="Last Commit Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/issues"><img src="https://img.shields.io/github/issues-raw/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Issues" alt="Issues Badge"></a>
 </p>
+
+<h2 align="center">Add source to ESign/AltStore/SideStore:</h2>
+<p align="center"><code>https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json</code></p>
+
+<p align="center"><strong>------ OR ------</strong></p>
 
 <p align="center">
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/stargazers"><img src="https://img.shields.io/github/stars/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Stars" alt="Stars Badge"></a>
-    <a href="https://github.com/swaggyP36000/TrollStore-IPAs/network/members"><img src="https://img.shields.io/github/forks/swaggyP36000/TrollStore-IPAs?color=%23007BFF&label=Forks" alt="Forks Badge"></a>
+  <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%20-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps">
+  </a>
 </p>
 
-<h2 align="center">Add source to ESign/AltStore/SideStore:(https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json)</h2>
+---
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
+
+*Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps). I've observed a few issues, such as how the apps are displayed (with this repo) and the incorrect "update" status for some apps that are already updated / running the latest version but still a great method to keep informed of all updates.*
 
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
@@ -256,7 +262,8 @@ Everything you can currently find in this repo:
 | TikTokLRD Cracked | **Fixed for TrollStore**. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the [TikPhoto shortcut](https://routinehub.co/shortcut/12002/) to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations [part 1](https://cdn.discordapp.com/attachments/770091013967446016/1040469856753037322/IMG_7730.png) / [part 2](https://cdn.discordapp.com/attachments/770091013967446016/1040469857080184852/IMG_7731.png) / [part 3](https://cdn.discordapp.com/attachments/770091013967446016/1040469857382170716/IMG_7732.jpg) | 2.5-31.9.0 | [AppDB](https://appdb.to/app/cydia/1900000893) / [KZStore](https://kzstore.net/)* / [IPA Fire](https://t.me/ipafire) / [MeemNon](https://twitter.com/MeemNon) / [zxcvbn’s tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iApps](https://t.me/iapps_ipa) / [iPAWiND](https://t.me/iPAWiND) | 11-02-2023 | :white_check_mark: |
 | TikWipe | [TikWipe](https://apps.apple.com/us/app/tikwipe/id1627304846), injected with SatellaJailed. TikTok video downloader (not photos). Click purchase at the end of the slideshow | 1.1.0 | [DPixel](https://t.me/dpixel) | 12-29-2022 | :warning: |
 | TorBrowser++ | Tor Browser with premium features unlocked | 3.3.4 | [AppDB](https://appdb.to/app/cydia/1900000837) / [DPixel](https://t.me/dpixel) | 10-14-2022 | :white_check_mark: |
-| TrollApps | [App description here](https://github.com/haxi0/TrollApps#whats-this) | 1.2 | [haxi0](https://github.com/haxi0/TrollApps) | 11-21-2022 | :white_check_mark: |
+| TrollApps | **Constantly crashes upon adding this repo, so I'm considering its removal**. | 1.2 | [haxi0](https://github.com/haxi0/TrollApps) | 11-21-2022 | :x: |
+| TrollApps 2 | This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (above). It enables users to directly download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. **Note: Some apps may remain (with this repo) marked as "update" even though they are running the latest version + displayed separately for each version.** | 2.1 | [TrollApps](https://github.com/TheResonanceTeam/TrollApps) | 12-10-2023 | :white_check_mark: |
 | TrollBox | A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. *This is still in alpha, so expect bugs if you try it* | Beta 0.2 | [c22dev](https://github.com/c22dev/TrollBox) | 11-29-2023 | :x: |
 | TrollLock Reborn | [TrollLock](https://github.com/verygenericname/TrollLock), for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub | 0.2 | [haxi0](https://github.com/haxi0/TrollLock-Reborn) | 12-25-2022 | :white_check_mark: |
 | TrollInstallerMDC | Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the **[Installing TrollStore guide](https://ios.cfw.guide/installing-trollstore/)** for detailed instructions. | 1.0.5 | [ramblings](https://dhinakg.github.io/apps.html) | 12-08-2023 | :white_check_mark: |
