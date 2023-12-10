@@ -48,6 +48,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "TrollApps",
+            "bundleIdentifier": "org.haxi0.TrollApps",
+            "version": "2.1",
+            "versionDate": "2023-12-10",
+            "size": 2127280,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/TrollApps-2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollApps.png"
+        },
+        {
             "name": "Watusi3",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
             "version": "23.25.6-1.2.11-3.4.4",
