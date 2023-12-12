@@ -4,6 +4,17 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "appdb",
+            "bundleIdentifier": "it.ned.appdb-ios",
+            "version": "1.1.6",
+            "versionDate": "2023-12-12",
+            "size": 23229778,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/appdb-1.1.6.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/it.ned.appdb-ios.png"
+        },
+        {
             "name": "BHTikTokPlus",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "version": "32.5.0-2.3",
@@ -13,6 +24,39 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "Cardio",
+            "bundleIdentifier": "com.cisc0freak.cardio",
+            "version": "1.1",
+            "versionDate": "2023-12-12",
+            "size": 122212,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Cardio-1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cisc0freak.cardio.png"
+        },
+        {
+            "name": "CocoaTop",
+            "bundleIdentifier": "ru.domo.cocoatop64",
+            "version": "1.0",
+            "versionDate": "2023-12-12",
+            "size": 333223,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/CocoaTop-1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.domo.cocoatop64.png"
+        },
+        {
+            "name": "Ignited",
+            "bundleIdentifier": "com.litritt.ignited",
+            "version": "1.7.1",
+            "versionDate": "2023-12-12",
+            "size": 62108889,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
         },
         {
             "name": "InstagramNyx",
@@ -48,6 +92,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
+            "name": "Jitterbug",
+            "bundleIdentifier": "com.osy86.Jitterbug",
+            "version": "1.3.1",
+            "versionDate": "2023-12-12",
+            "size": 23012478,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Jitterbug-1.3.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png"
+        },
+        {
             "name": "Notability",
             "bundleIdentifier": "com.gingerlabs.Notability",
             "version": "14.5",
@@ -79,6 +134,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png"
+        },
+        {
+            "name": "SCMusicPlus",
+            "bundleIdentifier": "com.soundcloud.TouchApp",
+            "version": "6.22.0-2.2.1",
+            "versionDate": "2023-12-12",
+            "size": 61258341,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/SCMusicPlus-6.22.0-2.2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.soundcloud.TouchApp.png"
         },
         {
             "name": "Snapchatiota",
@@ -114,6 +180,39 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
         },
         {
+            "name": "TheChan",
+            "bundleIdentifier": "com.thechan.TheChan",
+            "version": "1.8.2",
+            "versionDate": "2023-12-12",
+            "size": 23878645,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TheChan-1.8.2.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.thechan.TheChan.png"
+        },
+        {
+            "name": "TrollDecrypt",
+            "bundleIdentifier": "com.fiore.trolldecrypt",
+            "version": "1.1.",
+            "versionDate": "2023-12-12",
+            "size": 691519,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollDecrypt-1.1.tipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.fiore.trolldecrypt.png"
+        },
+        {
+            "name": "TrollSpeed",
+            "bundleIdentifier": "ch.xxtou.hudapp",
+            "version": "1.8.6.",
+            "versionDate": "2023-12-12",
+            "size": 140519,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.tipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+        },
+        {
             "name": "TwitchPlus",
             "bundleIdentifier": "tv.twitch",
             "version": "17.5-0.1.0",
@@ -145,6 +244,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "WiFiList",
+            "bundleIdentifier": "com.itaysoft.wifilist",
+            "version": "1.0",
+            "versionDate": "2023-12-12",
+            "size": 921268,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/WiFiList-1.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.itaysoft.wifilist.png"
         },
         {
             "name": "inshot",
