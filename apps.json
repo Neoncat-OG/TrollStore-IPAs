@@ -70,6 +70,17 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
+            "name": "YoutubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.49.3",
+            "versionDate": "2023-12-13",
+            "size": 132784867,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/YoutubeReborn-18.49.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "appdb",
             "bundleIdentifier": "it.ned.appdb-ios",
             "version": "1.1.6",
