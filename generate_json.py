@@ -6,6 +6,42 @@ from get_bundle_id import get_single_bundle_id
 import os
 
 
+def transform_object(original_object):
+    transformed_object = {**original_object, 'apps': None}
+
+    app_map = {}
+
+    for app in original_object['apps']:
+        name, bundle_identifier, version, version_date, size, download_url, developer_name, localized_description, icon_url = (
+            app['name'], app['bundleIdentifier'], app['version'], app['versionDate'],
+            app['size'], app['downloadURL'], app['developerName'], app['localizedDescription'], app['iconURL']
+        )
+
+        if name not in app_map:
+            app_map[name] = {
+                'name': name,
+                'bundleIdentifier': bundle_identifier,
+                'developerName': developer_name,
+                'localizedDescription': localized_description,
+                'iconURL': icon_url,
+                'versions': [],
+            }
+
+        app_map[name]['versions'].append({
+            'version': version,
+            'date': version_date,
+            'size': size,
+            'downloadURL': download_url,
+        })
+
+    for name, app_info in app_map.items():
+        app_info['versions'].sort(key=lambda x: x['date'], reverse=True)
+
+    transformed_object['apps'] = list(app_map.values())
+
+    return transformed_object
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--token", help="Github token")
@@ -65,4 +101,12 @@ if __name__ == "__main__":
     df.to_csv("bundleId.csv", index=False)
 
     with open('apps.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+        json.dump(data, json_file, indent=2)
+
+    with open('apps.json', 'r') as file:
+        original_object = json.load(file)
+
+    transformed_object = transform_object(original_object)
+    
+    with open('apps.json', 'w') as file:
+        json.dump(transformed_object, file, indent=2)
