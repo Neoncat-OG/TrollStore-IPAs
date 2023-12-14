@@ -27,7 +27,7 @@
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
 
-*Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps).
+*Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps).*
 
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
