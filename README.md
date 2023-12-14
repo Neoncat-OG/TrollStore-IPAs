@@ -27,7 +27,7 @@
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
 
-*Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps). I've observed a few issues, such as how the apps are displayed (with this repo) and the incorrect "update" status for some apps that are already updated / running the latest version but still a great method to keep informed of all updates.*
+*Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps).
 
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
@@ -36,19 +36,12 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-### **(11-28-2023):** Future of "TrollStore-IPAs" 
-Following the successful deployment of **[TrollStore 2](https://github.com/opa334/TrollStore)**, a comprehensive update for this repository is presently underway. This process represents a commitment to maintaining and enhancing the quality of the apps.
-
-The current enhancement phase involves an review and re-testing of every application encapsulated within the repo. Each application's status will be examined and revised based on the results of my tests. This could ensure the repository remains updated with the most accurate and reliable information.
-
-As a recent adopter of TrollStore, I can now extend my support for this environment and this strategic move is anticipated to significantly enhance the reliability and accuracy of the IPAs contained within the repository.
-
-Looking ahead, the use of TrollStore presents (for me) an possible inclusion of additional applications in the future. (Including a potential reintroduction of games)
-
-TrollStore will greatly facilitate the individual testing and integration of these applications, ensuring a diverse and high-quality selection of applications is delivered.
+**(11-28-2023) - (12-14-2023)** All apps reviewed, re-tested, and new ones added for TrollStore 2.
 
 ---
-**(11-10-2023):** All games have been removed to focus solely on applications.
+
+**(11-10-2023)** All games have been removed to focus solely on applications.
+
 
 ## Emoji Guide for App Selection *(Status)*
 
@@ -236,7 +229,7 @@ Everything you can currently find in this repo:
 | Polish Pro | Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. [Full app description here](https://apps.apple.com/us/app/polish-photo-video-editor/id1481174327) | 1.6.3 | [DPixel](https://t.me/dpixel) | 12-01-2023 | :white_check_mark: |
 | Postbox Pocket | App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager | 0.8.1 | N/A | 11-15-2022 | :warning: |
 | Procreate | [App description here](https://apps.apple.com/us/app/procreate/id425073498), this app is not modded, but a user requested it so here it is | 5.3.6 | [AppDB](https://appdb.to/app/ios/425073498) | 12-01-2023 | :white_check_mark: |
-| Quantumult X | A powerful network tool for web developers and users who need to customize their proxies. | 1.4.2 | [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) | 12-12-2023 | :white_check_mark: |
+| Quantumult X | **Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.** | 1.4.2 | [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) | 12-12-2023 | :white_check_mark: |
 | Quizlet Plus | [App description here](https://apps.apple.com/us/app/quizlet-ai-powered-flashcards/id546473125). **Quizlet Plus injected**. Tweak originally available through iApps paid repository but now provided for free thanks to AIpaLux. **Note: please be aware that occasional random crashes can occur while using the app.** | 8.15 | [AIpalux](https://t.me/Aipalux) / [IPA Fire](https://t.me/ipafire) | 12-08-2023 | :white_check_mark: |
 | RedditPlus | Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead) | 2023.45.0 | [AppDB](https://appdb.to/app/cydia/1900000994) / [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) | 11-14-2023 | :white_check_mark: |
 | ReFace Pro | *EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release.* [ReFace](https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587), a popular face-swap app, with pro features unlocked | 3.5.1 | [iPAWiND](https://t.me/iPAWiND) | 03-21-2023 | :warning: |
