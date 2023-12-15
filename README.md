@@ -12,14 +12,14 @@
     <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/total?color=%23007BFF&label=Total%20Downloads" alt="Total Downloads Badge"></a>
 </p>
 
-<h2 align="center">Add source to ESign/AltStore/SideStore:</h2>
+<h2 align="center">Add source to AltStore/SideStore:</h2>
 <p align="center"><code>https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json</code></p>
 
 <p align="center"><strong>------ OR ------</strong></p>
 
 <p align="center">
   <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%20-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%20(WIP)-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps">
   </a>
 </p>
 
