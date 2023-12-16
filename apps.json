@@ -4021,27 +4021,6 @@
       ]
     },
     {
-      "name": "Noir",
-      "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/nl.jeffreykuiken.NoirApp.png",
-      "versions": [
-        {
-          "version": "2023.2.6",
-          "date": "2023-12-10",
-          "size": 7581350,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Noir-2023.2.6.ipa"
-        },
-        {
-          "version": "2023.2.5",
-          "date": "2023-11-10",
-          "size": 7581044,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/Noir-2023.2.5.ipa"
-        }
-      ]
-    },
-    {
       "name": "TrollApps",
       "bundleIdentifier": "org.resonance.store",
       "developerName": "",
@@ -4398,27 +4377,6 @@
           "date": "2023-12-01",
           "size": 228202,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/TrollInstallerMDC-1.0.4.ipa"
-        }
-      ]
-    },
-    {
-      "name": "DuolingoPremium",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
-      "versions": [
-        {
-          "version": "7.2.0",
-          "date": "2023-12-07",
-          "size": 130365521,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/DuolingoPremium-7.2.0.ipa"
-        },
-        {
-          "version": "6.233.0",
-          "date": "2023-09-30",
-          "size": 126825233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/DuolingoPremium-6.233.0.ipa"
         }
       ]
     },
