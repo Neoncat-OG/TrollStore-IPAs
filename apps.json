@@ -139,6 +139,45 @@
       ]
     },
     {
+      "name": "MeituPlusPlus",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
+      "versions": [
+        {
+          "version": "9.10.35",
+          "date": "2023-12-16",
+          "size": 230671187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa"
+        },
+        {
+          "version": "9.10.30",
+          "date": "2023-12-08",
+          "size": 230163162,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa"
+        },
+        {
+          "version": "9.10.21",
+          "date": "2023-12-01",
+          "size": 231652715,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa"
+        },
+        {
+          "version": "9.9.81",
+          "date": "2023-10-03",
+          "size": 227689265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa"
+        },
+        {
+          "version": "9.7.30",
+          "date": "2023-01-02",
+          "size": 221377534,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa"
+        }
+      ]
+    },
+    {
       "name": "SnapchatWicked",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "",
@@ -257,10 +296,10 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
         {
-          "version": "23.25.81-1.2.14-3.4.4.ipa",
+          "version": "23.25.81-1.2.14-3.4.4",
           "date": "2023-12-16",
           "size": 107370188,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/Watusi3-23.25.81-1.2.14-3.4.4.ipa.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/Watusi3-23.25.81-1.2.14-3.4.4.ipa"
         },
         {
           "version": "23.25.80-1.2.11-3.4.4",
@@ -4104,39 +4143,6 @@
           "date": "2023-02-09",
           "size": 52542995,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/GoogleNews-5.38.ipa"
-        }
-      ]
-    },
-    {
-      "name": "MeituPlusPlus",
-      "bundleIdentifier": "com.meitu.mtxx",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
-      "versions": [
-        {
-          "version": "9.10.30",
-          "date": "2023-12-08",
-          "size": 230163162,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa"
-        },
-        {
-          "version": "9.10.21",
-          "date": "2023-12-01",
-          "size": 231652715,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa"
-        },
-        {
-          "version": "9.9.81",
-          "date": "2023-10-03",
-          "size": 227689265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa"
-        },
-        {
-          "version": "9.7.30",
-          "date": "2023-01-02",
-          "size": 221377534,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa"
         }
       ]
     },
