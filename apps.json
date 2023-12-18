@@ -4,6 +4,183 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ApolloICA",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
+      "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2023-12-18",
+          "size": 87096056,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.0.8.ipa"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2023-12-03",
+          "size": 87165733,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.0.5.ipa"
+        }
+      ]
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "32.5.0-2.3",
+          "date": "2023-12-18",
+          "size": 244719404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa"
+        },
+        {
+          "version": "32.4.0-2.3",
+          "date": "2023-12-05",
+          "size": 235256295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa"
+        },
+        {
+          "version": "32.3.0-2.3",
+          "date": "2023-11-28",
+          "size": 235569969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa"
+        },
+        {
+          "version": "32.2.0-2.3",
+          "date": "2023-11-21",
+          "size": 230416806,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa"
+        },
+        {
+          "version": "32.1.0-2.3",
+          "date": "2023-11-15",
+          "size": 268499892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa"
+        },
+        {
+          "version": "32.0.0-2.3",
+          "date": "2023-11-09",
+          "size": 251556245,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa"
+        },
+        {
+          "version": "31.9.0-2.3",
+          "date": "2023-11-01",
+          "size": 235764456,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa"
+        },
+        {
+          "version": "31.8.0-2.3",
+          "date": "2023-10-25",
+          "size": 238521629,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa"
+        },
+        {
+          "version": "31.7.0-2.3",
+          "date": "2023-10-19",
+          "size": 237220393,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa"
+        },
+        {
+          "version": "31.5.0-2.3",
+          "date": "2023-10-14",
+          "size": 239507576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa"
+        },
+        {
+          "version": "31.5.0-2.2.1",
+          "date": "2023-10-09",
+          "size": 233187621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.4.0-2.2.1",
+          "date": "2023-10-03",
+          "size": 233623072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.3.0-2.2.1",
+          "date": "2023-09-21",
+          "size": 231208792,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.2.0-2.2.1",
+          "date": "2023-09-18",
+          "size": 231301882,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.1.0-2.2",
+          "date": "2023-09-14",
+          "size": 230428022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa"
+        },
+        {
+          "version": "31.1.0-2.1",
+          "date": "2023-09-12",
+          "size": 230414152,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa"
+        },
+        {
+          "version": "31.1.0-2.0",
+          "date": "2023-09-08",
+          "size": 170308209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa"
+        },
+        {
+          "version": "31.0.2-2.0",
+          "date": "2023-09-05",
+          "size": 169559209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa"
+        },
+        {
+          "version": "31.0.0-2.0",
+          "date": "2023-09-02",
+          "size": 169557840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
+      "versions": [
+        {
+          "version": "3.3.7",
+          "date": "2023-12-18",
+          "size": 30062344,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/Misaka-3.3.7.ipa"
+        },
+        {
+          "version": "3.3.6",
+          "date": "2023-12-14",
+          "size": 28619835,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Misaka-3.3.6.ipa"
+        },
+        {
+          "version": "3.3.5",
+          "date": "2023-12-13",
+          "size": 28563166,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Misaka-3.3.5.ipa"
+        },
+        {
+          "version": "3.3.3",
+          "date": "2023-12-10",
+          "size": 24020194,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Misaka-3.3.3.ipa"
+        }
+      ]
+    },
+    {
       "name": "Streamer",
       "bundleIdentifier": "com.streamer.ios",
       "developerName": "",
@@ -1141,33 +1318,6 @@
       ]
     },
     {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
-      "versions": [
-        {
-          "version": "3.3.6",
-          "date": "2023-12-14",
-          "size": 28619835,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Misaka-3.3.6.ipa"
-        },
-        {
-          "version": "3.3.5",
-          "date": "2023-12-13",
-          "size": 28563166,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Misaka-3.3.5.ipa"
-        },
-        {
-          "version": "3.3.3",
-          "date": "2023-12-10",
-          "size": 24020194,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Misaka-3.3.3.ipa"
-        }
-      ]
-    },
-    {
       "name": "PhotoshopExpress",
       "bundleIdentifier": "com.adobe.PSMobile",
       "developerName": "",
@@ -2193,129 +2343,6 @@
           "date": "2023-12-12",
           "size": 23229778,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/appdb-1.1.6.ipa"
-        }
-      ]
-    },
-    {
-      "name": "BHTikTokPlus",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "32.5.0-2.3",
-          "date": "2023-12-12",
-          "size": 243210321,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/BHTikTokPlus-32.5.0-2.3.ipa"
-        },
-        {
-          "version": "32.4.0-2.3",
-          "date": "2023-12-05",
-          "size": 235256295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa"
-        },
-        {
-          "version": "32.3.0-2.3",
-          "date": "2023-11-28",
-          "size": 235569969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa"
-        },
-        {
-          "version": "32.2.0-2.3",
-          "date": "2023-11-21",
-          "size": 230416806,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa"
-        },
-        {
-          "version": "32.1.0-2.3",
-          "date": "2023-11-15",
-          "size": 268499892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa"
-        },
-        {
-          "version": "32.0.0-2.3",
-          "date": "2023-11-09",
-          "size": 251556245,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa"
-        },
-        {
-          "version": "31.9.0-2.3",
-          "date": "2023-11-01",
-          "size": 235764456,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa"
-        },
-        {
-          "version": "31.8.0-2.3",
-          "date": "2023-10-25",
-          "size": 238521629,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa"
-        },
-        {
-          "version": "31.7.0-2.3",
-          "date": "2023-10-19",
-          "size": 237220393,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa"
-        },
-        {
-          "version": "31.5.0-2.3",
-          "date": "2023-10-14",
-          "size": 239507576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa"
-        },
-        {
-          "version": "31.5.0-2.2.1",
-          "date": "2023-10-09",
-          "size": 233187621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.4.0-2.2.1",
-          "date": "2023-10-03",
-          "size": 233623072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.3.0-2.2.1",
-          "date": "2023-09-21",
-          "size": 231208792,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.2.0-2.2.1",
-          "date": "2023-09-18",
-          "size": 231301882,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.1.0-2.2",
-          "date": "2023-09-14",
-          "size": 230428022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa"
-        },
-        {
-          "version": "31.1.0-2.1",
-          "date": "2023-09-12",
-          "size": 230414152,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa"
-        },
-        {
-          "version": "31.1.0-2.0",
-          "date": "2023-09-08",
-          "size": 170308209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa"
-        },
-        {
-          "version": "31.0.2-2.0",
-          "date": "2023-09-05",
-          "size": 169559209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa"
-        },
-        {
-          "version": "31.0.0-2.0",
-          "date": "2023-09-02",
-          "size": 169557840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa"
         }
       ]
     },
@@ -5166,21 +5193,6 @@
           "date": "2022-11-10",
           "size": 1813888,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Opener.ipa"
-        }
-      ]
-    },
-    {
-      "name": "ApolloICAPI",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
-      "versions": [
-        {
-          "version": "1.0.5",
-          "date": "2023-12-03",
-          "size": 87165733,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICAPI-1.0.5.ipa"
         }
       ]
     },
