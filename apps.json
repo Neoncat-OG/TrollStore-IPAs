@@ -139,6 +139,135 @@
       ]
     },
     {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "32.6.0-2.3",
+          "date": "2023-12-19",
+          "size": 236795267,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa"
+        },
+        {
+          "version": "32.5.0-2.3",
+          "date": "2023-12-18",
+          "size": 244719404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa"
+        },
+        {
+          "version": "32.4.0-2.3",
+          "date": "2023-12-05",
+          "size": 235256295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa"
+        },
+        {
+          "version": "32.3.0-2.3",
+          "date": "2023-11-28",
+          "size": 235569969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa"
+        },
+        {
+          "version": "32.2.0-2.3",
+          "date": "2023-11-21",
+          "size": 230416806,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa"
+        },
+        {
+          "version": "32.1.0-2.3",
+          "date": "2023-11-15",
+          "size": 268499892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa"
+        },
+        {
+          "version": "32.0.0-2.3",
+          "date": "2023-11-09",
+          "size": 251556245,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa"
+        },
+        {
+          "version": "31.9.0-2.3",
+          "date": "2023-11-01",
+          "size": 235764456,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa"
+        },
+        {
+          "version": "31.8.0-2.3",
+          "date": "2023-10-25",
+          "size": 238521629,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa"
+        },
+        {
+          "version": "31.7.0-2.3",
+          "date": "2023-10-19",
+          "size": 237220393,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa"
+        },
+        {
+          "version": "31.5.0-2.3",
+          "date": "2023-10-14",
+          "size": 239507576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa"
+        },
+        {
+          "version": "31.5.0-2.2.1",
+          "date": "2023-10-09",
+          "size": 233187621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.4.0-2.2.1",
+          "date": "2023-10-03",
+          "size": 233623072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.3.0-2.2.1",
+          "date": "2023-09-21",
+          "size": 231208792,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.2.0-2.2.1",
+          "date": "2023-09-18",
+          "size": 231301882,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa"
+        },
+        {
+          "version": "31.1.0-2.2",
+          "date": "2023-09-14",
+          "size": 230428022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa"
+        },
+        {
+          "version": "31.1.0-2.1",
+          "date": "2023-09-12",
+          "size": 230414152,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa"
+        },
+        {
+          "version": "31.1.0-2.0",
+          "date": "2023-09-08",
+          "size": 170308209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa"
+        },
+        {
+          "version": "31.0.2-2.0",
+          "date": "2023-09-05",
+          "size": 169559209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa"
+        },
+        {
+          "version": "31.0.0-2.0",
+          "date": "2023-09-02",
+          "size": 169557840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa"
+        }
+      ]
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "",
@@ -280,6 +409,249 @@
       ]
     },
     {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+      "versions": [
+        {
+          "version": "7.6.5",
+          "date": "2023-12-19",
+          "size": 38834254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa"
+        },
+        {
+          "version": "7.6.4",
+          "date": "2023-11-29",
+          "size": 36936550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa"
+        },
+        {
+          "version": "7.6.3",
+          "date": "2023-11-19",
+          "size": 45198980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa"
+        },
+        {
+          "version": "7.6.2",
+          "date": "2023-11-06",
+          "size": 45192576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa"
+        },
+        {
+          "version": "7.6.1",
+          "date": "2023-09-27",
+          "size": 43213714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa"
+        },
+        {
+          "version": "7.6",
+          "date": "2023-09-06",
+          "size": 36357059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa"
+        },
+        {
+          "version": "7.5.9",
+          "date": "2023-08-24",
+          "size": 36292217,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa"
+        },
+        {
+          "version": "7.5.8",
+          "date": "2023-07-11",
+          "size": 41628224,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa"
+        },
+        {
+          "version": "7.5.7",
+          "date": "2023-06-29",
+          "size": 44492277,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa"
+        },
+        {
+          "version": "7.5.6",
+          "date": "2023-06-25",
+          "size": 42285212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa"
+        },
+        {
+          "version": "7.5.5",
+          "date": "2023-06-04",
+          "size": 40271379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa"
+        },
+        {
+          "version": "7.5.4",
+          "date": "2023-05-15",
+          "size": 40331154,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa"
+        },
+        {
+          "version": "7.5.2",
+          "date": "2023-04-30",
+          "size": 40517963,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa"
+        },
+        {
+          "version": "7.5.1",
+          "date": "2023-04-10",
+          "size": 40177347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa"
+        },
+        {
+          "version": "7.5",
+          "date": "2023-03-17",
+          "size": 39321077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa"
+        },
+        {
+          "version": "7.4.10",
+          "date": "2023-03-11",
+          "size": 44545614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa"
+        }
+      ]
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
+      "versions": [
+        {
+          "version": "2023.12.11",
+          "date": "2023-12-19",
+          "size": 105998045,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa"
+        },
+        {
+          "version": "2023.12.6",
+          "date": "2023-12-08",
+          "size": 106107558,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa"
+        },
+        {
+          "version": "2023.11.17",
+          "date": "2023-11-24",
+          "size": 90694453,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa"
+        },
+        {
+          "version": "2023.10.20",
+          "date": "2023-11-05",
+          "size": 146348694,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa"
+        },
+        {
+          "version": "2023.9.15",
+          "date": "2023-09-30",
+          "size": 142729185,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Shadowrocket",
+      "bundleIdentifier": "com.liguangming.Shadowrocket",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.liguangming.Shadowrocket.png",
+      "versions": [
+        {
+          "version": "2.2.41",
+          "date": "2023-12-19",
+          "size": 34343960,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/Shadowrocket-2.2.41.ipa"
+        }
+      ]
+    },
+    {
+      "name": "TempoPro",
+      "bundleIdentifier": "com.quvideo.VISO",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png",
+      "versions": [
+        {
+          "version": "4.48.0",
+          "date": "2023-12-19",
+          "size": 91827761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/TempoPro-4.48.0.ipa"
+        },
+        {
+          "version": "4.47.0",
+          "date": "2023-12-08",
+          "size": 91610295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/TempoPro-4.47.0.ipa"
+        },
+        {
+          "version": "4.46.0",
+          "date": "2023-12-04",
+          "size": 91555638,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/TempoPro-4.46.0.ipa"
+        },
+        {
+          "version": "4.34.0",
+          "date": "2023-02-25",
+          "size": 94700497,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/TempoPro-4.34.0.ipa"
+        },
+        {
+          "version": "4.33.0",
+          "date": "2023-02-18",
+          "size": 90634685,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/TempoPro-4.33.0.ipa"
+        },
+        {
+          "version": "4.31.1",
+          "date": "2023-01-18",
+          "size": 91892602,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/TempoPro-4.31.1.ipa"
+        },
+        {
+          "version": "4.31.0",
+          "date": "2023-01-13",
+          "size": 87754278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TempoPro-4.31.0.ipa"
+        },
+        {
+          "version": "4.29.0",
+          "date": "2022-12-22",
+          "size": 92651137,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/TempoPro-4.29.0.ipa"
+        },
+        {
+          "version": "4.28.0",
+          "date": "2022-12-08",
+          "size": 106501420,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/TempoPro-4.28.0.ipa"
+        },
+        {
+          "version": "4.27.1",
+          "date": "2022-12-01",
+          "size": 109447341,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TempoPro-4.27.1.ipa"
+        }
+      ]
+    },
+    {
+      "name": "VPNPremium",
+      "bundleIdentifier": "vpn.vpn.proxy",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/vpn.vpn.proxy.png",
+      "versions": [
+        {
+          "version": "3.17",
+          "date": "2023-12-19",
+          "size": 53032655,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/VPNPremium-3.17.ipa"
+        }
+      ]
+    },
+    {
       "name": "ApolloICA",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "",
@@ -297,129 +669,6 @@
           "date": "2023-12-03",
           "size": 87165733,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.0.5.ipa"
-        }
-      ]
-    },
-    {
-      "name": "BHTikTokPlus",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "32.5.0-2.3",
-          "date": "2023-12-18",
-          "size": 244719404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa"
-        },
-        {
-          "version": "32.4.0-2.3",
-          "date": "2023-12-05",
-          "size": 235256295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa"
-        },
-        {
-          "version": "32.3.0-2.3",
-          "date": "2023-11-28",
-          "size": 235569969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa"
-        },
-        {
-          "version": "32.2.0-2.3",
-          "date": "2023-11-21",
-          "size": 230416806,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa"
-        },
-        {
-          "version": "32.1.0-2.3",
-          "date": "2023-11-15",
-          "size": 268499892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa"
-        },
-        {
-          "version": "32.0.0-2.3",
-          "date": "2023-11-09",
-          "size": 251556245,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa"
-        },
-        {
-          "version": "31.9.0-2.3",
-          "date": "2023-11-01",
-          "size": 235764456,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa"
-        },
-        {
-          "version": "31.8.0-2.3",
-          "date": "2023-10-25",
-          "size": 238521629,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa"
-        },
-        {
-          "version": "31.7.0-2.3",
-          "date": "2023-10-19",
-          "size": 237220393,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa"
-        },
-        {
-          "version": "31.5.0-2.3",
-          "date": "2023-10-14",
-          "size": 239507576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa"
-        },
-        {
-          "version": "31.5.0-2.2.1",
-          "date": "2023-10-09",
-          "size": 233187621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.4.0-2.2.1",
-          "date": "2023-10-03",
-          "size": 233623072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.3.0-2.2.1",
-          "date": "2023-09-21",
-          "size": 231208792,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.2.0-2.2.1",
-          "date": "2023-09-18",
-          "size": 231301882,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa"
-        },
-        {
-          "version": "31.1.0-2.2",
-          "date": "2023-09-14",
-          "size": 230428022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa"
-        },
-        {
-          "version": "31.1.0-2.1",
-          "date": "2023-09-12",
-          "size": 230414152,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa"
-        },
-        {
-          "version": "31.1.0-2.0",
-          "date": "2023-09-08",
-          "size": 170308209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa"
-        },
-        {
-          "version": "31.0.2-2.0",
-          "date": "2023-09-05",
-          "size": 169559209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa"
-        },
-        {
-          "version": "31.0.0-2.0",
-          "date": "2023-09-02",
-          "size": 169557840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa"
         }
       ]
     },
@@ -4216,39 +4465,6 @@
       ]
     },
     {
-      "name": "MemrisePremium",
-      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
-      "versions": [
-        {
-          "version": "2023.12.6",
-          "date": "2023-12-08",
-          "size": 106107558,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa"
-        },
-        {
-          "version": "2023.11.17",
-          "date": "2023-11-24",
-          "size": 90694453,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa"
-        },
-        {
-          "version": "2023.10.20",
-          "date": "2023-11-05",
-          "size": 146348694,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa"
-        },
-        {
-          "version": "2023.9.15",
-          "date": "2023-09-30",
-          "size": 142729185,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa"
-        }
-      ]
-    },
-    {
       "name": "ReminiPro",
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "developerName": "",
@@ -4368,69 +4584,6 @@
           "date": "2023-07-25",
           "size": 74328097,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/ReminiPro-2.9.61.ipa"
-        }
-      ]
-    },
-    {
-      "name": "TempoPro",
-      "bundleIdentifier": "com.quvideo.VISO",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quvideo.VISO.png",
-      "versions": [
-        {
-          "version": "4.47.0",
-          "date": "2023-12-08",
-          "size": 91610295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/TempoPro-4.47.0.ipa"
-        },
-        {
-          "version": "4.46.0",
-          "date": "2023-12-04",
-          "size": 91555638,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/TempoPro-4.46.0.ipa"
-        },
-        {
-          "version": "4.34.0",
-          "date": "2023-02-25",
-          "size": 94700497,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/TempoPro-4.34.0.ipa"
-        },
-        {
-          "version": "4.33.0",
-          "date": "2023-02-18",
-          "size": 90634685,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/TempoPro-4.33.0.ipa"
-        },
-        {
-          "version": "4.31.1",
-          "date": "2023-01-18",
-          "size": 91892602,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/TempoPro-4.31.1.ipa"
-        },
-        {
-          "version": "4.31.0",
-          "date": "2023-01-13",
-          "size": 87754278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TempoPro-4.31.0.ipa"
-        },
-        {
-          "version": "4.29.0",
-          "date": "2022-12-22",
-          "size": 92651137,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/TempoPro-4.29.0.ipa"
-        },
-        {
-          "version": "4.28.0",
-          "date": "2022-12-08",
-          "size": 106501420,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/TempoPro-4.28.0.ipa"
-        },
-        {
-          "version": "4.27.1",
-          "date": "2022-12-01",
-          "size": 109447341,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TempoPro-4.27.1.ipa"
         }
       ]
     },
@@ -5553,105 +5706,6 @@
           "date": "2023-09-03",
           "size": 163259362,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2023/LingoDeer-2.9.3.ipa"
-        }
-      ]
-    },
-    {
-      "name": "InfusePro",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
-      "versions": [
-        {
-          "version": "7.6.4",
-          "date": "2023-11-29",
-          "size": 36936550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa"
-        },
-        {
-          "version": "7.6.3",
-          "date": "2023-11-19",
-          "size": 45198980,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa"
-        },
-        {
-          "version": "7.6.2",
-          "date": "2023-11-06",
-          "size": 45192576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa"
-        },
-        {
-          "version": "7.6.1",
-          "date": "2023-09-27",
-          "size": 43213714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa"
-        },
-        {
-          "version": "7.6",
-          "date": "2023-09-06",
-          "size": 36357059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa"
-        },
-        {
-          "version": "7.5.9",
-          "date": "2023-08-24",
-          "size": 36292217,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa"
-        },
-        {
-          "version": "7.5.8",
-          "date": "2023-07-11",
-          "size": 41628224,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa"
-        },
-        {
-          "version": "7.5.7",
-          "date": "2023-06-29",
-          "size": 44492277,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa"
-        },
-        {
-          "version": "7.5.6",
-          "date": "2023-06-25",
-          "size": 42285212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa"
-        },
-        {
-          "version": "7.5.5",
-          "date": "2023-06-04",
-          "size": 40271379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa"
-        },
-        {
-          "version": "7.5.4",
-          "date": "2023-05-15",
-          "size": 40331154,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa"
-        },
-        {
-          "version": "7.5.2",
-          "date": "2023-04-30",
-          "size": 40517963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa"
-        },
-        {
-          "version": "7.5.1",
-          "date": "2023-04-10",
-          "size": 40177347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa"
-        },
-        {
-          "version": "7.5",
-          "date": "2023-03-17",
-          "size": 39321077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa"
-        },
-        {
-          "version": "7.4.10",
-          "date": "2023-03-11",
-          "size": 44545614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa"
         }
       ]
     },
