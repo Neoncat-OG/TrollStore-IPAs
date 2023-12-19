@@ -553,6 +553,21 @@
       ]
     },
     {
+      "name": "nPlayerPlus",
+      "bundleIdentifier": "com.newin.nplayer",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.newin.nplayer.png",
+      "versions": [
+        {
+          "version": "3.12.17",
+          "date": "2023-12-19",
+          "size": 42439541,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/nPlayerPlus-3.12.17.ipa"
+        }
+      ]
+    },
+    {
       "name": "Shadowrocket",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "",
