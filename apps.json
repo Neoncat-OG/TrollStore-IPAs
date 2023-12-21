@@ -247,6 +247,174 @@
       ]
     },
     {
+      "name": "DLTikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "32.6.0",
+          "date": "2023-12-21",
+          "size": 238136582,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/DLTikTok-32.6.0.ipa"
+        },
+        {
+          "version": "32.5.0",
+          "date": "2023-12-13",
+          "size": 239821940,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/DLTikTok-32.5.0.ipa"
+        },
+        {
+          "version": "32.1.0",
+          "date": "2023-11-18",
+          "size": 268869800,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/DLTikTok-32.1.0.ipa"
+        },
+        {
+          "version": "29.6.0",
+          "date": "2023-07-25",
+          "size": 165234356,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/DLTikTok-29.6.0.ipa"
+        },
+        {
+          "version": "29.5.0",
+          "date": "2023-05-24",
+          "size": 158586010,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTikTok-29.5.0.ipa"
+        },
+        {
+          "version": "1.9.7-28.1.0",
+          "date": "2023-02-12",
+          "size": 149415663,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTikTok-1.9.7-28.1.0.ipa"
+        },
+        {
+          "version": "1.9.7-27.7.1",
+          "date": "2023-01-26",
+          "size": 147787247,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTikTok-1.9.7-27.7.1.ipa"
+        },
+        {
+          "version": "1.9.6-27.2.0",
+          "date": "2022-12-11",
+          "size": 144005911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/DLTikTok-1.9.6-27.2.0.ipa"
+        },
+        {
+          "version": "1.9.6-27.1.0",
+          "date": "2022-12-03",
+          "size": 142441634,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/DLTikTok-1.9.6-27.1.0.ipa"
+        },
+        {
+          "version": "27.0.1",
+          "date": "2022-12-01",
+          "size": 140179890,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/DLTikTok-27.0.1.ipa"
+        },
+        {
+          "version": "27.0.0",
+          "date": "2022-11-27",
+          "size": 140158757,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/DLTikTok-27.0.0.ipa"
+        },
+        {
+          "version": "26.8.0",
+          "date": "2022-11-14",
+          "size": 185007623,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/DLTikTok-26.8.0.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 183510258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/DLTikTok.ipa"
+        }
+      ]
+    },
+    {
+      "name": "DLTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
+      "versions": [
+        {
+          "version": "10.21.1",
+          "date": "2023-12-21",
+          "size": 116709707,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/DLTwitter-10.21.1.ipa"
+        },
+        {
+          "version": "10.16",
+          "date": "2023-11-18",
+          "size": 113223807,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/DLTwitter-10.16.ipa"
+        },
+        {
+          "version": "9.63",
+          "date": "2023-06-25",
+          "size": 101043915,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/DLTwitter-9.63.ipa"
+        },
+        {
+          "version": "9.58.1",
+          "date": "2023-05-24",
+          "size": 94293200,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTwitter-9.58.1.ipa"
+        },
+        {
+          "version": "9.54",
+          "date": "2023-04-23",
+          "size": 92843711,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/DLTwitter-9.54.ipa"
+        },
+        {
+          "version": "9.51.1",
+          "date": "2023-03-31",
+          "size": 90915412,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/DLTwitter-9.51.1.ipa"
+        },
+        {
+          "version": "9.49",
+          "date": "2023-03-27",
+          "size": 100152728,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2023/DLTwitter-9.49.ipa"
+        },
+        {
+          "version": "9.47",
+          "date": "2023-03-05",
+          "size": 93568761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/DLTwitter-9.47.ipa"
+        },
+        {
+          "version": "2.0.4-9.43.1",
+          "date": "2023-02-12",
+          "size": 86624661,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTwitter-2.0.4-9.43.1.ipa"
+        },
+        {
+          "version": "9.42",
+          "date": "2023-02-06",
+          "size": 93644354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DLTwitter-9.42.ipa"
+        },
+        {
+          "version": "9.41.1",
+          "date": "2023-01-26",
+          "size": 85951323,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTwitter-9.41.1.ipa"
+        },
+        {
+          "version": "9.38",
+          "date": "2022-12-27",
+          "size": 88663905,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/DLTwitter-9.38.ipa"
+        }
+      ]
+    },
+    {
       "name": "Enmity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "",
@@ -613,6 +781,45 @@
       ]
     },
     {
+      "name": "InstagramLRD",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "312.0.1.",
+          "date": "2023-12-21",
+          "size": 142053164,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/InstagramLRD-312.0.1.tipa"
+        },
+        {
+          "version": "311.0.2",
+          "date": "2023-12-13",
+          "size": 142070418,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/InstagramLRD-311.0.2.ipa"
+        },
+        {
+          "version": "310.0.4",
+          "date": "2023-12-06",
+          "size": 135010907,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/InstagramLRD-310.0.4.ipa"
+        },
+        {
+          "version": "309.1.1",
+          "date": "2023-11-18",
+          "size": 133751676,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstagramLRD-309.1.1.ipa"
+        },
+        {
+          "version": "250.0",
+          "date": "2022-12-27",
+          "size": 103540796,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramLRD-250.0.ipa"
+        }
+      ]
+    },
+    {
       "name": "ipogo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "",
@@ -945,6 +1152,426 @@
           "date": "2023-10-14",
           "size": 57652265,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa"
+        }
+      ]
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "32.6.0.",
+          "date": "2023-12-21",
+          "size": 235723768,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.tipa"
+        },
+        {
+          "version": "32.5.0",
+          "date": "2023-12-13",
+          "size": 242130045,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa"
+        },
+        {
+          "version": "32.4.0",
+          "date": "2023-12-06",
+          "size": 231669842,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa"
+        },
+        {
+          "version": "32.1.0",
+          "date": "2023-11-18",
+          "size": 268539701,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa"
+        },
+        {
+          "version": "30.8.0",
+          "date": "2023-08-19",
+          "size": 238419076,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa"
+        },
+        {
+          "version": "30.7.0",
+          "date": "2023-08-08",
+          "size": 235047661,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa"
+        },
+        {
+          "version": "30.6.0",
+          "date": "2023-08-02",
+          "size": 169756636,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa"
+        },
+        {
+          "version": "30.5.0",
+          "date": "2023-07-26",
+          "size": 228728729,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa"
+        },
+        {
+          "version": "30.4.0",
+          "date": "2023-07-25",
+          "size": 169760516,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa"
+        },
+        {
+          "version": "30.3.0",
+          "date": "2023-07-11",
+          "size": 226136340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa"
+        },
+        {
+          "version": "30.2.0",
+          "date": "2023-07-05",
+          "size": 167450012,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa"
+        },
+        {
+          "version": "30.1.0",
+          "date": "2023-06-29",
+          "size": 226257129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 222929008,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa"
+        },
+        {
+          "version": "29.7.0",
+          "date": "2023-06-04",
+          "size": 165357200,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa"
+        },
+        {
+          "version": "29.6.0",
+          "date": "2023-05-29",
+          "size": 164606635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa"
+        },
+        {
+          "version": "29.5.0",
+          "date": "2023-05-17",
+          "size": 163813779,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa"
+        },
+        {
+          "version": "29.3.0",
+          "date": "2023-05-10",
+          "size": 162910551,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa"
+        },
+        {
+          "version": "29.2.0",
+          "date": "2023-04-25",
+          "size": 163039384,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa"
+        },
+        {
+          "version": "29.1.1",
+          "date": "2023-04-20",
+          "size": 164591911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa"
+        },
+        {
+          "version": "29.1.0",
+          "date": "2023-04-20",
+          "size": 164592918,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa"
+        },
+        {
+          "version": "29.0.0",
+          "date": "2023-04-13",
+          "size": 164038801,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa"
+        },
+        {
+          "version": "28.9.0",
+          "date": "2023-04-05",
+          "size": 224953059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa"
+        },
+        {
+          "version": "28.4.1",
+          "date": "2023-03-18",
+          "size": 214129262,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa"
+        },
+        {
+          "version": "28.4.0",
+          "date": "2023-02-28",
+          "size": 147797612,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa"
+        },
+        {
+          "version": "28.2.0",
+          "date": "2023-02-14",
+          "size": 161357074,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa"
+        },
+        {
+          "version": "28.1.0",
+          "date": "2023-02-09",
+          "size": 227925817,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa"
+        },
+        {
+          "version": "27.9.0",
+          "date": "2023-01-28",
+          "size": 157852923,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa"
+        },
+        {
+          "version": "27.7.1",
+          "date": "2023-01-12",
+          "size": 155574707,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa"
+        },
+        {
+          "version": "27.7.0",
+          "date": "2023-01-10",
+          "size": 213567946,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa"
+        },
+        {
+          "version": "27.6.0",
+          "date": "2023-01-07",
+          "size": 219113676,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa"
+        },
+        {
+          "version": "27.6.0",
+          "date": "2023-01-05",
+          "size": 155698837,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa"
+        },
+        {
+          "version": "27.3.0",
+          "date": "2022-12-15",
+          "size": 150709121,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa"
+        },
+        {
+          "version": "27.2.0",
+          "date": "2022-12-09",
+          "size": 150004915,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa"
+        },
+        {
+          "version": "27.1.0",
+          "date": "2022-12-01",
+          "size": 139443165,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa"
+        },
+        {
+          "version": "27.0.0",
+          "date": "2022-11-27",
+          "size": 140006974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 166294832,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa"
+        }
+      ]
+    },
+    {
+      "name": "TikTokLRD",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "3.0-32.6.0.",
+          "date": "2023-12-21",
+          "size": 239159012,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokLRD-3.0-32.6.0.tipa"
+        },
+        {
+          "version": "3.0-32.5.0",
+          "date": "2023-12-13",
+          "size": 245565295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokLRD-3.0-32.5.0.ipa"
+        },
+        {
+          "version": "3.0-32.4.0",
+          "date": "2023-12-06",
+          "size": 237629062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokLRD-3.0-32.4.0.ipa"
+        },
+        {
+          "version": "3.0-32.1.0",
+          "date": "2023-11-18",
+          "size": 271935955,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokLRD-3.0-32.1.0.ipa"
+        },
+        {
+          "version": "3.0-31.4.0",
+          "date": "2023-10-01",
+          "size": 241104868,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRD-3.0-31.4.0.ipa"
+        },
+        {
+          "version": "3.0-31.0.0",
+          "date": "2023-09-02",
+          "size": 171969348,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa"
+        },
+        {
+          "version": "3.0-30.8.0",
+          "date": "2023-08-19",
+          "size": 241600649,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokLRD-3.0-30.8.0.ipa"
+        },
+        {
+          "version": "3.0-30.7.0",
+          "date": "2023-08-08",
+          "size": 238229235,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokLRD-3.0-30.7.0.ipa"
+        },
+        {
+          "version": "3.0-30.6.0",
+          "date": "2023-08-03",
+          "size": 231719368,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa"
+        },
+        {
+          "version": "3.0-30.5.0",
+          "date": "2023-07-27",
+          "size": 234249467,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa"
+        },
+        {
+          "version": "3.0-30.4.0",
+          "date": "2023-07-25",
+          "size": 233025011,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRD-3.0-30.4.0.ipa"
+        },
+        {
+          "version": "2.5-30.2.0",
+          "date": "2023-07-09",
+          "size": 221657400,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/TikTokLRD-2.5-30.2.0.ipa"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 227767318,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/TikTokLRD-30.0.0.ipa"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 236684111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokLRD-30.0.0.ipa"
+        },
+        {
+          "version": "29.7.0",
+          "date": "2023-06-04",
+          "size": 224380328,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokLRD-29.7.0.ipa"
+        },
+        {
+          "version": "29.5.0",
+          "date": "2023-05-17",
+          "size": 165709744,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokLRD-29.5.0.ipa"
+        },
+        {
+          "version": "29.3.0",
+          "date": "2023-05-10",
+          "size": 217083160,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokLRD-29.3.0.ipa"
+        },
+        {
+          "version": "29.2.0",
+          "date": "2023-04-25",
+          "size": 163677940,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokLRD-29.2.0.ipa"
+        },
+        {
+          "version": "29.1.1",
+          "date": "2023-04-21",
+          "size": 240382589,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2023/TikTokLRD-29.1.1.ipa"
+        },
+        {
+          "version": "29.1.0",
+          "date": "2023-04-20",
+          "size": 160871923,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokLRD-29.1.0.ipa"
+        },
+        {
+          "version": "29.0.0",
+          "date": "2023-04-14",
+          "size": 163208192,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/TikTokLRD-29.0.0.ipa"
+        },
+        {
+          "version": "2.5-28.9.0",
+          "date": "2023-04-05",
+          "size": 233114654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokLRD-2.5-28.9.0.ipa"
+        },
+        {
+          "version": "2.5-28.4.1",
+          "date": "2023-03-22",
+          "size": 231210955,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/TikTokLRD-2.5-28.4.1.ipa"
+        },
+        {
+          "version": "28.4.0",
+          "date": "2023-02-28",
+          "size": 220648541,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokLRD-28.4.0.ipa"
+        },
+        {
+          "version": "28.2.0",
+          "date": "2023-02-23",
+          "size": 163526002,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2023/TikTokLRD-28.2.0.ipa"
+        },
+        {
+          "version": "2.1-28.1.0",
+          "date": "2023-02-14",
+          "size": 217151010,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokLRD-2.1-28.1.0.ipa"
+        },
+        {
+          "version": "2.1-27.9.0",
+          "date": "2023-02-02",
+          "size": 167612872,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/TikTokLRD-2.1-27.9.0.ipa"
+        },
+        {
+          "version": "2.4-26.9.0",
+          "date": "2022-12-03",
+          "size": 193264418,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/TikTokLRD-2.4-26.9.0.ipa"
+        },
+        {
+          "version": "1.9-27.0.0",
+          "date": "2022-11-25",
+          "size": 197785506,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/TikTokLRD-1.9-27.0.0.ipa"
+        },
+        {
+          "version": "2.1-26.6.1",
+          "date": "2022-11-11",
+          "size": 139644976,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/TikTokLRD-2.1-26.6.1.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 127178850,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokLRD.ipa"
         }
       ]
     },
@@ -2719,120 +3346,6 @@
       ]
     },
     {
-      "name": "DLTikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "32.5.0",
-          "date": "2023-12-13",
-          "size": 239821940,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/DLTikTok-32.5.0.ipa"
-        },
-        {
-          "version": "32.1.0",
-          "date": "2023-11-18",
-          "size": 268869800,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/DLTikTok-32.1.0.ipa"
-        },
-        {
-          "version": "29.6.0",
-          "date": "2023-07-25",
-          "size": 165234356,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/DLTikTok-29.6.0.ipa"
-        },
-        {
-          "version": "29.5.0",
-          "date": "2023-05-24",
-          "size": 158586010,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTikTok-29.5.0.ipa"
-        },
-        {
-          "version": "1.9.7-28.1.0",
-          "date": "2023-02-12",
-          "size": 149415663,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTikTok-1.9.7-28.1.0.ipa"
-        },
-        {
-          "version": "1.9.7-27.7.1",
-          "date": "2023-01-26",
-          "size": 147787247,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTikTok-1.9.7-27.7.1.ipa"
-        },
-        {
-          "version": "1.9.6-27.2.0",
-          "date": "2022-12-11",
-          "size": 144005911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/DLTikTok-1.9.6-27.2.0.ipa"
-        },
-        {
-          "version": "1.9.6-27.1.0",
-          "date": "2022-12-03",
-          "size": 142441634,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/DLTikTok-1.9.6-27.1.0.ipa"
-        },
-        {
-          "version": "27.0.1",
-          "date": "2022-12-01",
-          "size": 140179890,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/DLTikTok-27.0.1.ipa"
-        },
-        {
-          "version": "27.0.0",
-          "date": "2022-11-27",
-          "size": 140158757,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/DLTikTok-27.0.0.ipa"
-        },
-        {
-          "version": "26.8.0",
-          "date": "2022-11-14",
-          "size": 185007623,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/DLTikTok-26.8.0.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 183510258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/DLTikTok.ipa"
-        }
-      ]
-    },
-    {
-      "name": "InstagramLRD",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "311.0.2",
-          "date": "2023-12-13",
-          "size": 142070418,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/InstagramLRD-311.0.2.ipa"
-        },
-        {
-          "version": "310.0.4",
-          "date": "2023-12-06",
-          "size": 135010907,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/InstagramLRD-310.0.4.ipa"
-        },
-        {
-          "version": "309.1.1",
-          "date": "2023-11-18",
-          "size": 133751676,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstagramLRD-309.1.1.ipa"
-        },
-        {
-          "version": "250.0",
-          "date": "2022-12-27",
-          "size": 103540796,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramLRD-250.0.ipa"
-        }
-      ]
-    },
-    {
       "name": "Rosiecord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "",
@@ -2892,414 +3405,6 @@
           "date": "2022-11-16",
           "size": 80391978,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Rosiecord-154.ipa"
-        }
-      ]
-    },
-    {
-      "name": "TikTokDark",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "32.5.0",
-          "date": "2023-12-13",
-          "size": 242130045,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa"
-        },
-        {
-          "version": "32.4.0",
-          "date": "2023-12-06",
-          "size": 231669842,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa"
-        },
-        {
-          "version": "32.1.0",
-          "date": "2023-11-18",
-          "size": 268539701,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa"
-        },
-        {
-          "version": "30.8.0",
-          "date": "2023-08-19",
-          "size": 238419076,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa"
-        },
-        {
-          "version": "30.7.0",
-          "date": "2023-08-08",
-          "size": 235047661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa"
-        },
-        {
-          "version": "30.6.0",
-          "date": "2023-08-02",
-          "size": 169756636,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa"
-        },
-        {
-          "version": "30.5.0",
-          "date": "2023-07-26",
-          "size": 228728729,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa"
-        },
-        {
-          "version": "30.4.0",
-          "date": "2023-07-25",
-          "size": 169760516,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa"
-        },
-        {
-          "version": "30.3.0",
-          "date": "2023-07-11",
-          "size": 226136340,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa"
-        },
-        {
-          "version": "30.2.0",
-          "date": "2023-07-05",
-          "size": 167450012,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa"
-        },
-        {
-          "version": "30.1.0",
-          "date": "2023-06-29",
-          "size": 226257129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 222929008,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa"
-        },
-        {
-          "version": "29.7.0",
-          "date": "2023-06-04",
-          "size": 165357200,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa"
-        },
-        {
-          "version": "29.6.0",
-          "date": "2023-05-29",
-          "size": 164606635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa"
-        },
-        {
-          "version": "29.5.0",
-          "date": "2023-05-17",
-          "size": 163813779,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa"
-        },
-        {
-          "version": "29.3.0",
-          "date": "2023-05-10",
-          "size": 162910551,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa"
-        },
-        {
-          "version": "29.2.0",
-          "date": "2023-04-25",
-          "size": 163039384,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa"
-        },
-        {
-          "version": "29.1.1",
-          "date": "2023-04-20",
-          "size": 164591911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa"
-        },
-        {
-          "version": "29.1.0",
-          "date": "2023-04-20",
-          "size": 164592918,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa"
-        },
-        {
-          "version": "29.0.0",
-          "date": "2023-04-13",
-          "size": 164038801,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa"
-        },
-        {
-          "version": "28.9.0",
-          "date": "2023-04-05",
-          "size": 224953059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa"
-        },
-        {
-          "version": "28.4.1",
-          "date": "2023-03-18",
-          "size": 214129262,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa"
-        },
-        {
-          "version": "28.4.0",
-          "date": "2023-02-28",
-          "size": 147797612,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa"
-        },
-        {
-          "version": "28.2.0",
-          "date": "2023-02-14",
-          "size": 161357074,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa"
-        },
-        {
-          "version": "28.1.0",
-          "date": "2023-02-09",
-          "size": 227925817,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa"
-        },
-        {
-          "version": "27.9.0",
-          "date": "2023-01-28",
-          "size": 157852923,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa"
-        },
-        {
-          "version": "27.7.1",
-          "date": "2023-01-12",
-          "size": 155574707,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa"
-        },
-        {
-          "version": "27.7.0",
-          "date": "2023-01-10",
-          "size": 213567946,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa"
-        },
-        {
-          "version": "27.6.0",
-          "date": "2023-01-07",
-          "size": 219113676,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa"
-        },
-        {
-          "version": "27.6.0",
-          "date": "2023-01-05",
-          "size": 155698837,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa"
-        },
-        {
-          "version": "27.3.0",
-          "date": "2022-12-15",
-          "size": 150709121,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa"
-        },
-        {
-          "version": "27.2.0",
-          "date": "2022-12-09",
-          "size": 150004915,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa"
-        },
-        {
-          "version": "27.1.0",
-          "date": "2022-12-01",
-          "size": 139443165,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa"
-        },
-        {
-          "version": "27.0.0",
-          "date": "2022-11-27",
-          "size": 140006974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 166294832,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa"
-        }
-      ]
-    },
-    {
-      "name": "TikTokLRD",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "3.0-32.5.0",
-          "date": "2023-12-13",
-          "size": 245565295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokLRD-3.0-32.5.0.ipa"
-        },
-        {
-          "version": "3.0-32.4.0",
-          "date": "2023-12-06",
-          "size": 237629062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokLRD-3.0-32.4.0.ipa"
-        },
-        {
-          "version": "3.0-32.1.0",
-          "date": "2023-11-18",
-          "size": 271935955,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokLRD-3.0-32.1.0.ipa"
-        },
-        {
-          "version": "3.0-31.4.0",
-          "date": "2023-10-01",
-          "size": 241104868,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRD-3.0-31.4.0.ipa"
-        },
-        {
-          "version": "3.0-31.0.0",
-          "date": "2023-09-02",
-          "size": 171969348,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa"
-        },
-        {
-          "version": "3.0-30.8.0",
-          "date": "2023-08-19",
-          "size": 241600649,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokLRD-3.0-30.8.0.ipa"
-        },
-        {
-          "version": "3.0-30.7.0",
-          "date": "2023-08-08",
-          "size": 238229235,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokLRD-3.0-30.7.0.ipa"
-        },
-        {
-          "version": "3.0-30.6.0",
-          "date": "2023-08-03",
-          "size": 231719368,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa"
-        },
-        {
-          "version": "3.0-30.5.0",
-          "date": "2023-07-27",
-          "size": 234249467,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa"
-        },
-        {
-          "version": "3.0-30.4.0",
-          "date": "2023-07-25",
-          "size": 233025011,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRD-3.0-30.4.0.ipa"
-        },
-        {
-          "version": "2.5-30.2.0",
-          "date": "2023-07-09",
-          "size": 221657400,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/TikTokLRD-2.5-30.2.0.ipa"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 227767318,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/TikTokLRD-30.0.0.ipa"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 236684111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokLRD-30.0.0.ipa"
-        },
-        {
-          "version": "29.7.0",
-          "date": "2023-06-04",
-          "size": 224380328,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokLRD-29.7.0.ipa"
-        },
-        {
-          "version": "29.5.0",
-          "date": "2023-05-17",
-          "size": 165709744,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokLRD-29.5.0.ipa"
-        },
-        {
-          "version": "29.3.0",
-          "date": "2023-05-10",
-          "size": 217083160,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokLRD-29.3.0.ipa"
-        },
-        {
-          "version": "29.2.0",
-          "date": "2023-04-25",
-          "size": 163677940,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokLRD-29.2.0.ipa"
-        },
-        {
-          "version": "29.1.1",
-          "date": "2023-04-21",
-          "size": 240382589,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2023/TikTokLRD-29.1.1.ipa"
-        },
-        {
-          "version": "29.1.0",
-          "date": "2023-04-20",
-          "size": 160871923,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokLRD-29.1.0.ipa"
-        },
-        {
-          "version": "29.0.0",
-          "date": "2023-04-14",
-          "size": 163208192,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/TikTokLRD-29.0.0.ipa"
-        },
-        {
-          "version": "2.5-28.9.0",
-          "date": "2023-04-05",
-          "size": 233114654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokLRD-2.5-28.9.0.ipa"
-        },
-        {
-          "version": "2.5-28.4.1",
-          "date": "2023-03-22",
-          "size": 231210955,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/TikTokLRD-2.5-28.4.1.ipa"
-        },
-        {
-          "version": "28.4.0",
-          "date": "2023-02-28",
-          "size": 220648541,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokLRD-28.4.0.ipa"
-        },
-        {
-          "version": "28.2.0",
-          "date": "2023-02-23",
-          "size": 163526002,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2023/TikTokLRD-28.2.0.ipa"
-        },
-        {
-          "version": "2.1-28.1.0",
-          "date": "2023-02-14",
-          "size": 217151010,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokLRD-2.1-28.1.0.ipa"
-        },
-        {
-          "version": "2.1-27.9.0",
-          "date": "2023-02-02",
-          "size": 167612872,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/TikTokLRD-2.1-27.9.0.ipa"
-        },
-        {
-          "version": "2.4-26.9.0",
-          "date": "2022-12-03",
-          "size": 193264418,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/TikTokLRD-2.4-26.9.0.ipa"
-        },
-        {
-          "version": "1.9-27.0.0",
-          "date": "2022-11-25",
-          "size": 197785506,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/TikTokLRD-1.9-27.0.0.ipa"
-        },
-        {
-          "version": "2.1-26.6.1",
-          "date": "2022-11-11",
-          "size": 139644976,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/TikTokLRD-2.1-26.6.1.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 127178850,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokLRD.ipa"
         }
       ]
     },
@@ -6039,81 +6144,6 @@
           "date": "2023-03-09",
           "size": 2911445,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/SecondHand-1.1.tipa"
-        }
-      ]
-    },
-    {
-      "name": "DLTwitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
-      "versions": [
-        {
-          "version": "10.16",
-          "date": "2023-11-18",
-          "size": 113223807,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/DLTwitter-10.16.ipa"
-        },
-        {
-          "version": "9.63",
-          "date": "2023-06-25",
-          "size": 101043915,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/DLTwitter-9.63.ipa"
-        },
-        {
-          "version": "9.58.1",
-          "date": "2023-05-24",
-          "size": 94293200,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTwitter-9.58.1.ipa"
-        },
-        {
-          "version": "9.54",
-          "date": "2023-04-23",
-          "size": 92843711,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/DLTwitter-9.54.ipa"
-        },
-        {
-          "version": "9.51.1",
-          "date": "2023-03-31",
-          "size": 90915412,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/DLTwitter-9.51.1.ipa"
-        },
-        {
-          "version": "9.49",
-          "date": "2023-03-27",
-          "size": 100152728,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2023/DLTwitter-9.49.ipa"
-        },
-        {
-          "version": "9.47",
-          "date": "2023-03-05",
-          "size": 93568761,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/DLTwitter-9.47.ipa"
-        },
-        {
-          "version": "2.0.4-9.43.1",
-          "date": "2023-02-12",
-          "size": 86624661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/DLTwitter-2.0.4-9.43.1.ipa"
-        },
-        {
-          "version": "9.42",
-          "date": "2023-02-06",
-          "size": 93644354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DLTwitter-9.42.ipa"
-        },
-        {
-          "version": "9.41.1",
-          "date": "2023-01-26",
-          "size": 85951323,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTwitter-9.41.1.ipa"
-        },
-        {
-          "version": "9.38",
-          "date": "2022-12-27",
-          "size": 88663905,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/DLTwitter-9.38.ipa"
         }
       ]
     },
