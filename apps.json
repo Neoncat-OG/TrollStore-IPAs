@@ -4,6 +4,108 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AIChatSmith",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
+      "versions": [
+        {
+          "version": "6.5",
+          "date": "2023-12-21",
+          "size": 56038752,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/AIChatSmith-6.5.ipa"
+        },
+        {
+          "version": "6.4",
+          "date": "2023-12-04",
+          "size": 58544194,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmith-6.4.ipa"
+        },
+        {
+          "version": "6.3.2",
+          "date": "2023-11-30",
+          "size": 68062282,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmith-6.3.2.ipa"
+        },
+        {
+          "version": "6.3.1",
+          "date": "2023-11-12",
+          "size": 68210762,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmith-6.3.1.ipa"
+        },
+        {
+          "version": "6.2.6",
+          "date": "2023-10-20",
+          "size": 83774996,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmith-6.2.6.ipa"
+        },
+        {
+          "version": "6.2.4",
+          "date": "2023-10-07",
+          "size": 85820013,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmith-6.2.4.ipa"
+        },
+        {
+          "version": "6.2.2",
+          "date": "2023-09-28",
+          "size": 58152963,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmith-6.2.2.ipa"
+        },
+        {
+          "version": "6.2",
+          "date": "2023-09-19",
+          "size": 56830198,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmith-6.2.ipa"
+        },
+        {
+          "version": "6.1",
+          "date": "2023-09-02",
+          "size": 48912919,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmith-6.1.ipa"
+        }
+      ]
+    },
+    {
+      "name": "BearPro",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2023-12-21",
+          "size": 26290969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa"
+        },
+        {
+          "version": "2.0.17",
+          "date": "2023-12-03",
+          "size": 26179550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa"
+        },
+        {
+          "version": "2.0.15",
+          "date": "2023-11-01",
+          "size": 31176993,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa"
+        },
+        {
+          "version": "2.0.14",
+          "date": "2023-10-01",
+          "size": 27851640,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa"
+        },
+        {
+          "version": "1.9.7",
+          "date": "2022-11-20",
+          "size": 18798823,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa"
+        }
+      ]
+    },
+    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "",
@@ -141,6 +243,117 @@
           "date": "2023-04-15",
           "size": 25156227,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "2.2.6-209.0",
+          "date": "2023-12-21",
+          "size": 94971519,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa"
+        },
+        {
+          "version": "2.2.6-207.0",
+          "date": "2023-12-10",
+          "size": 94194608,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa"
+        },
+        {
+          "version": "2.2.6-206.0",
+          "date": "2023-12-03",
+          "size": 97983202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa"
+        },
+        {
+          "version": "2.2.6",
+          "date": "2023-11-05",
+          "size": 100528562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa"
+        },
+        {
+          "version": "2.2.6-195.0",
+          "date": "2023-09-14",
+          "size": 108435829,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa"
+        },
+        {
+          "version": "2.2.6-194.0",
+          "date": "2023-09-08",
+          "size": 103897880,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa"
+        },
+        {
+          "version": "2.2.6-190.0",
+          "date": "2023-08-17",
+          "size": 96341212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa"
+        },
+        {
+          "version": "2.2.6-184.0",
+          "date": "2023-07-04",
+          "size": 99992444,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa"
+        },
+        {
+          "version": "2.2.6-180.0",
+          "date": "2023-06-04",
+          "size": 98676455,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa"
+        },
+        {
+          "version": "2.2.6-177.1",
+          "date": "2023-05-15",
+          "size": 90036977,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa"
+        },
+        {
+          "version": "177.1",
+          "date": "2023-05-10",
+          "size": 95348126,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa"
+        },
+        {
+          "version": "2.2.5-176.0",
+          "date": "2023-05-06",
+          "size": 89066297,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa"
+        },
+        {
+          "version": "2.2.5-175.0",
+          "date": "2023-04-19",
+          "size": 87875691,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa"
+        },
+        {
+          "version": "2.1.4-158.0",
+          "date": "2022-12-22",
+          "size": 134818918,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa"
+        },
+        {
+          "version": "2.1.4-155.0",
+          "date": "2022-11-29",
+          "size": 79750354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa"
+        },
+        {
+          "version": "2.1.4-153.0",
+          "date": "2022-11-10",
+          "size": 78691336,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 76682774,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa"
         }
       ]
     },
@@ -396,6 +609,363 @@
           "date": "2022-11-10",
           "size": 143311099,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa"
+        }
+      ]
+    },
+    {
+      "name": "ipogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+      "versions": [
+        {
+          "version": "3.2.2",
+          "date": "2023-12-21",
+          "size": 128549352,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/ipogo-3.2.2.ipa"
+        },
+        {
+          "version": "3.2.1",
+          "date": "2023-12-15",
+          "size": 128405035,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/ipogo-3.2.1.ipa"
+        },
+        {
+          "version": "3.2.0",
+          "date": "2023-11-28",
+          "size": 127955571,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/ipogo-3.2.0.ipa"
+        },
+        {
+          "version": "3.1.9",
+          "date": "2023-11-24",
+          "size": 127974496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/ipogo-3.1.9.ipa"
+        },
+        {
+          "version": "3.1.8",
+          "date": "2023-11-12",
+          "size": 129188645,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/ipogo-3.1.8.ipa"
+        },
+        {
+          "version": "3.1.7",
+          "date": "2023-10-29",
+          "size": 129089719,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/ipogo-3.1.7.ipa"
+        },
+        {
+          "version": "3.1.5",
+          "date": "2023-10-17",
+          "size": 127860610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/ipogo-3.1.5.ipa"
+        },
+        {
+          "version": "3.1.1",
+          "date": "2023-09-23",
+          "size": 127591654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/ipogo-3.1.1.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Limon.png",
+      "versions": [
+        {
+          "version": "1.0.8.4",
+          "date": "2023-12-21",
+          "size": 17299572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Limon-1.0.8.4.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png",
+      "versions": [
+        {
+          "version": "0.1.45",
+          "date": "2023-12-21",
+          "size": 93430194,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Mangayomi-0.1.45.ipa"
+        },
+        {
+          "version": "0.1.4",
+          "date": "2023-12-15",
+          "size": 93319936,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Mangayomi-0.1.4.ipa"
+        },
+        {
+          "version": "0.1.35",
+          "date": "2023-12-08",
+          "size": 93308009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/Mangayomi-0.1.35.ipa"
+        },
+        {
+          "version": "0.1.25",
+          "date": "2023-12-07",
+          "size": 93304657,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/Mangayomi-0.1.25.ipa"
+        },
+        {
+          "version": "0.1.1",
+          "date": "2023-11-29",
+          "size": 93143303,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Mangayomi-0.1.1.ipa"
+        },
+        {
+          "version": "0.1.0",
+          "date": "2023-11-24",
+          "size": 93145110,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Mangayomi-0.1.0.ipa"
+        },
+        {
+          "version": "0.0.8",
+          "date": "2023-11-19",
+          "size": 93060349,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/Mangayomi-0.0.8.ipa"
+        }
+      ]
+    },
+    {
+      "name": "MeituPlusPlus",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
+      "versions": [
+        {
+          "version": "9.10.50",
+          "date": "2023-12-21",
+          "size": 247140619,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa"
+        },
+        {
+          "version": "9.10.35",
+          "date": "2023-12-16",
+          "size": 230671187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa"
+        },
+        {
+          "version": "9.10.30",
+          "date": "2023-12-08",
+          "size": 230163162,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa"
+        },
+        {
+          "version": "9.10.21",
+          "date": "2023-12-01",
+          "size": 231652715,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa"
+        },
+        {
+          "version": "9.9.81",
+          "date": "2023-10-03",
+          "size": 227689265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa"
+        },
+        {
+          "version": "9.7.30",
+          "date": "2023-01-02",
+          "size": 221377534,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa"
+        }
+      ]
+    },
+    {
+      "name": "PhotomathPlus",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
+      "versions": [
+        {
+          "version": "8.34.1",
+          "date": "2023-12-21",
+          "size": 16030553,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa"
+        },
+        {
+          "version": "8.33.0",
+          "date": "2023-12-05",
+          "size": 8908705,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotomathPlus-8.33.0.ipa"
+        },
+        {
+          "version": "8.32.0",
+          "date": "2023-11-06",
+          "size": 9538298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/PhotomathPlus-8.32.0.ipa"
+        },
+        {
+          "version": "8.31.1",
+          "date": "2023-10-23",
+          "size": 10379636,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/PhotomathPlus-8.31.1.ipa"
+        },
+        {
+          "version": "8.30.0",
+          "date": "2023-09-27",
+          "size": 10877296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/PhotomathPlus-8.30.0.ipa"
+        },
+        {
+          "version": "8.29.0",
+          "date": "2023-09-06",
+          "size": 11270367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/PhotomathPlus-8.29.0.ipa"
+        },
+        {
+          "version": "8.28.0",
+          "date": "2023-08-17",
+          "size": 11252320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/PhotomathPlus-8.28.0.ipa"
+        },
+        {
+          "version": "8.27.0",
+          "date": "2023-07-25",
+          "size": 14507570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotomathPlus-8.27.0.ipa"
+        },
+        {
+          "version": "8.26.0",
+          "date": "2023-07-02",
+          "size": 16295410,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/PhotomathPlus-8.26.0.ipa"
+        },
+        {
+          "version": "8.25.0",
+          "date": "2023-06-25",
+          "size": 13939748,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/PhotomathPlus-8.25.0.ipa"
+        },
+        {
+          "version": "8.24.0",
+          "date": "2023-05-24",
+          "size": 13704658,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotomathPlus-8.24.0.ipa"
+        },
+        {
+          "version": "8.23.0",
+          "date": "2023-05-10",
+          "size": 13513357,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/PhotomathPlus-8.23.0.ipa"
+        },
+        {
+          "version": "8.22.1",
+          "date": "2023-04-27",
+          "size": 13331452,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotomathPlus-8.22.1.ipa"
+        },
+        {
+          "version": "8.22.0",
+          "date": "2023-04-25",
+          "size": 13255926,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/PhotomathPlus-8.22.0.ipa"
+        },
+        {
+          "version": "8.19.2",
+          "date": "2023-04-15",
+          "size": 13261470,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PhotomathPlus-8.19.2.ipa"
+        },
+        {
+          "version": "8.19.1",
+          "date": "2023-02-16",
+          "size": 16121910,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PhotomathPlus-8.19.1.ipa"
+        },
+        {
+          "version": "8.18.0",
+          "date": "2023-01-24",
+          "size": 13394622,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/PhotomathPlus-8.18.0.ipa"
+        },
+        {
+          "version": "8.15.0",
+          "date": "2022-12-02",
+          "size": 12615196,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa"
+        }
+      ]
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+      "versions": [
+        {
+          "version": "8.17",
+          "date": "2023-12-21",
+          "size": 54797523,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/QuizletPlus-8.17.ipa"
+        },
+        {
+          "version": "8.16",
+          "date": "2023-12-15",
+          "size": 54774996,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/QuizletPlus-8.16.ipa"
+        },
+        {
+          "version": "8.15",
+          "date": "2023-12-08",
+          "size": 54568872,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/QuizletPlus-8.15.ipa"
+        },
+        {
+          "version": "8.14",
+          "date": "2023-12-01",
+          "size": 54472832,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/QuizletPlus-8.14.ipa"
+        },
+        {
+          "version": "8.12",
+          "date": "2023-11-10",
+          "size": 59917069,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/QuizletPlus-8.12.ipa"
+        },
+        {
+          "version": "8.8",
+          "date": "2023-10-20",
+          "size": 57483552,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/QuizletPlus-8.8.ipa"
+        },
+        {
+          "version": "8.6",
+          "date": "2023-10-14",
+          "size": 57652265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa"
+        }
+      ]
+    },
+    {
+      "name": "uYouEnhanced",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "18.49.3-3.0.1-F2",
+          "date": "2023-12-21",
+          "size": 126528062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/uYouEnhanced-18.49.3-3.0.1-F2.ipa"
+        },
+        {
+          "version": "18.49.3-3.0.1",
+          "date": "2023-12-12",
+          "size": 123567452,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/uYouEnhanced-18.49.3-3.0.1.ipa"
         }
       ]
     },
@@ -1624,45 +2194,6 @@
       ]
     },
     {
-      "name": "MeituPlusPlus",
-      "bundleIdentifier": "com.meitu.mtxx",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
-      "versions": [
-        {
-          "version": "9.10.35",
-          "date": "2023-12-16",
-          "size": 230671187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa"
-        },
-        {
-          "version": "9.10.30",
-          "date": "2023-12-08",
-          "size": 230163162,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa"
-        },
-        {
-          "version": "9.10.21",
-          "date": "2023-12-01",
-          "size": 231652715,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa"
-        },
-        {
-          "version": "9.9.81",
-          "date": "2023-10-03",
-          "size": 227689265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa"
-        },
-        {
-          "version": "9.7.30",
-          "date": "2023-01-02",
-          "size": 221377534,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa"
-        }
-      ]
-    },
-    {
       "name": "SnapchatWicked",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "",
@@ -1800,147 +2331,6 @@
           "date": "2023-12-15",
           "size": 156360115,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Grammarly-4.0.0.ipa"
-        }
-      ]
-    },
-    {
-      "name": "ipogo",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
-      "versions": [
-        {
-          "version": "3.2.1",
-          "date": "2023-12-15",
-          "size": 128405035,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/ipogo-3.2.1.ipa"
-        },
-        {
-          "version": "3.2.0",
-          "date": "2023-11-28",
-          "size": 127955571,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/ipogo-3.2.0.ipa"
-        },
-        {
-          "version": "3.1.9",
-          "date": "2023-11-24",
-          "size": 127974496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/ipogo-3.1.9.ipa"
-        },
-        {
-          "version": "3.1.8",
-          "date": "2023-11-12",
-          "size": 129188645,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/ipogo-3.1.8.ipa"
-        },
-        {
-          "version": "3.1.7",
-          "date": "2023-10-29",
-          "size": 129089719,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/ipogo-3.1.7.ipa"
-        },
-        {
-          "version": "3.1.5",
-          "date": "2023-10-17",
-          "size": 127860610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/ipogo-3.1.5.ipa"
-        },
-        {
-          "version": "3.1.1",
-          "date": "2023-09-23",
-          "size": 127591654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/ipogo-3.1.1.ipa"
-        }
-      ]
-    },
-    {
-      "name": "Mangayomi",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png",
-      "versions": [
-        {
-          "version": "0.1.4",
-          "date": "2023-12-15",
-          "size": 93319936,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Mangayomi-0.1.4.ipa"
-        },
-        {
-          "version": "0.1.35",
-          "date": "2023-12-08",
-          "size": 93308009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/Mangayomi-0.1.35.ipa"
-        },
-        {
-          "version": "0.1.25",
-          "date": "2023-12-07",
-          "size": 93304657,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/Mangayomi-0.1.25.ipa"
-        },
-        {
-          "version": "0.1.1",
-          "date": "2023-11-29",
-          "size": 93143303,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Mangayomi-0.1.1.ipa"
-        },
-        {
-          "version": "0.1.0",
-          "date": "2023-11-24",
-          "size": 93145110,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Mangayomi-0.1.0.ipa"
-        },
-        {
-          "version": "0.0.8",
-          "date": "2023-11-19",
-          "size": 93060349,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/Mangayomi-0.0.8.ipa"
-        }
-      ]
-    },
-    {
-      "name": "QuizletPlus",
-      "bundleIdentifier": "com.quizlet.quizlet",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
-      "versions": [
-        {
-          "version": "8.16",
-          "date": "2023-12-15",
-          "size": 54774996,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/QuizletPlus-8.16.ipa"
-        },
-        {
-          "version": "8.15",
-          "date": "2023-12-08",
-          "size": 54568872,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/QuizletPlus-8.15.ipa"
-        },
-        {
-          "version": "8.14",
-          "date": "2023-12-01",
-          "size": 54472832,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/QuizletPlus-8.14.ipa"
-        },
-        {
-          "version": "8.12",
-          "date": "2023-11-10",
-          "size": 59917069,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/QuizletPlus-8.12.ipa"
-        },
-        {
-          "version": "8.8",
-          "date": "2023-10-20",
-          "size": 57483552,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/QuizletPlus-8.8.ipa"
-        },
-        {
-          "version": "8.6",
-          "date": "2023-10-14",
-          "size": 57652265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa"
         }
       ]
     },
@@ -3871,21 +4261,6 @@
       ]
     },
     {
-      "name": "uYouEnhanced",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.49.3-3.0.1",
-          "date": "2023-12-12",
-          "size": 123567452,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/uYouEnhanced-18.49.3-3.0.1.ipa"
-        }
-      ]
-    },
-    {
       "name": "WiFiList",
       "bundleIdentifier": "com.itaysoft.wifilist",
       "developerName": "",
@@ -4065,111 +4440,6 @@
           "date": "2023-07-26",
           "size": 123943163,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/YouTubeOLED-18.29.1.ipa"
-        }
-      ]
-    },
-    {
-      "name": "Enmity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "2.2.6-207.0",
-          "date": "2023-12-10",
-          "size": 94194608,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa"
-        },
-        {
-          "version": "2.2.6-206.0",
-          "date": "2023-12-03",
-          "size": 97983202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa"
-        },
-        {
-          "version": "2.2.6",
-          "date": "2023-11-05",
-          "size": 100528562,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa"
-        },
-        {
-          "version": "2.2.6-195.0",
-          "date": "2023-09-14",
-          "size": 108435829,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa"
-        },
-        {
-          "version": "2.2.6-194.0",
-          "date": "2023-09-08",
-          "size": 103897880,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa"
-        },
-        {
-          "version": "2.2.6-190.0",
-          "date": "2023-08-17",
-          "size": 96341212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa"
-        },
-        {
-          "version": "2.2.6-184.0",
-          "date": "2023-07-04",
-          "size": 99992444,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa"
-        },
-        {
-          "version": "2.2.6-180.0",
-          "date": "2023-06-04",
-          "size": 98676455,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa"
-        },
-        {
-          "version": "2.2.6-177.1",
-          "date": "2023-05-15",
-          "size": 90036977,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa"
-        },
-        {
-          "version": "177.1",
-          "date": "2023-05-10",
-          "size": 95348126,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa"
-        },
-        {
-          "version": "2.2.5-176.0",
-          "date": "2023-05-06",
-          "size": 89066297,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa"
-        },
-        {
-          "version": "2.2.5-175.0",
-          "date": "2023-04-19",
-          "size": 87875691,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa"
-        },
-        {
-          "version": "2.1.4-158.0",
-          "date": "2022-12-22",
-          "size": 134818918,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa"
-        },
-        {
-          "version": "2.1.4-155.0",
-          "date": "2022-11-29",
-          "size": 79750354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa"
-        },
-        {
-          "version": "2.1.4-153.0",
-          "date": "2022-11-10",
-          "size": 78691336,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 76682774,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa"
         }
       ]
     },
@@ -4696,117 +4966,6 @@
       ]
     },
     {
-      "name": "PhotomathPlus",
-      "bundleIdentifier": "com.microblink.PhotoMath",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
-      "versions": [
-        {
-          "version": "8.33.0",
-          "date": "2023-12-05",
-          "size": 8908705,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotomathPlus-8.33.0.ipa"
-        },
-        {
-          "version": "8.32.0",
-          "date": "2023-11-06",
-          "size": 9538298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/PhotomathPlus-8.32.0.ipa"
-        },
-        {
-          "version": "8.31.1",
-          "date": "2023-10-23",
-          "size": 10379636,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/PhotomathPlus-8.31.1.ipa"
-        },
-        {
-          "version": "8.30.0",
-          "date": "2023-09-27",
-          "size": 10877296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/PhotomathPlus-8.30.0.ipa"
-        },
-        {
-          "version": "8.29.0",
-          "date": "2023-09-06",
-          "size": 11270367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/PhotomathPlus-8.29.0.ipa"
-        },
-        {
-          "version": "8.28.0",
-          "date": "2023-08-17",
-          "size": 11252320,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/PhotomathPlus-8.28.0.ipa"
-        },
-        {
-          "version": "8.27.0",
-          "date": "2023-07-25",
-          "size": 14507570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotomathPlus-8.27.0.ipa"
-        },
-        {
-          "version": "8.26.0",
-          "date": "2023-07-02",
-          "size": 16295410,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/PhotomathPlus-8.26.0.ipa"
-        },
-        {
-          "version": "8.25.0",
-          "date": "2023-06-25",
-          "size": 13939748,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/PhotomathPlus-8.25.0.ipa"
-        },
-        {
-          "version": "8.24.0",
-          "date": "2023-05-24",
-          "size": 13704658,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotomathPlus-8.24.0.ipa"
-        },
-        {
-          "version": "8.23.0",
-          "date": "2023-05-10",
-          "size": 13513357,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/PhotomathPlus-8.23.0.ipa"
-        },
-        {
-          "version": "8.22.1",
-          "date": "2023-04-27",
-          "size": 13331452,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotomathPlus-8.22.1.ipa"
-        },
-        {
-          "version": "8.22.0",
-          "date": "2023-04-25",
-          "size": 13255926,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/PhotomathPlus-8.22.0.ipa"
-        },
-        {
-          "version": "8.19.2",
-          "date": "2023-04-15",
-          "size": 13261470,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PhotomathPlus-8.19.2.ipa"
-        },
-        {
-          "version": "8.19.1",
-          "date": "2023-02-16",
-          "size": 16121910,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PhotomathPlus-8.19.1.ipa"
-        },
-        {
-          "version": "8.18.0",
-          "date": "2023-01-24",
-          "size": 13394622,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/PhotomathPlus-8.18.0.ipa"
-        },
-        {
-          "version": "8.15.0",
-          "date": "2022-12-02",
-          "size": 12615196,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa"
-        }
-      ]
-    },
-    {
       "name": "SparkPremium",
       "bundleIdentifier": "com.readdle.smartemail",
       "developerName": "",
@@ -5284,63 +5443,6 @@
       ]
     },
     {
-      "name": "AIChatSmith",
-      "bundleIdentifier": "co.vulcanlabs.moodtracker",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
-      "versions": [
-        {
-          "version": "6.4",
-          "date": "2023-12-04",
-          "size": 58544194,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmith-6.4.ipa"
-        },
-        {
-          "version": "6.3.2",
-          "date": "2023-11-30",
-          "size": 68062282,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmith-6.3.2.ipa"
-        },
-        {
-          "version": "6.3.1",
-          "date": "2023-11-12",
-          "size": 68210762,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmith-6.3.1.ipa"
-        },
-        {
-          "version": "6.2.6",
-          "date": "2023-10-20",
-          "size": 83774996,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmith-6.2.6.ipa"
-        },
-        {
-          "version": "6.2.4",
-          "date": "2023-10-07",
-          "size": 85820013,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmith-6.2.4.ipa"
-        },
-        {
-          "version": "6.2.2",
-          "date": "2023-09-28",
-          "size": 58152963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmith-6.2.2.ipa"
-        },
-        {
-          "version": "6.2",
-          "date": "2023-09-19",
-          "size": 56830198,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmith-6.2.ipa"
-        },
-        {
-          "version": "6.1",
-          "date": "2023-09-02",
-          "size": 48912919,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmith-6.1.ipa"
-        }
-      ]
-    },
-    {
       "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole1160.ios",
       "developerName": "",
@@ -5424,39 +5526,6 @@
           "date": "2022-11-10",
           "size": 1813888,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Opener.ipa"
-        }
-      ]
-    },
-    {
-      "name": "BearPro",
-      "bundleIdentifier": "net.shinyfrog.bear-iOS",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
-      "versions": [
-        {
-          "version": "2.0.17",
-          "date": "2023-12-03",
-          "size": 26179550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa"
-        },
-        {
-          "version": "2.0.15",
-          "date": "2023-11-01",
-          "size": 31176993,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa"
-        },
-        {
-          "version": "2.0.14",
-          "date": "2023-10-01",
-          "size": 27851640,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa"
-        },
-        {
-          "version": "1.9.7",
-          "date": "2022-11-20",
-          "size": 18798823,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa"
         }
       ]
     },
