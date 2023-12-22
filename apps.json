@@ -4,6 +4,153 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "312.0.1-1.1.6.ipa.",
+          "date": "2023-12-22",
+          "size": 143349474,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa.tipa"
+        },
+        {
+          "version": "311.0.2-1.1.6",
+          "date": "2023-12-12",
+          "size": 142283496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa"
+        },
+        {
+          "version": "310.0.4-1.1.6",
+          "date": "2023-12-11",
+          "size": 139562066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa"
+        },
+        {
+          "version": "310.0.4-1.1.4",
+          "date": "2023-12-04",
+          "size": 133602409,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa"
+        },
+        {
+          "version": "309.1.1-1.1.4",
+          "date": "2023-12-03",
+          "size": 133971258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Snapchatiota",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
+      "versions": [
+        {
+          "version": "12.65.1-4.5.ipa.",
+          "date": "2023-12-22",
+          "size": 111680000,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/Snapchatiota-12.65.1-4.5.ipa.tipa"
+        },
+        {
+          "version": "12.64-4.5",
+          "date": "2023-12-12",
+          "size": 117359311,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Snapchatiota-12.64-4.5.ipa"
+        },
+        {
+          "version": "12.63-4.5",
+          "date": "2023-12-05",
+          "size": 116973904,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Snapchatiota-12.63-4.5.ipa"
+        },
+        {
+          "version": "12.62-4.4.1",
+          "date": "2023-12-02",
+          "size": 117345838,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Snapchatiota-12.62-4.4.1.ipa"
+        },
+        {
+          "version": "12.60-4.4.1",
+          "date": "2023-11-26",
+          "size": 105706025,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2023/Snapchatiota-12.60-4.4.1.ipa"
+        },
+        {
+          "version": "12.60-4.3.1",
+          "date": "2023-11-15",
+          "size": 116242121,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Snapchatiota-12.60-4.3.1.ipa"
+        },
+        {
+          "version": "12.59-4.3.1",
+          "date": "2023-11-12",
+          "size": 105002426,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/Snapchatiota-12.59-4.3.1.ipa"
+        },
+        {
+          "version": "12.59-4.2",
+          "date": "2023-11-09",
+          "size": 115532892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Snapchatiota-12.59-4.2.ipa"
+        },
+        {
+          "version": "12.58-4.2",
+          "date": "2023-11-01",
+          "size": 104554508,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/Snapchatiota-12.58-4.2.ipa"
+        },
+        {
+          "version": "12.56-4.1",
+          "date": "2023-10-20",
+          "size": 105231130,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Snapchatiota-12.56-4.1.ipa"
+        },
+        {
+          "version": "12.55-4.0.1",
+          "date": "2023-10-18",
+          "size": 104344891,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/Snapchatiota-12.55-4.0.1.ipa"
+        },
+        {
+          "version": "12.49-3.0.4",
+          "date": "2023-10-03",
+          "size": 100404025,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/Snapchatiota-12.49-3.0.4.ipa"
+        },
+        {
+          "version": "12.49.0",
+          "date": "2023-09-28",
+          "size": 100454729,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Snapchatiota-12.49.0.ipa"
+        }
+      ]
+    },
+    {
+      "name": "TruecallerPremium",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
+      "versions": [
+        {
+          "version": "12.71",
+          "date": "2023-12-22",
+          "size": 93315725,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/TruecallerPremium-12.71.ipa"
+        },
+        {
+          "version": "12.69.6",
+          "date": "2023-12-05",
+          "size": 88640952,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa"
+        }
+      ]
+    },
+    {
       "name": "AIChatSmith",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "",
@@ -3514,39 +3661,6 @@
       ]
     },
     {
-      "name": "InstagramNyx",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "311.0.2-1.1.6",
-          "date": "2023-12-12",
-          "size": 142283496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa"
-        },
-        {
-          "version": "310.0.4-1.1.6",
-          "date": "2023-12-11",
-          "size": 139562066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa"
-        },
-        {
-          "version": "310.0.4-1.1.4",
-          "date": "2023-12-04",
-          "size": 133602409,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa"
-        },
-        {
-          "version": "309.1.1-1.1.4",
-          "date": "2023-12-03",
-          "size": 133971258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa"
-        }
-      ]
-    },
-    {
       "name": "InstaRocketBH",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "",
@@ -3867,87 +3981,6 @@
           "date": "2023-12-12",
           "size": 61258341,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/SCMusicPlus-6.22.0-2.2.1.ipa"
-        }
-      ]
-    },
-    {
-      "name": "Snapchatiota",
-      "bundleIdentifier": "com.toyopagroup.picaboo",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
-      "versions": [
-        {
-          "version": "12.64-4.5",
-          "date": "2023-12-12",
-          "size": 117359311,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Snapchatiota-12.64-4.5.ipa"
-        },
-        {
-          "version": "12.63-4.5",
-          "date": "2023-12-05",
-          "size": 116973904,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Snapchatiota-12.63-4.5.ipa"
-        },
-        {
-          "version": "12.62-4.4.1",
-          "date": "2023-12-02",
-          "size": 117345838,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Snapchatiota-12.62-4.4.1.ipa"
-        },
-        {
-          "version": "12.60-4.4.1",
-          "date": "2023-11-26",
-          "size": 105706025,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2023/Snapchatiota-12.60-4.4.1.ipa"
-        },
-        {
-          "version": "12.60-4.3.1",
-          "date": "2023-11-15",
-          "size": 116242121,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Snapchatiota-12.60-4.3.1.ipa"
-        },
-        {
-          "version": "12.59-4.3.1",
-          "date": "2023-11-12",
-          "size": 105002426,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/Snapchatiota-12.59-4.3.1.ipa"
-        },
-        {
-          "version": "12.59-4.2",
-          "date": "2023-11-09",
-          "size": 115532892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Snapchatiota-12.59-4.2.ipa"
-        },
-        {
-          "version": "12.58-4.2",
-          "date": "2023-11-01",
-          "size": 104554508,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/Snapchatiota-12.58-4.2.ipa"
-        },
-        {
-          "version": "12.56-4.1",
-          "date": "2023-10-20",
-          "size": 105231130,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Snapchatiota-12.56-4.1.ipa"
-        },
-        {
-          "version": "12.55-4.0.1",
-          "date": "2023-10-18",
-          "size": 104344891,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-18-2023/Snapchatiota-12.55-4.0.1.ipa"
-        },
-        {
-          "version": "12.49-3.0.4",
-          "date": "2023-10-03",
-          "size": 100404025,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/Snapchatiota-12.49-3.0.4.ipa"
-        },
-        {
-          "version": "12.49.0",
-          "date": "2023-09-28",
-          "size": 100454729,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Snapchatiota-12.49.0.ipa"
         }
       ]
     },
@@ -5082,21 +5115,6 @@
           "date": "2023-12-05",
           "size": 184885684,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa"
-        }
-      ]
-    },
-    {
-      "name": "TruecallerPremium",
-      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
-      "versions": [
-        {
-          "version": "12.69.6",
-          "date": "2023-12-05",
-          "size": 88640952,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa"
         }
       ]
     },
