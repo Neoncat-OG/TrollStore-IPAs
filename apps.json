@@ -358,6 +358,57 @@
       ]
     },
     {
+      "name": "MeituPlusPlus",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
+      "versions": [
+        {
+          "version": "9.10.51",
+          "date": "2023-12-23",
+          "size": 231528042,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/MeituPlusPlus-9.10.51.ipa"
+        },
+        {
+          "version": "9.10.50",
+          "date": "2023-12-21",
+          "size": 247140619,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa"
+        },
+        {
+          "version": "9.10.35",
+          "date": "2023-12-16",
+          "size": 230671187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa"
+        },
+        {
+          "version": "9.10.30",
+          "date": "2023-12-08",
+          "size": 230163162,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa"
+        },
+        {
+          "version": "9.10.21",
+          "date": "2023-12-01",
+          "size": 231652715,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa"
+        },
+        {
+          "version": "9.9.81",
+          "date": "2023-10-03",
+          "size": 227689265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa"
+        },
+        {
+          "version": "9.7.30",
+          "date": "2023-01-02",
+          "size": 221377534,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa"
+        }
+      ]
+    },
+    {
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
       "developerName": "",
@@ -381,6 +432,21 @@
           "date": "2023-12-12",
           "size": 140519,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.tipa"
+        }
+      ]
+    },
+    {
+      "name": "VPNERO",
+      "bundleIdentifier": "com.appyogi.vpnapp",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.appyogi.vpnapp.png",
+      "versions": [
+        {
+          "version": "1.1.29",
+          "date": "2023-12-23",
+          "size": 214236344,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/VPNERO-1.1.29.ipa"
         }
       ]
     },
@@ -1446,51 +1512,6 @@
           "date": "2023-12-21",
           "size": 17299572,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Limon-1.0.8.4.ipa"
-        }
-      ]
-    },
-    {
-      "name": "MeituPlusPlus",
-      "bundleIdentifier": "com.meitu.mtxx",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
-      "versions": [
-        {
-          "version": "9.10.50",
-          "date": "2023-12-21",
-          "size": 247140619,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa"
-        },
-        {
-          "version": "9.10.35",
-          "date": "2023-12-16",
-          "size": 230671187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa"
-        },
-        {
-          "version": "9.10.30",
-          "date": "2023-12-08",
-          "size": 230163162,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa"
-        },
-        {
-          "version": "9.10.21",
-          "date": "2023-12-01",
-          "size": 231652715,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa"
-        },
-        {
-          "version": "9.9.81",
-          "date": "2023-10-03",
-          "size": 227689265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa"
-        },
-        {
-          "version": "9.7.30",
-          "date": "2023-01-02",
-          "size": 221377534,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa"
         }
       ]
     },
