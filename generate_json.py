@@ -35,6 +35,7 @@ def transform_object(original_object):
             'date': version_date,
             'size': size,
             'downloadURL': download_url,
+            'localizedDescription': localized_description,
         })
 
     for name, app_info in app_map.items():
