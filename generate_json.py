@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     if os.path.exists("bundleId.csv"):
         df = pd.read_csv("bundleId.csv")
-    else: 
+    else:
         df = pd.DataFrame(columns=["name", "bundleId"])
 
     md_df = None
@@ -66,7 +66,7 @@ if __name__ == "__main__":
             raw_md = f.read()
         html = mistletoe.markdown(raw_md)
         soup = BeautifulSoup(html, 'html.parser')
-        table = soup.find_all('table')[1] # Must be 2nd table in markdown
+        table = soup.find_all('table')[1]
         md_df = pd.read_html(StringIO(str(table)),keep_default_na=False)[0]
         md_df['App Name'] = md_df['App Name'].str.replace(' ', '').str.lower()
 
