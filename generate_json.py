@@ -98,10 +98,14 @@ if __name__ == "__main__":
                     {"name": [app_name], "bundleId": [bundle_id]})], ignore_index=True)
                 
             desc = ""
+            dev_name = ""
             if md_df is not None:
                 row = md_df.loc[md_df['App Name'] == app_name.replace(' ', '').lower()]
                 if len(row.values):
-                    desc = row['Description'].values[0]
+                    raw_desc = row['Description'].values[0]
+                    raw_last_updated = row['Last Updated'].values[0]
+                    desc = f'{raw_desc}\nLast updated: {raw_last_updated}'
+                    dev_name = row['Source/Maintainer'].values[0]
 
             data["apps"].append(
                 {
@@ -111,7 +115,7 @@ if __name__ == "__main__":
                     "versionDate": date,
                     "size": asset.size,
                     "downloadURL": asset.browser_download_url,
-                    "developerName": "",
+                    "developerName": dev_name,
                     "localizedDescription": desc,
                     "iconURL": f"https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/{bundle_id}.png"
                 }
