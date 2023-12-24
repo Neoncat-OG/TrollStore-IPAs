@@ -4,6 +4,9 @@ import argparse
 import pandas as pd
 from get_bundle_id import get_single_bundle_id
 import os
+import mistletoe
+from bs4 import BeautifulSoup
+from io import StringIO
 
 
 def transform_object(original_object):
@@ -56,6 +59,15 @@ if __name__ == "__main__":
     else:
         df = pd.DataFrame(columns=["name", "bundleId"])
 
+    md_df = None
+    if os.path.exists("README.md"):
+        with open("README.md", "r") as f:
+            raw_md = f.read()
+        html = mistletoe.markdown(raw_md)
+        soup = BeautifulSoup(html, 'html.parser')
+        table = soup.find_all('table')[1] # Must be 2nd table in markdown
+        md_df = pd.read_html(StringIO(str(table)))[0]
+
     # clear apps
     data["apps"] = []
 
@@ -83,6 +95,12 @@ if __name__ == "__main__":
                 bundle_id = get_single_bundle_id(asset.browser_download_url)
                 df = pd.concat([df, pd.DataFrame(
                     {"name": [app_name], "bundleId": [bundle_id]})], ignore_index=True)
+                
+            desc = ""
+            if md_df is not None:
+                row = md_df.loc[md_df['App Name'] == name]
+                if len(row.values):
+                    desc = row['Description'].values[0]
 
             data["apps"].append(
                 {
@@ -93,7 +111,7 @@ if __name__ == "__main__":
                     "size": asset.size,
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
-                    "localizedDescription": "",
+                    "localizedDescription": desc,
                     "iconURL": f"https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/{bundle_id}.png"
                 }
             )

@@ -17,7 +17,7 @@ jobs:
           python-version: 3.8 #install the python needed
       - name: install python packages
         run: |
-          pip install PyGithub pandas
+          pip install PyGithub pandas mistletoe lxml beautifulsoup4
       - name: execute py script # run the run.py to get the latest data
         env: 
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
