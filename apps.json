@@ -667,7 +667,7 @@
       ]
     },
     {
-      "name": "DynamicCowTS.",
+      "name": "DynamicCowTS",
       "bundleIdentifier": "com.matteozappia.DynamicCowTS",
       "developerName": "",
       "localizedDescription": "",
@@ -675,9 +675,9 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2023-12-22",
+          "date": "2023-12-25",
           "size": 688532,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/DynamicCowTS.tipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/DynamicCowTS.ipa"
         }
       ]
     },
@@ -8629,21 +8629,6 @@
       ]
     },
     {
-      "name": "DDDasher",
-      "bundleIdentifier": "com.doordash.dasher",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.doordash.dasher.png",
-      "versions": [
-        {
-          "version": "2.263.0",
-          "date": "2023-04-13",
-          "size": 82444706,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/DDDasher-2.263.0.ipa"
-        }
-      ]
-    },
-    {
       "name": "DoorDash",
       "bundleIdentifier": "doordash.DoorDashConsumer",
       "developerName": "",
@@ -8655,6 +8640,21 @@
           "date": "2023-04-13",
           "size": 92798761,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/DoorDash-4.112.2.ipa"
+        }
+      ]
+    },
+    {
+      "name": "DoorDashDasher",
+      "bundleIdentifier": "com.doordash.dasher",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.doordash.dasher.png",
+      "versions": [
+        {
+          "version": "2.263.0",
+          "date": "2023-04-13",
+          "size": 82444706,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/DoorDashDasher-2.263.0.ipa"
         }
       ]
     },
