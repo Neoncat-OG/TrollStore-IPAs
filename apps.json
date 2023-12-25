@@ -8741,10 +8741,10 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.AppIndex.png",
       "versions": [
         {
-          "version": "1.0.",
-          "date": "2023-04-04",
+          "version": "1.0",
+          "date": "2023-12-25",
           "size": 871661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2023/AppIndex-1.0.tipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2023/AppIndex-1.0.ipa"
         }
       ]
     },
@@ -9285,27 +9285,6 @@
           "date": "2023-02-02",
           "size": 127443063,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/uYouPlus18.04.3.ipa"
-        }
-      ]
-    },
-    {
-      "name": "AppStorePlusPlus",
-      "bundleIdentifier": "com.cokepokes.AppStorePlus",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png",
-      "versions": [
-        {
-          "version": "1.0.3-2",
-          "date": "2023-01-29",
-          "size": 17588239,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/AppStorePlusPlus-1.0.3-2.ipa"
-        },
-        {
-          "version": "1.0.3-2",
-          "date": "2022-11-10",
-          "size": 17588239,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/AppStorePlusPlus-1.0.3-2.ipa"
         }
       ]
     },
@@ -10077,6 +10056,21 @@
           "date": "2022-11-12",
           "size": 61435253,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/Spotify-8.7.82.ipa"
+        }
+      ]
+    },
+    {
+      "name": "AppStorePlusPlus",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png",
+      "versions": [
+        {
+          "version": "1.0.3-2",
+          "date": "2022-11-10",
+          "size": 17588239,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/AppStorePlusPlus-1.0.3-2.ipa"
         }
       ]
     },
