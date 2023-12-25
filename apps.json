@@ -4,6 +4,42 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "RadarbotPro",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+      "versions": [
+        {
+          "version": "9.12.0",
+          "date": "2023-12-25",
+          "size": 229895957,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/RadarbotPro-9.12.0.ipa"
+        }
+      ]
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "18.49.3-2.4",
+          "date": "2023-12-25",
+          "size": 111530441,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/YTLitePlus-18.49.3-2.4.ipa"
+        },
+        {
+          "version": "18.48.3-2.4",
+          "date": "2023-12-17",
+          "size": 111274005,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa"
+        }
+      ]
+    },
+    {
       "name": "Helium",
       "bundleIdentifier": "com.leemin.helium",
       "developerName": "",
@@ -3183,21 +3219,6 @@
           "date": "2023-12-17",
           "size": 27651126,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa"
-        }
-      ]
-    },
-    {
-      "name": "YTLitePlus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.48.3-2.4",
-          "date": "2023-12-17",
-          "size": 111274005,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa"
         }
       ]
     },
