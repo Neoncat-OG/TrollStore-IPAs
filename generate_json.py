@@ -108,7 +108,8 @@ if __name__ == "__main__":
                 if len(row.values):
                     raw_desc = row['Description'].values[0]
                     raw_last_updated = row['Last Updated'].values[0]
-                    desc = f'{raw_desc}\nLast updated: {raw_last_updated}'
+                    raw_status = row['Status'].values[0]
+                    desc = f'{raw_desc}\nLast updated: {raw_last_updated}\nStatus: {raw_status}'
                     dev_name = f"{row['Source/Maintainer'].values[0]}"
 
             data["apps"].append(
