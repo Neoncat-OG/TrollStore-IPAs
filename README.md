@@ -11,14 +11,9 @@
     <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/swaggyP36000/TrollStore-IPAs/total?color=%23007BFF&label=Total%20Downloads" alt="Total Downloads Badge"></a>
 </p>
 
-<h2 align="center">Add source to AltStore:</h2>
-<p align="center"><code>https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json</code></p>
-
-<p align="center"><strong>------ OR ------</strong></p>
-
 <p align="center">
   <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%20(WIP)-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%202%20(WIP)-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps 2">
   </a>
 </p>
 
@@ -28,7 +23,7 @@
 
 *Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps).*
 
-*The most recent modification to the repository have resulted in compatibility issues with Gbox, ESign and SideStore. While this is a known issue, please be aware that I (@/arianaminajj) don't have the power to rectify this, but I will keep Hieuddo updated about the situation in hopes of a possible solution. I sincerely apologize for any inconvenience caused.*
+*The most recent modification to the repository have resulted in compatibility issues with AltStore, SideStore and ESign/GBox. While this is a known issue, please be aware that I (@/arianaminajj) don't have the power to rectify this, but I will keep Hieuddo updated about the situation in hopes of a possible solution. I sincerely apologize for any inconvenience caused.*
 
 All files can be found in Releases, either by Ctrl + F searching, or looking at the table to see what date the latest version of an app was released, and finding the corresponding release with a matching date
 
@@ -36,6 +31,10 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 
 ## Announcements
+
+**(12-25-2023)** All apps are being reorganized to improve visibility / achieve a more streamlined display in TrollApps. This process might take a while so patience is appreciated.
+
+---
 
 **(11-28-2023) - (12-16-2023)** Content not related to TrollStore has been deleted + All apps have been reviewed and retested with new additions.
 
