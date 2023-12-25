@@ -76,11 +76,7 @@ if __name__ == "__main__":
     repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
 
-    count = 5
     for release in releases:
-        count -= 1
-        if count < 0:
-            break
         print(release.title)
 
         for asset in release.get_assets():
