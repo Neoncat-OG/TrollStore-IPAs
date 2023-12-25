@@ -829,7 +829,7 @@
       ]
     },
     {
-      "name": "AIChatSmith",
+      "name": "AIChatSmithPremium",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "",
       "localizedDescription": "",
@@ -839,55 +839,61 @@
           "version": "6.5",
           "date": "2023-12-21",
           "size": 56038752,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/AIChatSmith-6.5.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/AIChatSmithPremium-6.5.ipa"
         },
         {
           "version": "6.4",
           "date": "2023-12-04",
           "size": 58544194,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmith-6.4.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmithPremium-6.4.ipa"
         },
         {
           "version": "6.3.2",
           "date": "2023-11-30",
           "size": 68062282,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmith-6.3.2.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmithPremium-6.3.2.ipa"
         },
         {
           "version": "6.3.1",
           "date": "2023-11-12",
           "size": 68210762,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmith-6.3.1.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmithPremium-6.3.1.ipa"
         },
         {
           "version": "6.2.6",
           "date": "2023-10-20",
           "size": 83774996,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmith-6.2.6.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmithPremium-6.2.6.ipa"
         },
         {
           "version": "6.2.4",
           "date": "2023-10-07",
           "size": 85820013,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmith-6.2.4.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmithPremium-6.2.4.ipa"
         },
         {
           "version": "6.2.2",
           "date": "2023-09-28",
           "size": 58152963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmith-6.2.2.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmithPremium-6.2.2.ipa"
         },
         {
           "version": "6.2",
           "date": "2023-09-19",
           "size": 56830198,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmith-6.2.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmithPremium-6.2.ipa"
         },
         {
           "version": "6.1",
           "date": "2023-09-02",
           "size": 48912919,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmith-6.1.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmithPremium-6.1.ipa"
+        },
+        {
+          "version": "5.2.2",
+          "date": "2023-04-20",
+          "size": 57656818,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/AIChatSmithPremium-5.2.2.ipa"
         }
       ]
     },
@@ -2322,6 +2328,114 @@
           "date": "2023-12-12",
           "size": 123567452,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/uYouEnhanced-18.49.3-3.0.1.ipa"
+        },
+        {
+          "version": "18.48.3-3.0.1",
+          "date": "2023-12-05",
+          "size": 126236234,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/uYouEnhanced-18.48.3-3.0.1.ipa"
+        },
+        {
+          "version": "18.46.3-3.0.1-F2",
+          "date": "2023-12-03",
+          "size": 125914250,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/uYouEnhanced-18.46.3-3.0.1-F2.ipa"
+        },
+        {
+          "version": "18.46.3-3.0.1-F1",
+          "date": "2023-11-21",
+          "size": 135029716,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/uYouEnhanced-18.46.3-3.0.1-F1.ipa"
+        },
+        {
+          "version": "18.45.2-3.0.1-F1",
+          "date": "2023-11-16",
+          "size": 130931567,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/uYouEnhanced-18.45.2-3.0.1-F1.ipa"
+        },
+        {
+          "version": "18.44.3-3.0.1-F2",
+          "date": "2023-11-12",
+          "size": 130682484,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/uYouEnhanced-18.44.3-3.0.1-F2.ipa"
+        },
+        {
+          "version": "18.44.3-3.0.1",
+          "date": "2023-11-09",
+          "size": 130682671,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/uYouEnhanced-18.44.3-3.0.1.ipa"
+        },
+        {
+          "version": "18.41.5-3.0.1-F2",
+          "date": "2023-11-05",
+          "size": 129441983,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/uYouEnhanced-18.41.5-3.0.1-F2.ipa"
+        },
+        {
+          "version": "18.41.5",
+          "date": "2023-10-25",
+          "size": 125927587,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/uYouEnhanced-18.41.5.ipa"
+        },
+        {
+          "version": "18.40.1",
+          "date": "2023-10-09",
+          "size": 126797323,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/uYouEnhanced-18.40.1.ipa"
+        },
+        {
+          "version": "18.39.1",
+          "date": "2023-10-03",
+          "size": 125970406,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/uYouEnhanced-18.39.1.ipa"
+        },
+        {
+          "version": "18.38.2",
+          "date": "2023-09-25",
+          "size": 125683291,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-25-2023/uYouEnhanced-18.38.2.ipa"
+        },
+        {
+          "version": "18.35.4",
+          "date": "2023-09-08",
+          "size": 122380639,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/uYouEnhanced-18.35.4.ipa"
+        },
+        {
+          "version": "18.34.5",
+          "date": "2023-09-05",
+          "size": 113485537,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/uYouEnhanced-18.34.5.ipa"
+        },
+        {
+          "version": "18.33.3",
+          "date": "2023-08-31",
+          "size": 104167377,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/uYouEnhanced-18.33.3.ipa"
+        },
+        {
+          "version": "18.33.2",
+          "date": "2023-08-25",
+          "size": 107279964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/uYouEnhanced-18.33.2.ipa"
+        },
+        {
+          "version": "18.32.2",
+          "date": "2023-08-14",
+          "size": 107094274,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/uYouEnhanced-18.32.2.ipa"
+        },
+        {
+          "version": "18.31.3",
+          "date": "2023-08-09",
+          "size": 106928334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/uYouEnhanced-18.31.3.ipa"
+        },
+        {
+          "version": "18.30.7",
+          "date": "2023-08-02",
+          "size": 108885324,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/uYouEnhanced-18.30.7.ipa"
         }
       ]
     },
@@ -5232,123 +5346,6 @@
           "date": "2023-12-05",
           "size": 184885684,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa"
-        }
-      ]
-    },
-    {
-      "name": "uYouPlusExtra",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.48.3-3.0.1",
-          "date": "2023-12-05",
-          "size": 126236234,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/uYouPlusExtra-18.48.3-3.0.1.ipa"
-        },
-        {
-          "version": "18.46.3-3.0.1-F2",
-          "date": "2023-12-03",
-          "size": 125914250,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/uYouPlusExtra-18.46.3-3.0.1-F2.ipa"
-        },
-        {
-          "version": "18.46.3-3.0.1-F1",
-          "date": "2023-11-21",
-          "size": 135029716,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/uYouPlusExtra-18.46.3-3.0.1-F1.ipa"
-        },
-        {
-          "version": "18.45.2-3.0.1-F1",
-          "date": "2023-11-16",
-          "size": 130931567,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/uYouPlusExtra-18.45.2-3.0.1-F1.ipa"
-        },
-        {
-          "version": "18.44.3-3.0.1-F2",
-          "date": "2023-11-12",
-          "size": 130682484,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/uYouPlusExtra-18.44.3-3.0.1-F2.ipa"
-        },
-        {
-          "version": "18.44.3-3.0.1",
-          "date": "2023-11-09",
-          "size": 130682671,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/uYouPlusExtra-18.44.3-3.0.1.ipa"
-        },
-        {
-          "version": "18.41.5-3.0.1-F2",
-          "date": "2023-11-05",
-          "size": 129441983,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/uYouPlusExtra-18.41.5-3.0.1-F2.ipa"
-        },
-        {
-          "version": "18.41.5",
-          "date": "2023-10-25",
-          "size": 125927587,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/uYouPlusExtra-18.41.5.ipa"
-        },
-        {
-          "version": "18.40.1",
-          "date": "2023-10-09",
-          "size": 126797323,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/uYouPlusExtra-18.40.1.ipa"
-        },
-        {
-          "version": "18.39.1",
-          "date": "2023-10-03",
-          "size": 125970406,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/uYouPlusExtra-18.39.1.ipa"
-        },
-        {
-          "version": "18.38.2",
-          "date": "2023-09-25",
-          "size": 125683291,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-25-2023/uYouPlusExtra-18.38.2.ipa"
-        },
-        {
-          "version": "18.35.4",
-          "date": "2023-09-08",
-          "size": 122380639,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/uYouPlusExtra-18.35.4.ipa"
-        },
-        {
-          "version": "18.34.5",
-          "date": "2023-09-05",
-          "size": 113485537,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/uYouPlusExtra-18.34.5.ipa"
-        },
-        {
-          "version": "18.33.3",
-          "date": "2023-08-31",
-          "size": 104167377,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/uYouPlusExtra-18.33.3.ipa"
-        },
-        {
-          "version": "18.33.2",
-          "date": "2023-08-25",
-          "size": 107279964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/uYouPlusExtra-18.33.2.ipa"
-        },
-        {
-          "version": "18.32.2",
-          "date": "2023-08-14",
-          "size": 107094274,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/uYouPlusExtra-18.32.2.ipa"
-        },
-        {
-          "version": "18.31.3",
-          "date": "2023-08-09",
-          "size": 106928334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/uYouPlusExtra-18.31.3.ipa"
-        },
-        {
-          "version": "18.30.7",
-          "date": "2023-08-02",
-          "size": 108885324,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/uYouPlusExtra-18.30.7.ipa"
         }
       ]
     },
@@ -8626,21 +8623,6 @@
       ]
     },
     {
-      "name": "AISmith",
-      "bundleIdentifier": "co.vulcanlabs.moodtracker",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
-      "versions": [
-        {
-          "version": "5.2.2",
-          "date": "2023-04-20",
-          "size": 57656818,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/AISmith-5.2.2.ipa"
-        }
-      ]
-    },
-    {
       "name": "Egg3DS",
       "bundleIdentifier": "com.xiaoji.wuziqi",
       "developerName": "",
@@ -9024,75 +9006,6 @@
           "date": "2023-03-14",
           "size": 97584303,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/BHTwitter14-9.3.1-9.44.ipa"
-        }
-      ]
-    },
-    {
-      "name": "AnimeNow",
-      "bundleIdentifier": "com.errorerrorerror.animenow",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png",
-      "versions": [
-        {
-          "version": "1.0.0b3",
-          "date": "2023-03-12",
-          "size": 7208416,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/AnimeNow-1.0.0b3.ipa"
-        },
-        {
-          "version": "1.0.0b2",
-          "date": "2023-03-08",
-          "size": 7138569,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/AnimeNow-1.0.0b2.ipa"
-        },
-        {
-          "version": "1.0.0b1",
-          "date": "2023-02-14",
-          "size": 6691352,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/AnimeNow-1.0.0b1.ipa"
-        },
-        {
-          "version": "beta-ac2e8f9",
-          "date": "2023-02-02",
-          "size": 6943676,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/AnimeNow-beta-ac2e8f9.ipa"
-        },
-        {
-          "version": "1.0.0-beta-a86eb9e",
-          "date": "2023-01-23",
-          "size": 6936257,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/AnimeNow-1.0.0-beta-a86eb9e.ipa"
-        },
-        {
-          "version": "1.0.0b70f1679",
-          "date": "2023-01-10",
-          "size": 5995440,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/AnimeNow-1.0.0b70f1679.ipa"
-        },
-        {
-          "version": "1.0.0-beta.d223ee4",
-          "date": "2022-12-29",
-          "size": 5148681,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/AnimeNow-1.0.0-beta.d223ee4.ipa"
-        },
-        {
-          "version": "1.0.0-beta7c885c5",
-          "date": "2022-12-16",
-          "size": 5774684,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/AnimeNow-1.0.0-beta7c885c5.ipa"
-        },
-        {
-          "version": "1.0.0-beta",
-          "date": "2022-12-01",
-          "size": 5720426,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2022/AnimeNow-1.0.0-beta.ipa"
-        },
-        {
-          "version": "1.0.0-beta+051cf78",
-          "date": "2022-11-25",
-          "size": 5610407,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/AnimeNow-1.0.0-beta%2B051cf78.ipa"
         }
       ]
     },
@@ -9926,10 +9839,10 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.AirTroller.png",
       "versions": [
         {
-          "version": "1.1.1.",
-          "date": "2022-11-27",
+          "version": "1.1.1",
+          "date": "2023-12-25",
           "size": 782388,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/AirTroller-1.1.1.tipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/AirTroller-1.1.1.ipa"
         },
         {
           "version": "1.1",
@@ -10260,21 +10173,6 @@
           "date": "2022-11-10",
           "size": 34767265,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Shark.for.Messenger-2.2.1-311.0.ipa"
-        }
-      ]
-    },
-    {
-      "name": "Anime.Now",
-      "bundleIdentifier": "com.errorerrorerror.anime-now",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.errorerrorerror.anime-now.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 5000597,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Anime.Now.ipa"
         }
       ]
     },
