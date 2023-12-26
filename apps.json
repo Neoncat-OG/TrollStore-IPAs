@@ -887,22 +887,22 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
       "versions": [
         {
+          "version": "1.9.2",
+          "date": "2023-12-26",
+          "size": 147136,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.ipa"
+        },
+        {
+          "version": "1.8.6",
+          "date": "2023-12-26",
+          "size": 140519,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.ipa"
+        },
+        {
           "version": "1.9.3",
           "date": "2023-12-23",
           "size": 147696,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/TrollSpeed-1.9.3.ipa"
-        },
-        {
-          "version": "1.9.2.",
-          "date": "2023-12-20",
-          "size": 147136,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.tipa"
-        },
-        {
-          "version": "1.8.6.",
-          "date": "2023-12-12",
-          "size": 140519,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.tipa"
         }
       ]
     },
@@ -9380,10 +9380,10 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
       "versions": [
         {
-          "version": "3.0.",
-          "date": "2023-01-05",
+          "version": "3.0",
+          "date": "2023-12-26",
           "size": 4372418,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.tipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa"
         }
       ]
     },
