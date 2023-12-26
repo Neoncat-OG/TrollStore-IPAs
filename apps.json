@@ -4,6 +4,90 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "CallAssist",
+      "bundleIdentifier": "com.apple.mobilephone-call",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png",
+      "versions": [
+        {
+          "version": "16-103",
+          "date": "2023-12-26",
+          "size": 2619054,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/CallAssist-16-103.ipa"
+        },
+        {
+          "version": "17-103",
+          "date": "2023-12-26",
+          "size": 2818260,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/CallAssist-17-103.ipa"
+        },
+        {
+          "version": "14.15",
+          "date": "2023-12-15",
+          "size": 3424925,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/CallAssist-14.15.ipa"
+        }
+      ]
+    },
+    {
+      "name": "CattleGrid",
+      "bundleIdentifier": "org.ericbetts.CattleGrid",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.ericbetts.CattleGrid.png",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2023-12-26",
+          "size": 282680,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/CattleGrid-1.1.1.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.helium.png",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2023-12-26",
+          "size": 3829465,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/Helium-2.0.2.ipa"
+        },
+        {
+          "version": "2.0.1",
+          "date": "2023-12-24",
+          "size": 3827002,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Helium-2.0.1.ipa"
+        }
+      ]
+    },
+    {
+      "name": "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.resonance.store.png",
+      "versions": [
+        {
+          "version": "2.3b-Hotfix2",
+          "date": "2023-12-26",
+          "size": 5205646,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/TrollApps-2.3b-Hotfix2.ipa"
+        },
+        {
+          "version": "2.1",
+          "date": "2023-12-10",
+          "size": 2127280,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/TrollApps-2.1.ipa"
+        }
+      ]
+    },
+    {
       "name": "InstaRocketBH",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "",
@@ -306,21 +390,6 @@
           "date": "2023-12-17",
           "size": 111274005,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa"
-        }
-      ]
-    },
-    {
-      "name": "Helium",
-      "bundleIdentifier": "com.leemin.helium",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.helium.png",
-      "versions": [
-        {
-          "version": "2.0.1",
-          "date": "2023-12-24",
-          "size": 3827002,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Helium-2.0.1.ipa"
         }
       ]
     },
@@ -3901,21 +3970,6 @@
       ]
     },
     {
-      "name": "CallAssist",
-      "bundleIdentifier": "com.apple.mobilephone-call",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png",
-      "versions": [
-        {
-          "version": "14.15",
-          "date": "2023-12-15",
-          "size": 3424925,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/CallAssist-14.15.ipa"
-        }
-      ]
-    },
-    {
       "name": "Grammarly",
       "bundleIdentifier": "com.grammarly.keyboard",
       "developerName": "",
@@ -4378,7 +4432,7 @@
       ]
     },
     {
-      "name": "YoutubeReborn",
+      "name": "YouTubeReborn",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "",
       "localizedDescription": "",
@@ -4388,37 +4442,91 @@
           "version": "18.49.3",
           "date": "2023-12-13",
           "size": 132784867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/YoutubeReborn-18.49.3.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/YouTubeReborn-18.49.3.ipa"
         },
         {
           "version": "18.20.3",
           "date": "2023-05-24",
           "size": 114162479,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YoutubeReborn-18.20.3.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YouTubeReborn-18.20.3.ipa"
+        },
+        {
+          "version": "18.12.2",
+          "date": "2023-03-31",
+          "size": 110712949,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/YouTubeReborn-18.12.2.ipa"
+        },
+        {
+          "version": "18.10.1",
+          "date": "2023-03-13",
+          "size": 110244056,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/YouTubeReborn-18.10.1.ipa"
+        },
+        {
+          "version": "18.09.4",
+          "date": "2023-03-07",
+          "size": 108893819,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YouTubeReborn-18.09.4.ipa"
+        },
+        {
+          "version": "4.0.9-18.08.1",
+          "date": "2023-03-04",
+          "size": 112147491,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/YouTubeReborn-4.0.9-18.08.1.ipa"
+        },
+        {
+          "version": "18.06.6",
+          "date": "2023-02-18",
+          "size": 109090111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/YouTubeReborn-18.06.6.ipa"
         },
         {
           "version": "18.05.2",
           "date": "2023-02-12",
           "size": 108602507,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/YoutubeReborn-18.05.2.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/YouTubeReborn-18.05.2.ipa"
         },
         {
           "version": "18.03.3",
           "date": "2023-01-26",
           "size": 108110489,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/YoutubeReborn-18.03.3.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/YouTubeReborn-18.03.3.ipa"
+        },
+        {
+          "version": "4.0.9-18.02.03",
+          "date": "2023-01-19",
+          "size": 108190570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeReborn-4.0.9-18.02.03.ipa"
+        },
+        {
+          "version": "4.0.9-18.01.6",
+          "date": "2023-01-14",
+          "size": 108165776,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/YouTubeReborn-4.0.9-18.01.6.ipa"
+        },
+        {
+          "version": "4.0.9-18.01.2",
+          "date": "2023-01-10",
+          "size": 108080191,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YouTubeReborn-4.0.9-18.01.2.ipa"
         },
         {
           "version": "4.0.9-17.49.6",
           "date": "2022-12-17",
           "size": 116348832,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/YoutubeReborn-4.0.9-17.49.6.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/YouTubeReborn-4.0.9-17.49.6.ipa"
+        },
+        {
+          "version": "4.0.8-17.46.4",
+          "date": "2022-11-10",
+          "size": 112992434,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/YouTubeReborn-4.0.8-17.46.4.ipa"
         },
         {
           "version": "1.0",
           "date": "2022-11-10",
           "size": 129661988,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YoutubeReborn.ipa"
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YouTubeReborn.ipa"
         }
       ]
     },
@@ -5668,21 +5776,6 @@
       ]
     },
     {
-      "name": "TrollApps",
-      "bundleIdentifier": "org.resonance.store",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.resonance.store.png",
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2023-12-10",
-          "size": 2127280,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/TrollApps-2.1.ipa"
-        }
-      ]
-    },
-    {
       "name": "Violet",
       "bundleIdentifier": "xyz.project.violet",
       "developerName": "",
@@ -6132,6 +6225,12 @@
           "date": "2023-01-05",
           "size": 63888827,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/YTMusicUltimate-1.2.7-5.38.3.ipa"
+        },
+        {
+          "version": "1.2.7-5.36.2",
+          "date": "2022-12-19",
+          "size": 64727705,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/YTMusicUltimate-1.2.7-5.36.2.ipa"
         },
         {
           "version": "1.2.7-5.34.2",
@@ -7538,6 +7637,12 @@
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2023/uYouPlus-18.06.6.ipa"
         },
         {
+          "version": "18.04.3",
+          "date": "2023-02-02",
+          "size": 127443063,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/uYouPlus-18.04.3.ipa"
+        },
+        {
           "version": "2.3.1-18.01.6",
           "date": "2023-01-18",
           "size": 110043700,
@@ -7752,12 +7857,6 @@
           "date": "2023-04-01",
           "size": 117050963,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/YouTubeElite-18.11.2.ipa"
-        },
-        {
-          "version": "18.07.5",
-          "date": "2023-02-23",
-          "size": 125719746,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2023/YouTubeElite-18.07.5.ipa"
         },
         {
           "version": "18.03.3",
@@ -8725,69 +8824,6 @@
       ]
     },
     {
-      "name": "YouTubeReborn",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.12.2",
-          "date": "2023-03-31",
-          "size": 110712949,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/YouTubeReborn-18.12.2.ipa"
-        },
-        {
-          "version": "18.10.1",
-          "date": "2023-03-13",
-          "size": 110244056,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/YouTubeReborn-18.10.1.ipa"
-        },
-        {
-          "version": "18.09.4",
-          "date": "2023-03-07",
-          "size": 108893819,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YouTubeReborn-18.09.4.ipa"
-        },
-        {
-          "version": "4.0.9-18.08.1",
-          "date": "2023-03-04",
-          "size": 112147491,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/YouTubeReborn-4.0.9-18.08.1.ipa"
-        },
-        {
-          "version": "18.06.6",
-          "date": "2023-02-18",
-          "size": 109090111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/YouTubeReborn-18.06.6.ipa"
-        },
-        {
-          "version": "4.0.9-18.02.03",
-          "date": "2023-01-19",
-          "size": 108190570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeReborn-4.0.9-18.02.03.ipa"
-        },
-        {
-          "version": "4.0.9-18.01.6",
-          "date": "2023-01-14",
-          "size": 108165776,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/YouTubeReborn-4.0.9-18.01.6.ipa"
-        },
-        {
-          "version": "4.0.9-18.01.2",
-          "date": "2023-01-10",
-          "size": 108080191,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YouTubeReborn-4.0.9-18.01.2.ipa"
-        },
-        {
-          "version": "4.0.8-17.46.4",
-          "date": "2022-11-10",
-          "size": 112992434,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/YouTubeReborn-4.0.8-17.46.4.ipa"
-        }
-      ]
-    },
-    {
       "name": "BeRealUnblur",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "",
@@ -8937,21 +8973,6 @@
           "date": "2022-12-26",
           "size": 3258056,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2022/WDBFontOverwrite-1.0.ipa"
-        }
-      ]
-    },
-    {
-      "name": "TurboVPN",
-      "bundleIdentifier": "com.allconnected.turbovpn",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.allconnected.turbovpn.png",
-      "versions": [
-        {
-          "version": "2.9.16",
-          "date": "2023-03-25",
-          "size": 58002559,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/TurboVPN-2.9.16.ipa"
         }
       ]
     },
@@ -9228,21 +9249,6 @@
           "date": "2023-01-31",
           "size": 17727292,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/DramasFlic-4.0.ipa"
-        }
-      ]
-    },
-    {
-      "name": "uYouPlus18.04.3",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-02-02",
-          "size": 127443063,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/uYouPlus18.04.3.ipa"
         }
       ]
     },
@@ -9558,21 +9564,6 @@
           "date": "2022-12-11",
           "size": 14918039,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/AsTools-2.1.7.ipa"
-        }
-      ]
-    },
-    {
-      "name": "YTMusicultimate",
-      "bundleIdentifier": "com.google.ios.youtubemusic.WatchKitApp",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.WatchKitApp.png",
-      "versions": [
-        {
-          "version": "1.2.7-5.36.2",
-          "date": "2022-12-19",
-          "size": 64727705,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/YTMusicultimate-1.2.7-5.36.2.ipa"
         }
       ]
     },
