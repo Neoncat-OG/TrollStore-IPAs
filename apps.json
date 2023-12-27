@@ -35,7 +35,7 @@
     {
       "name": "CattleGrid",
       "bundleIdentifier": "org.ericbetts.CattleGrid",
-      "developerName": "",
+      "developerName": "ichitaso",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.ericbetts.CattleGrid.png",
       "versions": [
         {
@@ -43,7 +43,7 @@
           "date": "2023-12-26",
           "size": 282680,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/CattleGrid-1.1.1.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manually locate the tag bin files and place them in the /var/mobile/Documents/CattleGrid/ directory.\nLast updated: 12-27-2023\nStatus: \u2705"
         }
       ]
     },
@@ -4287,7 +4287,7 @@
     {
       "name": "MemrisePremium",
       "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "developerName": "",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
       "versions": [
         {
@@ -4295,35 +4295,35 @@
           "date": "2023-12-19",
           "size": 105998045,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 12-08-2023\nStatus: \u2705"
         },
         {
           "version": "2023.12.6",
           "date": "2023-12-08",
           "size": 106107558,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 12-08-2023\nStatus: \u2705"
         },
         {
           "version": "2023.11.17",
           "date": "2023-11-24",
           "size": 90694453,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 12-08-2023\nStatus: \u2705"
         },
         {
           "version": "2023.10.20",
           "date": "2023-11-05",
           "size": 146348694,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 12-08-2023\nStatus: \u2705"
         },
         {
           "version": "2023.9.15",
           "date": "2023-09-30",
           "size": 142729185,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 12-08-2023\nStatus: \u2705"
         }
       ]
     },
@@ -6213,48 +6213,6 @@
           "size": 142979578,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/inshot-1.74.0.ipa",
           "localizedDescription": ""
-        },
-        {
-          "version": "1.73.1",
-          "date": "2023-11-02",
-          "size": 105286019,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/inshot-1.73.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.73.0",
-          "date": "2023-10-31",
-          "size": 119766666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/inshot-1.73.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.72.1",
-          "date": "2023-10-20",
-          "size": 120994285,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/inshot-1.72.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.72.0",
-          "date": "2023-09-19",
-          "size": 128843318,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/inshot-1.72.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.71.0",
-          "date": "2023-08-16",
-          "size": 109555080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/inshot-1.71.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.70.3",
-          "date": "2023-08-14",
-          "size": 94184469,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/inshot-1.70.3.ipa",
-          "localizedDescription": ""
         }
       ]
     },
@@ -7266,7 +7224,7 @@
     {
       "name": "Filza",
       "bundleIdentifier": "com.tigisoftware.Filza",
-      "developerName": "",
+      "developerName": "TigiSoftware / CyPwn IPA Library",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
       "versions": [
         {
@@ -7274,28 +7232,28 @@
           "date": "2023-12-04",
           "size": 13925062,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/Filza-4.0.0-NoURLScheme.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "4.0.0",
           "date": "2022-12-22",
           "size": 13977293,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Filza-4.0.0.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "3.9.8k",
           "date": "2022-11-16",
           "size": 14714010,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Filza-3.9.8k.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
         },
         {
           "version": "3.9.8",
           "date": "2022-11-15",
           "size": 14100858,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Filza-3.9.8.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -7427,7 +7385,7 @@
     {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
-      "developerName": "",
+      "developerName": "ipalibrary.me",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
       "versions": [
         {
@@ -7435,7 +7393,7 @@
           "date": "2023-12-01",
           "size": 315141070,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Injected with premium by LK Team, exclusively available for TrollStore. Digital note-taking experience. Enjoy customizable templates, seamless syncing across devices, AI-powered text enhancement, audio note syncing, and more. Perfect for students, planners, and professionals. Boost productivity with features like AirPlay presentations, Laser Pointer, and collaborative note-sharing.\nLast updated: 12-01-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -8074,6 +8032,154 @@
           "size": 140339885,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/RedditPlus.ipa",
           "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InShotPro",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+      "versions": [
+        {
+          "version": "1.73.1",
+          "date": "2023-11-02",
+          "size": 105286019,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/InShotPro-1.73.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.73.0",
+          "date": "2023-10-31",
+          "size": 119766666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/InShotPro-1.73.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.72.1",
+          "date": "2023-10-20",
+          "size": 120994285,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InShotPro-1.72.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.72.0",
+          "date": "2023-09-19",
+          "size": 128843318,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InShotPro-1.72.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.71.0",
+          "date": "2023-08-16",
+          "size": 109555080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/InShotPro-1.71.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.70.3",
+          "date": "2023-08-14",
+          "size": 94184469,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/InShotPro-1.70.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.70.0",
+          "date": "2023-07-09",
+          "size": 104584718,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.69.1",
+          "date": "2023-06-25",
+          "size": 85111276,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.68.1",
+          "date": "2023-06-04",
+          "size": 101692931,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.68.0",
+          "date": "2023-05-19",
+          "size": 86555365,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/InShotPro-1.68.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.67.1",
+          "date": "2023-04-08",
+          "size": 104275639,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/InShotPro-1.67.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.67.0",
+          "date": "2023-04-01",
+          "size": 101978286,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.2",
+          "date": "2023-03-17",
+          "size": 99954251,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InShotPro-1.66.2.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.1",
+          "date": "2023-03-04",
+          "size": 87709132,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/InShotPro-1.66.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.0",
+          "date": "2023-02-28",
+          "size": 89073088,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.65.0",
+          "date": "2023-01-14",
+          "size": 83148773,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.64.1",
+          "date": "2022-12-22",
+          "size": 85376796,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.64.0",
+          "date": "2022-12-21",
+          "size": 97808807,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.63.3",
+          "date": "2022-11-16",
+          "size": 77797740,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 77681163,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
         }
       ]
     },
@@ -8886,112 +8992,6 @@
       ]
     },
     {
-      "name": "InShotPro",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
-      "versions": [
-        {
-          "version": "1.70.0",
-          "date": "2023-07-09",
-          "size": 104584718,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.69.1",
-          "date": "2023-06-25",
-          "size": 85111276,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.68.1",
-          "date": "2023-06-04",
-          "size": 101692931,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.68.0",
-          "date": "2023-05-19",
-          "size": 86555365,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/InShotPro-1.68.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.67.1",
-          "date": "2023-04-08",
-          "size": 104275639,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/InShotPro-1.67.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.67.0",
-          "date": "2023-04-01",
-          "size": 101978286,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.2",
-          "date": "2023-03-17",
-          "size": 99954251,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InShotPro-1.66.2.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.1",
-          "date": "2023-03-04",
-          "size": 87709132,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/InShotPro-1.66.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.0",
-          "date": "2023-02-28",
-          "size": 89073088,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.65.0",
-          "date": "2023-01-14",
-          "size": 83148773,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.64.1",
-          "date": "2022-12-22",
-          "size": 85376796,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.64.0",
-          "date": "2022-12-21",
-          "size": 97808807,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.63.3",
-          "date": "2022-11-16",
-          "size": 77797740,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 77681163,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "InstagramElite",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
@@ -9272,7 +9272,7 @@
     {
       "name": "SharkForMessenger",
       "bundleIdentifier": "com.facebook.Messenger",
-      "developerName": "ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
+      "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
       "versions": [
         {
@@ -9280,119 +9280,119 @@
           "date": "2023-06-25",
           "size": 57632555,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/SharkForMessenger-411.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "409.0",
           "date": "2023-05-24",
           "size": 47247796,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/SharkForMessenger-409.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "405.0",
           "date": "2023-04-23",
           "size": 46763511,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/SharkForMessenger-405.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "403.1",
           "date": "2023-04-16",
           "size": 46498634,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/SharkForMessenger-403.1.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "401.0",
           "date": "2023-03-23",
           "size": 51627688,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/SharkForMessenger-401.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "400.1",
           "date": "2023-03-16",
           "size": 51478611,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/SharkForMessenger-400.1.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "400.0",
           "date": "2023-03-15",
           "size": 51482477,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/SharkForMessenger-400.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "399.0",
           "date": "2023-03-09",
           "size": 51582576,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/SharkForMessenger-399.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "397.0",
           "date": "2023-02-25",
           "size": 51015223,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/SharkForMessenger-397.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "396.0",
           "date": "2023-02-14",
           "size": 51885496,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/SharkForMessenger-396.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "395.0",
           "date": "2023-02-12",
           "size": 44367430,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/SharkForMessenger-395.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "391.0",
           "date": "2023-01-13",
           "size": 51215072,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/SharkForMessenger-391.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "390.0",
           "date": "2022-12-25",
           "size": 44596633,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/SharkForMessenger-390.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "389.0",
           "date": "2022-12-11",
           "size": 45240421,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2022/SharkForMessenger-389.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "2.2.1-388.0",
           "date": "2022-11-30",
           "size": 61867529,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2022/SharkForMessenger-2.2.1-388.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "2.2.1-385.0",
           "date": "2022-11-15",
           "size": 44298930,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/SharkForMessenger-2.2.1-385.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         },
         {
           "version": "2.2.1-311.0",
           "date": "2022-11-10",
           "size": 34767265,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/SharkForMessenger-2.2.1-311.0.ipa",
-          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+          "localizedDescription": ""
         }
       ]
     },
@@ -9746,7 +9746,7 @@
     {
       "name": "FacebookMiX",
       "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "",
+      "developerName": "IPA Fire",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
       "versions": [
         {
@@ -9754,7 +9754,7 @@
           "date": "2023-05-15",
           "size": 156849761,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/FacebookMiX-414.0.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "injected with both Wolf and TxC\nLast updated: 05-15-2023\nStatus: \u274c"
         }
       ]
     },
@@ -10153,7 +10153,7 @@
     {
       "name": "MessengerShark",
       "bundleIdentifier": "com.facebook.Messenger",
-      "developerName": "",
+      "developerName": "ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
       "versions": [
         {
@@ -10161,7 +10161,7 @@
           "date": "2023-03-05",
           "size": 51440043,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/MessengerShark-398.0.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Facebook Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
         }
       ]
     },
@@ -10220,7 +10220,7 @@
     {
       "name": "YouTubeiVanced",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "",
+      "developerName": "TherionRO / AppDB",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
       "versions": [
         {
@@ -10228,35 +10228,35 @@
           "date": "2023-02-09",
           "size": 127714803,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/YouTubeiVanced-18.04.3.2.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "18.04.03",
           "date": "2023-01-31",
           "size": 109177007,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeiVanced-18.04.03.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "18.03.03",
           "date": "2023-01-23",
           "size": 109108650,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/YouTubeiVanced-18.03.03.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "18.02.03",
           "date": "2023-01-19",
           "size": 108896855,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeiVanced-18.02.03.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "18.01.6-2",
           "date": "2023-01-17",
           "size": 108856909,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2023/YouTubeiVanced-18.01.6-2.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f"
         }
       ]
     },
@@ -10322,7 +10322,7 @@
     {
       "name": "FacebookTxC",
       "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "",
+      "developerName": "IPA Fire",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
       "versions": [
         {
@@ -10330,7 +10330,7 @@
           "date": "2023-02-06",
           "size": 139483663,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookTxC-400.0.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "This modded version has the following features: disable ads, save profile pictures, save stories, save videos, and anonymous story viewing. *You may have to sign into the app again, even if you install with TrollStore over an existing signed-in *\nLast updated: 02-06-2023\nStatus: \u274c"
         }
       ]
     },
@@ -10522,6 +10522,13 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
       "versions": [
         {
+          "version": "1.0",
+          "date": "2023-12-27",
+          "size": 1592733,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollTools.ipa",
+          "localizedDescription": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa\nLast updated: 01-04-2023\nStatus: \u2705"
+        },
+        {
           "version": "3.0",
           "date": "2023-12-26",
           "size": 4372418,
@@ -10711,7 +10718,7 @@
     {
       "name": "PlayTally",
       "bundleIdentifier": "com.michaelclay.BackTracks",
-      "developerName": "",
+      "developerName": "N/A",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png",
       "versions": [
         {
@@ -10719,7 +10726,7 @@
           "date": "2022-12-09",
           "size": 12400723,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2022/PlayTally-1.2.1.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: \u274c"
         }
       ]
     },
@@ -10859,7 +10866,7 @@
     {
       "name": "EnmityFlowercord",
       "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "",
+      "developerName": "N/A",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
       "versions": [
         {
@@ -10867,7 +10874,7 @@
           "date": "2022-11-17",
           "size": 82000756,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/EnmityFlowercord-2.1.4-153.0.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Enmity with Flowercord. I took CyPwn's Enmity ipa and injected it with a Flowercord deb (huge thanks to rosie aka acquitelol for having a deb of Flowercord available). Flowercord gives you more squared profile pictures, and bubbles around chat messages, according to the ppl that tested the injected ipa for me. Not sure if I'll continue to release updates to this since I won't test it against future Enmity ipa releases myself. Use at your own discretion. If you installed this a second ago, I re-uploaded it with ScrollToTop, because it can't hurt to have that too. Enjoy!\nLast updated: 11-16-2022\nStatus: \u274c \u2754"
         }
       ]
     },
@@ -11008,7 +11015,7 @@
     {
       "name": "LocSim",
       "bundleIdentifier": "com.mika.LocationSimulation",
-      "developerName": "",
+      "developerName": "CyPwn IPA Library",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png",
       "versions": [
         {
@@ -11016,7 +11023,7 @@
           "date": "2022-11-10",
           "size": 1917334,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/LocSim-1.3.7.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "Location spoofer, not affiliated with udevs' locsim\nLast updated: 11-10-2022\nStatus: \u2705"
         }
       ]
     },
@@ -11193,21 +11200,6 @@
       ]
     },
     {
-      "name": "TrollTools.",
-      "bundleIdentifier": "net.sourceloc.TrollTools",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 1592733,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollTools.tipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
       "name": "TSStore",
       "bundleIdentifier": "com.trst.storek",
       "developerName": "CyPwn IPA Library",
@@ -11223,17 +11215,17 @@
       ]
     },
     {
-      "name": "Uber.Eats",
+      "name": "UberEats",
       "bundleIdentifier": "com.ubercab.UberEats",
-      "developerName": "",
+      "developerName": "N/A",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ubercab.UberEats.png",
       "versions": [
         {
           "version": "1.0",
           "date": "2022-11-10",
           "size": 86639490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Uber.Eats.ipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/UberEats.ipa",
+          "localizedDescription": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store\nLast updated: 10-26-2022\nStatus: \u26a0\ufe0f"
         }
       ]
     }
