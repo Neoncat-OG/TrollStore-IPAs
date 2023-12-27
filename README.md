@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%202%20(WIP)-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps 2">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%202-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps 2">
   </a>
 </p>
 
