@@ -199,7 +199,7 @@ Everything you can currently find in this repo:
 | LikeeLRD | [Full app description here](https://apps.apple.com/us/app/likee-short-video-community/id1251790681). Basically a TikTok clone injected with the equivalent of TikTokLRD | 3.85.3 | [AppDB](https://appdb.to/app/cydia/1900000901) | 02-09-2023 | ⚠️ |
 | Limon | Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. | 1.0.8.4 | [emuPlace](https://github.com/emuPlace/Limon) | 12-21-2023 | ✅ |
 | LocationSimulation (LocSim) | Location spoofer, not affiliated with udevs' locsim | 1.3.7 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 11-10-2022 | ✅ |
-| Loklok | HDO Box clone. see original app description for more info | 5.0 | N/A | 07-17-2023 | ⚠️ ❔ |
+| LokLok | HDO Box clone. see original app description for more info | 5.0 | N/A | 07-17-2023 | ⚠️ ❔ |
 | Manga | **Removed from the repo: Deprecated.** | 1.0 | [IPA Fire](https://t.me/ipafire) | 12-19-2022 | ⚠️ |
 | Mangayomi | *From the GitHub*: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources. | 0.1.51 | [kodjodevf](https://github.com/kodjodevf/mangayomi) | 12-23-2023 | ✅ |
 | Crazy MEGA | **Removed from the repo: Patched.** *Note: You can stil grab the ipa from the source linked. (AppDB)** | 7.7 | [AppDB](https://appdb.to/app/cydia/1900001028) | 04-22-2023 | ❌ |
