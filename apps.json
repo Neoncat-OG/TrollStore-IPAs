@@ -68,6 +68,21 @@
       ]
     },
     {
+      "name": "MessengerLSN",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "ipalibrary.me",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
+      "versions": [
+        {
+          "version": "439.0.0",
+          "date": "2023-12-29",
+          "size": 64677332,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/MessengerLSN-439.0.0.ipa",
+          "localizedDescription": "Block ads, seen messages and story view notifications but it's marred by bugs like call issues and crashes and lacks customizable settings. Note: I haven't tested this because I don't have Facebook nor Messenger so please refrain from opening an issue because I won't be able to provide assistance.\nLast updated: 12-29-2023\nStatus: \u2754"
+        }
+      ]
+    },
+    {
       "name": "TrollApps",
       "bundleIdentifier": "org.resonance.store",
       "developerName": "TrollApps",
