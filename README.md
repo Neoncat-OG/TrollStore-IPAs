@@ -12,8 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps%202-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps 2">
+  <a href="https://theresonanceteam.github.io/trollapps-web/repo/index.html?url=https%3A%2F%2Fraw.githubusercontent.com%2FswaggyP36000%2FTrollStore-IPAs%2Fmain%2Fapps.json">
+    <img src="https://img.shields.io/badge/Use%20repo%20on%20TrollApps%20Web-%20blue?style=for-the-badge&color=8A2BE2" alt="Use repo on TrollApps Web">
+  </a>
+</p>
+
+ <p align="center"> <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps">
   </a>
 </p>
 
