@@ -12,13 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://theresonanceteam.github.io/trollapps-web/repo/index.html?url=https%3A%2F%2Fraw.githubusercontent.com%2FswaggyP36000%2FTrollStore-IPAs%2Fmain%2Fapps.json">
-    <img src="https://img.shields.io/badge/Use%20repo%20on%20TrollApps%20Web-%20blue?style=for-the-badge&color=8A2BE2" alt="Use repo on TrollApps Web">
+    <a href="https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to ESign">
   </a>
 </p>
 
- <p align="center"> <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps-%20blue?style=for-the-badge&color=%23007BFF" alt="Add repo to TrollApps">
+ <p align="center">
+    <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20TrollApps-%20blue?style=for-the-badge&color=B85CFD" alt="Add repo to TrollApps">
   </a>
 </p>
 
@@ -37,7 +38,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-**(12-25-23) - (12-27-23)** Repo entirely reworked for TrollApps 2. ***Huge thanks to [jfalus](https://github.com/jfalus) for their first and huge contribution!!***
+**(12-25-23) - (01-02-24)** Repo entirely reworked for TrollApps 2 and ESign. ***Huge thanks to [jfalus](https://github.com/jfalus) for their first and huge contribution!!***
 
 ---
 
