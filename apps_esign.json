@@ -4,6 +4,39 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "version": "v8.0.5",
+      "versionDate": "2024-01-02",
+      "size": 30372022,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-02-2024/misaka-v8.0.5.ipa",
+      "developerName": "Misaka",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
+    },
+    {
+      "name": "Sposilife",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.6.42",
+      "versionDate": "2024-01-02",
+      "size": 40838126,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-02-2024/Sposilife-8.6.42.ipa",
+      "developerName": "u/alnoise / zxcvbn's tweaked IPAs",
+      "localizedDescription": "Spotilife 1.8 + Sposify 8.5.52 (Customize Spotify experience according to your preferences), SpotifyEqualizerEnhancer 1.2 (configure the equalizer) and OpenSpotifySafariExtension (Open Spotify links in the app for cert users and sideloadly). Note: This version should work. Despite being significantly outdated, still offers a reliable way to enjoy premium.\nLast updated: 01-02-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpringForTwitter",
+      "bundleIdentifier": "com.jonny.spring",
+      "version": "5.8.1",
+      "versionDate": "2024-01-02",
+      "size": 25920625,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-02-2024/SpringForTwitter-5.8.1.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first login after installation with TrollStore. However after restarting, it will start checking the App ID used for the purchase and close itself. I believe there's no way to bypass this..\nLast updated: 01-02-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.jonny.spring.png"
+    },
+    {
       "name": "Misaka",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
       "version": "8.0.1",
@@ -11,7 +44,7 @@
       "size": 30395661,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Misaka-8.0.1.ipa",
       "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-01-2024\nStatus: \u2705",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
@@ -231,7 +264,7 @@
       "size": 30199441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Misaka-3.4.1.ipa",
       "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-01-2024\nStatus: \u2705",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
@@ -935,7 +968,7 @@
       "size": 30062344,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/Misaka-3.3.7.ipa",
       "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-01-2024\nStatus: \u2705",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
@@ -1016,17 +1049,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png"
     },
     {
-      "name": "Grammarly",
-      "bundleIdentifier": "com.grammarly.keyboard",
-      "version": "4.0.0",
-      "versionDate": "2023-12-15",
-      "size": 156360115,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Grammarly-4.0.0.ipa",
-      "developerName": "Haidar_Phantom",
-      "localizedDescription": "Begin by installing it from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. Note: Premium keyboard features are locked.\nLast updated: 12-15-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grammarly.keyboard.png"
-    },
-    {
       "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "version": "3.2.1",
@@ -1089,7 +1111,7 @@
       "size": 28619835,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Misaka-3.3.6.ipa",
       "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-01-2024\nStatus: \u2705",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
@@ -1144,7 +1166,7 @@
       "size": 28563166,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Misaka-3.3.5.ipa",
       "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-01-2024\nStatus: \u2705",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
@@ -1518,7 +1540,7 @@
       "size": 24020194,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Misaka-3.3.3.ipa",
       "developerName": "Misaka",
-      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-01-2024\nStatus: \u2705",
+      "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
@@ -2138,17 +2160,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
-      "name": "Sposilife",
-      "bundleIdentifier": "com.spotify.client",
-      "version": "8.6.42",
-      "versionDate": "2023-12-02",
-      "size": 40838126,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Sposilife-8.6.42.ipa",
-      "developerName": "u/alnoise / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spotilife 1.8 + Sposify 8.5.52 (Customize Spotify experience according to your preferences), SpotifyEqualizerEnhancer 1.2 (configure the equalizer) and OpenSpotifySafariExtension (Open Spotify links in the app for cert users and sideloadly). Note: This version should work. Despite being significantly outdated, still offers a reliable way to enjoy premium.\nLast updated: 12-02-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
-    },
-    {
       "name": "Spotilife",
       "bundleIdentifier": "com.spotify.client",
       "version": "8.8.92",
@@ -2211,7 +2222,7 @@
       "size": 315141070,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
       "developerName": "ipalibrary.me",
-      "localizedDescription": "Injected with premium by LK Team, exclusively available for TrollStore. Digital note-taking experience. Enjoy customizable templates, seamless syncing across devices, AI-powered text enhancement, audio note syncing, and more. Perfect for students, planners, and professionals. Boost productivity with features like AirPlay presentations, Laser Pointer, and collaborative note-sharing.\nLast updated: 12-01-2023\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 12-01-2023\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -12671,8 +12682,8 @@
       "versionDate": "2023-01-17",
       "size": 39469083,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/SpringForTwitter-4.3.1.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "App description from App Store. Twitter client with a bunch of customizations. Also allows for media saving\nLast updated: 01-17-2023\nStatus: \u274c \u2754",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first login after installation with TrollStore. However after restarting, it will start checking the App ID used for the purchase and close itself. I believe there's no way to bypass this..\nLast updated: 01-02-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.jonny.spring.png"
     },
     {
@@ -14388,7 +14399,7 @@
       "size": 37818688,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2022/Sposilife-8.5.60.ipa",
       "developerName": "u/alnoise / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spotilife 1.8 + Sposify 8.5.52 (Customize Spotify experience according to your preferences), SpotifyEqualizerEnhancer 1.2 (configure the equalizer) and OpenSpotifySafariExtension (Open Spotify links in the app for cert users and sideloadly). Note: This version should work. Despite being significantly outdated, still offers a reliable way to enjoy premium.\nLast updated: 12-02-2023\nStatus: \u26a0\ufe0f",
+      "localizedDescription": "Spotilife 1.8 + Sposify 8.5.52 (Customize Spotify experience according to your preferences), SpotifyEqualizerEnhancer 1.2 (configure the equalizer) and OpenSpotifySafariExtension (Open Spotify links in the app for cert users and sideloadly). Note: This version should work. Despite being significantly outdated, still offers a reliable way to enjoy premium.\nLast updated: 01-02-2024\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
