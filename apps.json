@@ -4,6 +4,1076 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BHX",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
+      "versions": [
+        {
+          "version": "10.22-4.2",
+          "date": "2024-01-03",
+          "size": 122793699,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHX-10.22-4.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.21.1-4.2",
+          "date": "2023-12-19",
+          "size": 125464528,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHX-10.21.1-4.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.20-4.2",
+          "date": "2023-12-16",
+          "size": 127098462,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/BHX-10.20-4.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.19-4.1",
+          "date": "2023-12-09",
+          "size": 162702774,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2023/BHX-10.19-4.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.19-4.0",
+          "date": "2023-12-05",
+          "size": 113502254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHX-10.19-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.18-4.0",
+          "date": "2023-11-28",
+          "size": 113799817,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHX-10.18-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.16-4.0",
+          "date": "2023-11-15",
+          "size": 113313148,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHX-10.16-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.15.1-4.0",
+          "date": "2023-11-08",
+          "size": 113438384,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/BHX-10.15.1-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.15-4.0",
+          "date": "2023-11-07",
+          "size": 113439012,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/BHX-10.15-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.14-4.0",
+          "date": "2023-11-02",
+          "size": 113353182,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/BHX-10.14-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.12-4.0",
+          "date": "2023-10-25",
+          "size": 92919948,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHX-10.12-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.11-4.0",
+          "date": "2023-10-22",
+          "size": 92839158,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/BHX-10.11-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.10-4.0",
+          "date": "2023-10-14",
+          "size": 100530438,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHX-10.10-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.9.1-4.0",
+          "date": "2023-10-07",
+          "size": 92453724,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/BHX-10.9.1-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.8-4.0",
+          "date": "2023-09-30",
+          "size": 92371935,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/BHX-10.8-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.7-4.0",
+          "date": "2023-09-21",
+          "size": 92308848,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHX-10.7-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.5-4.0",
+          "date": "2023-09-06",
+          "size": 77429598,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/BHX-10.5-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.4-4.0",
+          "date": "2023-09-05",
+          "size": 99768092,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHX-10.4-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.4-4.0",
+          "date": "2023-08-31",
+          "size": 77257426,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHX-10.4-4.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.3.2",
+          "date": "2023-08-27",
+          "size": 77825585,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2023/BHX-10.3.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.2",
+          "date": "2023-08-16",
+          "size": 77660779,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/BHX-10.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.1",
+          "date": "2023-08-11",
+          "size": 77351471,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHX-10.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "10.0",
+          "date": "2023-07-31",
+          "size": 83115116,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/BHX-10.0.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.67",
+          "date": "2023-07-18",
+          "size": 84208984,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/BHX-9.67.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.66",
+          "date": "2023-07-11",
+          "size": 87005632,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/BHX-9.66.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.65",
+          "date": "2023-07-09",
+          "size": 86994858,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/BHX-9.65.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "3.9.1-9.63",
+          "date": "2023-06-25",
+          "size": 97336149,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BHX-3.9.1-9.63.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.60-3.9.1",
+          "date": "2023-06-04",
+          "size": 85496985,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/BHX-9.60-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.59-3.9.1",
+          "date": "2023-05-24",
+          "size": 85369199,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/BHX-9.59-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.58.1-3.9.1",
+          "date": "2023-05-17",
+          "size": 85598661,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/BHX-9.58.1-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.57",
+          "date": "2023-05-10",
+          "size": 101344258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/BHX-9.57.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.56.1-3.9.1",
+          "date": "2023-05-02",
+          "size": 85526517,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2023/BHX-9.56.1-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.56-3.9.1",
+          "date": "2023-04-30",
+          "size": 85271063,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/BHX-9.56-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.54",
+          "date": "2023-04-23",
+          "size": 103490820,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/BHX-9.54.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.51.1",
+          "date": "2023-04-16",
+          "size": 104374009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/BHX-9.51.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.51.1-3.9.1",
+          "date": "2023-03-31",
+          "size": 91804358,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/BHX-9.51.1-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.49-3.9.1",
+          "date": "2023-03-14",
+          "size": 96029159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/BHX-9.49-3.9.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.48-3.9",
+          "date": "2023-03-09",
+          "size": 104137071,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/BHX-9.48-3.9.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.47-3.9",
+          "date": "2023-03-07",
+          "size": 95320317,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/BHX-9.47-3.9.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.47-3.8",
+          "date": "2023-03-04",
+          "size": 87331404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/BHX-9.47-3.8.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.46",
+          "date": "2023-02-22",
+          "size": 103423125,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2023/BHX-9.46.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.45",
+          "date": "2023-02-19",
+          "size": 103297320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/BHX-9.45.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.44",
+          "date": "2023-02-14",
+          "size": 103894926,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/BHX-9.44.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.43.1",
+          "date": "2023-02-06",
+          "size": 104061572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/BHX-9.43.1.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.42-3.7",
+          "date": "2023-01-27",
+          "size": 104286746,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/BHX-9.42-3.7.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.41.1-3.7",
+          "date": "2023-01-20",
+          "size": 91823176,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/BHX-9.41.1-3.7.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.40-3.7",
+          "date": "2023-01-14",
+          "size": 94807701,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/BHX-9.40-3.7.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.39-3.6",
+          "date": "2023-01-08",
+          "size": 97136048,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2023/BHX-9.39-3.6.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.39",
+          "date": "2023-01-05",
+          "size": 94954991,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/BHX-9.39.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.38-3.5",
+          "date": "2022-12-25",
+          "size": 99440344,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/BHX-9.38-3.5.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.38-3.4",
+          "date": "2022-12-20",
+          "size": 99397867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2022/BHX-9.38-3.4.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.37.1-3.4",
+          "date": "2022-12-18",
+          "size": 100267510,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2022/BHX-9.37.1-3.4.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.34.6-3.2",
+          "date": "2022-11-25",
+          "size": 126316536,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHX-9.34.6-3.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.34.6-3.3",
+          "date": "2022-11-25",
+          "size": 120019068,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHX-9.34.6-3.3.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "9.34.5-3.2",
+          "date": "2022-11-14",
+          "size": 105691118,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/BHX-9.34.5-3.2.ipa",
+          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "TigiSoftware / CyPwn IPA Library / iOS_TrollStore",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
+      "versions": [
+        {
+          "version": "4.0.0-NoUrlScheme",
+          "date": "2024-01-03",
+          "size": 13912275,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Filza-4.0.0-NoUrlScheme.ipa",
+          "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TrollStore, you might have to go in Filza and delete all the app's bundle ID folders yourself. I fixed this problem myself and managed to get the app from the AppStore again. Make sure you're careful and delete the right stuff!!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.0.0",
+          "date": "2022-12-22",
+          "size": 13977293,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Filza-4.0.0.ipa",
+          "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TrollStore, you might have to go in Filza and delete all the app's bundle ID folders yourself. I fixed this problem myself and managed to get the app from the AppStore again. Make sure you're careful and delete the right stuff!!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "3.9.8k",
+          "date": "2022-11-16",
+          "size": 14714010,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Filza-3.9.8k.ipa",
+          "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TrollStore, you might have to go in Filza and delete all the app's bundle ID folders yourself. I fixed this problem myself and managed to get the app from the AppStore again. Make sure you're careful and delete the right stuff!!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "3.9.8",
+          "date": "2022-11-15",
+          "size": 14100858,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Filza-3.9.8.ipa",
+          "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TrollStore, you might have to go in Filza and delete all the app's bundle ID folders yourself. I fixed this problem myself and managed to get the app from the AppStore again. Make sure you're careful and delete the right stuff!!\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "312.0.1-1.1.8b2",
+          "date": "2024-01-03",
+          "size": 144606204,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8",
+          "date": "2023-12-28",
+          "size": 145628785,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.6",
+          "date": "2023-12-25",
+          "size": 143349474,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "311.0.2-1.1.6",
+          "date": "2023-12-12",
+          "size": 142283496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.6",
+          "date": "2023-12-11",
+          "size": 139562066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.4",
+          "date": "2023-12-04",
+          "size": 133602409,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-1.1.4",
+          "date": "2023-12-03",
+          "size": 133971258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png",
+      "versions": [
+        {
+          "version": "1.2.33",
+          "date": "2024-01-03",
+          "size": 35874964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
+          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.32",
+          "date": "2023-12-17",
+          "size": 27651126,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
+          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+      "versions": [
+        {
+          "version": "17.6-0.1.0",
+          "date": "2024-01-03",
+          "size": 83087847,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/TwitchPlus-17.6-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "17.5.1-0.1.0",
+          "date": "2023-12-30",
+          "size": 82801964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "17.5-0.1.0",
+          "date": "2023-12-12",
+          "size": 82801296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "17.4.1-0.1.0",
+          "date": "2023-12-05",
+          "size": 105344037,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "17.3.2-0.1.0",
+          "date": "2023-12-03",
+          "size": 105305867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "17.3-0.1.0",
+          "date": "2023-12-02",
+          "size": 104676718,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "17.3",
+          "date": "2023-11-28",
+          "size": 101199079,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.7.2",
+          "date": "2023-10-23",
+          "size": 63055501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.4",
+          "date": "2023-09-27",
+          "size": 73502584,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.3",
+          "date": "2023-09-19",
+          "size": 73398412,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.2",
+          "date": "2023-09-14",
+          "size": 71678888,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.1",
+          "date": "2023-09-06",
+          "size": 53831136,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.0.2",
+          "date": "2023-08-31",
+          "size": 53708726,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "16.0",
+          "date": "2023-08-29",
+          "size": 53709186,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.9.2",
+          "date": "2023-08-25",
+          "size": 53656336,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.9",
+          "date": "2023-08-22",
+          "size": 53395273,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.8",
+          "date": "2023-08-09",
+          "size": 53192728,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.7",
+          "date": "2023-08-03",
+          "size": 64346228,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.6",
+          "date": "2023-07-16",
+          "size": 62426621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.5",
+          "date": "2023-06-29",
+          "size": 78060639,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.4",
+          "date": "2023-06-25",
+          "size": 58339050,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.2.1",
+          "date": "2023-05-24",
+          "size": 56367481,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "15.1",
+          "date": "2023-05-04",
+          "size": 61746901,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.9.5",
+          "date": "2023-04-13",
+          "size": 80384886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.8.1",
+          "date": "2023-03-27",
+          "size": 71872886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.8",
+          "date": "2023-03-23",
+          "size": 72742095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.7",
+          "date": "2023-03-07",
+          "size": 72562212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.6",
+          "date": "2023-02-26",
+          "size": 75478804,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.3.1",
+          "date": "2022-12-21",
+          "size": 74590187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.3",
+          "date": "2022-12-06",
+          "size": 208544377,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.2",
+          "date": "2022-12-02",
+          "size": 72655342,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.2",
+          "date": "2022-11-20",
+          "size": 72586953,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "14.2",
+          "date": "2022-11-16",
+          "size": 72587099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "YTMusicUltimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
+      "versions": [
+        {
+          "version": "1.5.2-6.33.3",
+          "date": "2024-01-03",
+          "size": 69141307,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/YTMusicUltimate-1.5.2-6.33.3.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.31.0",
+          "date": "2023-12-05",
+          "size": 69300431,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/YTMusicUltimate-1.5.2-6.31.0.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.28.0",
+          "date": "2023-11-15",
+          "size": 68687989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YTMusicUltimate-1.5.2-6.28.0.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.27.0",
+          "date": "2023-11-07",
+          "size": 68589271,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/YTMusicUltimate-1.5.2-6.27.0.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.26.0",
+          "date": "2023-11-04",
+          "size": 68608808,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/YTMusicUltimate-1.5.2-6.26.0.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.25.0",
+          "date": "2023-10-24",
+          "size": 68162034,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/YTMusicUltimate-1.5.2-6.25.0.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.23.2",
+          "date": "2023-10-17",
+          "size": 73595697,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/YTMusicUltimate-1.5.2-6.23.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.22.2",
+          "date": "2023-10-05",
+          "size": 64829488,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/YTMusicUltimate-1.5.2-6.22.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.2-6.21.3",
+          "date": "2023-09-27",
+          "size": 64717083,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/YTMusicUltimate-1.5.2-6.21.3.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5-6.20.2",
+          "date": "2023-09-19",
+          "size": 64597538,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/YTMusicUltimate-1.5-6.20.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5-6.19.2",
+          "date": "2023-09-12",
+          "size": 63101112,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/YTMusicUltimate-1.5-6.19.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5-6.17.5",
+          "date": "2023-08-31",
+          "size": 60213808,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/YTMusicUltimate-1.5-6.17.5.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5-6.16.4",
+          "date": "2023-08-23",
+          "size": 58817762,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-23-2023/YTMusicUltimate-1.5-6.16.4.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5-6.14.3",
+          "date": "2023-08-20",
+          "size": 66999736,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/YTMusicUltimate-1.5-6.14.3.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.13.2",
+          "date": "2023-08-09",
+          "size": 60720253,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/YTMusicUltimate-6.13.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.13.1",
+          "date": "2023-08-01",
+          "size": 65044981,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/YTMusicUltimate-6.13.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.12.1",
+          "date": "2023-07-25",
+          "size": 68057290,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/YTMusicUltimate-6.12.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.10.1",
+          "date": "2023-07-14",
+          "size": 66404774,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/YTMusicUltimate-6.10.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.08.2",
+          "date": "2023-06-30",
+          "size": 72233781,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/YTMusicUltimate-6.08.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.07.1",
+          "date": "2023-06-25",
+          "size": 83628081,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/YTMusicUltimate-6.07.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1-6.04",
+          "date": "2023-06-04",
+          "size": 60330500,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/YTMusicUltimate-1.4.1-6.04.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.0-6.03",
+          "date": "2023-05-24",
+          "size": 60369129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YTMusicUltimate-1.4.0-6.03.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.0-6.02.1",
+          "date": "2023-05-19",
+          "size": 60760839,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/YTMusicUltimate-1.4.0-6.02.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.8-6.01.2",
+          "date": "2023-05-17",
+          "size": 88911545,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/YTMusicUltimate-1.3.8-6.01.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.7-6.01.2",
+          "date": "2023-05-15",
+          "size": 59630920,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/YTMusicUltimate-1.3.7-6.01.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.6-6.01.2",
+          "date": "2023-05-06",
+          "size": 75596211,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/YTMusicUltimate-1.3.6-6.01.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.5-5.55.1",
+          "date": "2023-05-04",
+          "size": 75481849,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/YTMusicUltimate-1.3.5-5.55.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.33-5.55.1",
+          "date": "2023-05-02",
+          "size": 59848654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2023/YTMusicUltimate-1.33-5.55.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.3-5.54.2",
+          "date": "2023-04-30",
+          "size": 90725928,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/YTMusicUltimate-1.3.3-5.54.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.1-5.54.2",
+          "date": "2023-04-27",
+          "size": 90610974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/YTMusicUltimate-1.3.1-5.54.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3-5.54.2",
+          "date": "2023-04-26",
+          "size": 90606129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-26-2023/YTMusicUltimate-1.3-5.54.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.8-5.54.2",
+          "date": "2023-04-25",
+          "size": 66243159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/YTMusicUltimate-1.2.8-5.54.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.53.1",
+          "date": "2023-04-23",
+          "size": 62196091,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/YTMusicUltimate-5.53.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.53",
+          "date": "2023-04-23",
+          "size": 61556900,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2023/YTMusicUltimate-5.53.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.47.1",
+          "date": "2023-03-07",
+          "size": 66342434,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YTMusicUltimate-5.47.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.46.2",
+          "date": "2023-03-05",
+          "size": 60601439,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2023/YTMusicUltimate-5.46.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.45.1",
+          "date": "2023-02-23",
+          "size": 62197498,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2023/YTMusicUltimate-1.2.7-5.45.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.44.1",
+          "date": "2023-02-14",
+          "size": 64604350,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/YTMusicUltimate-5.44.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.42.2",
+          "date": "2023-02-01",
+          "size": 64088498,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YTMusicUltimate-1.2.7-5.42.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.41.1",
+          "date": "2023-01-24",
+          "size": 79408898,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/YTMusicUltimate-1.2.7-5.41.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.40.3",
+          "date": "2023-01-18",
+          "size": 79307742,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/YTMusicUltimate-1.2.7-5.40.3.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.39.1",
+          "date": "2023-01-10",
+          "size": 63776509,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YTMusicUltimate-1.2.7-5.39.1.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.38.3",
+          "date": "2023-01-05",
+          "size": 63888827,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/YTMusicUltimate-1.2.7-5.38.3.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.36.2",
+          "date": "2022-12-19",
+          "size": 64727705,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/YTMusicUltimate-1.2.7-5.36.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.7-5.34.2",
+          "date": "2022-11-30",
+          "size": 57741323,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2022/YTMusicUltimate-1.2.7-5.34.2.ipa",
+          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 01-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "misaka",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
       "developerName": "Misaka",
@@ -484,238 +1554,6 @@
       ]
     },
     {
-      "name": "TwitchPlus",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
-      "versions": [
-        {
-          "version": "17.5.1-0.1.0",
-          "date": "2023-12-30",
-          "size": 82801964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "17.5-0.1.0",
-          "date": "2023-12-12",
-          "size": 82801296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "17.4.1-0.1.0",
-          "date": "2023-12-05",
-          "size": 105344037,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "17.3.2-0.1.0",
-          "date": "2023-12-03",
-          "size": 105305867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "17.3-0.1.0",
-          "date": "2023-12-02",
-          "size": 104676718,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "17.3",
-          "date": "2023-11-28",
-          "size": 101199079,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.7.2",
-          "date": "2023-10-23",
-          "size": 63055501,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.4",
-          "date": "2023-09-27",
-          "size": 73502584,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.3",
-          "date": "2023-09-19",
-          "size": 73398412,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.2",
-          "date": "2023-09-14",
-          "size": 71678888,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.1",
-          "date": "2023-09-06",
-          "size": 53831136,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.0.2",
-          "date": "2023-08-31",
-          "size": 53708726,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "16.0",
-          "date": "2023-08-29",
-          "size": 53709186,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.9.2",
-          "date": "2023-08-25",
-          "size": 53656336,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.9",
-          "date": "2023-08-22",
-          "size": 53395273,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.8",
-          "date": "2023-08-09",
-          "size": 53192728,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.7",
-          "date": "2023-08-03",
-          "size": 64346228,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.6",
-          "date": "2023-07-16",
-          "size": 62426621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.5",
-          "date": "2023-06-29",
-          "size": 78060639,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.4",
-          "date": "2023-06-25",
-          "size": 58339050,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.2.1",
-          "date": "2023-05-24",
-          "size": 56367481,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "15.1",
-          "date": "2023-05-04",
-          "size": 61746901,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.9.5",
-          "date": "2023-04-13",
-          "size": 80384886,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.8.1",
-          "date": "2023-03-27",
-          "size": 71872886,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.8",
-          "date": "2023-03-23",
-          "size": 72742095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.7",
-          "date": "2023-03-07",
-          "size": 72562212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.6",
-          "date": "2023-02-26",
-          "size": 75478804,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.3.1",
-          "date": "2022-12-21",
-          "size": 74590187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.3",
-          "date": "2022-12-06",
-          "size": 208544377,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.2",
-          "date": "2022-12-02",
-          "size": 72655342,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.2",
-          "date": "2022-11-20",
-          "size": 72586953,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        },
-        {
-          "version": "14.2",
-          "date": "2022-11-16",
-          "size": 72587099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 12-30-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
@@ -966,56 +1804,56 @@
           "date": "2023-12-29",
           "size": 254032068,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/MeituPlusPlus-9.10.52.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.10.51",
           "date": "2023-12-23",
           "size": 231528042,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/MeituPlusPlus-9.10.51.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.10.50",
           "date": "2023-12-21",
           "size": 247140619,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/MeituPlusPlus-9.10.50.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.10.35",
           "date": "2023-12-16",
           "size": 230671187,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/MeituPlusPlus-9.10.35.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.10.30",
           "date": "2023-12-08",
           "size": 230163162,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MeituPlusPlus-9.10.30.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.10.21",
           "date": "2023-12-01",
           "size": 231652715,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/MeituPlusPlus-9.10.21.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.9.81",
           "date": "2023-10-03",
           "size": 227689265,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/MeituPlusPlus-9.9.81.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         },
         {
           "version": "9.7.30",
           "date": "2023-01-02",
           "size": 221377534,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
-          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 12-29-2023\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -1074,7 +1912,7 @@
           "date": "2023-12-29",
           "size": 90187568,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/TwitchDvnloaderPlus-17.5.1.ipa",
-          "localizedDescription": "A compilation of TwitchAdBlock (0.1.0) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d"
+          "localizedDescription": "A compilation of TwitchAdBlock (0.1.0) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 12-29-2023\nStatus: \u2705"
         }
       ]
     },
@@ -1351,56 +2189,6 @@
           "size": 2232733,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/CarMovie-1.2.ipa",
           "localizedDescription": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompassing folder-based video management. Supports iOS14/15/16 and 17. Note: Not all versions of iOS16/17 are supported).\nLast updated: 12-28-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstagramNyx",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "312.0.1-1.1.8",
-          "date": "2023-12-28",
-          "size": 145628785,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.6",
-          "date": "2023-12-25",
-          "size": 143349474,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "311.0.2-1.1.6",
-          "date": "2023-12-12",
-          "size": 142283496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.6",
-          "date": "2023-12-11",
-          "size": 139562066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.4",
-          "date": "2023-12-04",
-          "size": 133602409,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-1.1.4",
-          "date": "2023-12-03",
-          "size": 133971258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 12-28-2023\nStatus: \u2705"
         }
       ]
     },
@@ -4941,392 +5729,6 @@
       ]
     },
     {
-      "name": "BHX",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
-      "versions": [
-        {
-          "version": "10.21.1-4.2",
-          "date": "2023-12-19",
-          "size": 125464528,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHX-10.21.1-4.2.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.20-4.2",
-          "date": "2023-12-16",
-          "size": 127098462,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/BHX-10.20-4.2.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.19-4.1",
-          "date": "2023-12-09",
-          "size": 162702774,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2023/BHX-10.19-4.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.19-4.0",
-          "date": "2023-12-05",
-          "size": 113502254,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHX-10.19-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.18-4.0",
-          "date": "2023-11-28",
-          "size": 113799817,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHX-10.18-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.16-4.0",
-          "date": "2023-11-15",
-          "size": 113313148,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHX-10.16-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.15.1-4.0",
-          "date": "2023-11-08",
-          "size": 113438384,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/BHX-10.15.1-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.15-4.0",
-          "date": "2023-11-07",
-          "size": 113439012,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/BHX-10.15-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.14-4.0",
-          "date": "2023-11-02",
-          "size": 113353182,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/BHX-10.14-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.12-4.0",
-          "date": "2023-10-25",
-          "size": 92919948,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHX-10.12-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.11-4.0",
-          "date": "2023-10-22",
-          "size": 92839158,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/BHX-10.11-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.10-4.0",
-          "date": "2023-10-14",
-          "size": 100530438,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHX-10.10-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.9.1-4.0",
-          "date": "2023-10-07",
-          "size": 92453724,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/BHX-10.9.1-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.8-4.0",
-          "date": "2023-09-30",
-          "size": 92371935,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/BHX-10.8-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.7-4.0",
-          "date": "2023-09-21",
-          "size": 92308848,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHX-10.7-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.5-4.0",
-          "date": "2023-09-06",
-          "size": 77429598,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/BHX-10.5-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.4-4.0",
-          "date": "2023-09-05",
-          "size": 99768092,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHX-10.4-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.4-4.0",
-          "date": "2023-08-31",
-          "size": 77257426,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHX-10.4-4.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.3.2",
-          "date": "2023-08-27",
-          "size": 77825585,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2023/BHX-10.3.2.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.2",
-          "date": "2023-08-16",
-          "size": 77660779,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/BHX-10.2.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.1",
-          "date": "2023-08-11",
-          "size": 77351471,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHX-10.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "10.0",
-          "date": "2023-07-31",
-          "size": 83115116,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/BHX-10.0.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.67",
-          "date": "2023-07-18",
-          "size": 84208984,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/BHX-9.67.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.66",
-          "date": "2023-07-11",
-          "size": 87005632,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/BHX-9.66.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.65",
-          "date": "2023-07-09",
-          "size": 86994858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/BHX-9.65.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "3.9.1-9.63",
-          "date": "2023-06-25",
-          "size": 97336149,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BHX-3.9.1-9.63.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.60-3.9.1",
-          "date": "2023-06-04",
-          "size": 85496985,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/BHX-9.60-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.59-3.9.1",
-          "date": "2023-05-24",
-          "size": 85369199,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/BHX-9.59-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.58.1-3.9.1",
-          "date": "2023-05-17",
-          "size": 85598661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/BHX-9.58.1-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.57",
-          "date": "2023-05-10",
-          "size": 101344258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/BHX-9.57.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.56.1-3.9.1",
-          "date": "2023-05-02",
-          "size": 85526517,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2023/BHX-9.56.1-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.56-3.9.1",
-          "date": "2023-04-30",
-          "size": 85271063,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/BHX-9.56-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.54",
-          "date": "2023-04-23",
-          "size": 103490820,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/BHX-9.54.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.51.1",
-          "date": "2023-04-16",
-          "size": 104374009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/BHX-9.51.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.51.1-3.9.1",
-          "date": "2023-03-31",
-          "size": 91804358,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/BHX-9.51.1-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.49-3.9.1",
-          "date": "2023-03-14",
-          "size": 96029159,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/BHX-9.49-3.9.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.48-3.9",
-          "date": "2023-03-09",
-          "size": 104137071,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/BHX-9.48-3.9.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.47-3.9",
-          "date": "2023-03-07",
-          "size": 95320317,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/BHX-9.47-3.9.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.47-3.8",
-          "date": "2023-03-04",
-          "size": 87331404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/BHX-9.47-3.8.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.46",
-          "date": "2023-02-22",
-          "size": 103423125,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2023/BHX-9.46.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.45",
-          "date": "2023-02-19",
-          "size": 103297320,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/BHX-9.45.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.44",
-          "date": "2023-02-14",
-          "size": 103894926,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/BHX-9.44.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.43.1",
-          "date": "2023-02-06",
-          "size": 104061572,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/BHX-9.43.1.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.42-3.7",
-          "date": "2023-01-27",
-          "size": 104286746,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/BHX-9.42-3.7.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.41.1-3.7",
-          "date": "2023-01-20",
-          "size": 91823176,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/BHX-9.41.1-3.7.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.40-3.7",
-          "date": "2023-01-14",
-          "size": 94807701,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/BHX-9.40-3.7.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.39-3.6",
-          "date": "2023-01-08",
-          "size": 97136048,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2023/BHX-9.39-3.6.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.39",
-          "date": "2023-01-05",
-          "size": 94954991,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/BHX-9.39.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.38-3.5",
-          "date": "2022-12-25",
-          "size": 99440344,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/BHX-9.38-3.5.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.38-3.4",
-          "date": "2022-12-20",
-          "size": 99397867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2022/BHX-9.38-3.4.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.37.1-3.4",
-          "date": "2022-12-18",
-          "size": 100267510,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2022/BHX-9.37.1-3.4.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.34.6-3.2",
-          "date": "2022-11-25",
-          "size": 126316536,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHX-9.34.6-3.2.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.34.6-3.3",
-          "date": "2022-11-25",
-          "size": 120019068,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHX-9.34.6-3.3.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "9.34.5-3.2",
-          "date": "2022-11-14",
-          "size": 105691118,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/BHX-9.34.5-3.2.ipa",
-          "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
       "name": "InfusePro",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "DPixel / AppDB / zxcvbn\u2019s tweaked IPAs / iApps / HertzSign iPA Library",
@@ -5610,21 +6012,6 @@
           "size": 87165733,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.0.5.ipa",
           "localizedDescription": "Apollo v1.15.11 + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 12-18-2023\nStatus: \u2705 \u2754"
-        }
-      ]
-    },
-    {
-      "name": "Streamer",
-      "bundleIdentifier": "com.streamer.ios",
-      "developerName": "StreamerApp",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png",
-      "versions": [
-        {
-          "version": "1.2.32",
-          "date": "2023-12-17",
-          "size": 27651126,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
-          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 12-17-2023\nStatus: \u2705"
         }
       ]
     },
@@ -7363,7 +7750,7 @@
           "date": "2023-12-05",
           "size": 184885684,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
-          "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note:To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -7439,322 +7826,6 @@
       ]
     },
     {
-      "name": "YTMusicUltimate",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
-      "versions": [
-        {
-          "version": "1.5.2-6.31.0",
-          "date": "2023-12-05",
-          "size": 69300431,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/YTMusicUltimate-1.5.2-6.31.0.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.28.0",
-          "date": "2023-11-15",
-          "size": 68687989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YTMusicUltimate-1.5.2-6.28.0.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.27.0",
-          "date": "2023-11-07",
-          "size": 68589271,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/YTMusicUltimate-1.5.2-6.27.0.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.26.0",
-          "date": "2023-11-04",
-          "size": 68608808,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/YTMusicUltimate-1.5.2-6.26.0.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.25.0",
-          "date": "2023-10-24",
-          "size": 68162034,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/YTMusicUltimate-1.5.2-6.25.0.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.23.2",
-          "date": "2023-10-17",
-          "size": 73595697,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/YTMusicUltimate-1.5.2-6.23.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.22.2",
-          "date": "2023-10-05",
-          "size": 64829488,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/YTMusicUltimate-1.5.2-6.22.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.2-6.21.3",
-          "date": "2023-09-27",
-          "size": 64717083,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/YTMusicUltimate-1.5.2-6.21.3.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5-6.20.2",
-          "date": "2023-09-19",
-          "size": 64597538,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/YTMusicUltimate-1.5-6.20.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5-6.19.2",
-          "date": "2023-09-12",
-          "size": 63101112,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/YTMusicUltimate-1.5-6.19.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5-6.17.5",
-          "date": "2023-08-31",
-          "size": 60213808,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/YTMusicUltimate-1.5-6.17.5.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5-6.16.4",
-          "date": "2023-08-23",
-          "size": 58817762,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-23-2023/YTMusicUltimate-1.5-6.16.4.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.5-6.14.3",
-          "date": "2023-08-20",
-          "size": 66999736,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/YTMusicUltimate-1.5-6.14.3.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "6.13.2",
-          "date": "2023-08-09",
-          "size": 60720253,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/YTMusicUltimate-6.13.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "6.13.1",
-          "date": "2023-08-01",
-          "size": 65044981,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/YTMusicUltimate-6.13.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "6.12.1",
-          "date": "2023-07-25",
-          "size": 68057290,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/YTMusicUltimate-6.12.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "6.10.1",
-          "date": "2023-07-14",
-          "size": 66404774,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/YTMusicUltimate-6.10.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "6.08.2",
-          "date": "2023-06-30",
-          "size": 72233781,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/YTMusicUltimate-6.08.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "6.07.1",
-          "date": "2023-06-25",
-          "size": 83628081,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/YTMusicUltimate-6.07.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.1-6.04",
-          "date": "2023-06-04",
-          "size": 60330500,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/YTMusicUltimate-1.4.1-6.04.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.0-6.03",
-          "date": "2023-05-24",
-          "size": 60369129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YTMusicUltimate-1.4.0-6.03.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.0-6.02.1",
-          "date": "2023-05-19",
-          "size": 60760839,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/YTMusicUltimate-1.4.0-6.02.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.8-6.01.2",
-          "date": "2023-05-17",
-          "size": 88911545,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/YTMusicUltimate-1.3.8-6.01.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.7-6.01.2",
-          "date": "2023-05-15",
-          "size": 59630920,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/YTMusicUltimate-1.3.7-6.01.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.6-6.01.2",
-          "date": "2023-05-06",
-          "size": 75596211,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/YTMusicUltimate-1.3.6-6.01.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.5-5.55.1",
-          "date": "2023-05-04",
-          "size": 75481849,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/YTMusicUltimate-1.3.5-5.55.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.33-5.55.1",
-          "date": "2023-05-02",
-          "size": 59848654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2023/YTMusicUltimate-1.33-5.55.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.3-5.54.2",
-          "date": "2023-04-30",
-          "size": 90725928,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/YTMusicUltimate-1.3.3-5.54.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.1-5.54.2",
-          "date": "2023-04-27",
-          "size": 90610974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/YTMusicUltimate-1.3.1-5.54.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.3-5.54.2",
-          "date": "2023-04-26",
-          "size": 90606129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-26-2023/YTMusicUltimate-1.3-5.54.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.8-5.54.2",
-          "date": "2023-04-25",
-          "size": 66243159,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/YTMusicUltimate-1.2.8-5.54.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "5.53.1",
-          "date": "2023-04-23",
-          "size": 62196091,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/YTMusicUltimate-5.53.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "5.53",
-          "date": "2023-04-23",
-          "size": 61556900,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2023/YTMusicUltimate-5.53.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "5.47.1",
-          "date": "2023-03-07",
-          "size": 66342434,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YTMusicUltimate-5.47.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "5.46.2",
-          "date": "2023-03-05",
-          "size": 60601439,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2023/YTMusicUltimate-5.46.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.45.1",
-          "date": "2023-02-23",
-          "size": 62197498,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2023/YTMusicUltimate-1.2.7-5.45.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "5.44.1",
-          "date": "2023-02-14",
-          "size": 64604350,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/YTMusicUltimate-5.44.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.42.2",
-          "date": "2023-02-01",
-          "size": 64088498,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YTMusicUltimate-1.2.7-5.42.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.41.1",
-          "date": "2023-01-24",
-          "size": 79408898,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/YTMusicUltimate-1.2.7-5.41.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.40.3",
-          "date": "2023-01-18",
-          "size": 79307742,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/YTMusicUltimate-1.2.7-5.40.3.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.39.1",
-          "date": "2023-01-10",
-          "size": 63776509,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YTMusicUltimate-1.2.7-5.39.1.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.38.3",
-          "date": "2023-01-05",
-          "size": 63888827,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/YTMusicUltimate-1.2.7-5.38.3.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.36.2",
-          "date": "2022-12-19",
-          "size": 64727705,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/YTMusicUltimate-1.2.7-5.36.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.7-5.34.2",
-          "date": "2022-11-30",
-          "size": 57741323,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2022/YTMusicUltimate-1.2.7-5.34.2.ipa",
-          "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 12-05-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole1160.ios",
       "developerName": "Sangwan5688",
@@ -7787,42 +7858,6 @@
           "size": 26410422,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/BlackHole-1.15.6.ipa",
           "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 12-04-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Filza",
-      "bundleIdentifier": "com.tigisoftware.Filza",
-      "developerName": "TigiSoftware / CyPwn IPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
-      "versions": [
-        {
-          "version": "4.0.0-NoURLScheme",
-          "date": "2023-12-04",
-          "size": 13925062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/Filza-4.0.0-NoURLScheme.ipa",
-          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.0.0",
-          "date": "2022-12-22",
-          "size": 13977293,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Filza-4.0.0.ipa",
-          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "3.9.8k",
-          "date": "2022-11-16",
-          "size": 14714010,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Filza-3.9.8k.ipa",
-          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "3.9.8",
-          "date": "2022-11-15",
-          "size": 14100858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Filza-3.9.8.ipa",
-          "localizedDescription": "Not cracked, NoURLScheme version requested. iOS filesystem explorer\nLast updated: 12-04-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
