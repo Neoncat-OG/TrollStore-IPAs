@@ -81,10 +81,11 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 -  **Reposters Notice:** If you intend to download IPA files from sources other than this repository, it's important to note that there is an ongoing problem with Telegram channels, websites, and individuals stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository will list parties that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. Expect regular updates to this list, as it is subject to change.
 
-   ### Known reposters: *(12-27-2023)*
+   ### Known reposters: *(01-10-2024)*
    
     | Reposter* | Original Tweak/Maintainer |
     |:---------|---------------------------|
+    | [IPA Universe](https://t.me/IPAUniverse) **(CLONE, UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [iOSGods!](https://iosgods.com/) |
     | [KAMO HACkS](https://t.me/kamohacks) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) |
     | [AppleFavour iPA Library](https://t.me/iparsiv) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
     | [iOS_MATRIX](https://t.me/iOS_MATRIX) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) / [iStorePlus تحديثات](https://t.me/iStoreplus) / [LazyShop](https://lazyshop.app/) |
