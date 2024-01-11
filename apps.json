@@ -4,6 +4,705 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "developerName": "LitRitt",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
+      "versions": [
+        {
+          "version": "1.8.3",
+          "date": "2024-01-11",
+          "size": 73937401,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2",
+          "date": "2023-12-24",
+          "size": 62168615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.1",
+          "date": "2023-12-12",
+          "size": 62108889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Suffuse-Team",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+      "versions": [
+        {
+          "version": "7.6.6",
+          "date": "2024-01-11",
+          "size": 39072610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/InfusePro-7.6.6.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.5",
+          "date": "2023-12-22",
+          "size": 38834254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.4",
+          "date": "2023-11-29",
+          "size": 36936550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.3",
+          "date": "2023-11-19",
+          "size": 45198980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.2",
+          "date": "2023-11-06",
+          "size": 45192576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.1",
+          "date": "2023-09-27",
+          "size": 43213714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6",
+          "date": "2023-09-06",
+          "size": 36357059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.9",
+          "date": "2023-08-24",
+          "size": 36292217,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.8",
+          "date": "2023-07-11",
+          "size": 41628224,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.7",
+          "date": "2023-06-29",
+          "size": 44492277,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.6",
+          "date": "2023-06-25",
+          "size": 42285212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.5",
+          "date": "2023-06-04",
+          "size": 40271379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.4",
+          "date": "2023-05-15",
+          "size": 40331154,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.2",
+          "date": "2023-04-30",
+          "size": 40517963,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.1",
+          "date": "2023-04-10",
+          "size": 40177347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5",
+          "date": "2023-03-17",
+          "size": 39321077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.4.10",
+          "date": "2023-03-11",
+          "size": 44545614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
+          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / FayezUpdates / \u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / Manpreet Singh @thisismanpreets / Qamislo - Apps / Turki / IPA Fire / HertzSign iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+      "versions": [
+        {
+          "version": "24.0.1",
+          "date": "2024-01-11",
+          "size": 100312892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.9.1",
+          "date": "2023-12-28",
+          "size": 104714105,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.8.1",
+          "date": "2023-12-12",
+          "size": 98696332,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.7.3",
+          "date": "2023-11-28",
+          "size": 100146477,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.6.4",
+          "date": "2023-11-18",
+          "size": 99766481,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.6.3",
+          "date": "2023-11-13",
+          "size": 90738824,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.3",
+          "date": "2023-11-08",
+          "size": 104745334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.2",
+          "date": "2023-11-04",
+          "size": 104743752,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.1",
+          "date": "2023-11-01",
+          "size": 102531555,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.4.3",
+          "date": "2023-10-20",
+          "size": 104758490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.3.4",
+          "date": "2023-10-11",
+          "size": 103585347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.3.3",
+          "date": "2023-10-05",
+          "size": 96172924,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.7.1",
+          "date": "2023-07-25",
+          "size": 103395444,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.6.2",
+          "date": "2023-06-30",
+          "size": 97907313,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.5.6",
+          "date": "2023-06-27",
+          "size": 102553252,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.4.4",
+          "date": "2023-06-04",
+          "size": 94135314,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.3.5",
+          "date": "2023-05-29",
+          "size": 94718889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.3.2",
+          "date": "2023-05-17",
+          "size": 85332473,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.1.7",
+          "date": "2023-05-01",
+          "size": 91292482,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.1.6",
+          "date": "2023-04-24",
+          "size": 87605312,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.0.6",
+          "date": "2023-04-15",
+          "size": 95032916,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.0.3",
+          "date": "2023-04-08",
+          "size": 98569302,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.9.5",
+          "date": "2023-03-31",
+          "size": 89964583,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.9.4",
+          "date": "2023-03-23",
+          "size": 89945821,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.8.7",
+          "date": "2023-03-18",
+          "size": 89883836,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.8.5",
+          "date": "2023-03-09",
+          "size": 89878202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.7.3",
+          "date": "2023-03-05",
+          "size": 89057077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.7.2",
+          "date": "2023-02-28",
+          "size": 84242704,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.6.4",
+          "date": "2023-02-15",
+          "size": 90803300,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.6.3",
+          "date": "2023-02-14",
+          "size": 95326510,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.6",
+          "date": "2023-02-10",
+          "size": 94968087,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.5",
+          "date": "2023-02-09",
+          "size": 83700828,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.4",
+          "date": "2023-02-06",
+          "size": 93292357,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.3",
+          "date": "2023-02-01",
+          "size": 93292925,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.4.7",
+          "date": "2023-01-23",
+          "size": 106754941,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.4.6",
+          "date": "2023-01-19",
+          "size": 109413971,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.4.3",
+          "date": "2023-01-12",
+          "size": 109380528,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.14",
+          "date": "2022-12-30",
+          "size": 85002160,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.11",
+          "date": "2022-12-23",
+          "size": 106146615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.9",
+          "date": "2022-12-21",
+          "size": 106125185,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.8",
+          "date": "2022-12-17",
+          "size": 105724993,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.2.6",
+          "date": "2022-12-06",
+          "size": 106046582,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.1.5",
+          "date": "2022-11-27",
+          "size": 81296588,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.0.2",
+          "date": "2022-11-20",
+          "size": 101722265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.8.2",
+          "date": "2022-11-12",
+          "size": 60634846,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "RadarbotPro",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "developerName": "MeemNon",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+      "versions": [
+        {
+          "version": "9.12.4",
+          "date": "2024-01-11",
+          "size": 227257052,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/RadarbotPro-9.12.4.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.12.0",
+          "date": "2023-12-25",
+          "size": 229895957,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/RadarbotPro-9.12.0.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Vendetta",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "211.0",
+          "date": "2024-01-11",
+          "size": 95552107,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Vendetta-211.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "207.0",
+          "date": "2023-12-05",
+          "size": 95214496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Vendetta-207.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "206.0",
+          "date": "2023-11-29",
+          "size": 98559117,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Vendetta-206.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "205.0",
+          "date": "2023-11-21",
+          "size": 97185610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/Vendetta-205.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "204.0",
+          "date": "2023-11-15",
+          "size": 94348799,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Vendetta-204.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "203.0",
+          "date": "2023-11-07",
+          "size": 99550048,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Vendetta-203.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "202.0",
+          "date": "2023-10-31",
+          "size": 101108112,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/Vendetta-202.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "201.0",
+          "date": "2023-10-24",
+          "size": 132097406,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Vendetta-201.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "200.0",
+          "date": "2023-10-23",
+          "size": 131644159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/Vendetta-200.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "181.0",
+          "date": "2023-06-30",
+          "size": 93987800,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/Vendetta-181.0.ipa",
+          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "YouTubeReborn",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "AppDB / DPixel / FayezUpdates / CydiaAbdullah / ipalibrary.me / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.01.1",
+          "date": "2024-01-11",
+          "size": 123990699,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/YouTubeReborn-19.01.1.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.49.3",
+          "date": "2023-12-13",
+          "size": 132784867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/YouTubeReborn-18.49.3.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.20.3",
+          "date": "2023-05-24",
+          "size": 114162479,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YouTubeReborn-18.20.3.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.12.2",
+          "date": "2023-03-31",
+          "size": 110712949,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/YouTubeReborn-18.12.2.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.10.1",
+          "date": "2023-03-13",
+          "size": 110244056,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/YouTubeReborn-18.10.1.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.09.4",
+          "date": "2023-03-07",
+          "size": 108893819,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YouTubeReborn-18.09.4.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9-18.08.1",
+          "date": "2023-03-04",
+          "size": 112147491,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/YouTubeReborn-4.0.9-18.08.1.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.06.6",
+          "date": "2023-02-18",
+          "size": 109090111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/YouTubeReborn-18.06.6.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.05.2",
+          "date": "2023-02-12",
+          "size": 108602507,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/YouTubeReborn-18.05.2.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.03.3",
+          "date": "2023-01-26",
+          "size": 108110489,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/YouTubeReborn-18.03.3.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9-18.02.03",
+          "date": "2023-01-19",
+          "size": 108190570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeReborn-4.0.9-18.02.03.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9-18.01.6",
+          "date": "2023-01-14",
+          "size": 108165776,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/YouTubeReborn-4.0.9-18.01.6.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9-18.01.2",
+          "date": "2023-01-10",
+          "size": 108080191,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YouTubeReborn-4.0.9-18.01.2.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9-17.49.6",
+          "date": "2022-12-17",
+          "size": 116348832,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/YouTubeReborn-4.0.9-17.49.6.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.8-17.46.4",
+          "date": "2022-11-10",
+          "size": 112992434,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/YouTubeReborn-4.0.8-17.46.4.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 129661988,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YouTubeReborn.ipa",
+          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 01-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates",
@@ -400,133 +1099,6 @@
           "size": 105691118,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/BHX-9.34.5-3.2.ipa",
           "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "InfusePro",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "DPixel / AppDB / zxcvbn\u2019s tweaked IPAs / iApps / HertzSign iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
-      "versions": [
-        {
-          "version": "7.6.6",
-          "date": "2024-01-10",
-          "size": 38842053,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2024/InfusePro-7.6.6.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.5",
-          "date": "2023-12-22",
-          "size": 38834254,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.4",
-          "date": "2023-11-29",
-          "size": 36936550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.3",
-          "date": "2023-11-19",
-          "size": 45198980,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.2",
-          "date": "2023-11-06",
-          "size": 45192576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.1",
-          "date": "2023-09-27",
-          "size": 43213714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6",
-          "date": "2023-09-06",
-          "size": 36357059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.9",
-          "date": "2023-08-24",
-          "size": 36292217,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.8",
-          "date": "2023-07-11",
-          "size": 41628224,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.7",
-          "date": "2023-06-29",
-          "size": 44492277,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.6",
-          "date": "2023-06-25",
-          "size": 42285212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.5",
-          "date": "2023-06-04",
-          "size": 40271379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.4",
-          "date": "2023-05-15",
-          "size": 40331154,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.2",
-          "date": "2023-04-30",
-          "size": 40517963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.1",
-          "date": "2023-04-10",
-          "size": 40177347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5",
-          "date": "2023-03-17",
-          "size": 39321077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.4.10",
-          "date": "2023-03-11",
-          "size": 44545614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-10-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -4729,322 +5301,6 @@
       ]
     },
     {
-      "name": "PicsArtPlusPlus",
-      "bundleIdentifier": "com.picsart.studio",
-      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / FayezUpdates / \u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / Manpreet Singh @thisismanpreets / Qamislo - Apps / Turki / IPA Fire / HertzSign iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
-      "versions": [
-        {
-          "version": "23.9.1",
-          "date": "2023-12-28",
-          "size": 104714105,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.8.1",
-          "date": "2023-12-12",
-          "size": 98696332,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.7.3",
-          "date": "2023-11-28",
-          "size": 100146477,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.6.4",
-          "date": "2023-11-18",
-          "size": 99766481,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.6.3",
-          "date": "2023-11-13",
-          "size": 90738824,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.3",
-          "date": "2023-11-08",
-          "size": 104745334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.2",
-          "date": "2023-11-04",
-          "size": 104743752,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.1",
-          "date": "2023-11-01",
-          "size": 102531555,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.4.3",
-          "date": "2023-10-20",
-          "size": 104758490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.3.4",
-          "date": "2023-10-11",
-          "size": 103585347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "23.3.3",
-          "date": "2023-10-05",
-          "size": 96172924,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.7.1",
-          "date": "2023-07-25",
-          "size": 103395444,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.6.2",
-          "date": "2023-06-30",
-          "size": 97907313,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.5.6",
-          "date": "2023-06-27",
-          "size": 102553252,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.4.4",
-          "date": "2023-06-04",
-          "size": 94135314,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.3.5",
-          "date": "2023-05-29",
-          "size": 94718889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.3.2",
-          "date": "2023-05-17",
-          "size": 85332473,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.1.7",
-          "date": "2023-05-01",
-          "size": 91292482,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.1.6",
-          "date": "2023-04-24",
-          "size": 87605312,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.0.6",
-          "date": "2023-04-15",
-          "size": 95032916,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "22.0.3",
-          "date": "2023-04-08",
-          "size": 98569302,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.9.5",
-          "date": "2023-03-31",
-          "size": 89964583,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.9.4",
-          "date": "2023-03-23",
-          "size": 89945821,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.8.7",
-          "date": "2023-03-18",
-          "size": 89883836,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.8.5",
-          "date": "2023-03-09",
-          "size": 89878202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.7.3",
-          "date": "2023-03-05",
-          "size": 89057077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.7.2",
-          "date": "2023-02-28",
-          "size": 84242704,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.6.4",
-          "date": "2023-02-15",
-          "size": 90803300,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.6.3",
-          "date": "2023-02-14",
-          "size": 95326510,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.6",
-          "date": "2023-02-10",
-          "size": 94968087,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.5",
-          "date": "2023-02-09",
-          "size": 83700828,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.4",
-          "date": "2023-02-06",
-          "size": 93292357,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.3",
-          "date": "2023-02-01",
-          "size": 93292925,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.4.7",
-          "date": "2023-01-23",
-          "size": 106754941,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.4.6",
-          "date": "2023-01-19",
-          "size": 109413971,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.4.3",
-          "date": "2023-01-12",
-          "size": 109380528,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.14",
-          "date": "2022-12-30",
-          "size": 85002160,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.11",
-          "date": "2022-12-23",
-          "size": 106146615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.9",
-          "date": "2022-12-21",
-          "size": 106125185,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.8",
-          "date": "2022-12-17",
-          "size": 105724993,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.2.6",
-          "date": "2022-12-06",
-          "size": 106046582,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.1.5",
-          "date": "2022-11-27",
-          "size": 81296588,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "21.0.2",
-          "date": "2022-11-20",
-          "size": 101722265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        },
-        {
-          "version": "19.8.2",
-          "date": "2022-11-12",
-          "size": 60634846,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 12-28-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "PixelWeather",
       "bundleIdentifier": "com.woo-interactive.PixelWeather",
       "developerName": "N/A",
@@ -5214,21 +5470,6 @@
       ]
     },
     {
-      "name": "RadarbotPro",
-      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
-      "developerName": "MeemNon",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png",
-      "versions": [
-        {
-          "version": "9.12.0",
-          "date": "2023-12-25",
-          "size": 229895957,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/RadarbotPro-9.12.0.ipa",
-          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 12-25-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "YTLitePlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Balackburn",
@@ -5247,28 +5488,6 @@
           "size": 111274005,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa",
           "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 12-25-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Ignited",
-      "bundleIdentifier": "com.litritt.ignited",
-      "developerName": "LitRitt",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
-      "versions": [
-        {
-          "version": "1.7.2",
-          "date": "2023-12-24",
-          "size": 62168615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 12-24-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.1",
-          "date": "2023-12-12",
-          "size": 62108889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 12-24-2023\nStatus: \u2705"
         }
       ]
     },
@@ -7114,119 +7333,6 @@
       ]
     },
     {
-      "name": "YouTubeReborn",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "AppDB / DPixel / FayezUpdates / CydiaAbdullah / ipalibrary.me / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.49.3",
-          "date": "2023-12-13",
-          "size": 132784867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/YouTubeReborn-18.49.3.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.20.3",
-          "date": "2023-05-24",
-          "size": 114162479,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/YouTubeReborn-18.20.3.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.12.2",
-          "date": "2023-03-31",
-          "size": 110712949,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/YouTubeReborn-18.12.2.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.10.1",
-          "date": "2023-03-13",
-          "size": 110244056,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2023/YouTubeReborn-18.10.1.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.09.4",
-          "date": "2023-03-07",
-          "size": 108893819,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/YouTubeReborn-18.09.4.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.9-18.08.1",
-          "date": "2023-03-04",
-          "size": 112147491,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/YouTubeReborn-4.0.9-18.08.1.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.06.6",
-          "date": "2023-02-18",
-          "size": 109090111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/YouTubeReborn-18.06.6.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.05.2",
-          "date": "2023-02-12",
-          "size": 108602507,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/YouTubeReborn-18.05.2.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.03.3",
-          "date": "2023-01-26",
-          "size": 108110489,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/YouTubeReborn-18.03.3.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.9-18.02.03",
-          "date": "2023-01-19",
-          "size": 108190570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeReborn-4.0.9-18.02.03.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.9-18.01.6",
-          "date": "2023-01-14",
-          "size": 108165776,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/YouTubeReborn-4.0.9-18.01.6.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.9-18.01.2",
-          "date": "2023-01-10",
-          "size": 108080191,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YouTubeReborn-4.0.9-18.01.2.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.9-17.49.6",
-          "date": "2022-12-17",
-          "size": 116348832,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/YouTubeReborn-4.0.9-17.49.6.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.8-17.46.4",
-          "date": "2022-11-10",
-          "size": 112992434,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/YouTubeReborn-4.0.8-17.46.4.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 129661988,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YouTubeReborn.ipa",
-          "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 12-13-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "appdb",
       "bundleIdentifier": "it.ned.appdb-ios",
       "developerName": "n3d1117",
@@ -8285,77 +8391,6 @@
           "size": 184885684,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
           "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "Vendetta",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "vendetta-mod / zxcvbn's tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "207.0",
-          "date": "2023-12-05",
-          "size": 95214496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Vendetta-207.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "206.0",
-          "date": "2023-11-29",
-          "size": 98559117,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Vendetta-206.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "205.0",
-          "date": "2023-11-21",
-          "size": 97185610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/Vendetta-205.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "204.0",
-          "date": "2023-11-15",
-          "size": 94348799,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Vendetta-204.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "203.0",
-          "date": "2023-11-07",
-          "size": 99550048,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Vendetta-203.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "202.0",
-          "date": "2023-10-31",
-          "size": 101108112,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/Vendetta-202.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "201.0",
-          "date": "2023-10-24",
-          "size": 132097406,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Vendetta-201.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "200.0",
-          "date": "2023-10-23",
-          "size": 131644159,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/Vendetta-200.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "181.0",
-          "date": "2023-06-30",
-          "size": 93987800,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/Vendetta-181.0.ipa",
-          "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
