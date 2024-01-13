@@ -186,7 +186,7 @@ Everything you can currently find in this repo:
 | Google News | [Full app description here](https://apps.apple.com/us/app/google-news/id459182288). This IPA is tweaked to bypass most paywalls, etc | 5.88 | [AppDB](https://appdb.to/app/cydia/1900000843) | 12-08-2023 | ✅ |
 | Grammarly | **Removed from the repo: Tweak useless (simply removes the "upgrade" icon)**. | 4.0 | N/A | 12-15-2023 | ❌ |
 | HarpyReloaded | *Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best.* App that lets you block internet to other devices on the same network as yours | 1.0.1 | [CyPwn IPA Library](https://ipa.cypwn.xyz) | 10-17-2022 | ✅ |
-| Helium | Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. | 2.1 | [leminlimez](https://github.com/leminlimez/Helium) | 01-13-2024 | ✅ |
+| Helium | Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. | 2.2 | [leminlimez](https://github.com/leminlimez/Helium) | 01-13-2024 | ✅ |
 | HDO Play | Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles | 1.0.2 | N/A | 09-03-2022 | ⚠️ |
 | HD Flix | Yet another very nice movie streaming service available without ads. It doesn't ask for account registration and the UI is great! | 3.0 | [AppDB](https://appdb.to/app/cydia/1900001226) | 01-07-2024 | ✅ |
 | iFont | iFont for iOS 14.x. Personally decrypted for anyone who runs into the "Minimum iOS x required" banner in the App Store | 9.1.2 | N/A | 11-10-2022 | ⚠️ |
