@@ -4,6 +4,487 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BeRealBea",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png",
+      "versions": [
+        {
+          "version": "1.3.4-1.21.5",
+          "date": "2024-01-15",
+          "size": 40363657,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/BeRealBea-1.3.4-1.21.5.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.21.4",
+          "date": "2024-01-06",
+          "size": 40358425,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.21.2",
+          "date": "2023-12-29",
+          "size": 40267445,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.20.1",
+          "date": "2023-12-21",
+          "size": 40388621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.20.0",
+          "date": "2023-12-19",
+          "size": 40374650,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.19.1",
+          "date": "2023-12-14",
+          "size": 42051554,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.19.0",
+          "date": "2023-12-10",
+          "size": 42049413,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.18.1",
+          "date": "2023-12-05",
+          "size": 45416994,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.18.0",
+          "date": "2023-12-03",
+          "size": 43204143,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.17.2",
+          "date": "2023-11-29",
+          "size": 39128874,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.17.1",
+          "date": "2023-11-24",
+          "size": 39021872,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.15.0",
+          "date": "2023-10-16",
+          "size": 44753635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.14.0",
+          "date": "2023-10-05",
+          "size": 39714501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.13.0",
+          "date": "2023-09-27",
+          "size": 53570811,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.12.1",
+          "date": "2023-09-19",
+          "size": 38588292,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.12.0",
+          "date": "2023-09-18",
+          "size": 38585370,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.11.0",
+          "date": "2023-09-14",
+          "size": 40372995,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.10.1",
+          "date": "2023-09-12",
+          "size": 39284072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.10.0",
+          "date": "2023-08-28",
+          "size": 32893347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.9.1",
+          "date": "2023-08-20",
+          "size": 31921858,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.9.0",
+          "date": "2023-08-09",
+          "size": 31919714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3-1.7.1",
+          "date": "2023-07-16",
+          "size": 38098024,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.2.2-1.5",
+          "date": "2023-06-25",
+          "size": 41168244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.1-0.36.3",
+          "date": "2023-04-17",
+          "size": 25439241,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.0-0.36.2",
+          "date": "2023-04-15",
+          "size": 25156227,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+      "versions": [
+        {
+          "version": "7.6.6",
+          "date": "2024-01-15",
+          "size": 78682777,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.5",
+          "date": "2023-12-22",
+          "size": 38834254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.4",
+          "date": "2023-11-29",
+          "size": 36936550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.3",
+          "date": "2023-11-19",
+          "size": 45198980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.2",
+          "date": "2023-11-06",
+          "size": 45192576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.1",
+          "date": "2023-09-27",
+          "size": 43213714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6",
+          "date": "2023-09-06",
+          "size": 36357059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.9",
+          "date": "2023-08-24",
+          "size": 36292217,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.8",
+          "date": "2023-07-11",
+          "size": 41628224,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.7",
+          "date": "2023-06-29",
+          "size": 44492277,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.6",
+          "date": "2023-06-25",
+          "size": 42285212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.5",
+          "date": "2023-06-04",
+          "size": 40271379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.4",
+          "date": "2023-05-15",
+          "size": 40331154,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.2",
+          "date": "2023-04-30",
+          "size": 40517963,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.1",
+          "date": "2023-04-10",
+          "size": 40177347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5",
+          "date": "2023-03-17",
+          "size": 39321077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.4.10",
+          "date": "2023-03-11",
+          "size": 44545614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-15-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "developerName": "iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leomehlig.today.png",
+      "versions": [
+        {
+          "version": "3.3.1",
+          "date": "2024-01-15",
+          "size": 66861189,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/StructuredPro-3.3.1.ipa",
+          "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 01-15-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "YouTubeOLED",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "AppDB / Binnichtaktiv06",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.02.1",
+          "date": "2024-01-15",
+          "size": 121664954,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/YouTubeOLED-19.02.1.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.49.3",
+          "date": "2023-12-11",
+          "size": 124047536,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/YouTubeOLED-18.49.3.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.48.3",
+          "date": "2023-12-05",
+          "size": 123705871,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/YouTubeOLED-18.48.3.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.46.3",
+          "date": "2023-11-24",
+          "size": 130724274,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/YouTubeOLED-18.46.3.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.45.2",
+          "date": "2023-11-15",
+          "size": 126508941,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YouTubeOLED-18.45.2.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.44.3",
+          "date": "2023-11-08",
+          "size": 126254868,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/YouTubeOLED-18.44.3.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.43.4",
+          "date": "2023-10-31",
+          "size": 126125783,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/YouTubeOLED-18.43.4.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.41.5",
+          "date": "2023-10-25",
+          "size": 124825097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/YouTubeOLED-18.41.5.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.41.2",
+          "date": "2023-10-17",
+          "size": 126920150,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/YouTubeOLED-18.41.2.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.40.1",
+          "date": "2023-10-11",
+          "size": 102850242,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/YouTubeOLED-18.40.1.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.39.1",
+          "date": "2023-10-05",
+          "size": 115097893,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/YouTubeOLED-18.39.1.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.38.2",
+          "date": "2023-09-25",
+          "size": 114674975,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-25-2023/YouTubeOLED-18.38.2.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.35.4",
+          "date": "2023-09-08",
+          "size": 124610156,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/YouTubeOLED-18.35.4.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.34.5",
+          "date": "2023-09-05",
+          "size": 124333073,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/YouTubeOLED-18.34.5.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.33.3",
+          "date": "2023-08-31",
+          "size": 120858990,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/YouTubeOLED-18.33.3.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.33.2",
+          "date": "2023-08-25",
+          "size": 119437870,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/YouTubeOLED-18.33.2.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.32.2",
+          "date": "2023-08-19",
+          "size": 125026371,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/YouTubeOLED-18.32.2.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.30.6",
+          "date": "2023-08-01",
+          "size": 121891056,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/YouTubeOLED-18.30.6.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.29.1",
+          "date": "2023-07-26",
+          "size": 123943163,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/YouTubeOLED-18.29.1.ipa",
+          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 01-15-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "YouTubeRebornPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "arichorn",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "18.49.3-4.2.3-2",
+          "date": "2024-01-15",
+          "size": 123562795,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/YouTubeRebornPlus-18.49.3-4.2.3-2.ipa",
+          "localizedDescription": "YouTube Reborn but with even more features\nLast updated: 01-15-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft",
@@ -2727,133 +3208,6 @@
           "size": 108885324,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/uYouEnhanced-18.30.7.ipa",
           "localizedDescription": "Formerly known as uYouPlusExtra. This enhanced version of uYou+ not only incorporates its existing features but also integrates additional functionalities that were initially intended to be included in the original uYou+, but might have been declined during its initial development phase. Full features here.\nLast updated: 01-12-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "InfusePro",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "Suffuse-Team",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
-      "versions": [
-        {
-          "version": "7.6.6",
-          "date": "2024-01-11",
-          "size": 39072610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/InfusePro-7.6.6.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.5",
-          "date": "2023-12-22",
-          "size": 38834254,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.4",
-          "date": "2023-11-29",
-          "size": 36936550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.3",
-          "date": "2023-11-19",
-          "size": 45198980,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.2",
-          "date": "2023-11-06",
-          "size": 45192576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.1",
-          "date": "2023-09-27",
-          "size": 43213714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6",
-          "date": "2023-09-06",
-          "size": 36357059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.9",
-          "date": "2023-08-24",
-          "size": 36292217,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.8",
-          "date": "2023-07-11",
-          "size": 41628224,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.7",
-          "date": "2023-06-29",
-          "size": 44492277,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.6",
-          "date": "2023-06-25",
-          "size": 42285212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.5",
-          "date": "2023-06-04",
-          "size": 40271379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.4",
-          "date": "2023-05-15",
-          "size": 40331154,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.2",
-          "date": "2023-04-30",
-          "size": 40517963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.1",
-          "date": "2023-04-10",
-          "size": 40177347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5",
-          "date": "2023-03-17",
-          "size": 39321077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.4.10",
-          "date": "2023-03-11",
-          "size": 44545614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
-          "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -5712,182 +6066,6 @@
       ]
     },
     {
-      "name": "BeRealBea",
-      "bundleIdentifier": "AlexisBarreyat.BeReal",
-      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png",
-      "versions": [
-        {
-          "version": "1.3.3-1.21.4",
-          "date": "2024-01-06",
-          "size": 40358425,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.21.2",
-          "date": "2023-12-29",
-          "size": 40267445,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.20.1",
-          "date": "2023-12-21",
-          "size": 40388621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.20.0",
-          "date": "2023-12-19",
-          "size": 40374650,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.19.1",
-          "date": "2023-12-14",
-          "size": 42051554,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.19.0",
-          "date": "2023-12-10",
-          "size": 42049413,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.18.1",
-          "date": "2023-12-05",
-          "size": 45416994,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.18.0",
-          "date": "2023-12-03",
-          "size": 43204143,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.17.2",
-          "date": "2023-11-29",
-          "size": 39128874,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.17.1",
-          "date": "2023-11-24",
-          "size": 39021872,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.15.0",
-          "date": "2023-10-16",
-          "size": 44753635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.14.0",
-          "date": "2023-10-05",
-          "size": 39714501,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.13.0",
-          "date": "2023-09-27",
-          "size": 53570811,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.12.1",
-          "date": "2023-09-19",
-          "size": 38588292,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.12.0",
-          "date": "2023-09-18",
-          "size": 38585370,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.11.0",
-          "date": "2023-09-14",
-          "size": 40372995,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.10.1",
-          "date": "2023-09-12",
-          "size": 39284072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.10.0",
-          "date": "2023-08-28",
-          "size": 32893347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.9.1",
-          "date": "2023-08-20",
-          "size": 31921858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.9.0",
-          "date": "2023-08-09",
-          "size": 31919714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3-1.7.1",
-          "date": "2023-07-16",
-          "size": 38098024,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.2.2-1.5",
-          "date": "2023-06-25",
-          "size": 41168244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.1-0.36.3",
-          "date": "2023-04-17",
-          "size": 25439241,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.0-0.36.2",
-          "date": "2023-04-15",
-          "size": 25156227,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-06-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "SpringForTwitter",
       "bundleIdentifier": "com.jonny.spring",
       "developerName": "CyPwn IPA Library",
@@ -8168,140 +8346,6 @@
           "size": 77681163,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
           "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "YouTubeOLED",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "AppDB / Binnichtaktiv06",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.49.3",
-          "date": "2023-12-11",
-          "size": 124047536,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/YouTubeOLED-18.49.3.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.48.3",
-          "date": "2023-12-05",
-          "size": 123705871,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/YouTubeOLED-18.48.3.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.46.3",
-          "date": "2023-11-24",
-          "size": 130724274,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/YouTubeOLED-18.46.3.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.45.2",
-          "date": "2023-11-15",
-          "size": 126508941,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YouTubeOLED-18.45.2.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.44.3",
-          "date": "2023-11-08",
-          "size": 126254868,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/YouTubeOLED-18.44.3.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.43.4",
-          "date": "2023-10-31",
-          "size": 126125783,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/YouTubeOLED-18.43.4.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.41.5",
-          "date": "2023-10-25",
-          "size": 124825097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/YouTubeOLED-18.41.5.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.41.2",
-          "date": "2023-10-17",
-          "size": 126920150,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/YouTubeOLED-18.41.2.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.40.1",
-          "date": "2023-10-11",
-          "size": 102850242,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/YouTubeOLED-18.40.1.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.39.1",
-          "date": "2023-10-05",
-          "size": 115097893,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/YouTubeOLED-18.39.1.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.38.2",
-          "date": "2023-09-25",
-          "size": 114674975,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-25-2023/YouTubeOLED-18.38.2.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.35.4",
-          "date": "2023-09-08",
-          "size": 124610156,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/YouTubeOLED-18.35.4.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.34.5",
-          "date": "2023-09-05",
-          "size": 124333073,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/YouTubeOLED-18.34.5.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.33.3",
-          "date": "2023-08-31",
-          "size": 120858990,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/YouTubeOLED-18.33.3.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.33.2",
-          "date": "2023-08-25",
-          "size": 119437870,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/YouTubeOLED-18.33.2.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.32.2",
-          "date": "2023-08-19",
-          "size": 125026371,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/YouTubeOLED-18.32.2.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.30.6",
-          "date": "2023-08-01",
-          "size": 121891056,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/YouTubeOLED-18.30.6.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.29.1",
-          "date": "2023-07-26",
-          "size": 123943163,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/YouTubeOLED-18.29.1.ipa",
-          "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 12-11-2023\nStatus: \u2705"
         }
       ]
     },
