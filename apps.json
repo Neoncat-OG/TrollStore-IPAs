@@ -4,6 +4,409 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BearPro",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-01-19",
+          "size": 31070367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/BearPro-2.1.1.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.1",
+          "date": "2023-12-21",
+          "size": 26290969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.0.17",
+          "date": "2023-12-03",
+          "size": 26179550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.0.15",
+          "date": "2023-11-01",
+          "size": 31176993,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.0.14",
+          "date": "2023-10-01",
+          "size": 27851640,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.9.7",
+          "date": "2022-11-20",
+          "size": 18798823,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "447.0.2",
+          "date": "2024-01-19",
+          "size": 148992369,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "446.0",
+          "date": "2024-01-13",
+          "size": 149190964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "445.0",
+          "date": "2023-12-21",
+          "size": 150201298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "444.0",
+          "date": "2023-12-14",
+          "size": 148019677,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "443.0.2",
+          "date": "2023-12-06",
+          "size": 148641638,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "442.0",
+          "date": "2023-11-29",
+          "size": 148751080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "441.1",
+          "date": "2023-11-22",
+          "size": 151559278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "441.0",
+          "date": "2023-11-16",
+          "size": 151548308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "440.0",
+          "date": "2023-11-10",
+          "size": 145279761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "439.1",
+          "date": "2023-11-02",
+          "size": 144715433,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "438.2",
+          "date": "2023-10-26",
+          "size": 143948666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "437.2",
+          "date": "2023-10-20",
+          "size": 149712884,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-10-09",
+          "size": 148727038,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-09-28",
+          "size": 147521226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "432.1",
+          "date": "2023-09-19",
+          "size": 137319129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "430.0",
+          "date": "2023-08-31",
+          "size": 130980374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "429.2",
+          "date": "2023-08-25",
+          "size": 147437505,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "427.1",
+          "date": "2023-08-10",
+          "size": 131560635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "426.0",
+          "date": "2023-08-05",
+          "size": 140546097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "422.0",
+          "date": "2023-07-09",
+          "size": 148850803,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "419.0",
+          "date": "2023-06-25",
+          "size": 147584969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "418.0",
+          "date": "2023-06-25",
+          "size": 150521266,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "415.1",
+          "date": "2023-05-24",
+          "size": 128531017,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "413.0",
+          "date": "2023-04-30",
+          "size": 143985533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "411.0",
+          "date": "2023-04-23",
+          "size": 126730195,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "410.0",
+          "date": "2023-04-09",
+          "size": 146204031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "407.1",
+          "date": "2023-04-06",
+          "size": 126317673,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "407.0",
+          "date": "2023-03-23",
+          "size": 139434374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "406.0",
+          "date": "2023-03-16",
+          "size": 140122979,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "405.0",
+          "date": "2023-03-09",
+          "size": 142562954,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "404.0",
+          "date": "2023-02-26",
+          "size": 149662233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "403.0",
+          "date": "2023-02-22",
+          "size": 133721522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "401.1",
+          "date": "2023-02-12",
+          "size": 123861738,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "401.0",
+          "date": "2023-02-11",
+          "size": 126709146,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "400.0",
+          "date": "2023-02-06",
+          "size": 135002490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "399.0",
+          "date": "2023-01-22",
+          "size": 149355244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "398.0",
+          "date": "2023-01-18",
+          "size": 135094448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "397.0",
+          "date": "2023-01-13",
+          "size": 143152840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "396.0",
+          "date": "2022-12-10",
+          "size": 137241305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "395.0",
+          "date": "2022-12-08",
+          "size": 138856989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "394.0",
+          "date": "2022-11-27",
+          "size": 136327857,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "393.0",
+          "date": "2022-11-17",
+          "size": 135626187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "392.0",
+          "date": "2022-11-11",
+          "size": 136100527,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 143311099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "developerName": "c22dev",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2024-01-19",
+          "size": 6032621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/Geranium-1.1.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 01-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.4",
+          "date": "2024-01-17",
+          "size": 5945760,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/Geranium-1.0.4.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 01-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollMisaka",
+      "bundleIdentifier": "com.straight-tamago.trollmisaka",
+      "developerName": "straight-tamago / ramblings",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.trollmisaka.png",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2024-01-19",
+          "size": 913060,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/TrollMisaka-2.0.ipa",
+          "localizedDescription": "Much easier to use and a faster TrollStore installer on iOS 16+.\nLast updated: 01-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft",
@@ -1361,21 +1764,6 @@
           "size": 105691118,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/BHX-9.34.5-3.2.ipa",
           "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "Geranium",
-      "bundleIdentifier": "live.cclerc.geranium",
-      "developerName": "c22dev",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
-      "versions": [
-        {
-          "version": "1.0.4",
-          "date": "2024-01-17",
-          "size": 5945760,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/Geranium-1.0.4.ipa",
-          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 01-17-2024\nStatus: \u2705"
         }
       ]
     },
@@ -3906,315 +4294,6 @@
           "size": 36949562,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/VPNSatoshi-2.4.ipa",
           "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 01-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "FacebookWolf",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
-      "versions": [
-        {
-          "version": "446.0",
-          "date": "2024-01-13",
-          "size": 149190964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "445.0",
-          "date": "2023-12-21",
-          "size": 150201298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "444.0",
-          "date": "2023-12-14",
-          "size": 148019677,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "443.0.2",
-          "date": "2023-12-06",
-          "size": 148641638,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "442.0",
-          "date": "2023-11-29",
-          "size": 148751080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "441.1",
-          "date": "2023-11-22",
-          "size": 151559278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "441.0",
-          "date": "2023-11-16",
-          "size": 151548308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "440.0",
-          "date": "2023-11-10",
-          "size": 145279761,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "439.1",
-          "date": "2023-11-02",
-          "size": 144715433,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "438.2",
-          "date": "2023-10-26",
-          "size": 143948666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "437.2",
-          "date": "2023-10-20",
-          "size": 149712884,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-10-09",
-          "size": 148727038,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-09-28",
-          "size": 147521226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "432.1",
-          "date": "2023-09-19",
-          "size": 137319129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "430.0",
-          "date": "2023-08-31",
-          "size": 130980374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "429.2",
-          "date": "2023-08-25",
-          "size": 147437505,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "427.1",
-          "date": "2023-08-10",
-          "size": 131560635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "426.0",
-          "date": "2023-08-05",
-          "size": 140546097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "422.0",
-          "date": "2023-07-09",
-          "size": 148850803,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "419.0",
-          "date": "2023-06-25",
-          "size": 147584969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "418.0",
-          "date": "2023-06-25",
-          "size": 150521266,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "415.1",
-          "date": "2023-05-24",
-          "size": 128531017,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "413.0",
-          "date": "2023-04-30",
-          "size": 143985533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "411.0",
-          "date": "2023-04-23",
-          "size": 126730195,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "410.0",
-          "date": "2023-04-09",
-          "size": 146204031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "407.1",
-          "date": "2023-04-06",
-          "size": 126317673,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "407.0",
-          "date": "2023-03-23",
-          "size": 139434374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "406.0",
-          "date": "2023-03-16",
-          "size": 140122979,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "405.0",
-          "date": "2023-03-09",
-          "size": 142562954,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "404.0",
-          "date": "2023-02-26",
-          "size": 149662233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "403.0",
-          "date": "2023-02-22",
-          "size": 133721522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "401.1",
-          "date": "2023-02-12",
-          "size": 123861738,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "401.0",
-          "date": "2023-02-11",
-          "size": 126709146,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "400.0",
-          "date": "2023-02-06",
-          "size": 135002490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "399.0",
-          "date": "2023-01-22",
-          "size": 149355244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "398.0",
-          "date": "2023-01-18",
-          "size": 135094448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "397.0",
-          "date": "2023-01-13",
-          "size": 143152840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "396.0",
-          "date": "2022-12-10",
-          "size": 137241305,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "395.0",
-          "date": "2022-12-08",
-          "size": 138856989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "394.0",
-          "date": "2022-11-27",
-          "size": 136327857,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "393.0",
-          "date": "2022-11-17",
-          "size": 135626187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "392.0",
-          "date": "2022-11-11",
-          "size": 136100527,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 143311099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -6818,49 +6897,6 @@
           "size": 688532,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/DynamicCowTS.ipa",
           "localizedDescription": "Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0. Note: DO NOT USE ON iOS 15. This is only for iOS 16. If jailbroken on iOS 15 use Dynamic Penisula via Xina.\nLast updated: 12-22-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "BearPro",
-      "bundleIdentifier": "net.shinyfrog.bear-iOS",
-      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2023-12-21",
-          "size": 26290969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.0.17",
-          "date": "2023-12-03",
-          "size": 26179550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.0.15",
-          "date": "2023-11-01",
-          "size": 31176993,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.0.14",
-          "date": "2023-10-01",
-          "size": 27851640,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.7",
-          "date": "2022-11-20",
-          "size": 18798823,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 12-21-2023\nStatus: \u2705"
         }
       ]
     },
