@@ -4,6 +4,658 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "developerName": "osk3apps.com",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-01-20",
+          "size": 1502095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "447.1.2",
+          "date": "2024-01-20",
+          "size": 148992621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "447.0.2",
+          "date": "2024-01-19",
+          "size": 148992369,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "446.0",
+          "date": "2024-01-13",
+          "size": 149190964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "445.0",
+          "date": "2023-12-21",
+          "size": 150201298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "444.0",
+          "date": "2023-12-14",
+          "size": 148019677,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "443.0.2",
+          "date": "2023-12-06",
+          "size": 148641638,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "442.0",
+          "date": "2023-11-29",
+          "size": 148751080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "441.1",
+          "date": "2023-11-22",
+          "size": 151559278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "441.0",
+          "date": "2023-11-16",
+          "size": 151548308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "440.0",
+          "date": "2023-11-10",
+          "size": 145279761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "439.1",
+          "date": "2023-11-02",
+          "size": 144715433,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "438.2",
+          "date": "2023-10-26",
+          "size": 143948666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "437.2",
+          "date": "2023-10-20",
+          "size": 149712884,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-10-09",
+          "size": 148727038,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-09-28",
+          "size": 147521226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "432.1",
+          "date": "2023-09-19",
+          "size": 137319129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "430.0",
+          "date": "2023-08-31",
+          "size": 130980374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "429.2",
+          "date": "2023-08-25",
+          "size": 147437505,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "427.1",
+          "date": "2023-08-10",
+          "size": 131560635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "426.0",
+          "date": "2023-08-05",
+          "size": 140546097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "422.0",
+          "date": "2023-07-09",
+          "size": 148850803,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "419.0",
+          "date": "2023-06-25",
+          "size": 147584969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "418.0",
+          "date": "2023-06-25",
+          "size": 150521266,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "415.1",
+          "date": "2023-05-24",
+          "size": 128531017,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "413.0",
+          "date": "2023-04-30",
+          "size": 143985533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "411.0",
+          "date": "2023-04-23",
+          "size": 126730195,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "410.0",
+          "date": "2023-04-09",
+          "size": 146204031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "407.1",
+          "date": "2023-04-06",
+          "size": 126317673,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "407.0",
+          "date": "2023-03-23",
+          "size": 139434374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "406.0",
+          "date": "2023-03-16",
+          "size": 140122979,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "405.0",
+          "date": "2023-03-09",
+          "size": 142562954,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "404.0",
+          "date": "2023-02-26",
+          "size": 149662233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "403.0",
+          "date": "2023-02-22",
+          "size": 133721522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "401.1",
+          "date": "2023-02-12",
+          "size": 123861738,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "401.0",
+          "date": "2023-02-11",
+          "size": 126709146,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "400.0",
+          "date": "2023-02-06",
+          "size": 135002490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "399.0",
+          "date": "2023-01-22",
+          "size": 149355244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "398.0",
+          "date": "2023-01-18",
+          "size": 135094448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "397.0",
+          "date": "2023-01-13",
+          "size": 143152840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "396.0",
+          "date": "2022-12-10",
+          "size": 137241305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "395.0",
+          "date": "2022-12-08",
+          "size": 138856989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "394.0",
+          "date": "2022-11-27",
+          "size": 136327857,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "393.0",
+          "date": "2022-11-17",
+          "size": 135626187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "392.0",
+          "date": "2022-11-11",
+          "size": 136100527,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 143311099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "developerName": "LitRitt",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
+      "versions": [
+        {
+          "version": "1.8.5",
+          "date": "2024-01-20",
+          "size": 65555254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/Ignited-1.8.5.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.4",
+          "date": "2024-01-14",
+          "size": 73703482,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.3",
+          "date": "2024-01-11",
+          "size": 73937401,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2",
+          "date": "2023-12-24",
+          "size": 62168615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.1",
+          "date": "2023-12-12",
+          "size": 62108889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstaLRDBH",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Crack_Sa1 / rznkn",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "2.5-312.0.1",
+          "date": "2024-01-20",
+          "size": 143512305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/InstaLRDBH-2.5-312.0.1.ipa",
+          "localizedDescription": "Instagram, injected with LRD Cracked and BH. Note: Support will not be provided for this so please refrain from submitting any issues. Refer to this issue for more informations.\nLast updated: 01-20-2024\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "InstaLRDNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "312.0.1-1.1.8-2.5",
+          "date": "2024-01-20",
+          "size": 148319911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/InstaLRDNyx-312.0.1-1.1.8-2.5.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "Misaka",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
+      "versions": [
+        {
+          "version": "8.2.4",
+          "date": "2024-01-20",
+          "size": 30742697,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/Misaka-8.2.4.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.2.2",
+          "date": "2024-01-18",
+          "size": 30621589,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/Misaka-8.2.2.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.2.1",
+          "date": "2024-01-13",
+          "size": 30630317,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Misaka-8.2.1.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.2.0",
+          "date": "2024-01-12",
+          "size": 30621326,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/Misaka-8.2.0.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.1.2",
+          "date": "2024-01-09",
+          "size": 30409616,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/Misaka-8.1.2.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.1.1",
+          "date": "2024-01-06",
+          "size": 30383029,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/Misaka-8.1.1.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.0.9",
+          "date": "2024-01-05",
+          "size": 30384609,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2024/Misaka-8.0.9.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.0.8",
+          "date": "2024-01-04",
+          "size": 30382835,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2024/Misaka-8.0.8.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.0.6",
+          "date": "2024-01-03",
+          "size": 30406264,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Misaka-8.0.6.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.0.5",
+          "date": "2024-01-02",
+          "size": 30372022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-02-2024/Misaka-8.0.5.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.0.1",
+          "date": "2024-01-01",
+          "size": 30395661,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Misaka-8.0.1.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.1",
+          "date": "2023-12-28",
+          "size": 30199441,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Misaka-3.4.1.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.3.7",
+          "date": "2023-12-18",
+          "size": 30062344,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/Misaka-3.3.7.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.3.6",
+          "date": "2023-12-14",
+          "size": 28619835,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Misaka-3.3.6.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.3.5",
+          "date": "2023-12-13",
+          "size": 28563166,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Misaka-3.3.5.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.3.3",
+          "date": "2023-12-10",
+          "size": 24020194,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Misaka-3.3.3.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "AppDB / DPixel / IPA Fire",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png",
+      "versions": [
+        {
+          "version": "13.3",
+          "date": "2024-01-20",
+          "size": 36150824,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/MovieBoxPro-13.3.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "13.0",
+          "date": "2023-10-20",
+          "size": 40591369,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/MovieBoxPro-13.0.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "12.8",
+          "date": "2023-08-04",
+          "size": 55275503,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-04-2023/MovieBoxPro-12.8.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "12.6",
+          "date": "2023-07-25",
+          "size": 56056568,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/MovieBoxPro-12.6.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "12.5",
+          "date": "2023-05-24",
+          "size": 139758301,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/MovieBoxPro-12.5.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "12.4",
+          "date": "2023-05-11",
+          "size": 57385911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2023/MovieBoxPro-12.4.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "12.1",
+          "date": "2023-03-03",
+          "size": 55393466,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/MovieBoxPro-12.1.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "12.0",
+          "date": "2023-02-06",
+          "size": 137693260,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/MovieBoxPro-12.0.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "11.9",
+          "date": "2023-01-09",
+          "size": 138036751,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2023/MovieBoxPro-11.9.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "11.8",
+          "date": "2022-12-06",
+          "size": 137967748,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/MovieBoxPro-11.8.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "11.7",
+          "date": "2022-11-28",
+          "size": 137950825,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/MovieBoxPro-11.7.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "11.6",
+          "date": "2022-11-27",
+          "size": 150236241,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/MovieBoxPro-11.6.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "11.6",
+          "date": "2022-11-18",
+          "size": 150236241,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-17-2022/MovieBoxPro-11.6.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 61220788,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/MovieBoxPro.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "com.ps.TrollLEDs",
+      "developerName": "PoomSmart",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-01-20",
+          "size": 214605,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/TrollLEDs-1.1.0.ipa",
+          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "BearPro",
       "bundleIdentifier": "net.shinyfrog.bear-iOS",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
@@ -50,322 +702,6 @@
           "size": 18798823,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
           "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 01-19-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "FacebookWolf",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
-      "versions": [
-        {
-          "version": "447.0.2",
-          "date": "2024-01-19",
-          "size": 148992369,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "446.0",
-          "date": "2024-01-13",
-          "size": 149190964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "445.0",
-          "date": "2023-12-21",
-          "size": 150201298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "444.0",
-          "date": "2023-12-14",
-          "size": 148019677,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "443.0.2",
-          "date": "2023-12-06",
-          "size": 148641638,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "442.0",
-          "date": "2023-11-29",
-          "size": 148751080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "441.1",
-          "date": "2023-11-22",
-          "size": 151559278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "441.0",
-          "date": "2023-11-16",
-          "size": 151548308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "440.0",
-          "date": "2023-11-10",
-          "size": 145279761,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "439.1",
-          "date": "2023-11-02",
-          "size": 144715433,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "438.2",
-          "date": "2023-10-26",
-          "size": 143948666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "437.2",
-          "date": "2023-10-20",
-          "size": 149712884,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-10-09",
-          "size": 148727038,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-09-28",
-          "size": 147521226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "432.1",
-          "date": "2023-09-19",
-          "size": 137319129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "430.0",
-          "date": "2023-08-31",
-          "size": 130980374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "429.2",
-          "date": "2023-08-25",
-          "size": 147437505,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "427.1",
-          "date": "2023-08-10",
-          "size": 131560635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "426.0",
-          "date": "2023-08-05",
-          "size": 140546097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "422.0",
-          "date": "2023-07-09",
-          "size": 148850803,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "419.0",
-          "date": "2023-06-25",
-          "size": 147584969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "418.0",
-          "date": "2023-06-25",
-          "size": 150521266,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "415.1",
-          "date": "2023-05-24",
-          "size": 128531017,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "413.0",
-          "date": "2023-04-30",
-          "size": 143985533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "411.0",
-          "date": "2023-04-23",
-          "size": 126730195,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "410.0",
-          "date": "2023-04-09",
-          "size": 146204031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "407.1",
-          "date": "2023-04-06",
-          "size": 126317673,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "407.0",
-          "date": "2023-03-23",
-          "size": 139434374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "406.0",
-          "date": "2023-03-16",
-          "size": 140122979,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "405.0",
-          "date": "2023-03-09",
-          "size": 142562954,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "404.0",
-          "date": "2023-02-26",
-          "size": 149662233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "403.0",
-          "date": "2023-02-22",
-          "size": 133721522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "401.1",
-          "date": "2023-02-12",
-          "size": 123861738,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "401.0",
-          "date": "2023-02-11",
-          "size": 126709146,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "400.0",
-          "date": "2023-02-06",
-          "size": 135002490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "399.0",
-          "date": "2023-01-22",
-          "size": 149355244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "398.0",
-          "date": "2023-01-18",
-          "size": 135094448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "397.0",
-          "date": "2023-01-13",
-          "size": 143152840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "396.0",
-          "date": "2022-12-10",
-          "size": 137241305,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "395.0",
-          "date": "2022-12-08",
-          "size": 138856989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "394.0",
-          "date": "2022-11-27",
-          "size": 136327857,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "393.0",
-          "date": "2022-11-17",
-          "size": 135626187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "392.0",
-          "date": "2022-11-11",
-          "size": 136100527,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 143311099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-19-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -678,119 +1014,6 @@
           "size": 145454777,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/InstaRocketLRD-312.0.1-3.8.19-2.5.ipa",
           "localizedDescription": "Instagram, injected with Rocket Cracked and LRD Cracked. Note: Support will not be provided for this so please refrain from submitting any issues. Refer to this issue for more informations.\nLast updated: 01-18-2024\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
-      "name": "Misaka",
-      "bundleIdentifier": "com.straight-tamago.misakaRS",
-      "developerName": "Misaka",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
-      "versions": [
-        {
-          "version": "8.2.2",
-          "date": "2024-01-18",
-          "size": 30621589,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/Misaka-8.2.2.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.2.1",
-          "date": "2024-01-13",
-          "size": 30630317,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Misaka-8.2.1.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.2.0",
-          "date": "2024-01-12",
-          "size": 30621326,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/Misaka-8.2.0.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.1.2",
-          "date": "2024-01-09",
-          "size": 30409616,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/Misaka-8.1.2.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.1.1",
-          "date": "2024-01-06",
-          "size": 30383029,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/Misaka-8.1.1.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.0.9",
-          "date": "2024-01-05",
-          "size": 30384609,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2024/Misaka-8.0.9.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.0.8",
-          "date": "2024-01-04",
-          "size": 30382835,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2024/Misaka-8.0.8.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.0.6",
-          "date": "2024-01-03",
-          "size": 30406264,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Misaka-8.0.6.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.0.5",
-          "date": "2024-01-02",
-          "size": 30372022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-02-2024/Misaka-8.0.5.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.0.1",
-          "date": "2024-01-01",
-          "size": 30395661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Misaka-8.0.1.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.4.1",
-          "date": "2023-12-28",
-          "size": 30199441,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Misaka-3.4.1.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.3.7",
-          "date": "2023-12-18",
-          "size": 30062344,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/Misaka-3.3.7.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.3.6",
-          "date": "2023-12-14",
-          "size": 28619835,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Misaka-3.3.6.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.3.5",
-          "date": "2023-12-13",
-          "size": 28563166,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Misaka-3.3.5.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.3.3",
-          "date": "2023-12-10",
-          "size": 24020194,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Misaka-3.3.3.ipa",
-          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-18-2024\nStatus: \u2705"
         }
       ]
     },
@@ -3566,42 +3789,6 @@
           "size": 3827002,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Helium-2.0.1.ipa",
           "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Ignited",
-      "bundleIdentifier": "com.litritt.ignited",
-      "developerName": "LitRitt",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
-      "versions": [
-        {
-          "version": "1.8.4",
-          "date": "2024-01-14",
-          "size": 73703482,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.3",
-          "date": "2024-01-11",
-          "size": 73937401,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.2",
-          "date": "2023-12-24",
-          "size": 62168615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.1",
-          "date": "2023-12-12",
-          "size": 62108889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
         }
       ]
     },
@@ -9546,105 +9733,6 @@
           "size": 223153658,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRDCracked-2.5-30.3.0.ipa",
           "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "MovieBoxPro",
-      "bundleIdentifier": "com.xd.mbp31",
-      "developerName": "AppDB / DPixel / IPA Fire",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png",
-      "versions": [
-        {
-          "version": "13.0",
-          "date": "2023-10-20",
-          "size": 40591369,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/MovieBoxPro-13.0.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "12.8",
-          "date": "2023-08-04",
-          "size": 55275503,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-04-2023/MovieBoxPro-12.8.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "12.6",
-          "date": "2023-07-25",
-          "size": 56056568,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/MovieBoxPro-12.6.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "12.5",
-          "date": "2023-05-24",
-          "size": 139758301,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/MovieBoxPro-12.5.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "12.4",
-          "date": "2023-05-11",
-          "size": 57385911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2023/MovieBoxPro-12.4.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "12.1",
-          "date": "2023-03-03",
-          "size": 55393466,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/MovieBoxPro-12.1.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "12.0",
-          "date": "2023-02-06",
-          "size": 137693260,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/MovieBoxPro-12.0.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "11.9",
-          "date": "2023-01-09",
-          "size": 138036751,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2023/MovieBoxPro-11.9.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "11.8",
-          "date": "2022-12-06",
-          "size": 137967748,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/MovieBoxPro-11.8.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "11.7",
-          "date": "2022-11-28",
-          "size": 137950825,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/MovieBoxPro-11.7.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "11.6",
-          "date": "2022-11-27",
-          "size": 150236241,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/MovieBoxPro-11.6.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "11.6",
-          "date": "2022-11-18",
-          "size": 150236241,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-17-2022/MovieBoxPro-11.6.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 61220788,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/MovieBoxPro.ipa",
-          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 10-20-2023\nStatus: \u2705"
         }
       ]
     },
