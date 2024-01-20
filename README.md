@@ -87,7 +87,7 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 -  **Reposters Notice:** If you intend to download IPA files from sources other than this repository, it's important to note that there is an ongoing problem with Telegram channels, websites, and individuals stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository will list parties that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. Expect regular updates to this list, as it is subject to change.
 
-   ### Known reposters: *(01-14-2024)*
+   ### Known reposters: *(01-20-2024)*
    
     | Reposter* | Original Tweak/Maintainer |
     |:---------|---------------------------|
@@ -100,6 +100,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [Panda Helper](https://pandahelp.vip/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) |
     | [AppValley VIP](https://signulous.app-valley.vip/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) |
     | [DVC iPA](https://t.me/dvcipaios) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [HertzSign iPA Library](https://t.me/HertzSign) |
+    | [ipa.tweakdoor](https://ipa.tweakdoor.com/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) |
     | [WuXu1](https://github.com/WuXu1/WuXu1.github.io/)→ [AppDB](https://appdb.to/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [Haidar_Phantom](https://iosgods.com/topic/171723-ytkillerplus_v18229_2214-cracked/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
     | [Da StashSpot 2.0](https://t.me/DaStashSpot) **(UNSAFE)**| [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) / [ipalibrary.me](https://ipalibrary.me) / [DPixel](https://t.me/dpixel) / [iOSGods!](https://iosgods.com/) |
     | [Тик ток мод на айфон](https://t.me/vvveco) / [Makarr iOS TikTok mod на iPhone](https://t.me/MakarrIOS)| [iStorePlus تحديثات](https://t.me/iStoreplus) / [LazyShop](https://lazyshop.app/) / [DzMoha 𝕏](https://twitter.com/contact_nadhir) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) |
