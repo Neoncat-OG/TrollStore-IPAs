@@ -4,6 +4,149 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ApolloICA",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11-1.0.10",
+      "versionDate": "2024-01-23",
+      "size": 108157865,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
+    },
+    {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "version": "1.1.0",
+      "versionDate": "2024-01-23",
+      "size": 1436308,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/CarPlex-1.1.0.ipa",
+      "developerName": "osk3apps.com",
+      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png"
+    },
+    {
+      "name": "EhPanda",
+      "bundleIdentifier": "zeng.EhPanda",
+      "version": "2.7.4",
+      "versionDate": "2024-01-23",
+      "size": 6685295,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/EhPanda-2.7.4.ipa",
+      "developerName": "EhPanda-Team",
+      "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/zeng.EhPanda.png"
+    },
+    {
+      "name": "InstagramLRDCracked",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "2.5-314.0.6",
+      "versionDate": "2024-01-23",
+      "size": 123773442,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramLRDCracked-2.5-314.0.6.ipa",
+      "developerName": "riad",
+      "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "315.0.2-1.2.0b",
+      "versionDate": "2024-01-23",
+      "size": 145702159,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramNyx-315.0.2-1.2.0b.ipa",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "InstagramRocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "315.0.2-3.8.19",
+      "versionDate": "2024-01-23",
+      "size": 140983805,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramRocket-315.0.2-3.8.19.ipa",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED)",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "iPoGo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "version": "3.2.3",
+      "versionDate": "2024-01-23",
+      "size": 127510651,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
+      "developerName": "https://ipogo.app",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+    },
+    {
+      "name": "SmuleVIP",
+      "bundleIdentifier": "com.smule.sing",
+      "version": "12.2.3",
+      "versionDate": "2024-01-23",
+      "size": 63283283,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/SmuleVIP-12.2.3.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.smule.sing.png"
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "version": "1.2.34",
+      "versionDate": "2024-01-23",
+      "size": 36489010,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
+      "developerName": "StreamerApp",
+      "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
+    },
+    {
+      "name": "TikTokLRDCracked",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "3.4-32.9.1",
+      "versionDate": "2024-01-23",
+      "size": 193125430,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TikTokLRDCracked-3.4-32.9.1.ipa",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "TrollCuts",
+      "bundleIdentifier": "com.udevs.TrollCuts",
+      "version": "1.1",
+      "versionDate": "2024-01-23",
+      "size": 529664,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TrollCuts-1.1.ipa",
+      "developerName": "udevsharold",
+      "localizedDescription": "Shortcuts extensions for iOS 16.0+\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png"
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "com.ps.TrollLEDs",
+      "version": "1.5.0",
+      "versionDate": "2024-01-23",
+      "size": 50586,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TrollLEDs-1.5.0.ipa",
+      "developerName": "PoomSmart",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
+    },
+    {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.twitch",
+      "version": "17.9-0.1.0",
+      "versionDate": "2024-01-23",
+      "size": 79663719,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TwitchPlus-17.9-0.1.0.ipa",
+      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "version": "1.3.4-1.22.0",
@@ -22,7 +165,7 @@
       "size": 1435572,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
       "developerName": "osk3apps.com",
-      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-22-2024\nStatus: \u2705",
+      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png"
     },
     {
@@ -33,7 +176,7 @@
       "size": 49628,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollLEDs-1.4.0.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-22-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -143,7 +286,7 @@
       "size": 76865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/TrollLEDs-1.2.1.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-22-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -165,7 +308,7 @@
       "size": 1502095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
       "developerName": "osk3apps.com",
-      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-22-2024\nStatus: \u2705",
+      "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png"
     },
     {
@@ -242,7 +385,7 @@
       "size": 214605,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/TrollLEDs-1.1.0.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-22-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -429,7 +572,7 @@
       "size": 141918006,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -440,7 +583,7 @@
       "size": 140209756,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -484,7 +627,7 @@
       "size": 79560715,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/TwitchPlus-17.8-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -517,7 +660,7 @@
       "size": 147214504,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -648,8 +791,8 @@
       "versionDate": "2024-01-14",
       "size": 149060379,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/InstagramLRDCracked-2.5-312.0.1.ipa",
-      "developerName": "Crack_Sa1",
-      "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-14-2024\nStatus: \u26a0\ufe0f",
+      "developerName": "riad",
+      "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -759,7 +902,7 @@
       "size": 147145429,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -770,7 +913,7 @@
       "size": 142483795,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -792,7 +935,7 @@
       "size": 79202479,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/TwitchPlus-17.7.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1133,7 +1276,7 @@
       "size": 79473559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TwitchPlus-17.7-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1232,7 +1375,7 @@
       "size": 87166749,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -1419,7 +1562,7 @@
       "size": 144606204,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -1452,7 +1595,7 @@
       "size": 35874964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-03-2024\nStatus: \u2705",
+      "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -1463,7 +1606,7 @@
       "size": 83087847,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/TwitchPlus-17.6-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1617,7 +1760,7 @@
       "size": 82801964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1727,7 +1870,7 @@
       "size": 145628785,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -2057,7 +2200,7 @@
       "size": 143349474,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -2178,7 +2321,7 @@
       "size": 128549352,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -2420,7 +2563,7 @@
       "size": 87096056,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -2453,7 +2596,7 @@
       "size": 27651126,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-03-2024\nStatus: \u2705",
+      "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -2530,7 +2673,7 @@
       "size": 128405035,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -2739,7 +2882,7 @@
       "size": 142283496,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -2882,7 +3025,7 @@
       "size": 82801296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -2937,7 +3080,7 @@
       "size": 139562066,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -3366,7 +3509,7 @@
       "size": 105344037,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -3454,7 +3597,7 @@
       "size": 133602409,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -3498,7 +3641,7 @@
       "size": 87165733,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -3542,7 +3685,7 @@
       "size": 133971258,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -3586,7 +3729,7 @@
       "size": 105305867,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -3641,7 +3784,7 @@
       "size": 104676718,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -3982,7 +4125,7 @@
       "size": 127955571,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -4026,7 +4169,7 @@
       "size": 101199079,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4059,7 +4202,7 @@
       "size": 127974496,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -4543,7 +4686,7 @@
       "size": 129188645,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -4960,8 +5103,8 @@
       "versionDate": "2023-11-02",
       "size": 239968530,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/TikTokLRDCracked-2.5-31.9.0.ipa",
-      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7",
-      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -5104,7 +5247,7 @@
       "size": 129089719,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -5136,8 +5279,8 @@
       "versionDate": "2023-10-27",
       "size": 242736601,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-27-2023/TikTokLRDCracked-2.5-31.8.0.ipa",
-      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7",
-      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -5335,7 +5478,7 @@
       "size": 63055501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -5599,7 +5742,7 @@
       "size": 127860610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -6126,8 +6269,8 @@
       "versionDate": "2023-10-01",
       "size": 234888233,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRDCracked-2.5-31.3.0.ipa",
-      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7",
-      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -6380,7 +6523,7 @@
       "size": 73502584,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -6457,7 +6600,7 @@
       "size": 127591654,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -6710,7 +6853,7 @@
       "size": 73398412,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -6908,7 +7051,7 @@
       "size": 71678888,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7116,8 +7259,8 @@
       "versionDate": "2023-09-07",
       "size": 244002134,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2023/TikTokLRDCracked-2.5-31.0.2.ipa",
-      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7",
-      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -7150,7 +7293,7 @@
       "size": 126239276,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -7205,7 +7348,7 @@
       "size": 53831136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7425,7 +7568,7 @@
       "size": 53708726,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7524,7 +7667,7 @@
       "size": 53709186,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7612,7 +7755,7 @@
       "size": 53656336,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7766,7 +7909,7 @@
       "size": 53395273,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8184,7 +8327,7 @@
       "size": 53192728,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8426,7 +8569,7 @@
       "size": 64346228,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8734,7 +8877,7 @@
       "size": 126194522,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -8898,8 +9041,8 @@
       "versionDate": "2023-07-25",
       "size": 223153658,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRDCracked-2.5-30.3.0.ipa",
-      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7",
-      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -9009,7 +9152,7 @@
       "size": 62426621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9361,7 +9504,7 @@
       "size": 78060639,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9680,7 +9823,7 @@
       "size": 58339050,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9823,7 +9966,7 @@
       "size": 123882886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -10010,7 +10153,7 @@
       "size": 123750627,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -10087,7 +10230,7 @@
       "size": 56367481,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10186,7 +10329,7 @@
       "size": 122938601,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -10417,7 +10560,7 @@
       "size": 122907896,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -10461,7 +10604,7 @@
       "size": 61746901,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11110,7 +11253,7 @@
       "size": 122882233,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -11253,7 +11396,7 @@
       "size": 80384886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11561,7 +11704,7 @@
       "size": 71872886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11693,7 +11836,7 @@
       "size": 72742095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11726,7 +11869,7 @@
       "size": 121718227,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -12023,7 +12166,7 @@
       "size": 123182848,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -12210,7 +12353,7 @@
       "size": 72562212,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12331,7 +12474,7 @@
       "size": 123377179,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -12573,7 +12716,7 @@
       "size": 75478804,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12628,7 +12771,7 @@
       "size": 123377179,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -12793,7 +12936,7 @@
       "size": 118904543,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -13354,7 +13497,7 @@
       "size": 122913076,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -13541,7 +13684,7 @@
       "size": 123001961,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -14465,7 +14608,7 @@
       "size": 119064262,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -14938,7 +15081,7 @@
       "size": 2696049,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/EhPanda-1.0.2.ipa",
       "developerName": "EhPanda-Team",
-      "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 12-23-2022\nStatus: \u274c",
+      "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/zeng.EhPanda.png"
     },
     {
@@ -15081,7 +15224,7 @@
       "size": 74590187,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -15169,7 +15312,7 @@
       "size": 119086766,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -15455,7 +15598,7 @@
       "size": 208544377,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -15477,7 +15620,7 @@
       "size": 118512858,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -15642,7 +15785,7 @@
       "size": 72655342,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -15708,7 +15851,7 @@
       "size": 118590622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -16016,7 +16159,7 @@
       "size": 72586953,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16181,7 +16324,7 @@
       "size": 72587099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16335,7 +16478,7 @@
       "size": 115862609,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -16654,7 +16797,7 @@
       "size": 114949354,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {

@@ -4,6 +4,852 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ApolloICA",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
+      "versions": [
+        {
+          "version": "1.15.11-1.0.10",
+          "date": "2024-01-23",
+          "size": 108157865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.9",
+          "date": "2024-01-07",
+          "size": 87166749,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.8",
+          "date": "2023-12-18",
+          "size": 87096056,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754"
+        },
+        {
+          "version": "1.15.11-1.0.5",
+          "date": "2023-12-03",
+          "size": 87165733,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
+          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754"
+        }
+      ]
+    },
+    {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "developerName": "osk3apps.com",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-01-23",
+          "size": 1436308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/CarPlex-1.1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-01-22",
+          "size": 1435572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2024-01-20",
+          "size": 1502095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "EhPanda",
+      "bundleIdentifier": "zeng.EhPanda",
+      "developerName": "EhPanda-Team",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/zeng.EhPanda.png",
+      "versions": [
+        {
+          "version": "2.7.4",
+          "date": "2024-01-23",
+          "size": 6685295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/EhPanda-2.7.4.ipa",
+          "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2022-12-24",
+          "size": 2696049,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/EhPanda-1.0.2.ipa",
+          "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramLRDCracked",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "riad",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "2.5-314.0.6",
+          "date": "2024-01-23",
+          "size": 123773442,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramLRDCracked-2.5-314.0.6.ipa",
+          "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-312.0.1",
+          "date": "2024-01-14",
+          "size": 149060379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/InstagramLRDCracked-2.5-312.0.1.ipa",
+          "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "315.0.2-1.2.0b",
+          "date": "2024-01-23",
+          "size": 145702159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramNyx-315.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "314.0.6-1.1.8",
+          "date": "2024-01-17",
+          "size": 141918006,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.2.0b",
+          "date": "2024-01-16",
+          "size": 147214504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.1.8",
+          "date": "2024-01-13",
+          "size": 147145429,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8b2",
+          "date": "2024-01-03",
+          "size": 144606204,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8",
+          "date": "2023-12-28",
+          "size": 145628785,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.6",
+          "date": "2023-12-25",
+          "size": 143349474,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "311.0.2-1.1.6",
+          "date": "2023-12-12",
+          "size": 142283496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.6",
+          "date": "2023-12-11",
+          "size": 139562066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.4",
+          "date": "2023-12-04",
+          "size": 133602409,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-1.1.4",
+          "date": "2023-12-03",
+          "size": 133971258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramRocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED)",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "315.0.2-3.8.19",
+          "date": "2024-01-23",
+          "size": 140983805,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramRocket-315.0.2-3.8.19.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "314.0.6-3.8.19",
+          "date": "2024-01-17",
+          "size": 140209756,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-3.8.19",
+          "date": "2024-01-13",
+          "size": 142483795,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "iPoGo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "https://ipogo.app",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+      "versions": [
+        {
+          "version": "3.2.3",
+          "date": "2024-01-23",
+          "size": 127510651,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.2",
+          "date": "2023-12-21",
+          "size": 128549352,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.1",
+          "date": "2023-12-15",
+          "size": 128405035,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.0",
+          "date": "2023-11-28",
+          "size": 127955571,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.9",
+          "date": "2023-11-24",
+          "size": 127974496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.8",
+          "date": "2023-11-12",
+          "size": 129188645,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.7",
+          "date": "2023-10-29",
+          "size": 129089719,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.5",
+          "date": "2023-10-17",
+          "size": 127860610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.1",
+          "date": "2023-09-23",
+          "size": 127591654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0.9",
+          "date": "2023-09-06",
+          "size": 126239276,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0.1",
+          "date": "2023-07-25",
+          "size": 126194522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.9.3",
+          "date": "2023-06-04",
+          "size": 123882886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.9.2",
+          "date": "2023-05-24",
+          "size": 123750627,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.9.0",
+          "date": "2023-05-17",
+          "size": 122938601,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.9",
+          "date": "2023-05-06",
+          "size": 122907896,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.8",
+          "date": "2023-04-16",
+          "size": 122882233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.6",
+          "date": "2023-03-21",
+          "size": 121718227,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.5",
+          "date": "2023-03-12",
+          "size": 123182848,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.4",
+          "date": "2023-03-03",
+          "size": 123377179,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.4",
+          "date": "2023-02-25",
+          "size": 123377179,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.3",
+          "date": "2023-02-18",
+          "size": 118904543,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.2",
+          "date": "2023-02-05",
+          "size": 122913076,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.1",
+          "date": "2023-01-29",
+          "size": 123001961,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.0",
+          "date": "2023-01-07",
+          "size": 119064262,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.9",
+          "date": "2022-12-15",
+          "size": 119086766,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.8",
+          "date": "2022-12-05",
+          "size": 118512858,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.7",
+          "date": "2022-11-29",
+          "size": 118590622,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.5",
+          "date": "2022-11-12",
+          "size": 115862609,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 114949354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "SmuleVIP",
+      "bundleIdentifier": "com.smule.sing",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.smule.sing.png",
+      "versions": [
+        {
+          "version": "12.2.3",
+          "date": "2024-01-23",
+          "size": 63283283,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/SmuleVIP-12.2.3.ipa",
+          "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png",
+      "versions": [
+        {
+          "version": "1.2.34",
+          "date": "2024-01-23",
+          "size": 36489010,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
+          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.33",
+          "date": "2024-01-03",
+          "size": 35874964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
+          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.32",
+          "date": "2023-12-17",
+          "size": 27651126,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
+          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TikTokLRDCracked",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7 / riad",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "3.4-32.9.1",
+          "date": "2024-01-23",
+          "size": 193125430,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TikTokLRDCracked-3.4-32.9.1.ipa",
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-31.9.0",
+          "date": "2023-11-02",
+          "size": 239968530,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/TikTokLRDCracked-2.5-31.9.0.ipa",
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-31.8.0",
+          "date": "2023-10-27",
+          "size": 242736601,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-27-2023/TikTokLRDCracked-2.5-31.8.0.ipa",
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-31.3.0",
+          "date": "2023-10-01",
+          "size": 234888233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRDCracked-2.5-31.3.0.ipa",
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-31.0.2",
+          "date": "2023-09-07",
+          "size": 244002134,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2023/TikTokLRDCracked-2.5-31.0.2.ipa",
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-30.3.0",
+          "date": "2023-07-25",
+          "size": 223153658,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRDCracked-2.5-30.3.0.ipa",
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 3.4 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollCuts",
+      "bundleIdentifier": "com.udevs.TrollCuts",
+      "developerName": "udevsharold",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2024-01-23",
+          "size": 529664,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TrollCuts-1.1.ipa",
+          "localizedDescription": "Shortcuts extensions for iOS 16.0+\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "com.ps.TrollLEDs",
+      "developerName": "PoomSmart",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
+      "versions": [
+        {
+          "version": "1.5.0",
+          "date": "2024-01-23",
+          "size": 50586,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TrollLEDs-1.5.0.ipa",
+          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.0",
+          "date": "2024-01-22",
+          "size": 49628,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollLEDs-1.4.0.ipa",
+          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.1",
+          "date": "2024-01-21",
+          "size": 76865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/TrollLEDs-1.2.1.ipa",
+          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-01-20",
+          "size": 214605,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/TrollLEDs-1.1.0.ipa",
+          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+      "versions": [
+        {
+          "version": "17.9-0.1.0",
+          "date": "2024-01-23",
+          "size": 79663719,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TwitchPlus-17.9-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.8-0.1.0",
+          "date": "2024-01-17",
+          "size": 79560715,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/TwitchPlus-17.8-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.7.1-0.1.0",
+          "date": "2024-01-13",
+          "size": 79202479,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/TwitchPlus-17.7.1-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.7-0.1.0",
+          "date": "2024-01-09",
+          "size": 79473559,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TwitchPlus-17.7-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.6-0.1.0",
+          "date": "2024-01-03",
+          "size": 83087847,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/TwitchPlus-17.6-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.5.1-0.1.0",
+          "date": "2023-12-30",
+          "size": 82801964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.5-0.1.0",
+          "date": "2023-12-12",
+          "size": 82801296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.4.1-0.1.0",
+          "date": "2023-12-05",
+          "size": 105344037,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.3.2-0.1.0",
+          "date": "2023-12-03",
+          "size": 105305867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.3-0.1.0",
+          "date": "2023-12-02",
+          "size": 104676718,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "17.3",
+          "date": "2023-11-28",
+          "size": 101199079,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.7.2",
+          "date": "2023-10-23",
+          "size": 63055501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.4",
+          "date": "2023-09-27",
+          "size": 73502584,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.3",
+          "date": "2023-09-19",
+          "size": 73398412,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.2",
+          "date": "2023-09-14",
+          "size": 71678888,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.1",
+          "date": "2023-09-06",
+          "size": 53831136,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.0.2",
+          "date": "2023-08-31",
+          "size": 53708726,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "16.0",
+          "date": "2023-08-29",
+          "size": 53709186,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.9.2",
+          "date": "2023-08-25",
+          "size": 53656336,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.9",
+          "date": "2023-08-22",
+          "size": 53395273,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.8",
+          "date": "2023-08-09",
+          "size": 53192728,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.7",
+          "date": "2023-08-03",
+          "size": 64346228,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.6",
+          "date": "2023-07-16",
+          "size": 62426621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.5",
+          "date": "2023-06-29",
+          "size": 78060639,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.4",
+          "date": "2023-06-25",
+          "size": 58339050,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.2.1",
+          "date": "2023-05-24",
+          "size": 56367481,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "15.1",
+          "date": "2023-05-04",
+          "size": 61746901,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.9.5",
+          "date": "2023-04-13",
+          "size": 80384886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.8.1",
+          "date": "2023-03-27",
+          "size": 71872886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.8",
+          "date": "2023-03-23",
+          "size": 72742095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.7",
+          "date": "2023-03-07",
+          "size": 72562212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.6",
+          "date": "2023-02-26",
+          "size": 75478804,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.3.1",
+          "date": "2022-12-21",
+          "size": 74590187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.3",
+          "date": "2022-12-06",
+          "size": 208544377,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.2",
+          "date": "2022-12-02",
+          "size": 72655342,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.2",
+          "date": "2022-11-20",
+          "size": 72586953,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "14.2",
+          "date": "2022-11-16",
+          "size": 72587099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
@@ -190,57 +1036,6 @@
           "size": 25156227,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
           "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "CarPlex",
-      "bundleIdentifier": "com.osk3apps.CarPlex",
-      "developerName": "osk3apps.com",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
-      "versions": [
-        {
-          "version": "1.0.1",
-          "date": "2024-01-22",
-          "size": 1435572,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2024-01-20",
-          "size": 1502095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-22-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TrollLEDs",
-      "bundleIdentifier": "com.ps.TrollLEDs",
-      "developerName": "PoomSmart",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
-      "versions": [
-        {
-          "version": "1.4.0",
-          "date": "2024-01-22",
-          "size": 49628,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollLEDs-1.4.0.ipa",
-          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.1",
-          "date": "2024-01-21",
-          "size": 76865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/TrollLEDs-1.2.1.ipa",
-          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.0",
-          "date": "2024-01-20",
-          "size": 214605,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/TrollLEDs-1.1.0.ipa",
-          "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-22-2024\nStatus: \u2705"
         }
       ]
     },
@@ -2981,106 +3776,6 @@
       ]
     },
     {
-      "name": "InstagramNyx",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "314.0.6-1.1.8",
-          "date": "2024-01-17",
-          "size": 141918006,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-1.2.0b",
-          "date": "2024-01-16",
-          "size": 147214504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-1.1.8",
-          "date": "2024-01-13",
-          "size": 147145429,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8b2",
-          "date": "2024-01-03",
-          "size": 144606204,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8",
-          "date": "2023-12-28",
-          "size": 145628785,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.6",
-          "date": "2023-12-25",
-          "size": 143349474,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "311.0.2-1.1.6",
-          "date": "2023-12-12",
-          "size": 142283496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.6",
-          "date": "2023-12-11",
-          "size": 139562066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.4",
-          "date": "2023-12-04",
-          "size": 133602409,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-1.1.4",
-          "date": "2023-12-03",
-          "size": 133971258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-17-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstagramRocket",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "314.0.6-3.8.19",
-          "date": "2024-01-17",
-          "size": 140209756,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-3.8.19",
-          "date": "2024-01-13",
-          "size": 142483795,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-17-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "InstaNyxBH",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -3521,266 +4216,6 @@
           "size": 57652265,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa",
           "localizedDescription": "App description here. Quizlet Plus injected. Provided for free thanks to AIpaLux, tweak originally available through iApps paid repo. Note: please be aware that occasional random crashes can occur while using the app.\nLast updated: 01-17-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "TwitchPlus",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
-      "versions": [
-        {
-          "version": "17.8-0.1.0",
-          "date": "2024-01-17",
-          "size": 79560715,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/TwitchPlus-17.8-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.7.1-0.1.0",
-          "date": "2024-01-13",
-          "size": 79202479,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/TwitchPlus-17.7.1-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.7-0.1.0",
-          "date": "2024-01-09",
-          "size": 79473559,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TwitchPlus-17.7-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.6-0.1.0",
-          "date": "2024-01-03",
-          "size": 83087847,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/TwitchPlus-17.6-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.5.1-0.1.0",
-          "date": "2023-12-30",
-          "size": 82801964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.5-0.1.0",
-          "date": "2023-12-12",
-          "size": 82801296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.4.1-0.1.0",
-          "date": "2023-12-05",
-          "size": 105344037,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.3.2-0.1.0",
-          "date": "2023-12-03",
-          "size": 105305867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.3-0.1.0",
-          "date": "2023-12-02",
-          "size": 104676718,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "17.3",
-          "date": "2023-11-28",
-          "size": 101199079,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.7.2",
-          "date": "2023-10-23",
-          "size": 63055501,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.4",
-          "date": "2023-09-27",
-          "size": 73502584,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.3",
-          "date": "2023-09-19",
-          "size": 73398412,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.2",
-          "date": "2023-09-14",
-          "size": 71678888,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.1",
-          "date": "2023-09-06",
-          "size": 53831136,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.0.2",
-          "date": "2023-08-31",
-          "size": 53708726,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "16.0",
-          "date": "2023-08-29",
-          "size": 53709186,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.9.2",
-          "date": "2023-08-25",
-          "size": 53656336,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.9",
-          "date": "2023-08-22",
-          "size": 53395273,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.8",
-          "date": "2023-08-09",
-          "size": 53192728,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.7",
-          "date": "2023-08-03",
-          "size": 64346228,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.6",
-          "date": "2023-07-16",
-          "size": 62426621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.5",
-          "date": "2023-06-29",
-          "size": 78060639,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.4",
-          "date": "2023-06-25",
-          "size": 58339050,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.2.1",
-          "date": "2023-05-24",
-          "size": 56367481,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "15.1",
-          "date": "2023-05-04",
-          "size": 61746901,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.9.5",
-          "date": "2023-04-13",
-          "size": 80384886,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.8.1",
-          "date": "2023-03-27",
-          "size": 71872886,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.8",
-          "date": "2023-03-23",
-          "size": 72742095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.7",
-          "date": "2023-03-07",
-          "size": 72562212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.6",
-          "date": "2023-02-26",
-          "size": 75478804,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.3.1",
-          "date": "2022-12-21",
-          "size": 74590187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.3",
-          "date": "2022-12-06",
-          "size": 208544377,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.2",
-          "date": "2022-12-02",
-          "size": 72655342,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.2",
-          "date": "2022-11-20",
-          "size": 72586953,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "14.2",
-          "date": "2022-11-16",
-          "size": 72587099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
-          "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -4581,21 +5016,6 @@
           "size": 3827002,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Helium-2.0.1.ipa",
           "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstagramLRDCracked",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Crack_Sa1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "2.5-312.0.1",
-          "date": "2024-01-14",
-          "size": 149060379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/InstagramLRDCracked-2.5-312.0.1.ipa",
-          "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-14-2024\nStatus: \u26a0\ufe0f"
         }
       ]
     },
@@ -6828,35 +7248,6 @@
       ]
     },
     {
-      "name": "ApolloICA",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
-      "versions": [
-        {
-          "version": "1.15.11-1.0.9",
-          "date": "2024-01-07",
-          "size": 87166749,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-07-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.8",
-          "date": "2023-12-18",
-          "size": 87096056,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-07-2024\nStatus: \u2705 \u2754"
-        },
-        {
-          "version": "1.15.11-1.0.5",
-          "date": "2023-12-03",
-          "size": 87165733,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
-          "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-07-2024\nStatus: \u2705 \u2754"
-        }
-      ]
-    },
-    {
       "name": "CopylogCracker",
       "bundleIdentifier": "com.retr0dev.cracker",
       "developerName": "retr0devops",
@@ -6999,28 +7390,6 @@
           "size": 14100858,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Filza-3.9.8.ipa",
           "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TrollStore, you might have to go in Filza and delete all the app's bundle ID folders and related files yourself. I fixed this problem myself and managed to get the app from the AppStore again. Make sure you're careful and delete the right stuff!! (If yet, you can't install from the App Store it's likely that there are STILL old files/folders present!!)\nLast updated: 01-03-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "Streamer",
-      "bundleIdentifier": "com.streamer.ios",
-      "developerName": "StreamerApp",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png",
-      "versions": [
-        {
-          "version": "1.2.33",
-          "date": "2024-01-03",
-          "size": 35874964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
-          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.32",
-          "date": "2023-12-17",
-          "size": 27651126,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
-          "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 01-03-2024\nStatus: \u2705"
         }
       ]
     },
@@ -7693,210 +8062,6 @@
           "size": 103540796,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramLRD-250.0.ipa",
           "localizedDescription": "Not cracked. If you've used TikTokLRD, imagine that but for Instagram. Features include media saving/sharing/previewing (stories included), show follow status, disable typing status, view DMs anonymously, disable ads, FaceID for account switching, etc.\nLast updated: 12-21-2023\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
-      "name": "iPoGo",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "https://ipogo.app",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
-      "versions": [
-        {
-          "version": "3.2.2",
-          "date": "2023-12-21",
-          "size": 128549352,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.1",
-          "date": "2023-12-15",
-          "size": 128405035,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.0",
-          "date": "2023-11-28",
-          "size": 127955571,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.9",
-          "date": "2023-11-24",
-          "size": 127974496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.8",
-          "date": "2023-11-12",
-          "size": 129188645,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.7",
-          "date": "2023-10-29",
-          "size": 129089719,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.5",
-          "date": "2023-10-17",
-          "size": 127860610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.1",
-          "date": "2023-09-23",
-          "size": 127591654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.0.9",
-          "date": "2023-09-06",
-          "size": 126239276,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "3.0.1",
-          "date": "2023-07-25",
-          "size": 126194522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.9.3",
-          "date": "2023-06-04",
-          "size": 123882886,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.9.2",
-          "date": "2023-05-24",
-          "size": 123750627,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.9.0",
-          "date": "2023-05-17",
-          "size": 122938601,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.9",
-          "date": "2023-05-06",
-          "size": 122907896,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.8",
-          "date": "2023-04-16",
-          "size": 122882233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.6",
-          "date": "2023-03-21",
-          "size": 121718227,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.5",
-          "date": "2023-03-12",
-          "size": 123182848,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.4",
-          "date": "2023-03-03",
-          "size": 123377179,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.4",
-          "date": "2023-02-25",
-          "size": 123377179,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.3",
-          "date": "2023-02-18",
-          "size": 118904543,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.2",
-          "date": "2023-02-05",
-          "size": 122913076,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.1",
-          "date": "2023-01-29",
-          "size": 123001961,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.0",
-          "date": "2023-01-07",
-          "size": 119064262,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.9",
-          "date": "2022-12-15",
-          "size": 119086766,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.8",
-          "date": "2022-12-05",
-          "size": 118512858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.7",
-          "date": "2022-11-29",
-          "size": 118590622,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.5",
-          "date": "2022-11-12",
-          "size": 115862609,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 114949354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 12-21-2023\nStatus: \u2705"
         }
       ]
     },
@@ -9942,49 +10107,6 @@
       ]
     },
     {
-      "name": "TikTokLRDCracked",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "AppDB / KZStore* / IPA Fire / MeemNon / zxcvbn\u2019s tweaked IPAs / iApps / iPAWiND / m7",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "2.5-31.9.0",
-          "date": "2023-11-02",
-          "size": 239968530,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/TikTokLRDCracked-2.5-31.9.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-31.8.0",
-          "date": "2023-10-27",
-          "size": 242736601,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-27-2023/TikTokLRDCracked-2.5-31.8.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-31.3.0",
-          "date": "2023-10-01",
-          "size": 234888233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRDCracked-2.5-31.3.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-31.0.2",
-          "date": "2023-09-07",
-          "size": 244002134,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2023/TikTokLRDCracked-2.5-31.0.2.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-30.3.0",
-          "date": "2023-07-25",
-          "size": 223153658,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRDCracked-2.5-30.3.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (2.5). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3.\nLast updated: 01-16-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "TorBrowserPlusPlus",
       "bundleIdentifier": "ch.b-eng.tor",
       "developerName": "AppDB / DPixel",
@@ -12010,21 +12132,6 @@
           "size": 1006984,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/TrollLockReborn-0.2.ipa",
           "localizedDescription": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub\nLast updated: 12-25-2022\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "EhPanda",
-      "bundleIdentifier": "zeng.EhPanda",
-      "developerName": "EhPanda-Team",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/zeng.EhPanda.png",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "date": "2022-12-24",
-          "size": 2696049,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/EhPanda-1.0.2.ipa",
-          "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 12-23-2022\nStatus: \u274c"
         }
       ]
     },
