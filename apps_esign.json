@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AIChatbotGeniePro",
+      "bundleIdentifier": "co.appnation.geniechat.watchapp",
+      "version": "6.1.0",
+      "versionDate": "2024-01-25",
+      "size": 51275191,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/AIChatbotGeniePro-6.1.0.ipa",
+      "developerName": "ipalibrary.me / ArianaMinajj",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "com.ps.TrollLEDs",
+      "version": "1.6.1",
+      "versionDate": "2024-01-25",
+      "size": 57212,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollLEDs-1.6.1.ipa",
+      "developerName": "PoomSmart",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-25-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
+    },
+    {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.10.1",
+      "versionDate": "2024-01-25",
+      "size": 160220,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollSpeed-1.10.1.ipa",
+      "developerName": "Lessica",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
+      "name": "TrollStarTE",
+      "bundleIdentifier": "com.thuthuatjb.trollforcete",
+      "version": "3.0",
+      "versionDate": "2024-01-25",
+      "size": 989843,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollStarTE-3.0.ipa",
+      "developerName": "thuthuatjb",
+      "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.thuthuatjb.trollforcete.png"
+    },
+    {
+      "name": "WallcraftPro",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "version": "3.12",
+      "versionDate": "2024-01-25",
+      "size": 92047124,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/WallcraftPro-3.12.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro.\nLast updated: 01-25-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.wallpaperscraft.wallpapers.png"
+    },
+    {
       "name": "ApolloPatcher",
       "bundleIdentifier": "com.christianselig.Apollo",
       "version": "1.15.11-0.0.7",
@@ -132,7 +187,7 @@
       "size": 52153,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollLEDs-1.6.0.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -143,7 +198,7 @@
       "size": 157396,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollSpeed-1.9.9.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -154,7 +209,7 @@
       "size": 986016,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollStarTE-2.4.ipa",
       "developerName": "thuthuatjb",
-      "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature.\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.thuthuatjb.trollforcete.png"
     },
     {
@@ -297,7 +352,7 @@
       "size": 50586,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TrollLEDs-1.5.0.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -341,7 +396,7 @@
       "size": 49628,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollLEDs-1.4.0.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -352,7 +407,7 @@
       "size": 154789,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollSpeed-1.9.8.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -451,7 +506,7 @@
       "size": 76865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/TrollLEDs-1.2.1.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -550,7 +605,7 @@
       "size": 214605,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/TrollLEDs-1.1.0.ipa",
       "developerName": "PoomSmart",
-      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png"
     },
     {
@@ -660,7 +715,7 @@
       "size": 153659,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TrollSpeed-1.9.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -1617,7 +1672,7 @@
       "size": 56853767,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2024/AIChatbotGeniePro-6.0.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -2002,7 +2057,7 @@
       "size": 52966439,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/AIChatbotGeniePro-6.0.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -2101,7 +2156,7 @@
       "size": 147710,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/TrollSpeed-1.9.5.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2321,7 +2376,7 @@
       "size": 147696,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/TrollSpeed-1.9.3.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2596,7 +2651,7 @@
       "size": 147136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3179,7 +3234,7 @@
       "size": 140519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-25-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -4092,7 +4147,7 @@
       "size": 54447885,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatbotGeniePro-5.5.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -5423,7 +5478,7 @@
       "size": 54206994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-28-2023/AIChatbotGeniePro-5.4.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
