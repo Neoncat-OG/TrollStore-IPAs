@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "2.2.6-213.1",
+      "versionDate": "2024-01-27",
+      "size": 95239142,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Enmity-2.2.6-213.1.ipa",
+      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "5.0.1",
+      "versionDate": "2024-01-27",
+      "size": 7489038,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/ESign-5.0.1.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "version": "1.0.8.5",
+      "versionDate": "2024-01-27",
+      "size": 17327622,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Limon-1.0.8.5.ipa",
+      "developerName": "emuPlace",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Limon.png"
+    },
+    {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.11.0",
+      "versionDate": "2024-01-27",
+      "size": 163255,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/TrollSpeed-1.11.0.ipa",
+      "developerName": "Lessica",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.25-4.2",
@@ -55,7 +99,7 @@
       "size": 161220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/TrollSpeed-1.10.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -143,7 +187,7 @@
       "size": 160220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -308,7 +352,7 @@
       "size": 157396,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollSpeed-1.9.9.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -517,7 +561,7 @@
       "size": 154789,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollSpeed-1.9.8.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -561,7 +605,7 @@
       "size": 7168267,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/ESign-5.0.0.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -825,7 +869,7 @@
       "size": 153659,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TrollSpeed-1.9.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2266,7 +2310,7 @@
       "size": 147710,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/TrollSpeed-1.9.5.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2486,7 +2530,7 @@
       "size": 147696,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/TrollSpeed-1.9.3.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2618,7 +2662,7 @@
       "size": 94971519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2662,7 +2706,7 @@
       "size": 17299572,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Limon-1.0.8.4.ipa",
       "developerName": "emuPlace",
-      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK.\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Limon.png"
     },
     {
@@ -2761,7 +2805,7 @@
       "size": 147136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3344,7 +3388,7 @@
       "size": 140519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-26-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3454,7 +3498,7 @@
       "size": 94194608,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -4004,7 +4048,7 @@
       "size": 97983202,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -5313,7 +5357,7 @@
       "size": 100528562,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -7315,7 +7359,7 @@
       "size": 108435829,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -7502,7 +7546,7 @@
       "size": 103897880,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -8349,7 +8393,7 @@
       "size": 96341212,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -9702,7 +9746,7 @@
       "size": 99992444,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -9911,7 +9955,7 @@
       "size": 7120626,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/ESign-4.8.2.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -10252,7 +10296,7 @@
       "size": 98676455,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -10714,7 +10758,7 @@
       "size": 90036977,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -10791,7 +10835,7 @@
       "size": 95348126,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -10879,7 +10923,7 @@
       "size": 89066297,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -11451,7 +11495,7 @@
       "size": 87875691,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -12232,7 +12276,7 @@
       "size": 9174870,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2023/ESign-4.8.1.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -12243,7 +12287,7 @@
       "size": 9214469,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/ESign-4.8.0.1.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -12287,7 +12331,7 @@
       "size": 9219477,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2023/ESign-4.7.9.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -12507,7 +12551,7 @@
       "size": 9054260,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/ESign-4.7.8.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -13002,7 +13046,7 @@
       "size": 11324448,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/ESign-4.7.7.3.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -13255,7 +13299,7 @@
       "size": 8608965,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/ESign-4.7.6.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -14586,7 +14630,7 @@
       "size": 8796490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/ESign-4.7.4.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -15477,7 +15521,7 @@
       "size": 134818918,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -16159,7 +16203,7 @@
       "size": 79750354,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -16170,7 +16214,7 @@
       "size": 8223334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/ESign-4.7.3.1.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -16390,7 +16434,7 @@
       "size": 8180940,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/ESign-4.7.3.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -16434,7 +16478,7 @@
       "size": 8159031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/ESign-4.7.2.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -16511,7 +16555,7 @@
       "size": 8162762,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2022/ESign-4.7.1.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -16896,7 +16940,7 @@
       "size": 78691336,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -16907,7 +16951,7 @@
       "size": 8102434,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/ESign-4.7.0.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -17050,7 +17094,7 @@
       "size": 76682774,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 12-21-2023\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -17061,7 +17105,7 @@
       "size": 8128834,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
       "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-21-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
