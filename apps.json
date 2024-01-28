@@ -4,6 +4,661 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "33.1.0-2.3",
+          "date": "2024-01-28",
+          "size": 234281279,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/BHTikTokPlus-33.1.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.0.0-2.3",
+          "date": "2024-01-18",
+          "size": 225298647,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/BHTikTokPlus-33.0.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.9.1-2.3",
+          "date": "2024-01-14",
+          "size": 244127363,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/BHTikTokPlus-32.9.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.9.0-2.3",
+          "date": "2024-01-09",
+          "size": 234418283,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/BHTikTokPlus-32.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.8.0-2.3",
+          "date": "2024-01-03",
+          "size": 235859225,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHTikTokPlus-32.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.7.0-2.3",
+          "date": "2023-12-28",
+          "size": 236887294,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/BHTikTokPlus-32.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.6.0-2.3",
+          "date": "2023-12-19",
+          "size": 236795267,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.5.0-2.3",
+          "date": "2023-12-18",
+          "size": 244719404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.4.0-2.3",
+          "date": "2023-12-05",
+          "size": 235256295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.3.0-2.3",
+          "date": "2023-11-28",
+          "size": 235569969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.2.0-2.3",
+          "date": "2023-11-21",
+          "size": 230416806,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.1.0-2.3",
+          "date": "2023-11-15",
+          "size": 268499892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.0.0-2.3",
+          "date": "2023-11-09",
+          "size": 251556245,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.9.0-2.3",
+          "date": "2023-11-01",
+          "size": 235764456,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.8.0-2.3",
+          "date": "2023-10-25",
+          "size": 238521629,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.7.0-2.3",
+          "date": "2023-10-19",
+          "size": 237220393,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.5.0-2.3",
+          "date": "2023-10-14",
+          "size": 239507576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.5.0-2.2.1",
+          "date": "2023-10-09",
+          "size": 233187621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.4.0-2.2.1",
+          "date": "2023-10-03",
+          "size": 233623072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.3.0-2.2.1",
+          "date": "2023-09-21",
+          "size": 231208792,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.2.0-2.2.1",
+          "date": "2023-09-18",
+          "size": 231301882,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.2",
+          "date": "2023-09-14",
+          "size": 230428022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.1",
+          "date": "2023-09-12",
+          "size": 230414152,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.0",
+          "date": "2023-09-08",
+          "size": 170308209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.2-2.0",
+          "date": "2023-09-05",
+          "size": 169559209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.0-2.0",
+          "date": "2023-09-02",
+          "size": 169557840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.0-1.4",
+          "date": "2023-08-31",
+          "size": 169398360,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHTikTokPlus-31.0.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.9.0-1.4",
+          "date": "2023-08-25",
+          "size": 167025365,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/BHTikTokPlus-30.9.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.8.0-1.4",
+          "date": "2023-08-22",
+          "size": 165875592,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/BHTikTokPlus-30.8.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.8.0-1.3",
+          "date": "2023-08-20",
+          "size": 165421921,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BHTikTokPlus-30.8.0-1.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.7.0-1.3",
+          "date": "2023-08-11",
+          "size": 231427797,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHTikTokPlus-30.7.0-1.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.7.0-1.2",
+          "date": "2023-08-09",
+          "size": 228018550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BHTikTokPlus-30.7.0-1.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.6.0-1.2",
+          "date": "2023-08-07",
+          "size": 228787999,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/BHTikTokPlus-30.6.0-1.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.6.0-0.0.1",
+          "date": "2023-08-02",
+          "size": 169954110,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTokPlus-30.6.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.5.0-0.0.1",
+          "date": "2023-07-27",
+          "size": 170947897,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTokPlus-30.5.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.4.0-0.0.1",
+          "date": "2023-07-25",
+          "size": 169956138,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/BHTikTokPlus-30.4.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.3.0-0.0.1",
+          "date": "2023-07-13",
+          "size": 226368598,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/BHTikTokPlus-30.3.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-28-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "developerName": "osk3apps.com",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2024-01-28",
+          "size": 1436118,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/CarPlex-1.1.1.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-28-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-01-23",
+          "size": 1436308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/CarPlex-1.1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-28-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-01-22",
+          "size": 1435572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-28-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2024-01-20",
+          "size": 1502095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-28-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2024-01-28",
+          "size": 7522792,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/ESign-5.0.2.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "5.0.1",
+          "date": "2024-01-27",
+          "size": 7489038,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/ESign-5.0.1.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "5.0.0",
+          "date": "2024-01-21",
+          "size": 7168267,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/ESign-5.0.0.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.8.2",
+          "date": "2023-06-25",
+          "size": 7120626,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/ESign-4.8.2.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.8.1",
+          "date": "2023-03-19",
+          "size": 9174870,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2023/ESign-4.8.1.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.8.0.1",
+          "date": "2023-03-18",
+          "size": 9214469,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/ESign-4.8.0.1.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.9",
+          "date": "2023-03-17",
+          "size": 9219477,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2023/ESign-4.7.9.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.8",
+          "date": "2023-03-11",
+          "size": 9054260,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/ESign-4.7.8.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.7.3",
+          "date": "2023-02-26",
+          "size": 11324448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/ESign-4.7.7.3.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.6",
+          "date": "2023-02-19",
+          "size": 8608965,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/ESign-4.7.6.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.4",
+          "date": "2023-01-17",
+          "size": 8796490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/ESign-4.7.4.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.3.1",
+          "date": "2022-11-29",
+          "size": 8223334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/ESign-4.7.3.1.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.3",
+          "date": "2022-11-22",
+          "size": 8180940,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/ESign-4.7.3.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.2",
+          "date": "2022-11-20",
+          "size": 8159031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/ESign-4.7.2.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.1",
+          "date": "2022-11-19",
+          "size": 8162762,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2022/ESign-4.7.1.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "4.7.0",
+          "date": "2022-11-10",
+          "size": 8102434,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/ESign-4.7.0.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 8128834,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "InstaRocketBH",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "zxcvbn's tweaked IPAs / BandarHL",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "315.1.2-3.8.20",
+          "date": "2024-01-28",
+          "size": 137851643,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/InstaRocketBH-315.1.2-3.8.20.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "316.0.6-3.8.19",
+          "date": "2024-01-24",
+          "size": 134256919,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstaRocketBH-316.0.6-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "313.0.2-3.8.19",
+          "date": "2024-01-08",
+          "size": 141214317,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/InstaRocketBH-313.0.2-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "312.0.1-3.8.19",
+          "date": "2023-12-25",
+          "size": 140144612,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/InstaRocketBH-312.0.1-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "311.0.2-3.8.18",
+          "date": "2023-12-12",
+          "size": 139945720,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstaRocketBH-311.0.2-3.8.18.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "310.0.4-3.8.18",
+          "date": "2023-12-10",
+          "size": 132270053,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketBH-310.0.4-3.8.18.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "310.0.4-3.8.17",
+          "date": "2023-12-04",
+          "size": 132891484,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstaRocketBH-310.0.4-3.8.17.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "309.1.1-3.8.17",
+          "date": "2023-11-20",
+          "size": 130879951,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/InstaRocketBH-309.1.1-3.8.17.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "309.1.1-3.8.16",
+          "date": "2023-11-15",
+          "size": 131002310,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/InstaRocketBH-309.1.1-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "308.0-3.8.16",
+          "date": "2023-11-07",
+          "size": 129814402,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/InstaRocketBH-308.0-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "307.0.2-3.8.16",
+          "date": "2023-11-01",
+          "size": 129029504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketBH-307.0.2-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "306.0-3.8.16",
+          "date": "2023-10-25",
+          "size": 129334847,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/InstaRocketBH-306.0-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "305.0-3.8.16",
+          "date": "2023-10-19",
+          "size": 126667111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/InstaRocketBH-305.0-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "304.0-3.8.15",
+          "date": "2023-10-11",
+          "size": 132222472,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/InstaRocketBH-304.0-3.8.15.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "303.3-3.8.15",
+          "date": "2023-10-07",
+          "size": 130819181,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/InstaRocketBH-303.3-3.8.15.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "303.1-3.8.15",
+          "date": "2023-10-03",
+          "size": 130928882,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/InstaRocketBH-303.1-3.8.15.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "303.1-3.8.14",
+          "date": "2023-10-01",
+          "size": 133472984,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/InstaRocketBH-303.1-3.8.14.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "302.0-3.8.14",
+          "date": "2023-09-30",
+          "size": 129161251,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/InstaRocketBH-302.0-3.8.14.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "302.0-3.8.13",
+          "date": "2023-09-27",
+          "size": 132567937,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InstaRocketBH-302.0-3.8.13.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "301.1-3.8.13",
+          "date": "2023-09-21",
+          "size": 128765450,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/InstaRocketBH-301.1-3.8.13.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "301.0",
+          "date": "2023-09-19",
+          "size": 129198866,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InstaRocketBH-301.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "300.0",
+          "date": "2023-09-12",
+          "size": 126962586,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/InstaRocketBH-300.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "299.0",
+          "date": "2023-09-05",
+          "size": 134983943,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/InstaRocketBH-299.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "298.0-3.8.12",
+          "date": "2023-08-31",
+          "size": 121153506,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/InstaRocketBH-298.0-3.8.12.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "298.0",
+          "date": "2023-08-29",
+          "size": 121153420,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/InstaRocketBH-298.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "297.0",
+          "date": "2023-08-22",
+          "size": 134720660,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/InstaRocketBH-297.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "296.0",
+          "date": "2023-08-19",
+          "size": 126333920,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/InstaRocketBH-296.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "295.0",
+          "date": "2023-08-08",
+          "size": 134062656,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/InstaRocketBH-295.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "294.0",
+          "date": "2023-08-01",
+          "size": 124694635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/InstaRocketBH-294.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "293.1",
+          "date": "2023-07-26",
+          "size": 133110300,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/InstaRocketBH-293.1.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "293.0",
+          "date": "2023-07-25",
+          "size": 127051872,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/InstaRocketBH-293.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "Enmity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
@@ -134,126 +789,6 @@
           "size": 76682774,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
           "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 01-27-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "ESign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "developerName": "CyPwn IPA Library / AppDB",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
-      "versions": [
-        {
-          "version": "5.0.1",
-          "date": "2024-01-27",
-          "size": 7489038,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/ESign-5.0.1.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "5.0.0",
-          "date": "2024-01-21",
-          "size": 7168267,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/ESign-5.0.0.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.8.2",
-          "date": "2023-06-25",
-          "size": 7120626,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/ESign-4.8.2.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.8.1",
-          "date": "2023-03-19",
-          "size": 9174870,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2023/ESign-4.8.1.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.8.0.1",
-          "date": "2023-03-18",
-          "size": 9214469,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/ESign-4.8.0.1.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.9",
-          "date": "2023-03-17",
-          "size": 9219477,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2023/ESign-4.7.9.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.8",
-          "date": "2023-03-11",
-          "size": 9054260,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/ESign-4.7.8.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.7.3",
-          "date": "2023-02-26",
-          "size": 11324448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/ESign-4.7.7.3.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.6",
-          "date": "2023-02-19",
-          "size": 8608965,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/ESign-4.7.6.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.4",
-          "date": "2023-01-17",
-          "size": 8796490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/ESign-4.7.4.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.3.1",
-          "date": "2022-11-29",
-          "size": 8223334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/ESign-4.7.3.1.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.3",
-          "date": "2022-11-22",
-          "size": 8180940,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/ESign-4.7.3.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.2",
-          "date": "2022-11-20",
-          "size": 8159031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/ESign-4.7.2.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.1",
-          "date": "2022-11-19",
-          "size": 8162762,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2022/ESign-4.7.1.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "4.7.0",
-          "date": "2022-11-10",
-          "size": 8102434,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/ESign-4.7.0.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 8128834,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
-          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-27-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -1647,273 +2182,6 @@
       ]
     },
     {
-      "name": "BHTikTokPlus",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "33.1.0-2.3",
-          "date": "2024-01-24",
-          "size": 233687953,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/BHTikTokPlus-33.1.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.0.0-2.3",
-          "date": "2024-01-18",
-          "size": 225298647,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/BHTikTokPlus-33.0.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.9.1-2.3",
-          "date": "2024-01-14",
-          "size": 244127363,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/BHTikTokPlus-32.9.1-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.9.0-2.3",
-          "date": "2024-01-09",
-          "size": 234418283,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/BHTikTokPlus-32.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.8.0-2.3",
-          "date": "2024-01-03",
-          "size": 235859225,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHTikTokPlus-32.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.7.0-2.3",
-          "date": "2023-12-28",
-          "size": 236887294,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/BHTikTokPlus-32.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.6.0-2.3",
-          "date": "2023-12-19",
-          "size": 236795267,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.5.0-2.3",
-          "date": "2023-12-18",
-          "size": 244719404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.4.0-2.3",
-          "date": "2023-12-05",
-          "size": 235256295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.3.0-2.3",
-          "date": "2023-11-28",
-          "size": 235569969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.2.0-2.3",
-          "date": "2023-11-21",
-          "size": 230416806,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.1.0-2.3",
-          "date": "2023-11-15",
-          "size": 268499892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.0.0-2.3",
-          "date": "2023-11-09",
-          "size": 251556245,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.9.0-2.3",
-          "date": "2023-11-01",
-          "size": 235764456,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.8.0-2.3",
-          "date": "2023-10-25",
-          "size": 238521629,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.7.0-2.3",
-          "date": "2023-10-19",
-          "size": 237220393,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.5.0-2.3",
-          "date": "2023-10-14",
-          "size": 239507576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.5.0-2.2.1",
-          "date": "2023-10-09",
-          "size": 233187621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.4.0-2.2.1",
-          "date": "2023-10-03",
-          "size": 233623072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.3.0-2.2.1",
-          "date": "2023-09-21",
-          "size": 231208792,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.2.0-2.2.1",
-          "date": "2023-09-18",
-          "size": 231301882,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.2",
-          "date": "2023-09-14",
-          "size": 230428022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.1",
-          "date": "2023-09-12",
-          "size": 230414152,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.0",
-          "date": "2023-09-08",
-          "size": 170308209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.2-2.0",
-          "date": "2023-09-05",
-          "size": 169559209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.0-2.0",
-          "date": "2023-09-02",
-          "size": 169557840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.0-1.4",
-          "date": "2023-08-31",
-          "size": 169398360,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHTikTokPlus-31.0.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.9.0-1.4",
-          "date": "2023-08-25",
-          "size": 167025365,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/BHTikTokPlus-30.9.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.8.0-1.4",
-          "date": "2023-08-22",
-          "size": 165875592,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/BHTikTokPlus-30.8.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.8.0-1.3",
-          "date": "2023-08-20",
-          "size": 165421921,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BHTikTokPlus-30.8.0-1.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.7.0-1.3",
-          "date": "2023-08-11",
-          "size": 231427797,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHTikTokPlus-30.7.0-1.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.7.0-1.2",
-          "date": "2023-08-09",
-          "size": 228018550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BHTikTokPlus-30.7.0-1.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.6.0-1.2",
-          "date": "2023-08-07",
-          "size": 228787999,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/BHTikTokPlus-30.6.0-1.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.6.0-0.0.1",
-          "date": "2023-08-02",
-          "size": 169954110,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTokPlus-30.6.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.5.0-0.0.1",
-          "date": "2023-07-27",
-          "size": 170947897,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTokPlus-30.5.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.4.0-0.0.1",
-          "date": "2023-07-25",
-          "size": 169956138,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/BHTikTokPlus-30.4.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.3.0-0.0.1",
-          "date": "2023-07-13",
-          "size": 226368598,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/BHTikTokPlus-30.3.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 01-24-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "FacebookWolf",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
@@ -2269,224 +2537,6 @@
           "size": 142967989,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/InstaNyxBH-313.0.2-1.1.8.ipa",
           "localizedDescription": "Not cracked. Injected with both Nyx and BH. A user requested it so here it is.\nLast updated: 01-24-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstaRocketBH",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "316.0.6-3.8.19",
-          "date": "2024-01-24",
-          "size": 134256919,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstaRocketBH-316.0.6-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "313.0.2-3.8.19",
-          "date": "2024-01-08",
-          "size": 141214317,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/InstaRocketBH-313.0.2-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "312.0.1-3.8.19",
-          "date": "2023-12-25",
-          "size": 140144612,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/InstaRocketBH-312.0.1-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "311.0.2-3.8.18",
-          "date": "2023-12-12",
-          "size": 139945720,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstaRocketBH-311.0.2-3.8.18.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "310.0.4-3.8.18",
-          "date": "2023-12-10",
-          "size": 132270053,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketBH-310.0.4-3.8.18.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "310.0.4-3.8.17",
-          "date": "2023-12-04",
-          "size": 132891484,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstaRocketBH-310.0.4-3.8.17.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "309.1.1-3.8.17",
-          "date": "2023-11-20",
-          "size": 130879951,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/InstaRocketBH-309.1.1-3.8.17.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "309.1.1-3.8.16",
-          "date": "2023-11-15",
-          "size": 131002310,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/InstaRocketBH-309.1.1-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "308.0-3.8.16",
-          "date": "2023-11-07",
-          "size": 129814402,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/InstaRocketBH-308.0-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "307.0.2-3.8.16",
-          "date": "2023-11-01",
-          "size": 129029504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketBH-307.0.2-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "306.0-3.8.16",
-          "date": "2023-10-25",
-          "size": 129334847,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/InstaRocketBH-306.0-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "305.0-3.8.16",
-          "date": "2023-10-19",
-          "size": 126667111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/InstaRocketBH-305.0-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "304.0-3.8.15",
-          "date": "2023-10-11",
-          "size": 132222472,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/InstaRocketBH-304.0-3.8.15.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "303.3-3.8.15",
-          "date": "2023-10-07",
-          "size": 130819181,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/InstaRocketBH-303.3-3.8.15.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "303.1-3.8.15",
-          "date": "2023-10-03",
-          "size": 130928882,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/InstaRocketBH-303.1-3.8.15.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "303.1-3.8.14",
-          "date": "2023-10-01",
-          "size": 133472984,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/InstaRocketBH-303.1-3.8.14.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "302.0-3.8.14",
-          "date": "2023-09-30",
-          "size": 129161251,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/InstaRocketBH-302.0-3.8.14.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "302.0-3.8.13",
-          "date": "2023-09-27",
-          "size": 132567937,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InstaRocketBH-302.0-3.8.13.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "301.1-3.8.13",
-          "date": "2023-09-21",
-          "size": 128765450,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/InstaRocketBH-301.1-3.8.13.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "301.0",
-          "date": "2023-09-19",
-          "size": 129198866,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InstaRocketBH-301.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "300.0",
-          "date": "2023-09-12",
-          "size": 126962586,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/InstaRocketBH-300.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "299.0",
-          "date": "2023-09-05",
-          "size": 134983943,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/InstaRocketBH-299.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "298.0-3.8.12",
-          "date": "2023-08-31",
-          "size": 121153506,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/InstaRocketBH-298.0-3.8.12.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "298.0",
-          "date": "2023-08-29",
-          "size": 121153420,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/InstaRocketBH-298.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "297.0",
-          "date": "2023-08-22",
-          "size": 134720660,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/InstaRocketBH-297.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "296.0",
-          "date": "2023-08-19",
-          "size": 126333920,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/InstaRocketBH-296.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "295.0",
-          "date": "2023-08-08",
-          "size": 134062656,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/InstaRocketBH-295.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "294.0",
-          "date": "2023-08-01",
-          "size": 124694635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/InstaRocketBH-294.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "293.1",
-          "date": "2023-07-26",
-          "size": 133110300,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/InstaRocketBH-293.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "293.0",
-          "date": "2023-07-25",
-          "size": 127051872,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/InstaRocketBH-293.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -3404,35 +3454,6 @@
           "size": 87165733,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
           "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754"
-        }
-      ]
-    },
-    {
-      "name": "CarPlex",
-      "bundleIdentifier": "com.osk3apps.CarPlex",
-      "developerName": "osk3apps.com",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
-      "versions": [
-        {
-          "version": "1.1.0",
-          "date": "2024-01-23",
-          "size": 1436308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/CarPlex-1.1.0.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2024-01-22",
-          "size": 1435572,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2024-01-20",
-          "size": 1502095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 01-23-2024\nStatus: \u2705"
         }
       ]
     },
