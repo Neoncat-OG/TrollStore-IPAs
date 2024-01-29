@@ -4,6 +4,39 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "EnhanceFoxPro",
+      "bundleIdentifier": "com.risingcabbage.enhancefox",
+      "version": "7.0.0",
+      "versionDate": "2024-01-29",
+      "size": 244706177,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/EnhanceFoxPro-7.0.0.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "Another app that claims to enhance both the quality of photos and videos. Pro features unlocked.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "version": "1.8.6",
+      "versionDate": "2024-01-29",
+      "size": 74540387,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/Ignited-1.8.6.ipa",
+      "developerName": "LitRitt",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.1.65",
+      "versionDate": "2024-01-29",
+      "size": 101384533,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/Mangayomi-0.1.65.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "33.1.0-2.3",
@@ -737,7 +770,7 @@
       "size": 65555254,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/Ignited-1.8.5.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -1188,7 +1221,7 @@
       "size": 73703482,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -1452,7 +1485,7 @@
       "size": 73937401,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -1584,7 +1617,7 @@
       "size": 95972068,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/Mangayomi-0.1.61.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -1650,7 +1683,7 @@
       "size": 77806042,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ReminiPro-2.9.111.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -2189,7 +2222,7 @@
       "size": 95966087,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/Mangayomi-0.1.55.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -2508,7 +2541,7 @@
       "size": 62168615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -2519,7 +2552,7 @@
       "size": 77844357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/ReminiPro-2.9.107.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -2541,7 +2574,7 @@
       "size": 93468984,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/Mangayomi-0.1.51.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -2750,7 +2783,7 @@
       "size": 93430194,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Mangayomi-0.1.45.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -3091,7 +3124,7 @@
       "size": 93319936,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Mangayomi-0.1.4.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -3278,7 +3311,7 @@
       "size": 62108889,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-20-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -3663,7 +3696,7 @@
       "size": 93308009,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/Mangayomi-0.1.35.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -3707,7 +3740,7 @@
       "size": 76485486,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/ReminiPro-2.9.103.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -3740,7 +3773,7 @@
       "size": 93304657,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/Mangayomi-0.1.25.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -4312,7 +4345,7 @@
       "size": 69713882,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/ReminiPro-2.9.101.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -4455,7 +4488,7 @@
       "size": 93143303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Mangayomi-0.1.1.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -4554,7 +4587,7 @@
       "size": 154258812,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/ReminiPro-2.9.100.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -4620,7 +4653,7 @@
       "size": 93145110,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Mangayomi-0.1.0.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -4774,7 +4807,7 @@
       "size": 93060349,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/Mangayomi-0.0.8.ipa",
       "developerName": "kodjodevf",
-      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 01-29-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
@@ -4851,7 +4884,7 @@
       "size": 165665822,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/ReminiPro-2.9.97.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -5071,7 +5104,7 @@
       "size": 159704507,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/ReminiPro-2.9.93.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -5467,7 +5500,7 @@
       "size": 69543353,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-03-2023/ReminiPro-2.9.88.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -5775,7 +5808,7 @@
       "size": 69159210,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/ReminiPro-2.9.87.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -6281,7 +6314,7 @@
       "size": 180582739,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/ReminiPro-2.9.82.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -6897,7 +6930,7 @@
       "size": 180810446,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/ReminiPro-2.9.79.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -7326,7 +7359,7 @@
       "size": 179064805,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/ReminiPro-2.9.77.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -7513,7 +7546,7 @@
       "size": 163168297,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/ReminiPro-2.9.75.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -7733,7 +7766,7 @@
       "size": 64904058,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/ReminiPro-2.9.74.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -7964,7 +7997,7 @@
       "size": 62212795,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/ReminiPro-2.9.72.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -8107,7 +8140,7 @@
       "size": 64151599,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/ReminiPro-2.9.71.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -8448,7 +8481,7 @@
       "size": 63897254,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/ReminiPro-2.9.68.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -8723,7 +8756,7 @@
       "size": 155975720,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/ReminiPro-2.9.67.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -8910,7 +8943,7 @@
       "size": 61362530,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-04-2023/ReminiPro-2.9.65.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -9141,7 +9174,7 @@
       "size": 60838837,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/ReminiPro-2.9.64.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
@@ -9383,7 +9416,7 @@
       "size": 74328097,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/ReminiPro-2.9.61.ipa",
       "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Pro: Every feature works. Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time + Known issue where the app won't work on iOS 17.\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
