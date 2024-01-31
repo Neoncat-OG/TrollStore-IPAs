@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "version": "1.9-25",
+      "versionDate": "2024-01-31",
+      "size": 17095980,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/iTorrent-1.9-25.ipa",
+      "developerName": "XITRIX",
+      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 01-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.3.5",
+      "versionDate": "2024-01-31",
+      "size": 61336181,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/QuakeFeedPremium-6.3.5.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png"
+    },
+    {
+      "name": "RadarbotPro",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "version": "9.13",
+      "versionDate": "2024-01-31",
+      "size": 225458507,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/RadarbotPro-9.13.ipa",
+      "developerName": "MeemNon / Binnichtaktiv06",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+    },
+    {
+      "name": "Spotilife",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.10",
+      "versionDate": "2024-01-31",
+      "size": 64388856,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/Spotilife-8.9.10.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.11.2",
+      "versionDate": "2024-01-31",
+      "size": 159827,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/TrollSpeed-1.11.2.ipa",
+      "developerName": "Lessica",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "33.2.0-2.3",
@@ -209,7 +264,7 @@
       "size": 163255,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/TrollSpeed-1.11.0.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -264,7 +319,7 @@
       "size": 161220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/TrollSpeed-1.10.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -352,7 +407,7 @@
       "size": 160220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -484,7 +539,7 @@
       "size": 64013884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/Spotilife-8.9.8.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -506,7 +561,7 @@
       "size": 157396,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollSpeed-1.9.9.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -704,7 +759,7 @@
       "size": 154789,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollSpeed-1.9.8.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -1012,7 +1067,7 @@
       "size": 153659,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TrollSpeed-1.9.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -1187,8 +1242,8 @@
       "versionDate": "2024-01-16",
       "size": 221842901,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/RadarbotPro-9.12.5.ipa",
-      "developerName": "MeemNon",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "MeemNon / Binnichtaktiv06",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -1583,8 +1638,8 @@
       "versionDate": "2024-01-11",
       "size": 227257052,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/RadarbotPro-9.12.4.ipa",
-      "developerName": "MeemNon",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "MeemNon / Binnichtaktiv06",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -2453,7 +2508,7 @@
       "size": 147710,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/TrollSpeed-1.9.5.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2573,8 +2628,8 @@
       "versionDate": "2023-12-25",
       "size": 229895957,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/RadarbotPro-9.12.0.ipa",
-      "developerName": "MeemNon",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-16-2024\nStatus: \u2705",
+      "developerName": "MeemNon / Binnichtaktiv06",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -2673,7 +2728,7 @@
       "size": 147696,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/TrollSpeed-1.9.3.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2948,7 +3003,7 @@
       "size": 147136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3014,7 +3069,7 @@
       "size": 18290374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/iTorrent-1.9-25.ipa",
       "developerName": "XITRIX",
-      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 01-31-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
     },
     {
@@ -3267,7 +3322,7 @@
       "size": 65218522,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Spotilife-8.8.96.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3531,7 +3586,7 @@
       "size": 140519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-27-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3696,7 +3751,7 @@
       "size": 62123025,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Spotilife-8.8.94.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4290,7 +4345,7 @@
       "size": 61808561,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Spotilife-8.8.92.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4774,7 +4829,7 @@
       "size": 61685294,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Spotilife-8.8.90.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4983,7 +5038,7 @@
       "size": 61919245,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/Spotilife-8.8.88.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5214,7 +5269,7 @@
       "size": 21247865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iTorrent-1.8.3.ipa",
       "developerName": "XITRIX",
-      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 12-19-2023\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 01-31-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
     },
     {
@@ -5324,7 +5379,7 @@
       "size": 61458063,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Spotilife-8.8.86.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5830,7 +5885,7 @@
       "size": 61080018,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/Spotilife-8.8.82.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5940,7 +5995,7 @@
       "size": 60795559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Spotilife-8.8.81.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5984,7 +6039,7 @@
       "size": 60794115,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/Spotilife-8.8.80.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6281,7 +6336,7 @@
       "size": 61577692,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/Spotilife-8.8.78.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6611,7 +6666,7 @@
       "size": 61412869,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/Spotilife-8.8.76.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6919,7 +6974,7 @@
       "size": 61057682,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Spotilife-8.8.74.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7238,7 +7293,7 @@
       "size": 60788579,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/Spotilife-8.8.72.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7458,7 +7513,7 @@
       "size": 60327230,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/Spotilife-8.8.70.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7744,7 +7799,7 @@
       "size": 58373765,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Spotilife-8.8.69.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7854,7 +7909,7 @@
       "size": 56386568,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/Spotilife-8.8.68.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8173,7 +8228,7 @@
       "size": 55696647,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/Spotilife-8.8.66.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8316,7 +8371,7 @@
       "size": 55714890,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/Spotilife-8.8.64.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8657,7 +8712,7 @@
       "size": 57388693,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/Spotilife-8.8.61.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8789,7 +8844,7 @@
       "size": 55240069,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/Spotilife-8.8.60.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9064,7 +9119,7 @@
       "size": 56728119,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/Spotilife-8.8.58.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9196,7 +9251,7 @@
       "size": 58996898,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/Spotilife-8.8.56.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9526,7 +9581,7 @@
       "size": 59134859,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Spotilife-8.8.52.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9999,7 +10054,7 @@
       "size": 62089458,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/Spotilife-8.8.48.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -10296,7 +10351,7 @@
       "size": 76001742,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/Spotilife-8.8.42.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -10516,7 +10571,7 @@
       "size": 60750670,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Spotilife-8.8.40.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -11605,7 +11660,7 @@
       "size": 63597374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/Spotilife-8.8.30.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -12023,7 +12078,7 @@
       "size": 63936880,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/Spotilife-1.8-8.8.26.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -12859,7 +12914,7 @@
       "size": 60739957,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/Spotilife-1.8-8.8.18.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -13409,7 +13464,7 @@
       "size": 62594417,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/Spotilife-1.8-8.8.14.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -14278,7 +14333,7 @@
       "size": 61780974,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/Spotilife-1.8-8.8.6.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -14729,7 +14784,7 @@
       "size": 61818474,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Spotilife-1.8-8.8.2.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -15972,7 +16027,7 @@
       "size": 60271400,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/Spotilife-1.8-8.7.92.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -16478,7 +16533,7 @@
       "size": 59957071,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/Spotilife-8.7.88.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-24-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
