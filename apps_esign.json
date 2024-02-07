@@ -4,6 +4,105 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BeRealBea",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "version": "1.3.4-2.0.1",
+      "versionDate": "2024-02-07",
+      "size": 52589861,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/BeRealBea-1.3.4-2.0.1.ipa",
+      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+    },
+    {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "449.0.2",
+      "versionDate": "2024-02-07",
+      "size": 148743798,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+    },
+    {
+      "name": "InstagramRocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "317.0.4-3.8.21",
+      "versionDate": "2024-02-07",
+      "size": 141912027,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/InstagramRocket-317.0.4-3.8.21.ipa",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED)",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 02-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "PhotoshopExpress",
+      "bundleIdentifier": "com.adobe.PSMobile",
+      "version": "24.5.0",
+      "versionDate": "2024-02-07",
+      "size": 152095628,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/PhotoshopExpress-24.5.0.ipa",
+      "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+    },
+    {
+      "name": "SnapchatWickedCracked",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "version": "12.73.0.39",
+      "versionDate": "2024-02-07",
+      "size": 111136962,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/SnapchatWickedCracked-12.73.0.39.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+    },
+    {
+      "name": "Spotilife",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.12",
+      "versionDate": "2024-02-07",
+      "size": 64873718,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/Spotilife-8.9.12.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.twitch",
+      "version": "18.1-0.1.0",
+      "versionDate": "2024-02-07",
+      "size": 80851803,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/TwitchPlus-18.1-0.1.0.ipa",
+      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
+      "name": "YouTubeiVanced",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "19.05.5",
+      "versionDate": "2024-02-07",
+      "size": 127403638,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/YouTubeiVanced-19.05.5.ipa",
+      "developerName": "TherionRO / AppDB",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+    },
+    {
+      "name": "YTKillerPlusPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "19.05.3-2.3.8",
+      "versionDate": "2024-02-07",
+      "size": 118600520,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/YTKillerPlusPlus-19.05.3-2.3.8.ipa",
+      "developerName": "iKarwan / AppDB",
+      "localizedDescription": "Primarily maintained on AppDB, this is YTKillerPlus with additional enhancements.\nLast updated: 02-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+    },
+    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "33.2.1-2.3",
@@ -88,7 +187,7 @@
       "size": 134004996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2024/YouTubeiVanced-19.05.3.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -110,7 +209,7 @@
       "size": 92101229,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-04-2024/Vendetta-214.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -176,7 +275,7 @@
       "size": 127321489,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/YouTubeiVanced-19.04.3.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -429,7 +528,7 @@
       "size": 64388856,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/Spotilife-8.9.10.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -484,7 +583,7 @@
       "size": 153622066,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -715,7 +814,7 @@
       "size": 96444343,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/Vendetta-213.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -814,7 +913,7 @@
       "size": 148908203,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -891,7 +990,7 @@
       "size": 152454168,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoshopExpress-24.3.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -902,7 +1001,7 @@
       "size": 64013884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/Spotilife-8.9.8.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -946,7 +1045,7 @@
       "size": 113387061,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/YTKillerPlusPlus-19.03.2-2.3.7.ipa",
       "developerName": "iKarwan / AppDB",
-      "localizedDescription": "Primarily maintained on AppDB, this is YTKillerPlus with additional enhancements.\nLast updated: 01-24-2024\nStatus: \u2705",
+      "localizedDescription": "Primarily maintained on AppDB, this is YTKillerPlus with additional enhancements.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -1001,7 +1100,7 @@
       "size": 140983805,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramRocket-315.0.2-3.8.19.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -1078,7 +1177,7 @@
       "size": 79663719,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TwitchPlus-17.9-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1089,7 +1188,7 @@
       "size": 49776043,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/BeRealBea-1.3.4-1.22.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -1254,7 +1353,7 @@
       "size": 148992621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -1353,7 +1452,7 @@
       "size": 148992369,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -1419,7 +1518,7 @@
       "size": 152334454,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/PhotoshopExpress-24.2.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -1518,7 +1617,7 @@
       "size": 140209756,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -1562,7 +1661,7 @@
       "size": 79560715,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/TwitchPlus-17.8-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1617,7 +1716,7 @@
       "size": 40363657,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/BeRealBea-1.3.4-1.21.5.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -1793,7 +1892,7 @@
       "size": 149190964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -1837,7 +1936,7 @@
       "size": 142483795,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -1859,7 +1958,7 @@
       "size": 79202479,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/TwitchPlus-17.7.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1947,7 +2046,7 @@
       "size": 114487185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/SnapchatWickedCracked-12.70.0.24.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -2002,7 +2101,7 @@
       "size": 95552107,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Vendetta-211.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2145,7 +2244,7 @@
       "size": 156808271,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PhotoshopExpress-24.1.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -2200,7 +2299,7 @@
       "size": 79473559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TwitchPlus-17.7-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -2343,7 +2442,7 @@
       "size": 40358425,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -2409,7 +2508,7 @@
       "size": 114403852,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2024/SnapchatWickedCracked-12.69.0.20.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -2530,7 +2629,7 @@
       "size": 83087847,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/TwitchPlus-17.6-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -2607,7 +2706,7 @@
       "size": 111908235,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/SnapchatWickedCracked-12.68.0.20.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -2684,7 +2783,7 @@
       "size": 82801964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -2695,7 +2794,7 @@
       "size": 40267445,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -2750,7 +2849,7 @@
       "size": 90187568,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/TwitchDvnloaderPlus-17.5.1.ipa",
       "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96",
-      "localizedDescription": "A compilation of TwitchAdBlock (0.1.0) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 12-29-2023\nStatus: \u2705",
+      "localizedDescription": "A compilation of TwitchAdBlock (0.1.0) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 12-29-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -2904,7 +3003,7 @@
       "size": 110515986,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2023/SnapchatWickedCracked-12.67.0.31.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -3179,7 +3278,7 @@
       "size": 40388621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -3223,7 +3322,7 @@
       "size": 150201298,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -3377,7 +3476,7 @@
       "size": 40374650,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -3564,7 +3663,7 @@
       "size": 110443251,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/SnapchatWickedCracked-12.65.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -3630,7 +3729,7 @@
       "size": 42051554,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -3641,7 +3740,7 @@
       "size": 148019677,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -3663,7 +3762,7 @@
       "size": 156326689,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/PhotoshopExpress-23.49.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -3674,7 +3773,7 @@
       "size": 65218522,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/Spotilife-8.8.96.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3949,7 +4048,7 @@
       "size": 82801296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4037,7 +4136,7 @@
       "size": 42049413,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4103,7 +4202,7 @@
       "size": 62123025,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Spotilife-8.8.94.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4158,7 +4257,7 @@
       "size": 115665802,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2023/SnapchatWickedCracked-12.63.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -4268,7 +4367,7 @@
       "size": 148641638,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -4323,7 +4422,7 @@
       "size": 45416994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4389,7 +4488,7 @@
       "size": 155947352,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotoshopExpress-23.48.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -4433,7 +4532,7 @@
       "size": 105344037,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4455,7 +4554,7 @@
       "size": 95214496,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Vendetta-207.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -4587,7 +4686,7 @@
       "size": 43204143,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4653,7 +4752,7 @@
       "size": 105305867,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4697,7 +4796,7 @@
       "size": 61808561,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/Spotilife-8.8.92.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4708,7 +4807,7 @@
       "size": 104676718,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4928,7 +5027,7 @@
       "size": 156599162,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/PhotoshopExpress-23.47.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -4939,7 +5038,7 @@
       "size": 39128874,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4950,7 +5049,7 @@
       "size": 148751080,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5005,7 +5104,7 @@
       "size": 98559117,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/Vendetta-206.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -5093,7 +5192,7 @@
       "size": 101199079,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -5115,7 +5214,7 @@
       "size": 39021872,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -5159,7 +5258,7 @@
       "size": 155089400,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -5181,7 +5280,7 @@
       "size": 61685294,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/Spotilife-8.8.90.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5203,7 +5302,7 @@
       "size": 151559278,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5236,7 +5335,7 @@
       "size": 97185610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/Vendetta-205.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -5346,7 +5445,7 @@
       "size": 155132644,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PhotoshopExpress-23.45.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -5390,7 +5489,7 @@
       "size": 61919245,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/Spotilife-8.8.88.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5434,7 +5533,7 @@
       "size": 151548308,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5511,7 +5610,7 @@
       "size": 94348799,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/Vendetta-204.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -5632,7 +5731,7 @@
       "size": 154639594,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -5676,7 +5775,7 @@
       "size": 145279761,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5731,7 +5830,7 @@
       "size": 61458063,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/Spotilife-8.8.86.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5841,7 +5940,7 @@
       "size": 103419568,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/SnapchatWickedCracked-12.59.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -5852,7 +5951,7 @@
       "size": 99550048,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/Vendetta-203.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -6006,7 +6105,7 @@
       "size": 144715433,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -6127,7 +6226,7 @@
       "size": 101108112,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/Vendetta-202.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -6149,7 +6248,7 @@
       "size": 156653773,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -6160,7 +6259,7 @@
       "size": 103351422,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/SnapchatWickedCracked-12.58.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -6193,7 +6292,7 @@
       "size": 111304764,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-27-2023/SnapchatWickedCracked-12.57.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -6215,7 +6314,7 @@
       "size": 143948666,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -6237,7 +6336,7 @@
       "size": 61080018,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/Spotilife-8.8.82.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6347,7 +6446,7 @@
       "size": 60795559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Spotilife-8.8.81.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6358,7 +6457,7 @@
       "size": 132097406,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-24-2023/Vendetta-201.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -6391,7 +6490,7 @@
       "size": 60794115,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/Spotilife-8.8.80.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6402,7 +6501,7 @@
       "size": 63055501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -6413,7 +6512,7 @@
       "size": 131644159,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/Vendetta-200.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -6457,7 +6556,7 @@
       "size": 155694493,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/PhotoshopExpress-23.41.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -6512,7 +6611,7 @@
       "size": 149712884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -6611,7 +6710,7 @@
       "size": 112838848,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/SnapchatWickedCracked-12.56.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -6688,7 +6787,7 @@
       "size": 61577692,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/Spotilife-8.8.78.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -6721,7 +6820,7 @@
       "size": 44753635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -6743,7 +6842,7 @@
       "size": 154168333,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/PhotoshopExpress-23.40.2.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -6886,7 +6985,7 @@
       "size": 148727038,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -6908,7 +7007,7 @@
       "size": 130238077,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/PhotoshopExpress-23.38.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -6963,7 +7062,7 @@
       "size": 39714501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7018,7 +7117,7 @@
       "size": 61412869,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/Spotilife-8.8.76.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7117,7 +7216,7 @@
       "size": 106778136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/SnapchatWickedCracked-12.54.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -7282,7 +7381,7 @@
       "size": 147521226,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -7304,7 +7403,7 @@
       "size": 106337033,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/SnapchatWickedCracked-12.53.1.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -7326,7 +7425,7 @@
       "size": 61057682,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/Spotilife-8.8.74.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7337,7 +7436,7 @@
       "size": 53570811,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7447,7 +7546,7 @@
       "size": 73502584,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7645,7 +7744,7 @@
       "size": 60788579,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/Spotilife-8.8.72.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7689,7 +7788,7 @@
       "size": 38588292,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7700,7 +7799,7 @@
       "size": 137319129,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -7744,7 +7843,7 @@
       "size": 127523623,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/PhotoshopExpress-23.37.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -7777,7 +7876,7 @@
       "size": 73398412,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7799,7 +7898,7 @@
       "size": 38585370,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7832,7 +7931,7 @@
       "size": 154943359,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/PhotoshopExpress-23.36.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -7854,7 +7953,7 @@
       "size": 106067994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/SnapchatWickedCracked-12.52.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -7865,7 +7964,7 @@
       "size": 60327230,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/Spotilife-8.8.70.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -7887,7 +7986,7 @@
       "size": 40372995,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7975,7 +8074,7 @@
       "size": 71678888,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7997,7 +8096,7 @@
       "size": 39284072,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8041,7 +8140,7 @@
       "size": 103068482,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/SnapchatWickedCracked-12.51.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -8129,7 +8228,7 @@
       "size": 96961521,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/SnapchatWickedCracked-12.50.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -8151,7 +8250,7 @@
       "size": 58373765,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Spotilife-8.8.69.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8261,7 +8360,7 @@
       "size": 56386568,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/Spotilife-8.8.68.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8272,7 +8371,7 @@
       "size": 53831136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8327,7 +8426,7 @@
       "size": 154735334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/PhotoshopExpress-23.35.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -8459,7 +8558,7 @@
       "size": 130980374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -8492,7 +8591,7 @@
       "size": 53708726,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8580,7 +8679,7 @@
       "size": 55696647,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/Spotilife-8.8.66.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8591,7 +8690,7 @@
       "size": 53709186,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8602,7 +8701,7 @@
       "size": 32893347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8613,7 +8712,7 @@
       "size": 131525141,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/PhotoshopExpress-23.34.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -8635,7 +8734,7 @@
       "size": 92090577,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/SnapchatWickedCracked-12.49.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -8668,7 +8767,7 @@
       "size": 147437505,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -8679,7 +8778,7 @@
       "size": 53656336,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8723,7 +8822,7 @@
       "size": 55714890,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/Spotilife-8.8.64.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8822,7 +8921,7 @@
       "size": 96217808,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/SnapchatWickedCracked-12.48.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -8833,7 +8932,7 @@
       "size": 53395273,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8855,7 +8954,7 @@
       "size": 31921858,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9042,7 +9141,7 @@
       "size": 95894033,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/SnapchatWickedCracked-12.47.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -9064,7 +9163,7 @@
       "size": 57388693,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/Spotilife-8.8.61.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9152,7 +9251,7 @@
       "size": 131560635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -9174,7 +9273,7 @@
       "size": 95713317,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/SnapchatWickedCracked-12.46.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -9196,7 +9295,7 @@
       "size": 55240069,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/Spotilife-8.8.60.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9207,7 +9306,7 @@
       "size": 31919714,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9229,7 +9328,7 @@
       "size": 125936476,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/PhotoshopExpress-23.31.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9251,7 +9350,7 @@
       "size": 53192728,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9372,7 +9471,7 @@
       "size": 140546097,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -9460,7 +9559,7 @@
       "size": 136902646,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9471,7 +9570,7 @@
       "size": 56728119,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/Spotilife-8.8.58.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9493,7 +9592,7 @@
       "size": 64346228,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9592,7 +9691,7 @@
       "size": 104166054,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/SnapchatWickedCracked-12.45.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -9603,7 +9702,7 @@
       "size": 58996898,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/Spotilife-8.8.56.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -9614,7 +9713,7 @@
       "size": 115403508,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9713,7 +9812,7 @@
       "size": 115405351,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9856,7 +9955,7 @@
       "size": 126854080,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotoshopExpress-23.28.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9911,7 +10010,7 @@
       "size": 106297567,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/SnapchatWickedCracked-12.44.ipa",
       "developerName": "zxcvbn's tweaked IPAs / MeemNon / AppDB",
-      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 01-12-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
+      "localizedDescription": "I strongly encourage you to review the linked tutorial, paying particular attention to the known issues and FAQs. This will help prevent unnecessary issue submissions from users. Confirmed working with ESign/GBox and TrollStore. Modded version of Snapchat offering a broader range of features compared to Falcon. In-depth tutorial.\nLast updated: 02-07-2024\nStatus: \u26a0\ufe0f \ud83d\udca1",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -9933,7 +10032,7 @@
       "size": 59134859,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Spotilife-8.8.52.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -10065,7 +10164,7 @@
       "size": 38098024,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -10076,7 +10175,7 @@
       "size": 62426621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10252,7 +10351,7 @@
       "size": 148850803,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -10351,7 +10450,7 @@
       "size": 93987800,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/Vendetta-181.0.ipa",
       "developerName": "vendetta-mod / zxcvbn's tweaked IPAs / CyPwn IPA Library / Lisandra-dev",
-      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-04-2024\nStatus: \u2705 \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -10406,7 +10505,7 @@
       "size": 62089458,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/Spotilife-8.8.48.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -10428,7 +10527,7 @@
       "size": 78060639,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10516,7 +10615,7 @@
       "size": 147584969,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -10549,7 +10648,7 @@
       "size": 41168244,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -10582,7 +10681,7 @@
       "size": 150521266,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -10703,7 +10802,7 @@
       "size": 76001742,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/Spotilife-8.8.42.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -10747,7 +10846,7 @@
       "size": 58339050,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10758,7 +10857,7 @@
       "size": 83133709,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchToolbox-15.4.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10923,7 +11022,7 @@
       "size": 60750670,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Spotilife-8.8.40.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -11066,7 +11165,7 @@
       "size": 128531017,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11121,7 +11220,7 @@
       "size": 123085415,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -11154,7 +11253,7 @@
       "size": 56367481,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11495,7 +11594,7 @@
       "size": 126750253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -11528,7 +11627,7 @@
       "size": 61746901,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11539,7 +11638,7 @@
       "size": 63685099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchToolbox-15.1.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11627,7 +11726,7 @@
       "size": 143985533,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11671,7 +11770,7 @@
       "size": 125974130,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotoshopExpress-23.16.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -11847,7 +11946,7 @@
       "size": 126730195,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12012,7 +12111,7 @@
       "size": 63597374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/Spotilife-8.8.30.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -12122,7 +12221,7 @@
       "size": 25439241,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12144,7 +12243,7 @@
       "size": 126153344,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/PhotoshopExpress-23.14.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -12210,7 +12309,7 @@
       "size": 25156227,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 01-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12221,7 +12320,7 @@
       "size": 137605730,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -12320,7 +12419,7 @@
       "size": 80384886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12331,7 +12430,7 @@
       "size": 77605615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchToolbox-14.9.5.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12364,7 +12463,7 @@
       "size": 146204031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12419,7 +12518,7 @@
       "size": 126317673,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12430,7 +12529,7 @@
       "size": 63936880,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/Spotilife-1.8-8.8.26.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -12529,7 +12628,7 @@
       "size": 116943668,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -12628,7 +12727,7 @@
       "size": 71872886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12727,7 +12826,7 @@
       "size": 139434374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12760,7 +12859,7 @@
       "size": 72742095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12925,7 +13024,7 @@
       "size": 140122979,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12936,7 +13035,7 @@
       "size": 117862297,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/PhotoshopExpress-23.10.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -13145,7 +13244,7 @@
       "size": 126854080,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/PhotoshopExpress-23.8.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features except cloud storage\nLast updated: 01-30-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -13189,7 +13288,7 @@
       "size": 142562954,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -13266,7 +13365,7 @@
       "size": 60739957,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/Spotilife-1.8-8.8.18.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -13277,7 +13376,7 @@
       "size": 72562212,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -13585,7 +13684,7 @@
       "size": 149662233,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -13640,7 +13739,7 @@
       "size": 75478804,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -13651,7 +13750,7 @@
       "size": 77474635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchToolbox-14.6.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -13794,7 +13893,7 @@
       "size": 133721522,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -13816,7 +13915,7 @@
       "size": 62594417,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/Spotilife-1.8-8.8.14.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -14135,7 +14234,7 @@
       "size": 126709146,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -14146,7 +14245,7 @@
       "size": 123861738,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -14245,7 +14344,7 @@
       "size": 127714803,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/YouTubeiVanced-18.04.3.2.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -14333,7 +14432,7 @@
       "size": 135002490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -14553,7 +14652,7 @@
       "size": 109177007,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/YouTubeiVanced-18.04.03.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -14685,7 +14784,7 @@
       "size": 61780974,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/Spotilife-1.8-8.8.6.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -14927,7 +15026,7 @@
       "size": 109108650,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/YouTubeiVanced-18.03.03.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -14949,7 +15048,7 @@
       "size": 149355244,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -15048,7 +15147,7 @@
       "size": 108896855,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/YouTubeiVanced-18.02.03.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -15081,7 +15180,7 @@
       "size": 135094448,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -15136,7 +15235,7 @@
       "size": 61818474,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Spotilife-1.8-8.8.2.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -15235,7 +15334,7 @@
       "size": 108856909,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2023/YouTubeiVanced-18.01.6-2.ipa",
       "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-05-2024\nStatus: \u2705",
+      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -15301,7 +15400,7 @@
       "size": 143152840,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16148,7 +16247,7 @@
       "size": 74590187,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16357,7 +16456,7 @@
       "size": 137241305,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16379,7 +16478,7 @@
       "size": 60271400,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/Spotilife-1.8-8.7.92.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -16445,7 +16544,7 @@
       "size": 138856989,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16522,7 +16621,7 @@
       "size": 208544377,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16533,7 +16632,7 @@
       "size": 210513268,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchToolbox-14.3.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16709,7 +16808,7 @@
       "size": 72655342,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16720,7 +16819,7 @@
       "size": 74624303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchToolbox-14.2.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16841,7 +16940,7 @@
       "size": 136327857,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16885,7 +16984,7 @@
       "size": 59957071,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/Spotilife-8.7.88.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
-      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 01-31-2024\nStatus: \u274c",
+      "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: I'm updating this for archival purposes only. Support will not be provided so please refrain from submitting any issues.\nLast updated: 02-07-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -17083,7 +17182,7 @@
       "size": 72586953,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -17094,7 +17193,7 @@
       "size": 74555879,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchToolbox-14.2.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -17171,7 +17270,7 @@
       "size": 135626187,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17248,7 +17347,7 @@
       "size": 72587099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox. Twitch with no ads\nLast updated: 01-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -17512,7 +17611,7 @@
       "size": 136100527,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17666,7 +17765,7 @@
       "size": 143311099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-24-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17941,7 +18040,7 @@
       "size": 67781994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TwitchToolbox.ipa",
       "developerName": "AppDB / DPixel",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u2705",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
