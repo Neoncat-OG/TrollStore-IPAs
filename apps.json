@@ -375,7 +375,7 @@
     {
       "name": "AlDente",
       "bundleIdentifier": "chaoge.AlDente",
-      "developerName": "",
+      "developerName": "lich4",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.AlDente.png",
       "versions": [
         {
@@ -383,7 +383,7 @@
           "date": "2024-02-10",
           "size": 2179272,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AlDente-1.1.ipa",
-          "localizedDescription": ""
+          "localizedDescription": "This app takes inspiration from the MacOS version of AlDente, designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-10-2024\nStatus: \u2705"
         }
       ]
     },
