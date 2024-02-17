@@ -33,7 +33,106 @@
       "size": 119297942,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/YTLitePlus-19.05.3-2.4.1.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+    },
+    {
+      "name": "AIChatSmithPremium",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "version": "6.6.1",
+      "versionDate": "2024-02-17",
+      "size": 65112838,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/AIChatSmithPremium-6.6.1.ipa",
+      "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+    },
+    {
+      "name": "Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "version": "0.6.7",
+      "versionDate": "2024-02-17",
+      "size": 3264880,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Aidoku-0.6.7.ipa",
+      "developerName": "Aidoku",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
+    },
+    {
+      "name": "ChargeLimiter",
+      "bundleIdentifier": "chaoge.ChargeLimiter",
+      "version": "1.4",
+      "versionDate": "2024-02-17",
+      "size": 1931989,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ChargeLimiter-1.4.ipa",
+      "developerName": "lich4",
+      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png"
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "version": "1.8.7",
+      "versionDate": "2024-02-17",
+      "size": 71617838,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Ignited-1.8.7.ipa",
+      "developerName": "LitRitt",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2024.2.3",
+      "versionDate": "2024-02-17",
+      "size": 136445511,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/MemrisePremium-2024.2.3.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "ScannerProPlus",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "version": "8.17.1",
+      "versionDate": "2024-02-17",
+      "size": 112858637,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ScannerProPlus-8.17.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png"
+    },
+    {
+      "name": "Things3",
+      "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
+      "version": "3.20.3",
+      "versionDate": "2024-02-17",
+      "size": 54327102,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Things3-3.20.3.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 02-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
+    },
+    {
+      "name": "Violet",
+      "bundleIdentifier": "xyz.project.violet",
+      "version": "1.31.1",
+      "versionDate": "2024-02-17",
+      "size": 94290854,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Violet-1.31.1.ipa",
+      "developerName": "project-violet",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "19.06.2-2.4.1",
+      "versionDate": "2024-02-17",
+      "size": 111682732,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/YTLitePlus-19.06.2-2.4.1.ipa",
+      "developerName": "Balackburn",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -264,7 +363,7 @@
       "size": 1339325,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/ChargeLimiter-1.3.ipa",
       "developerName": "lich4",
-      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-12-2024\nStatus: \u2705",
+      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png"
     },
     {
@@ -407,7 +506,7 @@
       "size": 2179272,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/ChargeLimiter-1.1.ipa",
       "developerName": "lich4",
-      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-12-2024\nStatus: \u2705",
+      "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png"
     },
     {
@@ -770,7 +869,7 @@
       "size": 94267150,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Violet-1.31.0.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -803,7 +902,7 @@
       "size": 63770471,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AIChatSmithPremium-6.6.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -990,7 +1089,7 @@
       "size": 112615062,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/YTLitePlus-19.04.3-2.4.1.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -1133,7 +1232,7 @@
       "size": 74540387,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/Ignited-1.8.6.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -1331,7 +1430,7 @@
       "size": 94201838,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/Violet-1.30.2.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -1342,7 +1441,7 @@
       "size": 115501760,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/YTLitePlus-19.03.2-2.4.1.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -1749,7 +1848,7 @@
       "size": 94135640,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/Violet-1.30.1.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -1870,7 +1969,7 @@
       "size": 65555254,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/Ignited-1.8.5.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -2068,7 +2167,7 @@
       "size": 62009094,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/AIChatSmithPremium-6.5.3.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -2178,7 +2277,7 @@
       "size": 111084111,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/YTLitePlus-19.02.1-2.4.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -2310,7 +2409,7 @@
       "size": 73703482,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -2387,7 +2486,7 @@
       "size": 111109506,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/YTLitePlus-19.01.1-2.4.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -2574,7 +2673,7 @@
       "size": 73937401,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -2651,7 +2750,7 @@
       "size": 52194438,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/AIChatSmithPremium-6.5.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -2728,7 +2827,7 @@
       "size": 105982017,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MemrisePremium-2024.1.8.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -2763,17 +2862,6 @@
       "developerName": "DPixel",
       "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.111",
-      "versionDate": "2024-01-09",
-      "size": 77806042,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ReminiPro-2.9.111.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "Rosiecord",
@@ -2937,7 +3025,7 @@
       "size": 21989838,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/HDFlix-3.0.ipa",
       "developerName": "AppDB",
-      "localizedDescription": "Yet another very nice movie streaming service available without ads. It doesn't ask for account registration and the UI is great!\nLast updated: 01-07-2024\nStatus: \u2705",
+      "localizedDescription": "Yet another very nice movie streaming service available without ads. It doesn't ask for account registration and the UI is great!\nLast updated: 01-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png"
     },
     {
@@ -3047,7 +3135,7 @@
       "size": 93992082,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2024/Violet-1.30.0.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -3234,7 +3322,7 @@
       "size": 52191156,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/AIChatSmithPremium-6.5.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -3267,7 +3355,7 @@
       "size": 105998328,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/MemrisePremium-2023.12.20.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -3454,7 +3542,7 @@
       "size": 52399122,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Things3-3.19.8.ipa",
       "developerName": "AppDB",
-      "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 12-28-2023\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 02-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
     },
     {
@@ -3608,7 +3696,7 @@
       "size": 111530441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/YTLitePlus-18.49.3-2.4.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -3630,19 +3718,8 @@
       "size": 62168615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.107",
-      "versionDate": "2023-12-24",
-      "size": 77844357,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/ReminiPro-2.9.107.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "InstaRocketCracked",
@@ -3762,7 +3839,7 @@
       "size": 56038752,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/AIChatSmithPremium-6.5.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -4037,7 +4114,7 @@
       "size": 105998045,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -4136,7 +4213,7 @@
       "size": 111274005,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa",
       "developerName": "Balackburn",
-      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-08-2024\nStatus: \u2705",
+      "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -4400,7 +4477,7 @@
       "size": 62108889,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
       "developerName": "LitRitt",
-      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-29-2024\nStatus: \u2705",
+      "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
     },
     {
@@ -4730,7 +4807,7 @@
       "size": 94253440,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Violet-1.29.2.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -4807,7 +4884,7 @@
       "size": 106107558,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -4820,17 +4897,6 @@
       "developerName": "AIpalux / IPA Fire",
       "localizedDescription": "App description here. Quizlet Plus injected. Provided for free thanks to AIpaLux, tweak originally available through iApps paid repo. Note: please be aware that random crashes can occur while using the app + some features remain locked, more infos here.\nLast updated: 01-17-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.103",
-      "versionDate": "2023-12-08",
-      "size": 76485486,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/ReminiPro-2.9.103.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "TempoPro",
@@ -5071,7 +5137,7 @@
       "size": 94249905,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Violet-1.29.1.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -5104,7 +5170,7 @@
       "size": 58544194,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmithPremium-6.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -5247,7 +5313,7 @@
       "size": 51164188,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Things3-3.19.3.ipa",
       "developerName": "AppDB",
-      "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 12-28-2023\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 02-17-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
     },
     {
@@ -5427,17 +5493,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.101",
-      "versionDate": "2023-12-01",
-      "size": 69713882,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/ReminiPro-2.9.101.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "TrollInstallerMDC",
       "bundleIdentifier": "com.dhinakg.trollinstallermdc",
       "version": "1.0.4",
@@ -5478,7 +5533,7 @@
       "size": 68062282,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmithPremium-6.3.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -5621,7 +5676,7 @@
       "size": 3235795,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/Aidoku-0.6.6.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -5667,17 +5722,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / FayezUpdates / \u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / Manpreet Singh @thisismanpreets / Qamislo - Apps / Turki / IPA Fire / HertzSign iPA Library",
       "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.100",
-      "versionDate": "2023-11-28",
-      "size": 154258812,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/ReminiPro-2.9.100.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "SecondHand",
@@ -5753,7 +5797,7 @@
       "size": 90694453,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -5966,17 +6010,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.97",
-      "versionDate": "2023-11-18",
-      "size": 165665822,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/ReminiPro-2.9.97.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "SpeedTestPremium",
       "bundleIdentifier": "com.ookla.speedtest",
       "version": "5.2.1",
@@ -6186,17 +6219,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.93",
-      "versionDate": "2023-11-13",
-      "size": 159704507,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/ReminiPro-2.9.93.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "AIChatSmithPremium",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "version": "6.3.1",
@@ -6204,7 +6226,7 @@
       "size": 68210762,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmithPremium-6.3.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -6523,7 +6545,7 @@
       "size": 146348694,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -6556,7 +6578,7 @@
       "size": 94207694,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Violet-1.29.0.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -6580,17 +6602,6 @@
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
       "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 02-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.88",
-      "versionDate": "2023-11-03",
-      "size": 69543353,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-03-2023/ReminiPro-2.9.88.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "BHX",
@@ -6890,17 +6901,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.87",
-      "versionDate": "2023-10-25",
-      "size": 69159210,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/ReminiPro-2.9.87.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "uYouEnhanced",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "18.41.5",
@@ -7084,7 +7084,7 @@
       "size": 83774996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmithPremium-6.2.6.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -7396,17 +7396,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.82",
-      "versionDate": "2023-10-14",
-      "size": 180582739,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/ReminiPro-2.9.82.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "TorBrowserPlusPlus",
       "bundleIdentifier": "ch.b-eng.tor",
       "version": "3.3.4",
@@ -7535,7 +7524,7 @@
       "size": 85820013,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmithPremium-6.2.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -7843,7 +7832,7 @@
       "size": 142729185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 01-09-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -7876,7 +7865,7 @@
       "size": 58152963,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmithPremium-6.2.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -8010,17 +7999,6 @@
       "developerName": "AppDB / Ed0.ipa",
       "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.79",
-      "versionDate": "2023-09-27",
-      "size": 180810446,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/ReminiPro-2.9.79.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "SnapchatFalcon",
@@ -8272,7 +8250,7 @@
       "size": 56830198,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmithPremium-6.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -8441,17 +8419,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.77",
-      "versionDate": "2023-09-18",
-      "size": 179064805,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/ReminiPro-2.9.77.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "SnapchatWickedCracked",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "version": "12.52",
@@ -8591,7 +8558,7 @@
       "size": 3206258,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/Aidoku-0.6.5.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -8626,17 +8593,6 @@
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
       "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.75",
-      "versionDate": "2023-09-12",
-      "size": 163168297,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/ReminiPro-2.9.75.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "SnapchatWickedCracked",
@@ -8848,17 +8804,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.74",
-      "versionDate": "2023-09-06",
-      "size": 64904058,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/ReminiPro-2.9.74.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "Spotilife",
       "bundleIdentifier": "com.spotify.client",
       "version": "8.8.68",
@@ -8998,7 +8943,7 @@
       "size": 48912919,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmithPremium-6.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -9077,17 +9022,6 @@
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
       "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.72",
-      "versionDate": "2023-08-31",
-      "size": 62212795,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/ReminiPro-2.9.72.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "TwitchPlus",
@@ -9220,17 +9154,6 @@
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
       "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 02-13-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.71",
-      "versionDate": "2023-08-28",
-      "size": 64151599,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/ReminiPro-2.9.71.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "SnapchatWickedCracked",
@@ -9563,17 +9486,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.68",
-      "versionDate": "2023-08-17",
-      "size": 63897254,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/ReminiPro-2.9.68.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.2",
@@ -9838,17 +9750,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.67",
-      "versionDate": "2023-08-09",
-      "size": 155975720,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/ReminiPro-2.9.67.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "TwitchPlus",
       "bundleIdentifier": "tv.twitch",
       "version": "15.8",
@@ -10023,17 +9924,6 @@
       "developerName": "AppDB / DPixel / IPA Fire",
       "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.65",
-      "versionDate": "2023-08-04",
-      "size": 61362530,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-04-2023/ReminiPro-2.9.65.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "SnapchatFalcon",
@@ -10254,17 +10144,6 @@
       "developerName": "N/A",
       "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
-    },
-    {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.64",
-      "versionDate": "2023-07-28",
-      "size": 60838837,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/ReminiPro-2.9.64.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
     },
     {
       "name": "Watusi3",
@@ -10498,17 +10377,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
     },
     {
-      "name": "ReminiPro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "version": "2.9.61",
-      "versionDate": "2023-07-25",
-      "size": 74328097,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/ReminiPro-2.9.61.ipa",
-      "developerName": "IPA Fire / AppDB",
-      "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: Pro features are no longer working.\nLast updated: 01-09-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
-    },
-    {
       "name": "SnapchatWickedCracked",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "version": "12.44",
@@ -10626,7 +10494,7 @@
       "size": 5568713,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/Aidoku-0.6.4-10b1121.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -10736,7 +10604,7 @@
       "size": 5568175,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/Aidoku-0.6.4-0c1c109.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -10758,7 +10626,7 @@
       "size": 5568127,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Aidoku-0.6.4-0069c4d.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -10813,7 +10681,7 @@
       "size": 94054828,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Violet-1.28.5.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -10835,7 +10703,7 @@
       "size": 5568127,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/Aidoku-0.6.4.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -11407,7 +11275,7 @@
       "size": 5571433,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Aidoku-0.6.3.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -12595,7 +12463,7 @@
       "size": 57656818,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/AIChatSmithPremium-5.2.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-02-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -12980,7 +12848,7 @@
       "size": 93832933,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/Violet-1.28.4.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -13244,7 +13112,7 @@
       "size": 93833329,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/Violet-1.28.3.ipa",
       "developerName": "project-violet",
-      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-03-2024\nStatus: \u2705",
+      "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png"
     },
     {
@@ -13277,7 +13145,7 @@
       "size": 3268944,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2023/Aidoku-0.6.2.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -13585,7 +13453,7 @@
       "size": 2494959,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/Aidoku-0.6.1-6.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -15675,7 +15543,7 @@
       "size": 2467751,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/Aidoku-0.6.1-2.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -16654,7 +16522,7 @@
       "size": 2571626,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Aidoku-0.6.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
@@ -18205,7 +18073,7 @@
       "size": 2187660,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Aidoku.ipa",
       "developerName": "Aidoku",
-      "localizedDescription": "Webtoon/manga browser\nLast updated: 11-28-2023\nStatus: \u2705",
+      "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
     },
     {
