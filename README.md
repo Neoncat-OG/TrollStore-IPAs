@@ -91,7 +91,7 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 -  **Reposters Notice:** If you intend to download IPA files from sources other than this repository, it's important to note that there is an ongoing problem with Telegram channels, websites, and individuals stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository will list parties that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. Expect regular updates to this list, as it is subject to change.
 
-   ### Known reposters: *(01-20-2024)*
+   ### Known reposters: *(02-24-2024)*
    
     | Reposter* | Original Tweak/Maintainer |
     |:---------|---------------------------|
@@ -110,6 +110,7 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [Тик ток мод на айфон](https://t.me/vvveco) / [Makarr iOS TikTok mod на iPhone](https://t.me/MakarrIOS)| [iStorePlus تحديثات](https://t.me/iStoreplus) / [LazyShop](https://lazyshop.app/) / [DzMoha 𝕏](https://twitter.com/contact_nadhir) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) |
     | [ipaomtk](https://ipaomtk.com/) | [iOSGods!](https://iosgods.com/) / [AppDB](https://appdb.to/) |
     | [IPA Free](https://t.me/IPA_FREE_RAK) | [iOSGods!](https://iosgods.com/) / [ipalibrary.me](https://ipalibrary.me) |
+    | [Trollstore+jailbreak](https://t.me/trollstorebootstrap) | [nowesr1](https://twitter.com/nowesr1) |
     | [TrollStore AppsUpdates](https://t.me/TrollStoreApps) | [nowesr1](https://twitter.com/nowesr1) |
     | [Zappfree](https://zappfree.com/ipa-library/)→ [TweakHome: Website](https://tweakhome.app/) **(UNSAFE)**| [iOSGods!](https://iosgods.com/) |
     | [TweakHome: Telegram channel](https://t.me/tweakhomeapps) **(UNSAFE)**| [iOSGods!](https://iosgods.com/) |
