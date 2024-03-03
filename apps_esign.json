@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BeautyPlusPremium",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "version": "7.7.060",
+      "versionDate": "2024-03-03",
+      "size": 236260218,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/BeautyPlusPremium-7.7.060.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
+    },
+    {
       "name": "CarPlex",
       "bundleIdentifier": "com.osk3apps.CarPlex",
       "version": "1.1.5",
