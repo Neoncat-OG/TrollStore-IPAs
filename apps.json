@@ -4,6 +4,1128 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "CarPlex",
+      "bundleIdentifier": "com.osk3apps.CarPlex",
+      "developerName": "osk3apps.com",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
+      "versions": [
+        {
+          "version": "1.1.5",
+          "date": "2024-03-03",
+          "size": 1422424,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/CarPlex-1.1.5.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.4",
+          "date": "2024-02-10",
+          "size": 1422389,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/CarPlex-1.1.4.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.3",
+          "date": "2024-01-30",
+          "size": 1428811,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/CarPlex-1.1.3.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.1",
+          "date": "2024-01-28",
+          "size": 1436118,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/CarPlex-1.1.1.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-01-23",
+          "size": 1436308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/CarPlex-1.1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-01-22",
+          "size": 1435572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2024-01-20",
+          "size": 1502095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
+          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ChargeLimiter",
+      "bundleIdentifier": "chaoge.ChargeLimiter",
+      "developerName": "lich4",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png",
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2024-03-03",
+          "size": 2038683,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/ChargeLimiter-1.4.1.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4",
+          "date": "2024-02-17",
+          "size": 1931989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ChargeLimiter-1.4.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3",
+          "date": "2024-02-12",
+          "size": 1339325,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/ChargeLimiter-1.3.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1",
+          "date": "2024-02-10",
+          "size": 2179272,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/ChargeLimiter-1.1.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InShotPro",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+      "versions": [
+        {
+          "version": "1.76.1",
+          "date": "2024-03-03",
+          "size": 148817538,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/InShotPro-1.76.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.74.0",
+          "date": "2023-12-11",
+          "size": 142979578,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InShotPro-1.74.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.73.1",
+          "date": "2023-11-02",
+          "size": 105286019,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/InShotPro-1.73.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.73.0",
+          "date": "2023-10-31",
+          "size": 119766666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/InShotPro-1.73.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.72.1",
+          "date": "2023-10-20",
+          "size": 120994285,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InShotPro-1.72.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.72.0",
+          "date": "2023-09-19",
+          "size": 128843318,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InShotPro-1.72.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.71.0",
+          "date": "2023-08-16",
+          "size": 109555080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/InShotPro-1.71.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.70.3",
+          "date": "2023-08-14",
+          "size": 94184469,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/InShotPro-1.70.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.70.0",
+          "date": "2023-07-09",
+          "size": 104584718,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.69.1",
+          "date": "2023-06-25",
+          "size": 85111276,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.68.1",
+          "date": "2023-06-04",
+          "size": 101692931,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.68.0",
+          "date": "2023-05-19",
+          "size": 86555365,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/InShotPro-1.68.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.67.1",
+          "date": "2023-04-08",
+          "size": 104275639,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/InShotPro-1.67.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.67.0",
+          "date": "2023-04-01",
+          "size": 101978286,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.2",
+          "date": "2023-03-17",
+          "size": 99954251,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InShotPro-1.66.2.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.1",
+          "date": "2023-03-04",
+          "size": 87709132,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/InShotPro-1.66.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.66.0",
+          "date": "2023-02-28",
+          "size": 89073088,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.65.0",
+          "date": "2023-01-14",
+          "size": 83148773,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.64.1",
+          "date": "2022-12-22",
+          "size": 85376796,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.64.0",
+          "date": "2022-12-21",
+          "size": 97808807,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.63.3",
+          "date": "2022-11-16",
+          "size": 77797740,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 77681163,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
+          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstaRocketCracked",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "320.0.2-3.8.22",
+          "date": "2024-03-03",
+          "size": 144649928,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/InstaRocketCracked-320.0.2-3.8.22.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "320.0.2-3.8.21",
+          "date": "2024-02-27",
+          "size": 144783248,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/InstaRocketCracked-320.0.2-3.8.21.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "319.0.2-3.8.21",
+          "date": "2024-02-24",
+          "size": 144204458,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstaRocketCracked-319.0.2-3.8.21.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "318.0.7-3.8.21",
+          "date": "2024-02-13",
+          "size": 145357097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/InstaRocketCracked-318.0.7-3.8.21.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "317.0.4-3.8.21",
+          "date": "2024-02-06",
+          "size": 126938029,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/InstaRocketCracked-317.0.4-3.8.21.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "316.1.8-3.8.21",
+          "date": "2024-02-01",
+          "size": 141501358,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/InstaRocketCracked-316.1.8-3.8.21.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "316.0.6-3.8.19",
+          "date": "2024-01-24",
+          "size": 133878461,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstaRocketCracked-316.0.6-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "314.0.6-3.8.19",
+          "date": "2024-01-17",
+          "size": 137806332,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstaRocketCracked-314.0.6-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-3.8.19",
+          "date": "2024-01-08",
+          "size": 140839522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/InstaRocketCracked-313.0.2-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-3.8.19",
+          "date": "2023-12-23",
+          "size": 138835054,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/InstaRocketCracked-312.0.1-3.8.19.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-3.8.18",
+          "date": "2023-12-20",
+          "size": 145963411,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/InstaRocketCracked-312.0.1-3.8.18.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "311.0.2-3.8.18",
+          "date": "2023-12-12",
+          "size": 146401687,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstaRocketCracked-311.0.2-3.8.18.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-3.8.17",
+          "date": "2023-12-05",
+          "size": 139104938,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/InstaRocketCracked-310.0.4-3.8.17.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-3.8.17",
+          "date": "2023-11-19",
+          "size": 142379899,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InstaRocketCracked-309.1.1-3.8.17.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-3.8.16",
+          "date": "2023-11-18",
+          "size": 133590490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstaRocketCracked-309.1.1-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.0.1-3.8.16",
+          "date": "2023-11-14",
+          "size": 138663420,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2023/InstaRocketCracked-309.0.1-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "307.0.2-3.8.16",
+          "date": "2023-11-01",
+          "size": 140478771,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketCracked-307.0.2-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "305.0-3.8.16",
+          "date": "2023-10-20",
+          "size": 138314654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InstaRocketCracked-305.0-3.8.16.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "305.0-3.8.15",
+          "date": "2023-10-16",
+          "size": 134565193,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/InstaRocketCracked-305.0-3.8.15.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "303.3-3.8.15",
+          "date": "2023-10-05",
+          "size": 138342775,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/InstaRocketCracked-303.3-3.8.15.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "303.1-3.8.15",
+          "date": "2023-10-03",
+          "size": 138461786,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/InstaRocketCracked-303.1-3.8.15.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "303.1-3.8.14",
+          "date": "2023-10-01",
+          "size": 133097927,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/InstaRocketCracked-303.1-3.8.14.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "302.0-3.8.14",
+          "date": "2023-09-30",
+          "size": 128786222,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/InstaRocketCracked-302.0-3.8.14.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "302.0-3.8.13",
+          "date": "2023-09-27",
+          "size": 129486813,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InstaRocketCracked-302.0-3.8.13.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "301.1-3.8.13",
+          "date": "2023-09-21",
+          "size": 128390619,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/InstaRocketCracked-301.1-3.8.13.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "301.0",
+          "date": "2023-09-19",
+          "size": 128823977,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InstaRocketCracked-301.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "300.0",
+          "date": "2023-09-18",
+          "size": 141290845,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/InstaRocketCracked-300.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "299.0",
+          "date": "2023-09-05",
+          "size": 134594496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/InstaRocketCracked-299.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "298.0",
+          "date": "2023-08-29",
+          "size": 120786045,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/InstaRocketCracked-298.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "297.0",
+          "date": "2023-08-22",
+          "size": 134331276,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/InstaRocketCracked-297.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "296.0",
+          "date": "2023-08-19",
+          "size": 125966512,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/InstaRocketCracked-296.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "295.0",
+          "date": "2023-08-08",
+          "size": 133673214,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/InstaRocketCracked-295.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "294.0",
+          "date": "2023-08-05",
+          "size": 138904016,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/InstaRocketCracked-294.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "293.1",
+          "date": "2023-07-28",
+          "size": 138199453,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/InstaRocketCracked-293.1.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "293.0",
+          "date": "2023-07-24",
+          "size": 134747680,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2023/InstaRocketCracked-293.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "289.1",
+          "date": "2023-06-29",
+          "size": 143202331,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InstaRocketCracked-289.1.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "289",
+          "date": "2023-06-27",
+          "size": 140912140,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/InstaRocketCracked-289.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "288.1",
+          "date": "2023-06-25",
+          "size": 148197831,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InstaRocketCracked-288.1.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "283.0",
+          "date": "2023-05-17",
+          "size": 201450719,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/InstaRocketCracked-283.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "282.0",
+          "date": "2023-05-10",
+          "size": 129399520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/InstaRocketCracked-282.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "280.0",
+          "date": "2023-04-24",
+          "size": 223030321,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/InstaRocketCracked-280.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.7-279.0",
+          "date": "2023-04-19",
+          "size": 121796595,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/InstaRocketCracked-3.8.7-279.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.7-278.0",
+          "date": "2023-04-18",
+          "size": 126969159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/InstaRocketCracked-3.8.7-278.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.6-273.0",
+          "date": "2023-03-12",
+          "size": 115383485,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2023/InstaRocketCracked-3.8.6-273.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "273.0",
+          "date": "2023-03-08",
+          "size": 112405921,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/InstaRocketCracked-273.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.5-272.0",
+          "date": "2023-02-28",
+          "size": 117934381,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/InstaRocketCracked-3.8.5-272.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "271.1",
+          "date": "2023-02-25",
+          "size": 116107262,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/InstaRocketCracked-271.1.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.5-271.0",
+          "date": "2023-02-22",
+          "size": 115983786,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/InstaRocketCracked-3.8.5-271.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.5-270.0",
+          "date": "2023-02-18",
+          "size": 133910429,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/InstaRocketCracked-3.8.5-270.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "270.0",
+          "date": "2023-02-14",
+          "size": 133911214,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/InstaRocketCracked-270.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.4-269.1",
+          "date": "2023-02-11",
+          "size": 126820351,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/InstaRocketCracked-3.8.4-269.1.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "269.0",
+          "date": "2023-02-09",
+          "size": 116403841,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/InstaRocketCracked-269.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "269.0",
+          "date": "2023-02-08",
+          "size": 133250003,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-269.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.4-267.0",
+          "date": "2023-02-06",
+          "size": 126799208,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-3.8.4-267.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "267.0",
+          "date": "2023-01-28",
+          "size": 114069371,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/InstaRocketCracked-267.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.3-267.0",
+          "date": "2023-01-25",
+          "size": 110663244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/InstaRocketCracked-3.8.3-267.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8.3-266.0",
+          "date": "2023-01-18",
+          "size": 126452179,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/InstaRocketCracked-3.8.3-266.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "iPoGo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "https://ipogo.app",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+      "versions": [
+        {
+          "version": "3.2.5",
+          "date": "2024-03-03",
+          "size": 130920116,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/iPoGo-3.2.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.4",
+          "date": "2024-02-08",
+          "size": 127670322,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/iPoGo-3.2.4.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.3",
+          "date": "2024-01-23",
+          "size": 127510651,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.2",
+          "date": "2023-12-21",
+          "size": 128549352,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.1",
+          "date": "2023-12-15",
+          "size": 128405035,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.0",
+          "date": "2023-11-28",
+          "size": 127955571,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.9",
+          "date": "2023-11-24",
+          "size": 127974496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.8",
+          "date": "2023-11-12",
+          "size": 129188645,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.7",
+          "date": "2023-10-29",
+          "size": 129089719,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.5",
+          "date": "2023-10-17",
+          "size": 127860610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.1.1",
+          "date": "2023-09-23",
+          "size": 127591654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0.9",
+          "date": "2023-09-06",
+          "size": 126239276,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0.1",
+          "date": "2023-07-25",
+          "size": 126194522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.9.3",
+          "date": "2023-06-04",
+          "size": 123882886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.9.2",
+          "date": "2023-05-24",
+          "size": 123750627,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.9.0",
+          "date": "2023-05-17",
+          "size": 122938601,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.9",
+          "date": "2023-05-06",
+          "size": 122907896,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.8",
+          "date": "2023-04-16",
+          "size": 122882233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.6",
+          "date": "2023-03-21",
+          "size": 121718227,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.5",
+          "date": "2023-03-12",
+          "size": 123182848,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.4",
+          "date": "2023-03-03",
+          "size": 123377179,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.4",
+          "date": "2023-02-25",
+          "size": 123377179,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.3",
+          "date": "2023-02-18",
+          "size": 118904543,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.2",
+          "date": "2023-02-05",
+          "size": 122913076,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.1",
+          "date": "2023-01-29",
+          "size": 123001961,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.0",
+          "date": "2023-01-07",
+          "size": 119064262,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.9",
+          "date": "2022-12-15",
+          "size": 119086766,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.8",
+          "date": "2022-12-05",
+          "size": 118512858,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.7",
+          "date": "2022-11-29",
+          "size": 118590622,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.7.5",
+          "date": "2022-11-12",
+          "size": 115862609,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 114949354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MotionleapPro",
+      "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Phoenix.png",
+      "versions": [
+        {
+          "version": "1.9.23",
+          "date": "2024-03-03",
+          "size": 175507184,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/MotionleapPro-1.9.23.ipa",
+          "localizedDescription": "Generate art with the power of AI as Motionleap enhances images through animation, bringing them to life and creating dynamic moving visuals. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Rosiecord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "acquitelol",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "219.0",
+          "date": "2024-03-03",
+          "size": 107926514,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/Rosiecord-219.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "218.0",
+          "date": "2024-02-22",
+          "size": 102435896,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/Rosiecord-218.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "217.0",
+          "date": "2024-02-14",
+          "size": 101230124,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Rosiecord-217.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "212.0",
+          "date": "2024-01-12",
+          "size": 101241215,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/Rosiecord-212.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "211.0",
+          "date": "2024-01-09",
+          "size": 101221889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/Rosiecord-211.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "209.0",
+          "date": "2023-12-13",
+          "size": 100981286,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Rosiecord-209.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "208.0",
+          "date": "2023-12-03",
+          "size": 99949821,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Rosiecord-208.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "203.0",
+          "date": "2023-11-05",
+          "size": 104908802,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Rosiecord-203.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "200.0",
+          "date": "2023-10-17",
+          "size": 136303861,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/Rosiecord-200.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "197.0",
+          "date": "2023-09-23",
+          "size": 139028037,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Rosiecord-197.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "158.0",
+          "date": "2023-04-19",
+          "size": 136055579,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Rosiecord-158.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "157.0",
+          "date": "2022-12-27",
+          "size": 83147217,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/Rosiecord-157.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "155",
+          "date": "2022-11-27",
+          "size": 80707613,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/Rosiecord-155.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "154",
+          "date": "2022-11-16",
+          "size": 80391978,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Rosiecord-154.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "VesselFinderPro",
+      "bundleIdentifier": "com.astrapaging.VesselFinder",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.astrapaging.VesselFinder.png",
+      "versions": [
+        {
+          "version": "5.5.2",
+          "date": "2024-03-03",
+          "size": 10667274,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/VesselFinderPro-5.5.2.ipa",
+          "localizedDescription": "Leading app for tracking vessels, offering up-to-the-minute information on vessel positions and movements through a vast network of onshore AIS receivers. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Balackburn",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.08.2-2.7",
+          "date": "2024-03-03",
+          "size": 112048023,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/YTLitePlus-19.08.2-2.7.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.08.2-2.6.3",
+          "date": "2024-02-28",
+          "size": 112019820,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/YTLitePlus-19.08.2-2.6.3.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.06.2-2.6.1",
+          "date": "2024-02-25",
+          "size": 111705870,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/YTLitePlus-19.06.2-2.6.1.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.06.2-2.6",
+          "date": "2024-02-19",
+          "size": 111700928,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-19-2024/YTLitePlus-19.06.2-2.6.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.06.2-2.5",
+          "date": "2024-02-18",
+          "size": 111694328,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2024/YTLitePlus-19.06.2-2.5.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.06.2-2.4.1",
+          "date": "2024-02-17",
+          "size": 111682732,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/YTLitePlus-19.06.2-2.4.1.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.05.3-2.4.1",
+          "date": "2024-02-08",
+          "size": 119297942,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/YTLitePlus-19.05.3-2.4.1.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.04.3-2.4.1",
+          "date": "2024-02-01",
+          "size": 112615062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/YTLitePlus-19.04.3-2.4.1.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.03.2-2.4.1",
+          "date": "2024-01-26",
+          "size": 115501760,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/YTLitePlus-19.03.2-2.4.1.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.02.1-2.4",
+          "date": "2024-01-17",
+          "size": 111084111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/YTLitePlus-19.02.1-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.01.1-2.4",
+          "date": "2024-01-14",
+          "size": 111109506,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/YTLitePlus-19.01.1-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.49.3-2.4",
+          "date": "2023-12-25",
+          "size": 111530441,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/YTLitePlus-18.49.3-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.48.3-2.4",
+          "date": "2023-12-17",
+          "size": 111274005,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "AdGuardPro",
       "bundleIdentifier": "com.adguard.AdguardPro",
       "developerName": "N/A",
@@ -3310,98 +4432,6 @@
       ]
     },
     {
-      "name": "YTLitePlus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Balackburn",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "19.08.2-2.6.3",
-          "date": "2024-02-28",
-          "size": 112019820,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/YTLitePlus-19.08.2-2.6.3.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.06.2-2.6.1",
-          "date": "2024-02-25",
-          "size": 111705870,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/YTLitePlus-19.06.2-2.6.1.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.06.2-2.6",
-          "date": "2024-02-19",
-          "size": 111700928,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-19-2024/YTLitePlus-19.06.2-2.6.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.06.2-2.5",
-          "date": "2024-02-18",
-          "size": 111694328,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2024/YTLitePlus-19.06.2-2.5.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.06.2-2.4.1",
-          "date": "2024-02-17",
-          "size": 111682732,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/YTLitePlus-19.06.2-2.4.1.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.05.3-2.4.1",
-          "date": "2024-02-08",
-          "size": 119297942,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/YTLitePlus-19.05.3-2.4.1.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.04.3-2.4.1",
-          "date": "2024-02-01",
-          "size": 112615062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/YTLitePlus-19.04.3-2.4.1.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.03.2-2.4.1",
-          "date": "2024-01-26",
-          "size": 115501760,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/YTLitePlus-19.03.2-2.4.1.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.02.1-2.4",
-          "date": "2024-01-17",
-          "size": 111084111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/YTLitePlus-19.02.1-2.4.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.01.1-2.4",
-          "date": "2024-01-14",
-          "size": 111109506,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/YTLitePlus-19.01.1-2.4.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "18.49.3-2.4",
-          "date": "2023-12-25",
-          "size": 111530441,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/YTLitePlus-18.49.3-2.4.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        },
-        {
-          "version": "18.48.3-2.4",
-          "date": "2023-12-17",
-          "size": 111274005,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 02-28-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
@@ -3904,406 +4934,6 @@
           "size": 142483795,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
           "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 02-27-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstaRocketCracked",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "320.0.2-3.8.21",
-          "date": "2024-02-27",
-          "size": 144783248,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/InstaRocketCracked-320.0.2-3.8.21.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "319.0.2-3.8.21",
-          "date": "2024-02-24",
-          "size": 144204458,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstaRocketCracked-319.0.2-3.8.21.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "318.0.7-3.8.21",
-          "date": "2024-02-13",
-          "size": 145357097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/InstaRocketCracked-318.0.7-3.8.21.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "317.0.4-3.8.21",
-          "date": "2024-02-06",
-          "size": 126938029,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/InstaRocketCracked-317.0.4-3.8.21.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "316.1.8-3.8.21",
-          "date": "2024-02-01",
-          "size": 141501358,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/InstaRocketCracked-316.1.8-3.8.21.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "316.0.6-3.8.19",
-          "date": "2024-01-24",
-          "size": 133878461,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstaRocketCracked-316.0.6-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "314.0.6-3.8.19",
-          "date": "2024-01-17",
-          "size": 137806332,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstaRocketCracked-314.0.6-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-3.8.19",
-          "date": "2024-01-08",
-          "size": 140839522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/InstaRocketCracked-313.0.2-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-3.8.19",
-          "date": "2023-12-23",
-          "size": 138835054,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/InstaRocketCracked-312.0.1-3.8.19.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-3.8.18",
-          "date": "2023-12-20",
-          "size": 145963411,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/InstaRocketCracked-312.0.1-3.8.18.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "311.0.2-3.8.18",
-          "date": "2023-12-12",
-          "size": 146401687,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstaRocketCracked-311.0.2-3.8.18.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-3.8.17",
-          "date": "2023-12-05",
-          "size": 139104938,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/InstaRocketCracked-310.0.4-3.8.17.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-3.8.17",
-          "date": "2023-11-19",
-          "size": 142379899,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InstaRocketCracked-309.1.1-3.8.17.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-3.8.16",
-          "date": "2023-11-18",
-          "size": 133590490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstaRocketCracked-309.1.1-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.0.1-3.8.16",
-          "date": "2023-11-14",
-          "size": 138663420,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2023/InstaRocketCracked-309.0.1-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "307.0.2-3.8.16",
-          "date": "2023-11-01",
-          "size": 140478771,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketCracked-307.0.2-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "305.0-3.8.16",
-          "date": "2023-10-20",
-          "size": 138314654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InstaRocketCracked-305.0-3.8.16.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "305.0-3.8.15",
-          "date": "2023-10-16",
-          "size": 134565193,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/InstaRocketCracked-305.0-3.8.15.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "303.3-3.8.15",
-          "date": "2023-10-05",
-          "size": 138342775,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/InstaRocketCracked-303.3-3.8.15.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "303.1-3.8.15",
-          "date": "2023-10-03",
-          "size": 138461786,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/InstaRocketCracked-303.1-3.8.15.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "303.1-3.8.14",
-          "date": "2023-10-01",
-          "size": 133097927,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/InstaRocketCracked-303.1-3.8.14.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "302.0-3.8.14",
-          "date": "2023-09-30",
-          "size": 128786222,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/InstaRocketCracked-302.0-3.8.14.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "302.0-3.8.13",
-          "date": "2023-09-27",
-          "size": 129486813,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InstaRocketCracked-302.0-3.8.13.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "301.1-3.8.13",
-          "date": "2023-09-21",
-          "size": 128390619,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/InstaRocketCracked-301.1-3.8.13.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "301.0",
-          "date": "2023-09-19",
-          "size": 128823977,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InstaRocketCracked-301.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "300.0",
-          "date": "2023-09-18",
-          "size": 141290845,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/InstaRocketCracked-300.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "299.0",
-          "date": "2023-09-05",
-          "size": 134594496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/InstaRocketCracked-299.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "298.0",
-          "date": "2023-08-29",
-          "size": 120786045,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/InstaRocketCracked-298.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "297.0",
-          "date": "2023-08-22",
-          "size": 134331276,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/InstaRocketCracked-297.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "296.0",
-          "date": "2023-08-19",
-          "size": 125966512,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/InstaRocketCracked-296.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "295.0",
-          "date": "2023-08-08",
-          "size": 133673214,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/InstaRocketCracked-295.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "294.0",
-          "date": "2023-08-05",
-          "size": 138904016,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/InstaRocketCracked-294.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "293.1",
-          "date": "2023-07-28",
-          "size": 138199453,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/InstaRocketCracked-293.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "293.0",
-          "date": "2023-07-24",
-          "size": 134747680,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2023/InstaRocketCracked-293.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "289.1",
-          "date": "2023-06-29",
-          "size": 143202331,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InstaRocketCracked-289.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "289",
-          "date": "2023-06-27",
-          "size": 140912140,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/InstaRocketCracked-289.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "288.1",
-          "date": "2023-06-25",
-          "size": 148197831,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InstaRocketCracked-288.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "283.0",
-          "date": "2023-05-17",
-          "size": 201450719,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/InstaRocketCracked-283.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "282.0",
-          "date": "2023-05-10",
-          "size": 129399520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/InstaRocketCracked-282.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "280.0",
-          "date": "2023-04-24",
-          "size": 223030321,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/InstaRocketCracked-280.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.7-279.0",
-          "date": "2023-04-19",
-          "size": 121796595,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/InstaRocketCracked-3.8.7-279.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.7-278.0",
-          "date": "2023-04-18",
-          "size": 126969159,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/InstaRocketCracked-3.8.7-278.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.6-273.0",
-          "date": "2023-03-12",
-          "size": 115383485,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2023/InstaRocketCracked-3.8.6-273.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "273.0",
-          "date": "2023-03-08",
-          "size": 112405921,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/InstaRocketCracked-273.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.5-272.0",
-          "date": "2023-02-28",
-          "size": 117934381,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/InstaRocketCracked-3.8.5-272.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "271.1",
-          "date": "2023-02-25",
-          "size": 116107262,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/InstaRocketCracked-271.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.5-271.0",
-          "date": "2023-02-22",
-          "size": 115983786,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/InstaRocketCracked-3.8.5-271.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.5-270.0",
-          "date": "2023-02-18",
-          "size": 133910429,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/InstaRocketCracked-3.8.5-270.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "270.0",
-          "date": "2023-02-14",
-          "size": 133911214,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/InstaRocketCracked-270.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.4-269.1",
-          "date": "2023-02-11",
-          "size": 126820351,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/InstaRocketCracked-3.8.4-269.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "269.0",
-          "date": "2023-02-09",
-          "size": 116403841,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/InstaRocketCracked-269.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "269.0",
-          "date": "2023-02-08",
-          "size": 133250003,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-269.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.4-267.0",
-          "date": "2023-02-06",
-          "size": 126799208,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/InstaRocketCracked-3.8.4-267.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "267.0",
-          "date": "2023-01-28",
-          "size": 114069371,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/InstaRocketCracked-267.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.3-267.0",
-          "date": "2023-01-25",
-          "size": 110663244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/InstaRocketCracked-3.8.3-267.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8.3-266.0",
-          "date": "2023-01-18",
-          "size": 126452179,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/InstaRocketCracked-3.8.3-266.0.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 02-27-2024\nStatus: \u2705"
         }
       ]
     },
@@ -5754,105 +6384,6 @@
       ]
     },
     {
-      "name": "Rosiecord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "acquitelol",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "218.0",
-          "date": "2024-02-22",
-          "size": 102435896,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/Rosiecord-218.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "217.0",
-          "date": "2024-02-14",
-          "size": 101230124,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Rosiecord-217.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "212.0",
-          "date": "2024-01-12",
-          "size": 101241215,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/Rosiecord-212.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "211.0",
-          "date": "2024-01-09",
-          "size": 101221889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/Rosiecord-211.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "209.0",
-          "date": "2023-12-13",
-          "size": 100981286,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/Rosiecord-209.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "208.0",
-          "date": "2023-12-03",
-          "size": 99949821,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Rosiecord-208.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "203.0",
-          "date": "2023-11-05",
-          "size": 104908802,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Rosiecord-203.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "200.0",
-          "date": "2023-10-17",
-          "size": 136303861,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/Rosiecord-200.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "197.0",
-          "date": "2023-09-23",
-          "size": 139028037,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Rosiecord-197.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "158.0",
-          "date": "2023-04-19",
-          "size": 136055579,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Rosiecord-158.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "157.0",
-          "date": "2022-12-27",
-          "size": 83147217,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/Rosiecord-157.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "155",
-          "date": "2022-11-27",
-          "size": 80707613,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/Rosiecord-155.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "154",
-          "date": "2022-11-16",
-          "size": 80391978,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/Rosiecord-154.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 02-22-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "TikTokDark",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
@@ -7257,35 +7788,6 @@
       ]
     },
     {
-      "name": "ChargeLimiter",
-      "bundleIdentifier": "chaoge.ChargeLimiter",
-      "developerName": "lich4",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png",
-      "versions": [
-        {
-          "version": "1.4",
-          "date": "2024-02-17",
-          "size": 1931989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ChargeLimiter-1.4.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3",
-          "date": "2024-02-12",
-          "size": 1339325,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/ChargeLimiter-1.3.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1",
-          "date": "2024-02-10",
-          "size": 2179272,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/ChargeLimiter-1.1.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 02-17-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "Ignited",
       "bundleIdentifier": "com.litritt.ignited",
       "developerName": "LitRitt",
@@ -8237,56 +8739,6 @@
       ]
     },
     {
-      "name": "CarPlex",
-      "bundleIdentifier": "com.osk3apps.CarPlex",
-      "developerName": "osk3apps.com",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.osk3apps.CarPlex.png",
-      "versions": [
-        {
-          "version": "1.1.4",
-          "date": "2024-02-10",
-          "size": 1422389,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/CarPlex-1.1.4.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 02-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.3",
-          "date": "2024-01-30",
-          "size": 1428811,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/CarPlex-1.1.3.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 02-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.1",
-          "date": "2024-01-28",
-          "size": 1436118,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/CarPlex-1.1.1.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 02-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.0",
-          "date": "2024-01-23",
-          "size": 1436308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/CarPlex-1.1.0.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 02-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2024-01-22",
-          "size": 1435572,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/CarPlex-1.0.1.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 02-10-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2024-01-20",
-          "size": 1502095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/CarPlex-1.0.ipa",
-          "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 02-10-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "Opener",
       "bundleIdentifier": "com.tijo.opener.Opener",
       "developerName": "CyPwn IPA library",
@@ -8319,224 +8771,6 @@
           "size": 1813888,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Opener.ipa",
           "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps\nLast updated: 02-09-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "iPoGo",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "https://ipogo.app",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
-      "versions": [
-        {
-          "version": "3.2.4",
-          "date": "2024-02-08",
-          "size": 127670322,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/iPoGo-3.2.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.3",
-          "date": "2024-01-23",
-          "size": 127510651,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.2",
-          "date": "2023-12-21",
-          "size": 128549352,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.1",
-          "date": "2023-12-15",
-          "size": 128405035,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.0",
-          "date": "2023-11-28",
-          "size": 127955571,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.9",
-          "date": "2023-11-24",
-          "size": 127974496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.8",
-          "date": "2023-11-12",
-          "size": 129188645,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.7",
-          "date": "2023-10-29",
-          "size": 129089719,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.5",
-          "date": "2023-10-17",
-          "size": 127860610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.1.1",
-          "date": "2023-09-23",
-          "size": 127591654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0.9",
-          "date": "2023-09-06",
-          "size": 126239276,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0.1",
-          "date": "2023-07-25",
-          "size": 126194522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.9.3",
-          "date": "2023-06-04",
-          "size": 123882886,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.9.2",
-          "date": "2023-05-24",
-          "size": 123750627,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.9.0",
-          "date": "2023-05-17",
-          "size": 122938601,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.9",
-          "date": "2023-05-06",
-          "size": 122907896,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.8",
-          "date": "2023-04-16",
-          "size": 122882233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.6",
-          "date": "2023-03-21",
-          "size": 121718227,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.5",
-          "date": "2023-03-12",
-          "size": 123182848,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.4",
-          "date": "2023-03-03",
-          "size": 123377179,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.4",
-          "date": "2023-02-25",
-          "size": 123377179,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.3",
-          "date": "2023-02-18",
-          "size": 118904543,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.2",
-          "date": "2023-02-05",
-          "size": 122913076,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.1",
-          "date": "2023-01-29",
-          "size": 123001961,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.8.0",
-          "date": "2023-01-07",
-          "size": 119064262,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.9",
-          "date": "2022-12-15",
-          "size": 119086766,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.8",
-          "date": "2022-12-05",
-          "size": 118512858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.7",
-          "date": "2022-11-29",
-          "size": 118590622,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.7.5",
-          "date": "2022-11-12",
-          "size": 115862609,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 114949354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
-          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 02-08-2024\nStatus: \u2705"
         }
       ]
     },
@@ -11273,161 +11507,6 @@
           "size": 921268,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/WiFiList-1.0.ipa",
           "localizedDescription": "Enables you to view the previously saved passwords of connected Wi-Fi networks.\nLast updated: 12-12-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InShotPro",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
-      "versions": [
-        {
-          "version": "1.74.0",
-          "date": "2023-12-11",
-          "size": 142979578,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InShotPro-1.74.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.73.1",
-          "date": "2023-11-02",
-          "size": 105286019,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/InShotPro-1.73.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.73.0",
-          "date": "2023-10-31",
-          "size": 119766666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-31-2023/InShotPro-1.73.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.72.1",
-          "date": "2023-10-20",
-          "size": 120994285,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/InShotPro-1.72.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.72.0",
-          "date": "2023-09-19",
-          "size": 128843318,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InShotPro-1.72.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.71.0",
-          "date": "2023-08-16",
-          "size": 109555080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/InShotPro-1.71.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.70.3",
-          "date": "2023-08-14",
-          "size": 94184469,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2023/InShotPro-1.70.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.70.0",
-          "date": "2023-07-09",
-          "size": 104584718,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.69.1",
-          "date": "2023-06-25",
-          "size": 85111276,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.68.1",
-          "date": "2023-06-04",
-          "size": 101692931,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.68.0",
-          "date": "2023-05-19",
-          "size": 86555365,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2023/InShotPro-1.68.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.67.1",
-          "date": "2023-04-08",
-          "size": 104275639,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/InShotPro-1.67.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.67.0",
-          "date": "2023-04-01",
-          "size": 101978286,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/InShotPro-1.67.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.2",
-          "date": "2023-03-17",
-          "size": 99954251,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InShotPro-1.66.2.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.1",
-          "date": "2023-03-04",
-          "size": 87709132,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/InShotPro-1.66.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.66.0",
-          "date": "2023-02-28",
-          "size": 89073088,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/InShotPro-1.66.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.65.0",
-          "date": "2023-01-14",
-          "size": 83148773,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/InShotPro-1.65.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.64.1",
-          "date": "2022-12-22",
-          "size": 85376796,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/InShotPro-1.64.1.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.64.0",
-          "date": "2022-12-21",
-          "size": 97808807,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/InShotPro-1.64.0.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.63.3",
-          "date": "2022-11-16",
-          "size": 77797740,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/InShotPro-1.63.3.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 77681163,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
-          "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 12-11-2023\nStatus: \u2705"
         }
       ]
     },
