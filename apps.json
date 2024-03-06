@@ -4,6 +4,101 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BlackHole",
+      "bundleIdentifier": "com.shadow.blackhole1160.ios",
+      "developerName": "Sangwan5688",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png",
+      "versions": [
+        {
+          "version": "1.15.11",
+          "date": "2024-03-06",
+          "size": 18475866,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2024/BlackHole-1.15.11.ipa",
+          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.15.10",
+          "date": "2023-12-04",
+          "size": 17380366,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/BlackHole-1.15.10.ipa",
+          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.15.9",
+          "date": "2023-09-23",
+          "size": 28764405,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/BlackHole-1.15.9.ipa",
+          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.15.8",
+          "date": "2023-06-04",
+          "size": 28702109,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/BlackHole-1.15.8.ipa",
+          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.15.6",
+          "date": "2023-03-08",
+          "size": 26410422,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/BlackHole-1.15.6.ipa",
+          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "LocketWidgetGold",
+      "bundleIdentifier": "com.locket.Locket",
+      "developerName": "ipalibrary.me",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.locket.Locket.png",
+      "versions": [
+        {
+          "version": "1.65.0",
+          "date": "2024-03-06",
+          "size": 91041698,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2024/LocketWidgetGold-1.65.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 03-06-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.63.0",
+          "date": "2024-02-24",
+          "size": 91019398,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/LocketWidgetGold-1.63.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 03-06-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png",
+      "versions": [
+        {
+          "version": "6.2.35",
+          "date": "2024-03-06",
+          "size": 19556756,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2024/Musi-6.2.35.ipa",
+          "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ReelsappPro",
+      "bundleIdentifier": "com.nextgen.reelsapp",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nextgen.reelsapp.png",
+      "versions": [
+        {
+          "version": "5.7",
+          "date": "2024-03-06",
+          "size": 43839941,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2024/ReelsappPro-5.7.ipa",
+          "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "AIChatSmithPremium",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / AppleFavour iPA Library / DPixel",
@@ -6508,21 +6603,6 @@
       ]
     },
     {
-      "name": "LocketWidgetGold",
-      "bundleIdentifier": "com.locket.Locket",
-      "developerName": "ipalibrary.me",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.locket.Locket.png",
-      "versions": [
-        {
-          "version": "1.63.0",
-          "date": "2024-02-24",
-          "size": 91019398,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/LocketWidgetGold-1.63.0.ipa",
-          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 02-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "AIChatGP",
       "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
       "developerName": "DPixel",
@@ -11847,42 +11927,6 @@
       ]
     },
     {
-      "name": "BlackHole",
-      "bundleIdentifier": "com.shadow.blackhole1160.ios",
-      "developerName": "Sangwan5688",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png",
-      "versions": [
-        {
-          "version": "1.15.10",
-          "date": "2023-12-04",
-          "size": 17380366,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/BlackHole-1.15.10.ipa",
-          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 12-04-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.15.9",
-          "date": "2023-09-23",
-          "size": 28764405,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/BlackHole-1.15.9.ipa",
-          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 12-04-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.15.8",
-          "date": "2023-06-04",
-          "size": 28702109,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/BlackHole-1.15.8.ipa",
-          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 12-04-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.15.6",
-          "date": "2023-03-08",
-          "size": 26410422,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/BlackHole-1.15.6.ipa",
-          "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 12-04-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "ShowBox",
       "bundleIdentifier": "com.tovuen.play",
       "developerName": "Qamislo - Apps",
@@ -12096,140 +12140,140 @@
           "date": "2023-11-14",
           "size": 128714278,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2023/RedditPlus-2023.45.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.41.0",
           "date": "2023-10-21",
           "size": 125437154,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-21-2023/RedditPlus-2023.41.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.39.0",
           "date": "2023-10-05",
           "size": 127043823,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/RedditPlus-2023.39.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.38.0",
           "date": "2023-09-27",
           "size": 125711567,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/RedditPlus-2023.38.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.37.0",
           "date": "2023-09-19",
           "size": 118088350,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/RedditPlus-2023.37.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.36.0",
           "date": "2023-09-14",
           "size": 115883349,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/RedditPlus-2023.36.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.35.0",
           "date": "2023-09-06",
           "size": 88252981,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/RedditPlus-2023.35.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.34.0",
           "date": "2023-08-29",
           "size": 87716466,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/RedditPlus-2023.34.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.33.0",
           "date": "2023-08-22",
           "size": 86386648,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/RedditPlus-2023.33.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.32.0",
           "date": "2023-08-16",
           "size": 85296283,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/RedditPlus-2023.32.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.31.0",
           "date": "2023-08-12",
           "size": 93109645,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-12-2023/RedditPlus-2023.31.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.29.0",
           "date": "2023-07-25",
           "size": 91595597,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/RedditPlus-2023.29.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.14.0",
           "date": "2023-04-21",
           "size": 117680154,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2023/RedditPlus-2023.14.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2023.01.0",
           "date": "2023-01-14",
           "size": 132216313,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/RedditPlus-2023.01.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2022.45.0",
           "date": "2022-12-15",
           "size": 138422001,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/RedditPlus-2022.45.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2022.45.0",
           "date": "2022-12-09",
           "size": 142911374,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2022/RedditPlus-2022.45.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2022.44.0",
           "date": "2022-12-06",
           "size": 141914906,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/RedditPlus-2022.44.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2022.44.0",
           "date": "2022-12-05",
           "size": 141904208,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/RedditPlus-2022.44.0.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2022.43.1",
           "date": "2022-11-20",
           "size": 145213822,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/RedditPlus-2022.43.1.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "1.0",
           "date": "2022-11-10",
           "size": 140339885,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/RedditPlus.ipa",
-          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u2705"
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 11-14-2023\nStatus: \u26a0\ufe0f"
         }
       ]
     },
