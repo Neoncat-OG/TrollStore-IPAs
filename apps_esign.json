@@ -15459,17 +15459,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.jonny.spring.png"
     },
     {
-      "name": "YouTubeiVanced",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "18.01.6-2",
-      "versionDate": "2023-01-17",
-      "size": 108856909,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2023/YouTubeiVanced-18.01.6-2.ipa",
-      "developerName": "TherionRO / AppDB",
-      "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-28-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
-    },
-    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "9.40-3.7",
@@ -17558,6 +17547,138 @@
       "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb",
       "localizedDescription": "WhatsApp, injected with Watusi v1.2.25, Stalky v4.1.24, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore. Note: Connection confirmation and \"unofficial\" message issue have been fixed.\nLast updated: 03-01-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
+      "name": "AppStorePlusPlus",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "version": "1.0.3-2",
+      "versionDate": "2022-11-10",
+      "size": 17588239,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/AppStorePlusPlus-1.0.3-2.ipa",
+      "developerName": "CokePokes",
+      "localizedDescription": "CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps\nLast updated: 01-29-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png"
+    },
+    {
+      "name": "BeRealUnblur",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "version": "0.24.0",
+      "versionDate": "2022-11-10",
+      "size": 19587004,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/BeRealUnblur-0.24.0.ipa",
+      "developerName": "u/LOST_iPhone_btw / iPAWiND",
+      "localizedDescription": "BeReal, injected with the tweak BeRealUnblur\nLast updated: 03-29-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "version": "1.4b4",
+      "versionDate": "2022-11-10",
+      "size": 42958876,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Delta-1.4b4.ipa",
+      "developerName": "AltStore Official",
+      "localizedDescription": "Emulator for GBA, N64, and NDS\nLast updated: 09-23-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png"
+    },
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "2.1.4-153.0",
+      "versionDate": "2022-11-10",
+      "size": 78691336,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
+      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.7.0",
+      "versionDate": "2022-11-10",
+      "size": 8102434,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/ESign-4.7.0.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "392.0",
+      "versionDate": "2022-11-11",
+      "size": 136100527,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 02-29-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+    },
+    {
+      "name": "iFont",
+      "bundleIdentifier": "uk.co.codingcorner.iFont",
+      "version": "9.1.2",
+      "versionDate": "2022-11-10",
+      "size": 33065900,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/iFont-9.1.2.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "iFont for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store\nLast updated: 11-10-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/uk.co.codingcorner.iFont.png"
+    },
+    {
+      "name": "LocSim",
+      "bundleIdentifier": "com.mika.LocationSimulation",
+      "version": "1.3.7",
+      "versionDate": "2022-11-10",
+      "size": 1917334,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/LocSim-1.3.7.ipa",
+      "developerName": "CyPwn IPA Library",
+      "localizedDescription": "Location spoofer, not affiliated with udevs' locsim\nLast updated: 11-10-2022\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
+    },
+    {
+      "name": "Mugunghwa",
+      "bundleIdentifier": "me.soongyu.mugunghwautil",
+      "version": "3.0.2",
+      "versionDate": "2022-11-10",
+      "size": 3889341,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Mugunghwa-3.0.2.ipa",
+      "developerName": "s8ngyu",
+      "localizedDescription": "App/passcode/badge theming for jailed devices via TrollStore\nLast updated: 10-28-2022\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.soongyu.mugunghwautil.png"
+    },
+    {
+      "name": "PlayDiary",
+      "bundleIdentifier": "com.pt.playdiary",
+      "version": "1.1.0",
+      "versionDate": "2022-11-10",
+      "size": 9147929,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/PlayDiary-1.1.0.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "HDO Play's catalog under a slightly different UI. See app description for HDO Play\nLast updated: 11-10-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pt.playdiary.png"
+    },
+    {
+      "name": "SharkForMessenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "version": "2.2.1-311.0",
+      "versionDate": "2022-11-10",
+      "size": 34767265,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/SharkForMessenger-2.2.1-311.0.ipa",
+      "developerName": "ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
+      "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Messenger.png"
+    },
+    {
+      "name": "TikTokLRD",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "2.1-26.6.1",
+      "versionDate": "2022-11-11",
+      "size": 139644976,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/TikTokLRD-2.1-26.6.1.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
+      "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 02-22-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "Aidoku",
