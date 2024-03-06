@@ -121,7 +121,7 @@ These emojis should assist you in making informed decisions when selecting apps 
 
 Everything you can currently find in this repo:
 | App Name | Description | Version | Source/Maintainer | Last Updated | Status |
-|:---------|-----------|-------|-----------------|------------|-------|
+|---------|-----------|-------|-----------------|------------|-------|
 | AdGuard Pro | An extremely effective ad blocker for Safari. It not only eliminates annoying ads but also enhances your privacy with advanced tracking protection. AdGuard for iOS is an open-source app that is completely transparent and safe to use. **Note: DNS protection is effective but it may cause conflicts with other services in use. Despite this, I highly recommend using it. *(To block telemetry for example, such as ESign.)*** | 4.5.2 | N/A | 03-02-2024 | ✅ 👍 |
 | Adobe Scan Premium | **Injected with Satella**. [App](https://apps.apple.com/us/app/adobe-scan-scanner-pdf-ocr/id1199564834) that turns device into a portable scanner that recognizes text automatically. A user [requested](https://github.com/swaggyP36000/TrollStore-IPAs/issues/199) it so here it is. | 24.03.05 | [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) | 03-04-2024 | ✅ 👍 |
 | Aidoku | Webtoon/manga browser | 0.6.7 | [Aidoku](https://github.com/Aidoku/Aidoku) | 02-17-2024 | ✅ |
