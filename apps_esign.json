@@ -4,6 +4,116 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AlarmyPremium",
+      "bundleIdentifier": "droom.sleepIfUCanFree",
+      "version": "v24.14.1",
+      "versionDate": "2024-03-07",
+      "size": 166425719,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-v24.14.1.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
+    },
+    {
+      "name": "ApolloICA",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11-1.0.11",
+      "versionDate": "2024-03-07",
+      "size": 108157689,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ApolloICA-1.15.11-1.0.11.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
+    },
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "2.2.6-218",
+      "versionDate": "2024-03-07",
+      "size": 96424709,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Enmity-2.2.6-218.ipa",
+      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2024.2.21",
+      "versionDate": "2024-03-07",
+      "size": 136742945,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/MemrisePremium-2024.2.21.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "Otraku",
+      "bundleIdentifier": "com.otraku.app",
+      "version": "1.2.8+1-ios15.0+",
+      "versionDate": "2024-03-07",
+      "size": 9995768,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Otraku-1.2.8%2B1-ios15.0%2B.ipa",
+      "developerName": "lotusprey",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
+    },
+    {
+      "name": "Otraku",
+      "bundleIdentifier": "com.otraku.app",
+      "version": "1.2.8+1-ios16.6+",
+      "versionDate": "2024-03-07",
+      "size": 9992852,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Otraku-1.2.8%2B1-ios16.6%2B.ipa",
+      "developerName": "lotusprey",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "version": "24.4.2",
+      "versionDate": "2024-03-07",
+      "size": 104708547,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/PicsArtPlusPlus-24.4.2.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+    },
+    {
+      "name": "ProcreatePocket",
+      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+      "version": "4.0.10",
+      "versionDate": "2024-03-07",
+      "size": 300681781,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ProcreatePocket-4.0.10.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png"
+    },
+    {
+      "name": "Soor",
+      "bundleIdentifier": "me.tanmay.Music",
+      "version": "3.5.3",
+      "versionDate": "2024-03-07",
+      "size": 40650672,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Soor-3.5.3.ipa",
+      "developerName": "Starfiles / AppDB",
+      "localizedDescription": "Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png"
+    },
+    {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.11.6",
+      "versionDate": "2024-03-07",
+      "size": 164163,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/TrollSpeed-1.11.6.ipa",
+      "developerName": "Lessica",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
       "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole1160.ios",
       "version": "1.15.11",
@@ -110,7 +220,7 @@
       "size": 104707065,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/PicsArtPlusPlus-24.4.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -374,7 +484,7 @@
       "size": 104504630,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PicsArtPlusPlus-24.3.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -979,7 +1089,7 @@
       "size": 104500926,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/PicsArtPlusPlus-24.3.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -1122,7 +1232,7 @@
       "size": 136445511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/MemrisePremium-2024.2.3.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -1254,7 +1364,7 @@
       "size": 94889337,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Enmity-2.2.6-216.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -1441,7 +1551,7 @@
       "size": 153669264,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AlarmyPremium-v24.12.2.ipa",
       "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 02-10-2024\nStatus: \u2705",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
@@ -2013,7 +2123,7 @@
       "size": 159827,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/TrollSpeed-1.11.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2156,7 +2266,7 @@
       "size": 95239142,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Enmity-2.2.6-213.1.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2200,7 +2310,7 @@
       "size": 163255,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/TrollSpeed-1.11.0.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2244,7 +2354,7 @@
       "size": 161220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/TrollSpeed-1.10.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2310,7 +2420,7 @@
       "size": 160220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2464,7 +2574,7 @@
       "size": 157396,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollSpeed-1.9.9.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2497,7 +2607,7 @@
       "size": 108157865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -2662,7 +2772,7 @@
       "size": 154789,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollSpeed-1.9.8.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2717,7 +2827,7 @@
       "size": 9941759,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Otraku-1.2.7%2B2-ios15.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 01-21-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -2728,7 +2838,7 @@
       "size": 9939478,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Otraku-1.2.7%2B2-ios16%2B.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 01-21-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -2948,7 +3058,7 @@
       "size": 153659,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TrollSpeed-1.9.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3201,7 +3311,7 @@
       "size": 100398039,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -3410,7 +3520,7 @@
       "size": 100312892,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -3542,7 +3652,7 @@
       "size": 105982017,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MemrisePremium-2024.1.8.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -3674,7 +3784,7 @@
       "size": 87166749,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -4026,7 +4136,7 @@
       "size": 105998328,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/MemrisePremium-2023.12.20.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -4191,7 +4301,7 @@
       "size": 104714105,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -4224,7 +4334,7 @@
       "size": 147710,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/TrollSpeed-1.9.5.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -4256,8 +4366,8 @@
       "versionDate": "2023-12-27",
       "size": 296768591,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2023/ProcreatePocket-4.0.9.ipa",
-      "developerName": "Manpreet Singh @thisismanpreets",
-      "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is\nLast updated: 12-27-2023\nStatus: \u2705",
+      "developerName": "N/A",
+      "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png"
     },
     {
@@ -4422,7 +4532,7 @@
       "size": 147696,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/TrollSpeed-1.9.3.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -4554,7 +4664,7 @@
       "size": 94971519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -4686,7 +4796,7 @@
       "size": 147136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -4763,7 +4873,7 @@
       "size": 105998045,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -4818,7 +4928,7 @@
       "size": 87096056,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -5170,7 +5280,7 @@
       "size": 98696332,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -5247,7 +5357,7 @@
       "size": 140519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -5335,7 +5445,7 @@
       "size": 94194608,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -5489,7 +5599,7 @@
       "size": 106107558,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -5808,7 +5918,7 @@
       "size": 87165733,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -5841,7 +5951,7 @@
       "size": 97983202,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -6030,17 +6140,6 @@
       "developerName": "DPixel",
       "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 01-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
-    },
-    {
-      "name": "Procreate",
-      "bundleIdentifier": "au.com.savageinteractive.procreate",
-      "version": "5.3.6",
-      "versionDate": "2023-12-01",
-      "size": 492323229,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Procreate-5.3.6.ipa",
-      "developerName": "AppDB",
-      "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is\nLast updated: 12-01-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
     },
     {
       "name": "QuizletPlus",
@@ -6281,7 +6380,7 @@
       "size": 100146477,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -6358,7 +6457,7 @@
       "size": 90694453,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -6545,7 +6644,7 @@
       "size": 99766481,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -6721,7 +6820,7 @@
       "size": 90738824,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -6875,7 +6974,7 @@
       "size": 104745334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -6996,7 +7095,7 @@
       "size": 100528562,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -7007,7 +7106,7 @@
       "size": 146348694,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -7040,7 +7139,7 @@
       "size": 104743752,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -7139,7 +7238,7 @@
       "size": 102531555,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -7568,7 +7667,7 @@
       "size": 9843461,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Otraku-1.2.6%2B1.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 01-21-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -7579,7 +7678,7 @@
       "size": 104758490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -7799,7 +7898,7 @@
       "size": 103585347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -7931,7 +8030,7 @@
       "size": 96172924,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -8151,7 +8250,7 @@
       "size": 142729185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -8404,7 +8503,7 @@
       "size": 9842869,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Otraku-1.2.5.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 01-21-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -8756,7 +8855,7 @@
       "size": 108435829,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -8921,7 +9020,7 @@
       "size": 103897880,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -9603,7 +9702,7 @@
       "size": 96341212,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -10395,19 +10494,8 @@
       "size": 103395444,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
-    },
-    {
-      "name": "Procreate",
-      "bundleIdentifier": "au.com.savageinteractive.procreate",
-      "version": "5.3.5",
-      "versionDate": "2023-07-25",
-      "size": 492346237,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Procreate-5.3.5.ipa",
-      "developerName": "AppDB",
-      "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is\nLast updated: 12-01-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
     },
     {
       "name": "RedditPlus",
@@ -10681,7 +10769,7 @@
       "size": 10120299,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Otraku-1.2.4%2B1.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 01-21-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -10780,7 +10868,7 @@
       "size": 99992444,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -10813,7 +10901,7 @@
       "size": 97907313,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10934,7 +11022,7 @@
       "size": 102553252,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11286,7 +11374,7 @@
       "size": 98676455,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -11352,7 +11440,7 @@
       "size": 94135314,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11429,7 +11517,7 @@
       "size": 94718889,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11638,7 +11726,7 @@
       "size": 85332473,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11671,7 +11759,7 @@
       "size": 90036977,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -11726,7 +11814,7 @@
       "size": 95348126,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -11803,7 +11891,7 @@
       "size": 89066297,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -11880,7 +11968,7 @@
       "size": 91292482,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12001,7 +12089,7 @@
       "size": 87605312,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12221,7 +12309,7 @@
       "size": 87875691,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -12408,7 +12496,7 @@
       "size": 95032916,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12551,7 +12639,7 @@
       "size": 98569302,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12672,7 +12760,7 @@
       "size": 89964583,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12826,7 +12914,7 @@
       "size": 89945821,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12936,7 +13024,7 @@
       "size": 89883836,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -13310,7 +13398,7 @@
       "size": 89878202,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -13409,7 +13497,7 @@
       "size": 89057077,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -13464,7 +13552,7 @@
       "size": 39246200,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/Soor-3.0.2.ipa",
       "developerName": "Starfiles / AppDB",
-      "localizedDescription": "Soor, free. Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-03-2023\nStatus: \u2705",
+      "localizedDescription": "Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png"
     },
     {
@@ -13574,7 +13662,7 @@
       "size": 84242704,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -13937,7 +14025,7 @@
       "size": 90803300,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14025,7 +14113,7 @@
       "size": 95326510,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14179,7 +14267,7 @@
       "size": 94968087,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14212,7 +14300,7 @@
       "size": 83700828,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14322,7 +14410,7 @@
       "size": 93292357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14421,7 +14509,7 @@
       "size": 93292925,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14456,17 +14544,6 @@
       "developerName": "DPixel",
       "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bonov.sensial.png"
-    },
-    {
-      "name": "Procreate",
-      "bundleIdentifier": "au.com.savageinteractive.procreate",
-      "version": "5.3.1",
-      "versionDate": "2023-02-01",
-      "size": 491083921,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2023/Procreate-5.3.1.ipa",
-      "developerName": "AppDB",
-      "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is\nLast updated: 12-01-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
     },
     {
       "name": "WDBFontOverwrite",
@@ -14784,7 +14861,7 @@
       "size": 106754941,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14894,7 +14971,7 @@
       "size": 109413971,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15114,7 +15191,7 @@
       "size": 109380528,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15466,7 +15543,7 @@
       "size": 85002160,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15730,7 +15807,7 @@
       "size": 106146615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15785,7 +15862,7 @@
       "size": 134818918,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -15851,7 +15928,7 @@
       "size": 106125185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15906,7 +15983,7 @@
       "size": 105724993,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15972,7 +16049,7 @@
       "size": 41540016,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2022/Soor-3.0.1.ipa",
       "developerName": "Starfiles / AppDB",
-      "localizedDescription": "Soor, free. Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-03-2023\nStatus: \u2705",
+      "localizedDescription": "Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png"
     },
     {
@@ -16148,7 +16225,7 @@
       "size": 106046582,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16412,7 +16489,7 @@
       "size": 79750354,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -16522,7 +16599,7 @@
       "size": 81296588,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16698,7 +16775,7 @@
       "size": 101722265,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17083,7 +17160,7 @@
       "size": 60634846,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17149,7 +17226,7 @@
       "size": 78691336,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -17292,7 +17369,7 @@
       "size": 76682774,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705",
+      "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
