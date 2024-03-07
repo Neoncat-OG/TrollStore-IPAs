@@ -60,7 +60,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ---
 
-**(03-06-24)** GitHub sent out a [DMCA Notice](https://pastebin.com/5WSaCfVL) on modded YouTube apps hosted on the library. They have all been removed accordingly.
+**(03-06-24)** GitHub sent out a [DMCA Notice](https://pastebin.com/5WSaCfVL) on modded YouTube apps hosted on the library. They have all been removed accordingly. Quick update, *all YouTube IPAs have been removed to stay ahead of any future DMCAs*
 
 
 ## Emoji Guide for App Selection *(Status)*
