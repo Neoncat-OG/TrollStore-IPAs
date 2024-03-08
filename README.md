@@ -48,7 +48,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-**(03-06-24)** GitHub sent out a **[DMCA Notice](https://pastebin.com/5WSaCfVL)** on modded YouTube apps hosted on the library; They have all been removed accordingly. *Update: All YouTube IPAs have been removed to stay ahead of any future DMCAs*
+**(03-06-24)** GitHub sent out a **[DMCA Notic](https://pastebin.com/5WSaCfVL)[e](https://mega.nz/folder/Uv8CHBSA#xHsMwyLKaYyVvMdk-FdoNw)** on modded YouTube apps hosted on the library; They have all been removed accordingly. *Update: All YouTube IPAs have been removed to stay ahead of any future DMCAs*
 
 ---
 
