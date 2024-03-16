@@ -4,6 +4,92 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BearPro",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
+      "versions": [
+        {
+          "version": "2.1.6",
+          "date": "2024-03-16",
+          "size": 31410377,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/BearPro-2.1.6.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.1.4",
+          "date": "2024-03-05",
+          "size": 31398674,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BearPro-2.1.4.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.1.3",
+          "date": "2024-02-10",
+          "size": 31397543,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/BearPro-2.1.3.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-01-19",
+          "size": 31070367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/BearPro-2.1.1.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.1",
+          "date": "2023-12-21",
+          "size": 26290969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.0.17",
+          "date": "2023-12-03",
+          "size": 26179550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.0.15",
+          "date": "2023-11-01",
+          "size": 31176993,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.0.14",
+          "date": "2023-10-01",
+          "size": 27851640,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.9.7",
+          "date": "2022-11-20",
+          "size": 18798823,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
+          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "DocumentsPlus",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "versions": [
+        {
+          "version": "8.10.5",
+          "date": "2024-03-16",
+          "size": 149574425,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/DocumentsPlus-8.10.5.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 03-16-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Ignited",
       "bundleIdentifier": "com.litritt.ignited",
       "developerName": "LitRitt",
@@ -6074,70 +6160,6 @@
           "size": 110386487,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/ApolloPatcher-1.15.11-0.0.6-1.ipa",
           "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-05-2024\nStatus: \u2705 \u2754"
-        }
-      ]
-    },
-    {
-      "name": "BearPro",
-      "bundleIdentifier": "net.shinyfrog.bear-iOS",
-      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
-      "versions": [
-        {
-          "version": "2.1.4",
-          "date": "2024-03-05",
-          "size": 31398674,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BearPro-2.1.4.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.1.3",
-          "date": "2024-02-10",
-          "size": 31397543,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/BearPro-2.1.3.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.1.1",
-          "date": "2024-01-19",
-          "size": 31070367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/BearPro-2.1.1.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.1",
-          "date": "2023-12-21",
-          "size": 26290969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.0.17",
-          "date": "2023-12-03",
-          "size": 26179550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.0.15",
-          "date": "2023-11-01",
-          "size": 31176993,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.0.14",
-          "date": "2023-10-01",
-          "size": 27851640,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "1.9.7",
-          "date": "2022-11-20",
-          "size": 18798823,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
-          "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
