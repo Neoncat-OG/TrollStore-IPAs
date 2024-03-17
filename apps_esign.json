@@ -4,6 +4,83 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FlacboxPro",
+      "bundleIdentifier": "com.leshko.flap",
+      "version": "5.3",
+      "versionDate": "2024-03-17",
+      "size": 41199562,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 03-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leshko.flap.png"
+    },
+    {
+      "name": "FlightyPro",
+      "bundleIdentifier": "com.flightyapp.flighty",
+      "version": "3.4.2",
+      "versionDate": "2024-03-17",
+      "size": 136212230,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlightyPro-3.4.2.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is. Note: Tweak is partially functional, some features remain inaccessible since the spoofed Pro subscription date has expired.\nLast updated: 03-17-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png"
+    },
+    {
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "version": "2.3",
+      "versionDate": "2024-03-17",
+      "size": 16799249,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/Flycast-2.3.ipa",
+      "developerName": "flyinghead",
+      "localizedDescription": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed from reicast. A user requested it so here it is.\nLast updated: 03-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.flyinghead.Flycast.png"
+    },
+    {
+      "name": "InstaRocketBH",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "322.1.1-3.8.24",
+      "versionDate": "2024-03-17",
+      "size": 130790826,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/InstaRocketBH-322.1.1-3.8.24.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / BandarHL",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "14.7.6",
+      "versionDate": "2024-03-17",
+      "size": 203537580,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/Notability-14.7.6.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Cracked with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6\nLast updated: 03-17-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "1.4.7-46",
+      "versionDate": "2024-03-17",
+      "size": 2079031,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
+      "developerName": "Lessica / TrollRecorder",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 03-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
+      "name": "Watching",
+      "bundleIdentifier": "com.34306.watching",
+      "version": "1.0",
+      "versionDate": "2024-03-17",
+      "size": 3103136,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/Watching-1.0.ipa",
+      "developerName": "34306",
+      "localizedDescription": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose.\nLast updated: 03-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.34306.watching.png"
+    },
+    {
       "name": "BearPro",
       "bundleIdentifier": "net.shinyfrog.bear-iOS",
       "version": "2.1.6",
@@ -22,7 +99,7 @@
       "size": 149574425,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/DocumentsPlus-8.10.5.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 03-16-2024\nStatus: \u2705",
+      "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png"
     },
     {
@@ -122,17 +199,6 @@
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstagramLRD-322.1.1.ipa",
       "developerName": "IPA Fire / nowesr1",
       "localizedDescription": "Not cracked. If you've used TikTokLRD, imagine that but for Instagram. Features include media saving/sharing/previewing (stories included), show follow status, disable typing status, view DMs anonymously, disable ads, FaceID for account switching, etc.\nLast updated: 03-14-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-    },
-    {
-      "name": "InstaRocketBH",
-      "bundleIdentifier": "com.burbn.instagram",
-      "version": "322.1.1-3.8.24",
-      "versionDate": "2024-03-14",
-      "size": 144291099,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstaRocketBH-322.1.1-3.8.24.ipa",
-      "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -649,7 +715,7 @@
       "size": 164163,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/TrollSpeed-1.11.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -1342,7 +1408,7 @@
       "size": 130209232,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstaRocketBH-319.0.2-3.8.21.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -1584,7 +1650,7 @@
       "size": 131405099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/InstaRocketBH-318.0.7-3.8.21.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -2651,7 +2717,7 @@
       "size": 159827,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/TrollSpeed-1.11.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2783,7 +2849,7 @@
       "size": 137851643,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/InstaRocketBH-315.1.2-3.8.20.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -2838,7 +2904,7 @@
       "size": 163255,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/TrollSpeed-1.11.0.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2882,7 +2948,7 @@
       "size": 161220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/TrollSpeed-1.10.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -2948,7 +3014,7 @@
       "size": 160220,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3025,7 +3091,7 @@
       "size": 134256919,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstaRocketBH-316.0.6-3.8.19.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -3102,7 +3168,7 @@
       "size": 157396,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollSpeed-1.9.9.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3300,7 +3366,7 @@
       "size": 154789,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollSpeed-1.9.8.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -3586,7 +3652,7 @@
       "size": 153659,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TrollSpeed-1.9.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -4268,7 +4334,7 @@
       "size": 141214317,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/InstaRocketBH-313.0.2-3.8.19.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -4334,7 +4400,7 @@
       "size": 9642000,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/CopylogTS.ipa",
       "developerName": "copylogts / tomt000",
-      "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: \u2705",
+      "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tomt000.ts.copylog.png"
     },
     {
@@ -4862,7 +4928,7 @@
       "size": 147710,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/TrollSpeed-1.9.5.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -4972,7 +5038,7 @@
       "size": 140144612,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/InstaRocketBH-312.0.1-3.8.19.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -5060,7 +5126,7 @@
       "size": 147696,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2023/TrollSpeed-1.9.3.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -5324,7 +5390,7 @@
       "size": 147136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/TrollSpeed-1.9.2.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -5764,7 +5830,7 @@
       "size": 139945720,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstaRocketBH-311.0.2-3.8.18.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -5797,7 +5863,7 @@
       "size": 168598738,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Notability-14.5.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Cracked with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6\nLast updated: 12-12-2023\nStatus: \u2705",
+      "localizedDescription": "Cracked with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6\nLast updated: 03-17-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
     },
     {
@@ -5885,7 +5951,7 @@
       "size": 140519,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TrollSpeed-1.8.6.ipa",
       "developerName": "Lessica",
-      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705",
+      "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
     },
     {
@@ -5984,7 +6050,7 @@
       "size": 132270053,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketBH-310.0.4-3.8.18.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -6413,7 +6479,7 @@
       "size": 132891484,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstaRocketBH-310.0.4-3.8.17.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -7073,7 +7139,7 @@
       "size": 130879951,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/InstaRocketBH-309.1.1-3.8.17.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -7271,7 +7337,7 @@
       "size": 131002310,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/InstaRocketBH-309.1.1-3.8.16.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -7546,7 +7612,7 @@
       "size": 129814402,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/InstaRocketBH-308.0-3.8.16.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -7744,7 +7810,7 @@
       "size": 129029504,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/InstaRocketBH-307.0.2-3.8.16.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -7953,7 +8019,7 @@
       "size": 129334847,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/InstaRocketBH-306.0-3.8.16.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8261,7 +8327,7 @@
       "size": 126667111,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/InstaRocketBH-305.0-3.8.16.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8415,7 +8481,7 @@
       "size": 132222472,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/InstaRocketBH-304.0-3.8.15.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8525,7 +8591,7 @@
       "size": 130819181,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/InstaRocketBH-303.3-3.8.15.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8613,7 +8679,7 @@
       "size": 130928882,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/InstaRocketBH-303.1-3.8.15.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8701,7 +8767,7 @@
       "size": 133472984,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/InstaRocketBH-303.1-3.8.14.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8756,7 +8822,7 @@
       "size": 129161251,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/InstaRocketBH-302.0-3.8.14.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -8910,7 +8976,7 @@
       "size": 132567937,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InstaRocketBH-302.0-3.8.13.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -9086,7 +9152,7 @@
       "size": 128765450,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/InstaRocketBH-301.1-3.8.13.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -9218,7 +9284,7 @@
       "size": 129198866,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/InstaRocketBH-301.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -9493,7 +9559,7 @@
       "size": 126962586,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/InstaRocketBH-300.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -9724,7 +9790,7 @@
       "size": 134983943,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/InstaRocketBH-299.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -9867,7 +9933,7 @@
       "size": 121153506,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/InstaRocketBH-298.0-3.8.12.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -9889,7 +9955,7 @@
       "size": 121153420,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/InstaRocketBH-298.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -10087,7 +10153,7 @@
       "size": 134720660,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/InstaRocketBH-297.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -10186,7 +10252,7 @@
       "size": 126333920,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/InstaRocketBH-296.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -10516,7 +10582,7 @@
       "size": 134062656,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/InstaRocketBH-295.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -10747,7 +10813,7 @@
       "size": 124694635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-01-2023/InstaRocketBH-294.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -10868,7 +10934,7 @@
       "size": 133110300,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/InstaRocketBH-293.1.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -10934,7 +11000,7 @@
       "size": 127051872,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/InstaRocketBH-293.0.ipa",
       "developerName": "zxcvbn's tweaked IPAs / BandarHL",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
