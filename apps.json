@@ -19,21 +19,6 @@
       ]
     },
     {
-      "name": "FlightyPro",
-      "bundleIdentifier": "com.flightyapp.flighty",
-      "developerName": "zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png",
-      "versions": [
-        {
-          "version": "3.4.2",
-          "date": "2024-03-17",
-          "size": 136212230,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlightyPro-3.4.2.ipa",
-          "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is. Note: Tweak is partially functional, some features remain inaccessible since the spoofed Pro subscription date has expired.\nLast updated: 03-17-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
       "developerName": "flyinghead",
