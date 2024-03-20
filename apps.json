@@ -4,6 +4,617 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AlohaBrowserPremium",
+      "bundleIdentifier": "com.alohabrowser.alohabrowser",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
+      "versions": [
+        {
+          "version": "5.6.0",
+          "date": "2024-03-20",
+          "size": 91059892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/AlohaBrowserPremium-5.6.0.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.5.2",
+          "date": "2024-03-01",
+          "size": 89734990,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/AlohaBrowserPremium-5.5.2.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.5.1",
+          "date": "2024-02-23",
+          "size": 89860458,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/AlohaBrowserPremium-5.5.1.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.4.1",
+          "date": "2024-02-02",
+          "size": 89330708,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AlohaBrowserPremium-5.4.1.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "BeRealBea",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png",
+      "versions": [
+        {
+          "version": "1.3.6-2.6.0",
+          "date": "2024-03-20",
+          "size": 56228170,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/BeRealBea-1.3.6-2.6.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.5.0",
+          "date": "2024-03-13",
+          "size": 54512215,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BeRealBea-1.3.6-2.5.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.4.0",
+          "date": "2024-02-29",
+          "size": 52507835,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/BeRealBea-1.3.6-2.4.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.3.2",
+          "date": "2024-02-20",
+          "size": 51923928,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/BeRealBea-1.3.6-2.3.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.3.1",
+          "date": "2024-02-18",
+          "size": 51921803,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2024/BeRealBea-1.3.6-2.3.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.2.0",
+          "date": "2024-02-11",
+          "size": 52115219,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/BeRealBea-1.3.6-2.2.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.4-2.0.1",
+          "date": "2024-02-07",
+          "size": 52589861,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/BeRealBea-1.3.4-2.0.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.4-1.22.0",
+          "date": "2024-01-22",
+          "size": 49776043,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/BeRealBea-1.3.4-1.22.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.4-1.21.5",
+          "date": "2024-01-15",
+          "size": 40363657,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/BeRealBea-1.3.4-1.21.5.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.21.4",
+          "date": "2024-01-06",
+          "size": 40358425,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.21.2",
+          "date": "2023-12-29",
+          "size": 40267445,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.20.1",
+          "date": "2023-12-21",
+          "size": 40388621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.20.0",
+          "date": "2023-12-19",
+          "size": 40374650,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.19.1",
+          "date": "2023-12-14",
+          "size": 42051554,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.19.0",
+          "date": "2023-12-10",
+          "size": 42049413,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.18.1",
+          "date": "2023-12-05",
+          "size": 45416994,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.18.0",
+          "date": "2023-12-03",
+          "size": 43204143,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.17.2",
+          "date": "2023-11-29",
+          "size": 39128874,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.17.1",
+          "date": "2023-11-24",
+          "size": 39021872,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.15.0",
+          "date": "2023-10-16",
+          "size": 44753635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.14.0",
+          "date": "2023-10-05",
+          "size": 39714501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.13.0",
+          "date": "2023-09-27",
+          "size": 53570811,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.12.1",
+          "date": "2023-09-19",
+          "size": 38588292,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.12.0",
+          "date": "2023-09-18",
+          "size": 38585370,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.11.0",
+          "date": "2023-09-14",
+          "size": 40372995,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.10.1",
+          "date": "2023-09-12",
+          "size": 39284072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.10.0",
+          "date": "2023-08-28",
+          "size": 32893347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.9.1",
+          "date": "2023-08-20",
+          "size": 31921858,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.9.0",
+          "date": "2023-08-09",
+          "size": 31919714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3-1.7.1",
+          "date": "2023-07-16",
+          "size": 38098024,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.2.2-1.5",
+          "date": "2023-06-25",
+          "size": 41168244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.1-0.36.3",
+          "date": "2023-04-17",
+          "size": 25439241,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.0-0.36.2",
+          "date": "2023-04-15",
+          "size": 25156227,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "FitbodElite",
+      "bundleIdentifier": "com.fitbod",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.fitbod.png",
+      "versions": [
+        {
+          "version": "6.28.1",
+          "date": "2024-03-20",
+          "size": 97736577,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/FitbodElite-6.28.1.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Folium",
+      "bundleIdentifier": "com.antique.Folium",
+      "developerName": "Jarrod Norwell (Antique)",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-03-20",
+          "size": 13771876,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Folium-1.1.0.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2024-03-09",
+          "size": 18068021,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
+      "versions": [
+        {
+          "version": "6.3.12",
+          "date": "2024-03-20",
+          "size": 323637347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Goodnotes6-6.3.12.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.10",
+          "date": "2024-03-19",
+          "size": 321760236,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Goodnotes6-6.3.10.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.4",
+          "date": "2024-02-26",
+          "size": 296255622,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/Goodnotes6-6.3.4.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.2.15",
+          "date": "2023-12-01",
+          "size": 315141070,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+      "versions": [
+        {
+          "version": "7.7.2-1.1.5",
+          "date": "2024-03-20",
+          "size": 38929838,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/InfusePro-7.7.2-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.1-1.1.5",
+          "date": "2024-03-13",
+          "size": 40181478,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InfusePro-7.7.1-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.1-1.1.4",
+          "date": "2024-02-28",
+          "size": 40129004,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/InfusePro-7.7.1-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7-1.1.4",
+          "date": "2024-02-14",
+          "size": 40306052,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/InfusePro-7.7-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.7-1.1.4",
+          "date": "2024-02-11",
+          "size": 42854299,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/InfusePro-7.6.7-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.7",
+          "date": "2024-01-30",
+          "size": 40197875,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.6",
+          "date": "2024-01-15",
+          "size": 78682777,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.5",
+          "date": "2023-12-22",
+          "size": 38834254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.4",
+          "date": "2023-11-29",
+          "size": 36936550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.3",
+          "date": "2023-11-19",
+          "size": 45198980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.2",
+          "date": "2023-11-06",
+          "size": 45192576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.1",
+          "date": "2023-09-27",
+          "size": 43213714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6",
+          "date": "2023-09-06",
+          "size": 36357059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.9",
+          "date": "2023-08-24",
+          "size": 36292217,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.8",
+          "date": "2023-07-11",
+          "size": 41628224,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.7",
+          "date": "2023-06-29",
+          "size": 44492277,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.6",
+          "date": "2023-06-25",
+          "size": 42285212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.5",
+          "date": "2023-06-04",
+          "size": 40271379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.4",
+          "date": "2023-05-15",
+          "size": 40331154,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.2",
+          "date": "2023-04-30",
+          "size": 40517963,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.1",
+          "date": "2023-04-10",
+          "size": 40177347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5",
+          "date": "2023-03-17",
+          "size": 39321077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.4.10",
+          "date": "2023-03-11",
+          "size": 44545614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "StepsAppPro",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png",
+      "versions": [
+        {
+          "version": "7.0.8",
+          "date": "2024-03-20",
+          "size": 160638930,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/StepsAppPro-7.0.8.ipa",
+          "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "7.0.4",
+          "date": "2024-02-02",
+          "size": 160327151,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/StepsAppPro-7.0.4.ipa",
+          "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Things3",
+      "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png",
+      "versions": [
+        {
+          "version": "3.20.5",
+          "date": "2024-03-20",
+          "size": 56083182,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Things3-3.20.5.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.4",
+          "date": "2024-03-19",
+          "size": 56084600,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Things3-3.20.4.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.20.3",
+          "date": "2024-02-17",
+          "size": 54327102,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Things3-3.20.3.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.19.8",
+          "date": "2023-12-28",
+          "size": 52399122,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Things3-3.19.8.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.19.3",
+          "date": "2023-12-03",
+          "size": 51164188,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Things3-3.19.3.ipa",
+          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "WaterMinderPremium",
+      "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
+      "developerName": "iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png",
+      "versions": [
+        {
+          "version": "6.4.12",
+          "date": "2024-03-20",
+          "size": 522223495,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/WaterMinderPremium-6.4.12.ipa",
+          "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "6.4.11",
+          "date": "2024-03-12",
+          "size": 522405516,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/WaterMinderPremium-6.4.11.ipa",
+          "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "6.4.8",
+          "date": "2024-03-01",
+          "size": 521958567,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/WaterMinderPremium-6.4.8.ipa",
+          "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
       "name": "AthanProPremium",
       "bundleIdentifier": "Quanticapps.Athan.watchkitapp",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -848,35 +1459,6 @@
       ]
     },
     {
-      "name": "Goodnotes6",
-      "bundleIdentifier": "com.goodnotesapp.x",
-      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
-      "versions": [
-        {
-          "version": "6.3.10",
-          "date": "2024-03-19",
-          "size": 321760236,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Goodnotes6-6.3.10.ipa",
-          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-19-2024\nStatus: \u2705"
-        },
-        {
-          "version": "6.3.4",
-          "date": "2024-02-26",
-          "size": 296255622,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/Goodnotes6-6.3.4.ipa",
-          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-19-2024\nStatus: \u2705"
-        },
-        {
-          "version": "6.2.15",
-          "date": "2023-12-01",
-          "size": 315141070,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
-          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-19-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "HDFlixDezokr",
       "bundleIdentifier": "com.huiynfim.play",
       "developerName": "N/A",
@@ -1296,42 +1878,6 @@
           "size": 127051872,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/InstaRocketBH-293.0.ipa",
           "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Things3",
-      "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png",
-      "versions": [
-        {
-          "version": "3.20.4",
-          "date": "2024-03-19",
-          "size": 56084600,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Things3-3.20.4.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-19-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.20.3",
-          "date": "2024-02-17",
-          "size": 54327102,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Things3-3.20.3.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-19-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.19.8",
-          "date": "2023-12-28",
-          "size": 52399122,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Things3-3.19.8.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-19-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.19.3",
-          "date": "2023-12-03",
-          "size": 51164188,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Things3-3.19.3.ipa",
-          "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 03-19-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -3487,400 +4033,6 @@
       ]
     },
     {
-      "name": "BeRealBea",
-      "bundleIdentifier": "AlexisBarreyat.BeReal",
-      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png",
-      "versions": [
-        {
-          "version": "1.3.6-2.5.0",
-          "date": "2024-03-13",
-          "size": 54512215,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BeRealBea-1.3.6-2.5.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.6-2.4.0",
-          "date": "2024-02-29",
-          "size": 52507835,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/BeRealBea-1.3.6-2.4.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.6-2.3.2",
-          "date": "2024-02-20",
-          "size": 51923928,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/BeRealBea-1.3.6-2.3.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.6-2.3.1",
-          "date": "2024-02-18",
-          "size": 51921803,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2024/BeRealBea-1.3.6-2.3.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.6-2.2.0",
-          "date": "2024-02-11",
-          "size": 52115219,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/BeRealBea-1.3.6-2.2.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.4-2.0.1",
-          "date": "2024-02-07",
-          "size": 52589861,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/BeRealBea-1.3.4-2.0.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.4-1.22.0",
-          "date": "2024-01-22",
-          "size": 49776043,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/BeRealBea-1.3.4-1.22.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.4-1.21.5",
-          "date": "2024-01-15",
-          "size": 40363657,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/BeRealBea-1.3.4-1.21.5.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.21.4",
-          "date": "2024-01-06",
-          "size": 40358425,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.21.2",
-          "date": "2023-12-29",
-          "size": 40267445,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.20.1",
-          "date": "2023-12-21",
-          "size": 40388621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.20.0",
-          "date": "2023-12-19",
-          "size": 40374650,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.19.1",
-          "date": "2023-12-14",
-          "size": 42051554,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.19.0",
-          "date": "2023-12-10",
-          "size": 42049413,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.18.1",
-          "date": "2023-12-05",
-          "size": 45416994,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.18.0",
-          "date": "2023-12-03",
-          "size": 43204143,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.17.2",
-          "date": "2023-11-29",
-          "size": 39128874,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.3-1.17.1",
-          "date": "2023-11-24",
-          "size": 39021872,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.15.0",
-          "date": "2023-10-16",
-          "size": 44753635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.14.0",
-          "date": "2023-10-05",
-          "size": 39714501,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.13.0",
-          "date": "2023-09-27",
-          "size": 53570811,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.2-1.12.1",
-          "date": "2023-09-19",
-          "size": 38588292,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.12.0",
-          "date": "2023-09-18",
-          "size": 38585370,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.11.0",
-          "date": "2023-09-14",
-          "size": 40372995,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.10.1",
-          "date": "2023-09-12",
-          "size": 39284072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.10.0",
-          "date": "2023-08-28",
-          "size": 32893347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.9.1",
-          "date": "2023-08-20",
-          "size": 31921858,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3.1-1.9.0",
-          "date": "2023-08-09",
-          "size": 31919714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.3-1.7.1",
-          "date": "2023-07-16",
-          "size": 38098024,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.2.2-1.5",
-          "date": "2023-06-25",
-          "size": 41168244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.1-0.36.3",
-          "date": "2023-04-17",
-          "size": 25439241,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.0-0.36.2",
-          "date": "2023-04-15",
-          "size": 25156227,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
-          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "InfusePro",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "Suffuse-Team / InfusePlus",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
-      "versions": [
-        {
-          "version": "7.7.1-1.1.5",
-          "date": "2024-03-13",
-          "size": 40181478,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InfusePro-7.7.1-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7.1-1.1.4",
-          "date": "2024-02-28",
-          "size": 40129004,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/InfusePro-7.7.1-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7-1.1.4",
-          "date": "2024-02-14",
-          "size": 40306052,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/InfusePro-7.7-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.7-1.1.4",
-          "date": "2024-02-11",
-          "size": 42854299,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/InfusePro-7.6.7-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.7",
-          "date": "2024-01-30",
-          "size": 40197875,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.6",
-          "date": "2024-01-15",
-          "size": 78682777,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.5",
-          "date": "2023-12-22",
-          "size": 38834254,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.4",
-          "date": "2023-11-29",
-          "size": 36936550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.3",
-          "date": "2023-11-19",
-          "size": 45198980,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.2",
-          "date": "2023-11-06",
-          "size": 45192576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.1",
-          "date": "2023-09-27",
-          "size": 43213714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6",
-          "date": "2023-09-06",
-          "size": 36357059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.9",
-          "date": "2023-08-24",
-          "size": 36292217,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.8",
-          "date": "2023-07-11",
-          "size": 41628224,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.7",
-          "date": "2023-06-29",
-          "size": 44492277,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.6",
-          "date": "2023-06-25",
-          "size": 42285212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.5",
-          "date": "2023-06-04",
-          "size": 40271379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.4",
-          "date": "2023-05-15",
-          "size": 40331154,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.2",
-          "date": "2023-04-30",
-          "size": 40517963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.1",
-          "date": "2023-04-10",
-          "size": 40177347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5",
-          "date": "2023-03-17",
-          "size": 39321077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.4.10",
-          "date": "2023-03-11",
-          "size": 44545614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
       "name": "InstagramRocket",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ed0.ipa (IPA NOT CRACKED)",
@@ -4300,28 +4452,6 @@
           "size": 163259362,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-03-2023/LingoDeer-2.9.3.ipa",
           "localizedDescription": "Injected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient and effective learning. Achieve conversational fluency in 12 languages, including Korean, Japanese, Spanish, French, Italian, German, Portuguese, Chinese, Thai, Arabic, Russian, Vietnamese, and English. Full app description here\nLast updated: 03-12-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "WaterMinderPremium",
-      "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
-      "developerName": "iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png",
-      "versions": [
-        {
-          "version": "6.4.11",
-          "date": "2024-03-12",
-          "size": 522405516,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/WaterMinderPremium-6.4.11.ipa",
-          "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "6.4.8",
-          "date": "2024-03-01",
-          "size": 521958567,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/WaterMinderPremium-6.4.8.ipa",
-          "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -5198,21 +5328,6 @@
           "size": 19232013,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
           "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 03-10-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "Folium",
-      "bundleIdentifier": "com.antique.Folium",
-      "developerName": "Jarrod Norwell (Antique)",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png",
-      "versions": [
-        {
-          "version": "1.0.5",
-          "date": "2024-03-09",
-          "size": 18068021,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
-          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-09-2024\nStatus: \u2705"
         }
       ]
     },
@@ -7325,35 +7440,6 @@
       ]
     },
     {
-      "name": "AlohaBrowserPremium",
-      "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
-      "versions": [
-        {
-          "version": "5.5.2",
-          "date": "2024-03-01",
-          "size": 89734990,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/AlohaBrowserPremium-5.5.2.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-01-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "5.5.1",
-          "date": "2024-02-23",
-          "size": 89860458,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/AlohaBrowserPremium-5.5.1.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-01-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "5.4.1",
-          "date": "2024-02-02",
-          "size": 89330708,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AlohaBrowserPremium-5.4.1.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-01-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "MeituPlusPlus",
       "bundleIdentifier": "com.meitu.mtxx",
       "developerName": "iApps / iOS Tutorials + App Cracks",
@@ -9287,21 +9373,6 @@
           "size": 12615196,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa",
           "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 02-02-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "StepsAppPro",
-      "bundleIdentifier": "com.gunthermarktl.stepapp",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png",
-      "versions": [
-        {
-          "version": "7.0.4",
-          "date": "2024-02-02",
-          "size": 160327151,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/StepsAppPro-7.0.4.ipa",
-          "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 02-02-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
