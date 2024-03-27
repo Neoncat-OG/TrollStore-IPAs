@@ -4,6 +4,432 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AlohaBrowserPremium",
+      "bundleIdentifier": "com.alohabrowser.alohabrowser",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
+      "versions": [
+        {
+          "version": "5.6.1",
+          "date": "2024-03-27",
+          "size": 91269062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/AlohaBrowserPremium-5.6.1.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.6.0",
+          "date": "2024-03-20",
+          "size": 91059892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/AlohaBrowserPremium-5.6.0.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.5.2",
+          "date": "2024-03-01",
+          "size": 89734990,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/AlohaBrowserPremium-5.5.2.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.5.1",
+          "date": "2024-02-23",
+          "size": 89860458,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/AlohaBrowserPremium-5.5.1.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "5.4.1",
+          "date": "2024-02-02",
+          "size": 89330708,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AlohaBrowserPremium-5.4.1.ipa",
+          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "BeautyPlusPremium",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+      "versions": [
+        {
+          "version": "7.7.071",
+          "date": "2024-03-27",
+          "size": 230547103,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/BeautyPlusPremium-7.7.071.ipa",
+          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.7.060",
+          "date": "2024-03-03",
+          "size": 236260218,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/BeautyPlusPremium-7.7.060.ipa",
+          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "EnhanceFoxPro",
+      "bundleIdentifier": "com.risingcabbage.enhancefox",
+      "developerName": "Qamislo - Apps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png",
+      "versions": [
+        {
+          "version": "7.2.1",
+          "date": "2024-03-27",
+          "size": 189215808,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/EnhanceFoxPro-7.2.1.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.1.0",
+          "date": "2024-02-23",
+          "size": 189385446,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/EnhanceFoxPro-7.1.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.0.0",
+          "date": "2024-01-29",
+          "size": 244706177,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/EnhanceFoxPro-7.0.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Folium",
+      "bundleIdentifier": "com.antique.Folium",
+      "developerName": "Jarrod Norwell (Antique)",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png",
+      "versions": [
+        {
+          "version": "1.1.4Cytrus",
+          "date": "2024-03-27",
+          "size": 19916532,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Cytrus.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.4Sudachi",
+          "date": "2024-03-27",
+          "size": 18604325,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Sudachi.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.2Sudachi",
+          "date": "2024-03-22",
+          "size": 18606861,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.2Sudachi.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.3Cytrus",
+          "date": "2024-03-22",
+          "size": 19916065,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.3Cytrus.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-03-20",
+          "size": 13771876,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Folium-1.1.0.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2024-03-09",
+          "size": 18068021,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
+          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "developerName": "CyPwn IPA library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png",
+      "versions": [
+        {
+          "version": "1.12.6",
+          "date": "2024-03-27",
+          "size": 525501,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Opener-1.12.6.ipa",
+          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.5",
+          "date": "2024-02-09",
+          "size": 525634,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/Opener-1.12.5.ipa",
+          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.4",
+          "date": "2023-12-28",
+          "size": 524202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Opener-1.12.4.ipa",
+          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.1",
+          "date": "2023-12-04",
+          "size": 619940,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/Opener-1.12.1.ipa",
+          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 1813888,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Opener.ipa",
+          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PixelWeather",
+      "bundleIdentifier": "com.woo-interactive.PixelWeather",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.woo-interactive.PixelWeather.png",
+      "versions": [
+        {
+          "version": "7.0.3",
+          "date": "2024-03-27",
+          "size": 51998849,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/PixelWeather-7.0.3.ipa",
+          "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "7.0.2",
+          "date": "2023-12-28",
+          "size": 51998703,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PixelWeather-7.0.2.ipa",
+          "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "ScannerProPlus",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+      "versions": [
+        {
+          "version": "8.17.3",
+          "date": "2024-03-27",
+          "size": 112797069,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/ScannerProPlus-8.17.3.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.17.1",
+          "date": "2024-02-17",
+          "size": 112858637,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ScannerProPlus-8.17.1.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "SparkPremium",
+      "bundleIdentifier": "com.readdle.smartemail",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png",
+      "versions": [
+        {
+          "version": "3.9.2",
+          "date": "2024-03-27",
+          "size": 97707884,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
+          "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 03-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.6.2",
+          "date": "2023-12-05",
+          "size": 184885684,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
+          "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 03-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png",
+      "versions": [
+        {
+          "version": "3.4.16",
+          "date": "2024-03-27",
+          "size": 114150338,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/TorBrowserPlusPlus-3.4.16.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.4.10",
+          "date": "2024-02-02",
+          "size": 113816354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/TorBrowserPlusPlus-3.4.10.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.3.4",
+          "date": "2023-10-14",
+          "size": 102332595,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/TorBrowserPlusPlus-3.3.4.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.15",
+          "date": "2023-07-25",
+          "size": 116146314,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TorBrowserPlusPlus-3.2.15.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.10",
+          "date": "2022-12-27",
+          "size": 72628445,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/TorBrowserPlusPlus-3.2.10.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.2.2",
+          "date": "2022-11-28",
+          "size": 114511347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/TorBrowserPlusPlus-3.2.2.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 115722992,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TorBrowserPlusPlus.ipa",
+          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TruecallerPremium",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
+      "versions": [
+        {
+          "version": "12.86.5",
+          "date": "2024-03-27",
+          "size": 98391105,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/TruecallerPremium-12.86.5.ipa",
+          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: \u2754 \u2b50"
+        },
+        {
+          "version": "12.76.6",
+          "date": "2024-01-26",
+          "size": 97623150,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/TruecallerPremium-12.76.6.ipa",
+          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: \u2754 \u2b50"
+        },
+        {
+          "version": "12.75.4",
+          "date": "2024-01-18",
+          "size": 94163248,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TruecallerPremium-12.75.4.ipa",
+          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: \u2754 \u2b50"
+        },
+        {
+          "version": "12.71",
+          "date": "2023-12-22",
+          "size": 93315725,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/TruecallerPremium-12.71.ipa",
+          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: \u2754 \u2b50"
+        },
+        {
+          "version": "12.69.6",
+          "date": "2023-12-05",
+          "size": 88640952,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
+          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: \u2754 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "VPNSatoshi",
+      "bundleIdentifier": "com.vpnsatoshi.vpnsatoshiapp",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.vpnsatoshi.vpnsatoshiapp.png",
+      "versions": [
+        {
+          "version": "2.20",
+          "date": "2024-03-27",
+          "size": 50398330,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/VPNSatoshi-2.20.ipa",
+          "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.14",
+          "date": "2024-02-21",
+          "size": 40143037,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VPNSatoshi-2.14.ipa",
+          "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.4",
+          "date": "2024-01-14",
+          "size": 36949562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/VPNSatoshi-2.4.ipa",
+          "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "WallcraftPro",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.wallpaperscraft.wallpapers.png",
+      "versions": [
+        {
+          "version": "3.14",
+          "date": "2024-03-27",
+          "size": 91839901,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/WallcraftPro-3.14.ipa",
+          "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.12",
+          "date": "2024-01-25",
+          "size": 92047124,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/WallcraftPro-3.12.ipa",
+          "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "YukaPremium",
+      "bundleIdentifier": "yuca.scanner",
+      "developerName": "iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/yuca.scanner.png",
+      "versions": [
+        {
+          "version": "4.35",
+          "date": "2024-03-27",
+          "size": 123092775,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/YukaPremium-4.35.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 03-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.34",
+          "date": "2024-03-19",
+          "size": 121466871,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/YukaPremium-4.34.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 03-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
       "name": "BHTikTokPlus",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft / riadipa",
@@ -3128,42 +3554,6 @@
       ]
     },
     {
-      "name": "Folium",
-      "bundleIdentifier": "com.antique.Folium",
-      "developerName": "Jarrod Norwell (Antique)",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png",
-      "versions": [
-        {
-          "version": "1.1.2Sudachi",
-          "date": "2024-03-22",
-          "size": 18606861,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.2Sudachi.ipa",
-          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.3Cytrus",
-          "date": "2024-03-22",
-          "size": 19916065,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.3Cytrus.ipa",
-          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.0",
-          "date": "2024-03-20",
-          "size": 13771876,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Folium-1.1.0.ipa",
-          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0.5",
-          "date": "2024-03-09",
-          "size": 18068021,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
-          "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-22-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "https://ipogo.app",
@@ -3443,42 +3833,6 @@
           "size": 24208267,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/SwipewipePremium-2.01.00.ipa",
           "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 03-21-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "AlohaBrowserPremium",
-      "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
-      "versions": [
-        {
-          "version": "5.6.0",
-          "date": "2024-03-20",
-          "size": 91059892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/AlohaBrowserPremium-5.6.0.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "5.5.2",
-          "date": "2024-03-01",
-          "size": 89734990,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/AlohaBrowserPremium-5.5.2.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "5.5.1",
-          "date": "2024-02-23",
-          "size": 89860458,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/AlohaBrowserPremium-5.5.1.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "5.4.1",
-          "date": "2024-02-02",
-          "size": 89330708,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AlohaBrowserPremium-5.4.1.ipa",
-          "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 03-20-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -4106,21 +4460,6 @@
           "size": 170001237,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/VidsAIPro-1.51.0.ipa",
           "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 03-19-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "YukaPremium",
-      "bundleIdentifier": "yuca.scanner",
-      "developerName": "iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/yuca.scanner.png",
-      "versions": [
-        {
-          "version": "4.34",
-          "date": "2024-03-19",
-          "size": 121466871,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/YukaPremium-4.34.ipa",
-          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 03-19-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -7590,21 +7929,6 @@
       ]
     },
     {
-      "name": "BeautyPlusPremium",
-      "bundleIdentifier": "com.commsource.BeautyPlus",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
-      "versions": [
-        {
-          "version": "7.7.060",
-          "date": "2024-03-03",
-          "size": 236260218,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/BeautyPlusPremium-7.7.060.ipa",
-          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "CarPlex",
       "bundleIdentifier": "com.osk3apps.CarPlex",
       "developerName": "osk3apps.com",
@@ -8689,28 +9013,6 @@
       ]
     },
     {
-      "name": "EnhanceFoxPro",
-      "bundleIdentifier": "com.risingcabbage.enhancefox",
-      "developerName": "Qamislo - Apps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png",
-      "versions": [
-        {
-          "version": "7.1.0",
-          "date": "2024-02-23",
-          "size": 189385446,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/EnhanceFoxPro-7.1.0.ipa",
-          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 02-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "7.0.0",
-          "date": "2024-01-29",
-          "size": 244706177,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/EnhanceFoxPro-7.0.0.ipa",
-          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 02-23-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "FineReaderPDFPro",
       "bundleIdentifier": "com.abbyy.finescanner-pro",
       "developerName": "CyPwn IPA Library",
@@ -8890,28 +9192,6 @@
       ]
     },
     {
-      "name": "VPNSatoshi",
-      "bundleIdentifier": "com.vpnsatoshi.vpnsatoshiapp",
-      "developerName": "binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.vpnsatoshi.vpnsatoshiapp.png",
-      "versions": [
-        {
-          "version": "2.14",
-          "date": "2024-02-21",
-          "size": 40143037,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VPNSatoshi-2.14.ipa",
-          "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 02-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.4",
-          "date": "2024-01-14",
-          "size": 36949562,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/VPNSatoshi-2.4.ipa",
-          "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 02-21-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "RadarbotPro",
       "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
@@ -9050,21 +9330,6 @@
           "size": 2187660,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Aidoku.ipa",
           "localizedDescription": "Webtoon/manga browser\nLast updated: 02-17-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "ScannerProPlus",
-      "bundleIdentifier": "com.readdle.Scanner",
-      "developerName": "Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
-      "versions": [
-        {
-          "version": "8.17.1",
-          "date": "2024-02-17",
-          "size": 112858637,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ScannerProPlus-8.17.1.ipa",
-          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 02-17-2024\nStatus: \u2705"
         }
       ]
     },
@@ -9250,42 +9515,6 @@
           "size": 54206994,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-28-2023/AIChatbotGeniePro-5.4.0.ipa",
           "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 02-10-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "developerName": "CyPwn IPA library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png",
-      "versions": [
-        {
-          "version": "1.12.5",
-          "date": "2024-02-09",
-          "size": 525634,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/Opener-1.12.5.ipa",
-          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps\nLast updated: 02-09-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.12.4",
-          "date": "2023-12-28",
-          "size": 524202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/Opener-1.12.4.ipa",
-          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps\nLast updated: 02-09-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.12.1",
-          "date": "2023-12-04",
-          "size": 619940,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/Opener-1.12.1.ipa",
-          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps\nLast updated: 02-09-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 1813888,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Opener.ipa",
-          "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps\nLast updated: 02-09-2024\nStatus: \u2705"
         }
       ]
     },
@@ -9672,56 +9901,6 @@
       ]
     },
     {
-      "name": "TorBrowserPlusPlus",
-      "bundleIdentifier": "ch.b-eng.tor",
-      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png",
-      "versions": [
-        {
-          "version": "3.4.10",
-          "date": "2024-02-02",
-          "size": 113816354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/TorBrowserPlusPlus-3.4.10.ipa",
-          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 02-02-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.3.4",
-          "date": "2023-10-14",
-          "size": 102332595,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/TorBrowserPlusPlus-3.3.4.ipa",
-          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 02-02-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.15",
-          "date": "2023-07-25",
-          "size": 116146314,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TorBrowserPlusPlus-3.2.15.ipa",
-          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 02-02-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.10",
-          "date": "2022-12-27",
-          "size": 72628445,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/TorBrowserPlusPlus-3.2.10.ipa",
-          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 02-02-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.2.2",
-          "date": "2022-11-28",
-          "size": 114511347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/TorBrowserPlusPlus-3.2.2.ipa",
-          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 02-02-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 115722992,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TorBrowserPlusPlus.ipa",
-          "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 02-02-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "OTADisabler",
       "bundleIdentifier": "com.ichitaso.otadisablerts",
       "developerName": "ichitaso",
@@ -10001,42 +10180,6 @@
       ]
     },
     {
-      "name": "TruecallerPremium",
-      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-      "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
-      "versions": [
-        {
-          "version": "12.76.6",
-          "date": "2024-01-26",
-          "size": 97623150,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/TruecallerPremium-12.76.6.ipa",
-          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 01-26-2024\nStatus: \u2705 \u2b50 \u2754"
-        },
-        {
-          "version": "12.75.4",
-          "date": "2024-01-18",
-          "size": 94163248,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/TruecallerPremium-12.75.4.ipa",
-          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 01-26-2024\nStatus: \u2705 \u2b50 \u2754"
-        },
-        {
-          "version": "12.71",
-          "date": "2023-12-22",
-          "size": 93315725,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/TruecallerPremium-12.71.ipa",
-          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 01-26-2024\nStatus: \u2705 \u2b50 \u2754"
-        },
-        {
-          "version": "12.69.6",
-          "date": "2023-12-05",
-          "size": 88640952,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
-          "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 01-26-2024\nStatus: \u2705 \u2b50 \u2754"
-        }
-      ]
-    },
-    {
       "name": "TrollStarTE",
       "bundleIdentifier": "com.thuthuatjb.trollforcete",
       "developerName": "thuthuatjb",
@@ -10055,21 +10198,6 @@
           "size": 986016,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/TrollStarTE-2.4.ipa",
           "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "WallcraftPro",
-      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.wallpaperscraft.wallpapers.png",
-      "versions": [
-        {
-          "version": "3.12",
-          "date": "2024-01-25",
-          "size": 92047124,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/WallcraftPro-3.12.ipa",
-          "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 01-25-2024\nStatus: \u2705"
         }
       ]
     },
@@ -10936,21 +11064,6 @@
       ]
     },
     {
-      "name": "PixelWeather",
-      "bundleIdentifier": "com.woo-interactive.PixelWeather",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.woo-interactive.PixelWeather.png",
-      "versions": [
-        {
-          "version": "7.0.2",
-          "date": "2023-12-28",
-          "size": 51998703,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PixelWeather-7.0.2.ipa",
-          "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 12-28-2023\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "CallAssist",
       "bundleIdentifier": "com.apple.mobilephone-call",
       "developerName": "xybp888",
@@ -11647,21 +11760,6 @@
           "size": 228202,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/TrollInstallerMDC-1.0.4.ipa",
           "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore guide for detailed instructions.\nLast updated: 12-08-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "SparkPremium",
-      "bundleIdentifier": "com.readdle.smartemail",
-      "developerName": "zxcvbn's tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png",
-      "versions": [
-        {
-          "version": "3.6.2",
-          "date": "2023-12-05",
-          "size": 184885684,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
-          "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 12-05-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
