@@ -4,6 +4,353 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ChargeLimiter",
+      "bundleIdentifier": "chaoge.ChargeLimiter",
+      "developerName": "lich4",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png",
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2024-04-01",
+          "size": 2416295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/ChargeLimiter-1.5.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1",
+          "date": "2024-03-03",
+          "size": 2038683,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/ChargeLimiter-1.4.1.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4",
+          "date": "2024-02-17",
+          "size": 1931989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ChargeLimiter-1.4.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3",
+          "date": "2024-02-12",
+          "size": 1339325,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/ChargeLimiter-1.3.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1",
+          "date": "2024-02-10",
+          "size": 2179272,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/ChargeLimiter-1.1.ipa",
+          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 04-01-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+      "versions": [
+        {
+          "version": "9.2.1",
+          "date": "2024-04-01",
+          "size": 166970182,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/LightroomPremium-9.2.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 04-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.1.1",
+          "date": "2024-01-27",
+          "size": 160822525,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/LightroomPremium-9.1.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 04-01-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "OpalPro",
+      "bundleIdentifier": "com.withopal.opal",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.withopal.opal.png",
+      "versions": [
+        {
+          "version": "3.56",
+          "date": "2024-04-01",
+          "size": 85467018,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/OpalPro-3.56.ipa",
+          "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day.\nLast updated: 04-01-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "PhotoshopExpress",
+      "bundleIdentifier": "com.adobe.PSMobile",
+      "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
+      "versions": [
+        {
+          "version": "24.12.1",
+          "date": "2024-04-01",
+          "size": 158108176,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.8.1",
+          "date": "2024-03-01",
+          "size": 152471570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PhotoshopExpress-24.8.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.8.0",
+          "date": "2024-02-27",
+          "size": 152446513,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/PhotoshopExpress-24.8.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.7.0",
+          "date": "2024-02-20",
+          "size": 152298127,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/PhotoshopExpress-24.7.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.6.0",
+          "date": "2024-02-13",
+          "size": 152402553,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/PhotoshopExpress-24.6.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.5.0",
+          "date": "2024-02-07",
+          "size": 152095628,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/PhotoshopExpress-24.5.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.4.0",
+          "date": "2024-01-30",
+          "size": 153622066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.3.0",
+          "date": "2024-01-24",
+          "size": 152454168,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoshopExpress-24.3.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.2.0",
+          "date": "2024-01-18",
+          "size": 152334454,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/PhotoshopExpress-24.2.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.1.0",
+          "date": "2024-01-09",
+          "size": 156808271,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PhotoshopExpress-24.1.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.49.1",
+          "date": "2023-12-14",
+          "size": 156326689,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/PhotoshopExpress-23.49.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.48.0",
+          "date": "2023-12-05",
+          "size": 155947352,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotoshopExpress-23.48.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.47.0",
+          "date": "2023-11-30",
+          "size": 156599162,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/PhotoshopExpress-23.47.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.46.0",
+          "date": "2023-11-24",
+          "size": 155089400,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.45.0",
+          "date": "2023-11-18",
+          "size": 155132644,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PhotoshopExpress-23.45.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.44.1",
+          "date": "2023-11-12",
+          "size": 154639594,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.42.0",
+          "date": "2023-10-30",
+          "size": 156653773,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.41.0",
+          "date": "2023-10-22",
+          "size": 155694493,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/PhotoshopExpress-23.41.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.40.2",
+          "date": "2023-10-16",
+          "size": 154168333,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/PhotoshopExpress-23.40.2.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.38.1",
+          "date": "2023-10-09",
+          "size": 130238077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/PhotoshopExpress-23.38.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.37.0",
+          "date": "2023-09-19",
+          "size": 127523623,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/PhotoshopExpress-23.37.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.36.0",
+          "date": "2023-09-18",
+          "size": 154943359,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/PhotoshopExpress-23.36.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.35.0",
+          "date": "2023-09-05",
+          "size": 154735334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/PhotoshopExpress-23.35.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.34.0",
+          "date": "2023-08-28",
+          "size": 131525141,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/PhotoshopExpress-23.34.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.31.0",
+          "date": "2023-08-09",
+          "size": 125936476,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/PhotoshopExpress-23.31.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.30.0",
+          "date": "2023-08-03",
+          "size": 136902646,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.29.1",
+          "date": "2023-07-30",
+          "size": 115403508,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.29.0",
+          "date": "2023-07-26",
+          "size": 115405351,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.28.0",
+          "date": "2023-07-25",
+          "size": 126854080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotoshopExpress-23.28.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.19.0",
+          "date": "2023-05-24",
+          "size": 123085415,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.17.1",
+          "date": "2023-05-06",
+          "size": 126750253,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.16.0",
+          "date": "2023-04-27",
+          "size": 125974130,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotoshopExpress-23.16.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.14.0",
+          "date": "2023-04-17",
+          "size": 126153344,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/PhotoshopExpress-23.14.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.4.0",
+          "date": "2023-04-15",
+          "size": 137605730,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.12.1",
+          "date": "2023-04-01",
+          "size": 116943668,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.10.0",
+          "date": "2023-03-16",
+          "size": 117862297,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/PhotoshopExpress-23.10.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.8.0",
+          "date": "2023-03-09",
+          "size": 126854080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/PhotoshopExpress-23.8.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-01-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "AIChatbotGeniePro",
       "bundleIdentifier": "co.appnation.geniechat.watchapp",
       "developerName": "ipalibrary.me / ArianaMinajj",
@@ -8621,42 +8968,6 @@
       ]
     },
     {
-      "name": "ChargeLimiter",
-      "bundleIdentifier": "chaoge.ChargeLimiter",
-      "developerName": "lich4",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png",
-      "versions": [
-        {
-          "version": "1.4.1",
-          "date": "2024-03-03",
-          "size": 2038683,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/ChargeLimiter-1.4.1.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4",
-          "date": "2024-02-17",
-          "size": 1931989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ChargeLimiter-1.4.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3",
-          "date": "2024-02-12",
-          "size": 1339325,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/ChargeLimiter-1.3.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1",
-          "date": "2024-02-10",
-          "size": 2179272,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/ChargeLimiter-1.1.ipa",
-          "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 03-03-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "MotionleapPro",
       "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -8798,266 +9109,6 @@
           "size": 221377534,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
           "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 03-01-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "PhotoshopExpress",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
-      "versions": [
-        {
-          "version": "24.8.1",
-          "date": "2024-03-01",
-          "size": 152471570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PhotoshopExpress-24.8.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.8.0",
-          "date": "2024-02-27",
-          "size": 152446513,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/PhotoshopExpress-24.8.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.7.0",
-          "date": "2024-02-20",
-          "size": 152298127,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/PhotoshopExpress-24.7.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.6.0",
-          "date": "2024-02-13",
-          "size": 152402553,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/PhotoshopExpress-24.6.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.5.0",
-          "date": "2024-02-07",
-          "size": 152095628,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/PhotoshopExpress-24.5.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.4.0",
-          "date": "2024-01-30",
-          "size": 153622066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.3.0",
-          "date": "2024-01-24",
-          "size": 152454168,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoshopExpress-24.3.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.2.0",
-          "date": "2024-01-18",
-          "size": 152334454,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/PhotoshopExpress-24.2.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.1.0",
-          "date": "2024-01-09",
-          "size": 156808271,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PhotoshopExpress-24.1.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.49.1",
-          "date": "2023-12-14",
-          "size": 156326689,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/PhotoshopExpress-23.49.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.48.0",
-          "date": "2023-12-05",
-          "size": 155947352,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotoshopExpress-23.48.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.47.0",
-          "date": "2023-11-30",
-          "size": 156599162,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/PhotoshopExpress-23.47.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.46.0",
-          "date": "2023-11-24",
-          "size": 155089400,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.45.0",
-          "date": "2023-11-18",
-          "size": 155132644,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PhotoshopExpress-23.45.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.44.1",
-          "date": "2023-11-12",
-          "size": 154639594,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.42.0",
-          "date": "2023-10-30",
-          "size": 156653773,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.41.0",
-          "date": "2023-10-22",
-          "size": 155694493,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/PhotoshopExpress-23.41.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.40.2",
-          "date": "2023-10-16",
-          "size": 154168333,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/PhotoshopExpress-23.40.2.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.38.1",
-          "date": "2023-10-09",
-          "size": 130238077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/PhotoshopExpress-23.38.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.37.0",
-          "date": "2023-09-19",
-          "size": 127523623,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/PhotoshopExpress-23.37.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.36.0",
-          "date": "2023-09-18",
-          "size": 154943359,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/PhotoshopExpress-23.36.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.35.0",
-          "date": "2023-09-05",
-          "size": 154735334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/PhotoshopExpress-23.35.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.34.0",
-          "date": "2023-08-28",
-          "size": 131525141,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/PhotoshopExpress-23.34.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.31.0",
-          "date": "2023-08-09",
-          "size": 125936476,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/PhotoshopExpress-23.31.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.30.0",
-          "date": "2023-08-03",
-          "size": 136902646,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.29.1",
-          "date": "2023-07-30",
-          "size": 115403508,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.29.0",
-          "date": "2023-07-26",
-          "size": 115405351,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.28.0",
-          "date": "2023-07-25",
-          "size": 126854080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotoshopExpress-23.28.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.19.0",
-          "date": "2023-05-24",
-          "size": 123085415,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.17.1",
-          "date": "2023-05-06",
-          "size": 126750253,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.16.0",
-          "date": "2023-04-27",
-          "size": 125974130,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotoshopExpress-23.16.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.14.0",
-          "date": "2023-04-17",
-          "size": 126153344,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/PhotoshopExpress-23.14.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.4.0",
-          "date": "2023-04-15",
-          "size": 137605730,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.12.1",
-          "date": "2023-04-01",
-          "size": 116943668,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.10.0",
-          "date": "2023-03-16",
-          "size": 117862297,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/PhotoshopExpress-23.10.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.8.0",
-          "date": "2023-03-09",
-          "size": 126854080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/PhotoshopExpress-23.8.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 03-01-2024\nStatus: \u2705"
         }
       ]
     },
@@ -10374,21 +10425,6 @@
           "size": 8128834,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
           "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "LightroomPremium",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
-      "versions": [
-        {
-          "version": "9.1.1",
-          "date": "2024-01-27",
-          "size": 160822525,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/LightroomPremium-9.1.1.ipa",
-          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 01-27-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
