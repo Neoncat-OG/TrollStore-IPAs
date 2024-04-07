@@ -4,14 +4,91 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "APTVPro",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "version": "1.3.2",
+      "versionDate": "2024-04-07",
+      "size": 35980895,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/APTVPro-1.3.2.ipa",
+      "developerName": "iOS Tutorials + App Cracks / binnichtaktiv's iPA Library",
+      "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 04-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kimen.aptvpro.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.3.14",
+      "versionDate": "2024-04-07",
+      "size": 331622201,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/Goodnotes6-6.3.14.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 04-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "1.6.4-89",
+      "versionDate": "2024-04-07",
+      "size": 1926520,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
+      "developerName": "Lessica / TrollRecorder",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
+      "name": "UsagePro",
+      "bundleIdentifier": "com.olegst.usage",
+      "version": "4.20.5",
+      "versionDate": "2024-04-07",
+      "size": 20484617,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/UsagePro-4.20.5.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.olegst.usage.png"
+    },
+    {
+      "name": "VidsAIPro",
+      "bundleIdentifier": "viral.vision.vids",
+      "version": "1.54.0",
+      "versionDate": "2024-04-07",
+      "size": 165476569,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/VidsAIPro-1.54.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
+    },
+    {
+      "name": "WaterMinderPremium",
+      "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
+      "version": "6.4.15",
+      "versionDate": "2024-04-07",
+      "size": 522640961,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WaterMinderPremium-6.4.15.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 04-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
+    },
+    {
+      "name": "WindyappPro",
+      "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
+      "version": "13.4.1",
+      "versionDate": "2024-04-07",
+      "size": 121501690,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WindyappPro-13.4.1.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png"
+    },
+    {
       "name": "AudiomackPremium",
       "bundleIdentifier": "com.audiomack.iphone",
       "version": "6.29.1",
       "versionDate": "2024-04-06",
       "size": 226252208,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/AudiomackPremium-6.29.1.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and playlists offline. Enjoy entire tracks without the need for data, as well as local MP3 files. Note: Very laggy.\nLast updated: 04-06-2024\nStatus: \u2705 \u2b50",
+      "developerName": "",
+      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.audiomack.iphone.png"
     },
     {
@@ -154,7 +231,7 @@
       "size": 1908353,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -319,7 +396,7 @@
       "size": 1886301,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -539,7 +616,7 @@
       "size": 150309334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/WindyappPro-13.3.0.ipa",
       "developerName": "iApps",
-      "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 03-30-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png"
     },
     {
@@ -594,7 +671,7 @@
       "size": 2415865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -682,7 +759,7 @@
       "size": 2412683,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1122,7 +1199,7 @@
       "size": 148420878,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
       "developerName": "iApps",
-      "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 03-30-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png"
     },
     {
@@ -1232,7 +1309,7 @@
       "size": 323637347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Goodnotes6-6.3.12.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -1276,7 +1353,7 @@
       "size": 522223495,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/WaterMinderPremium-6.4.12.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 04-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -1331,7 +1408,7 @@
       "size": 321760236,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Goodnotes6-6.3.10.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -1386,7 +1463,7 @@
       "size": 154841675,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/VidsAIPro-1.52.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 03-19-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -1518,7 +1595,7 @@
       "size": 2079031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1628,7 +1705,7 @@
       "size": 2067973,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1705,7 +1782,7 @@
       "size": 2549610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1782,7 +1859,7 @@
       "size": 170001237,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/VidsAIPro-1.51.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 03-19-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -1826,7 +1903,7 @@
       "size": 522405516,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/WaterMinderPremium-6.4.11.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 04-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -1925,7 +2002,7 @@
       "size": 2525367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-05-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1936,7 +2013,7 @@
       "size": 19232013,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
       "developerName": "AbodSyripa",
-      "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 03-10-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.olegst.usage.png"
     },
     {
@@ -2563,7 +2640,7 @@
       "size": 521958567,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/WaterMinderPremium-6.4.8.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-20-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 04-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -2717,7 +2794,7 @@
       "size": 296255622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/Goodnotes6-6.3.4.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -8096,7 +8173,7 @@
       "size": 315141070,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 03-20-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 04-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
