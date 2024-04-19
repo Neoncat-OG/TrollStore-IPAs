@@ -4,6 +4,1074 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AlarmyPremium",
+      "bundleIdentifier": "droom.sleepIfUCanFree",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
+      "versions": [
+        {
+          "version": "24.21.1",
+          "date": "2024-04-19",
+          "size": 161819886,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/AlarmyPremium-24.21.1.ipa",
+          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.15.0",
+          "date": "2024-03-23",
+          "size": 165088148,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AlarmyPremium-24.15.0.ipa",
+          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.14.1",
+          "date": "2024-03-10",
+          "size": 166425719,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-24.14.1.ipa",
+          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.12.2",
+          "date": "2024-03-10",
+          "size": 153669264,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AlarmyPremium-24.12.2.ipa",
+          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "AppLockPro",
+      "bundleIdentifier": "com.lilucat.applock.us",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png",
+      "versions": [
+        {
+          "version": "3.1.2",
+          "date": "2024-04-19",
+          "size": 15928622,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/AppLockPro-3.1.2.ipa",
+          "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "3.0.2",
+          "date": "2024-04-08",
+          "size": 14063529,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/AppLockPro-3.0.2.ipa",
+          "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "BeautyPlusPremium",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+      "versions": [
+        {
+          "version": "7.7.090",
+          "date": "2024-04-19",
+          "size": 243974211,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/BeautyPlusPremium-7.7.090.ipa",
+          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.7.071",
+          "date": "2024-03-27",
+          "size": 230547103,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/BeautyPlusPremium-7.7.071.ipa",
+          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.7.060",
+          "date": "2024-03-03",
+          "size": 236260218,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/BeautyPlusPremium-7.7.060.ipa",
+          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft / riadipa",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "34.3.1-2.3",
+          "date": "2024-04-19",
+          "size": 188239774,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/BHTikTokPlus-34.3.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.2.1-2.3",
+          "date": "2024-04-12",
+          "size": 246890668,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/BHTikTokPlus-34.2.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.1.0-2.3",
+          "date": "2024-04-04",
+          "size": 187256396,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/BHTikTokPlus-34.1.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.0.0-2.3",
+          "date": "2024-03-31",
+          "size": 246399232,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/BHTikTokPlus-34.0.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.9.1-2.3",
+          "date": "2024-03-26",
+          "size": 246068072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/BHTikTokPlus-33.9.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.9.0-2.3",
+          "date": "2024-03-19",
+          "size": 245688503,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/BHTikTokPlus-33.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.8.0-2.3",
+          "date": "2024-03-12",
+          "size": 247246634,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/BHTikTokPlus-33.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.7.0-2.3",
+          "date": "2024-03-08",
+          "size": 243321888,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/BHTikTokPlus-33.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.6.0-2.3",
+          "date": "2024-02-28",
+          "size": 241035233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/BHTikTokPlus-33.6.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.4.0-2.3",
+          "date": "2024-02-23",
+          "size": 237649098,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/BHTikTokPlus-33.4.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.3.0-2.3",
+          "date": "2024-02-09",
+          "size": 246755562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/BHTikTokPlus-33.3.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.2.1-2.3",
+          "date": "2024-02-06",
+          "size": 179035288,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/BHTikTokPlus-33.2.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.2.0-2.3",
+          "date": "2024-02-01",
+          "size": 235111448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/BHTikTokPlus-33.2.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.1.0-2.3",
+          "date": "2024-01-28",
+          "size": 234281279,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/BHTikTokPlus-33.1.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.0.0-2.3",
+          "date": "2024-01-18",
+          "size": 225298647,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/BHTikTokPlus-33.0.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.9.1-2.3",
+          "date": "2024-01-14",
+          "size": 244127363,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/BHTikTokPlus-32.9.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.9.0-2.3",
+          "date": "2024-01-09",
+          "size": 234418283,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/BHTikTokPlus-32.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.8.0-2.3",
+          "date": "2024-01-03",
+          "size": 235859225,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHTikTokPlus-32.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.7.0-2.3",
+          "date": "2023-12-28",
+          "size": 236887294,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/BHTikTokPlus-32.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.6.0-2.3",
+          "date": "2023-12-19",
+          "size": 236795267,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.5.0-2.3",
+          "date": "2023-12-18",
+          "size": 244719404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.4.0-2.3",
+          "date": "2023-12-05",
+          "size": 235256295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.3.0-2.3",
+          "date": "2023-11-28",
+          "size": 235569969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.2.0-2.3",
+          "date": "2023-11-21",
+          "size": 230416806,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.1.0-2.3",
+          "date": "2023-11-15",
+          "size": 268499892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.0.0-2.3",
+          "date": "2023-11-09",
+          "size": 251556245,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.9.0-2.3",
+          "date": "2023-11-01",
+          "size": 235764456,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.8.0-2.3",
+          "date": "2023-10-25",
+          "size": 238521629,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.7.0-2.3",
+          "date": "2023-10-19",
+          "size": 237220393,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.5.0-2.3",
+          "date": "2023-10-14",
+          "size": 239507576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.5.0-2.2.1",
+          "date": "2023-10-09",
+          "size": 233187621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.4.0-2.2.1",
+          "date": "2023-10-03",
+          "size": 233623072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.3.0-2.2.1",
+          "date": "2023-09-21",
+          "size": 231208792,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.2.0-2.2.1",
+          "date": "2023-09-18",
+          "size": 231301882,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.2",
+          "date": "2023-09-14",
+          "size": 230428022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.1",
+          "date": "2023-09-12",
+          "size": 230414152,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.0",
+          "date": "2023-09-08",
+          "size": 170308209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.2-2.0",
+          "date": "2023-09-05",
+          "size": 169559209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.0-2.0",
+          "date": "2023-09-02",
+          "size": 169557840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.0-1.4",
+          "date": "2023-08-31",
+          "size": 169398360,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHTikTokPlus-31.0.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.9.0-1.4",
+          "date": "2023-08-25",
+          "size": 167025365,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/BHTikTokPlus-30.9.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.8.0-1.4",
+          "date": "2023-08-22",
+          "size": 165875592,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/BHTikTokPlus-30.8.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.8.0-1.3",
+          "date": "2023-08-20",
+          "size": 165421921,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BHTikTokPlus-30.8.0-1.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.7.0-1.3",
+          "date": "2023-08-11",
+          "size": 231427797,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHTikTokPlus-30.7.0-1.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.7.0-1.2",
+          "date": "2023-08-09",
+          "size": 228018550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BHTikTokPlus-30.7.0-1.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.6.0-1.2",
+          "date": "2023-08-07",
+          "size": 228787999,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/BHTikTokPlus-30.6.0-1.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.6.0-0.0.1",
+          "date": "2023-08-02",
+          "size": 169954110,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTokPlus-30.6.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.5.0-0.0.1",
+          "date": "2023-07-27",
+          "size": 170947897,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTokPlus-30.5.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.4.0-0.0.1",
+          "date": "2023-07-25",
+          "size": 169956138,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/BHTikTokPlus-30.4.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.3.0-0.0.1",
+          "date": "2023-07-13",
+          "size": 226368598,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/BHTikTokPlus-30.3.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-19-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Downie",
+      "bundleIdentifier": "com.charliemonroe.Downie",
+      "developerName": "TestFlight",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png",
+      "versions": [
+        {
+          "version": "1.0-92",
+          "date": "2024-04-19",
+          "size": 20571776,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/Downie-1.0-92.ipa",
+          "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 04-19-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "ImpulsePro",
+      "bundleIdentifier": "gen.tech.impulse",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/gen.tech.impulse.png",
+      "versions": [
+        {
+          "version": "1.30.15",
+          "date": "2024-04-19",
+          "size": 80589578,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/ImpulsePro-1.30.15.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.12",
+          "date": "2024-03-29",
+          "size": 75415910,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.10",
+          "date": "2024-02-25",
+          "size": 81659589,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/ImpulsePro-1.30.10.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.7",
+          "date": "2024-01-09",
+          "size": 63698691,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ImpulsePro-1.30.7.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.6",
+          "date": "2023-12-31",
+          "size": 63388115,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/ImpulsePro-1.30.6.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.5",
+          "date": "2023-12-30",
+          "size": 66288379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/ImpulsePro-1.30.5.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "327.1.0-1.2.6",
+          "date": "2024-04-19",
+          "size": 148304795,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/InstagramNyx-327.1.0-1.2.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "326.0.3-1.2.6b",
+          "date": "2024-04-14",
+          "size": 146042133,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/InstagramNyx-326.0.3-1.2.6b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "325.0.3-1.2.6b",
+          "date": "2024-04-10",
+          "size": 156606508,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/InstagramNyx-325.0.3-1.2.6b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "325.0.3-1.2.4",
+          "date": "2024-04-06",
+          "size": 145187709,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/InstagramNyx-325.0.3-1.2.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "324.0.4-1.2.4b",
+          "date": "2024-03-26",
+          "size": 152548585,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InstagramNyx-324.0.4-1.2.4b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "324.0.4-1.2.2",
+          "date": "2024-03-25",
+          "size": 142667013,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstagramNyx-324.0.4-1.2.2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "323.0.3-1.2.4b",
+          "date": "2024-03-23",
+          "size": 143257044,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/InstagramNyx-323.0.3-1.2.4b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "323.0.3-1.2.2",
+          "date": "2024-03-19",
+          "size": 145811947,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/InstagramNyx-323.0.3-1.2.2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "322.1.1-1.2.2",
+          "date": "2024-03-15",
+          "size": 146150436,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/InstagramNyx-322.1.1-1.2.2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "322.0.1-1.2.2b2",
+          "date": "2024-03-12",
+          "size": 146224071,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/InstagramNyx-322.0.1-1.2.2b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "321.0-1.2.2b2",
+          "date": "2024-03-08",
+          "size": 141932230,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramNyx-321.0-1.2.2b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "319.0.2-1.2.2b2",
+          "date": "2024-02-25",
+          "size": 151932436,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/InstagramNyx-319.0.2-1.2.2b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "319.0.2-1.2.0",
+          "date": "2024-02-24",
+          "size": 143660373,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstagramNyx-319.0.2-1.2.0.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "317.0.4-1.2.2b",
+          "date": "2024-02-10",
+          "size": 151808155,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/InstagramNyx-317.0.4-1.2.2b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "317.0.4-1.2.0",
+          "date": "2024-02-06",
+          "size": 152020805,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/InstagramNyx-317.0.4-1.2.0.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "315.1.2-1.2.0b2",
+          "date": "2024-01-26",
+          "size": 145258004,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/InstagramNyx-315.1.2-1.2.0b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "316.0.6-1.1.8",
+          "date": "2024-01-24",
+          "size": 135632166,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstagramNyx-316.0.6-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "315.0.2-1.2.0b",
+          "date": "2024-01-23",
+          "size": 145702159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramNyx-315.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "314.0.6-1.1.8",
+          "date": "2024-01-17",
+          "size": 141918006,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.2.0b",
+          "date": "2024-01-16",
+          "size": 147214504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.1.8",
+          "date": "2024-01-13",
+          "size": 147145429,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8b2",
+          "date": "2024-01-03",
+          "size": 144606204,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8",
+          "date": "2023-12-28",
+          "size": 145628785,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.6",
+          "date": "2023-12-25",
+          "size": 143349474,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "311.0.2-1.1.6",
+          "date": "2023-12-12",
+          "size": 142283496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.6",
+          "date": "2023-12-11",
+          "size": 139562066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.4",
+          "date": "2023-12-04",
+          "size": 133602409,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-1.1.4",
+          "date": "2023-12-03",
+          "size": 133971258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png",
+      "versions": [
+        {
+          "version": "8.10.2",
+          "date": "2024-04-19",
+          "size": 185592561,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/LoopsiePro-8.10.2.ipa",
+          "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.9.2",
+          "date": "2024-03-31",
+          "size": 178876940,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/LoopsiePro-8.9.2.ipa",
+          "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.0.3",
+          "date": "2024-01-24",
+          "size": 190036244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/LoopsiePro-8.0.3.ipa",
+          "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MyFitnessPalPremium",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "ipalibrary.me",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.myfitnesspal.mfp.png",
+      "versions": [
+        {
+          "version": "24.15.0",
+          "date": "2024-04-19",
+          "size": 78126607,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/MyFitnessPalPremium-24.15.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.13.0",
+          "date": "2024-04-06",
+          "size": 77714063,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/MyFitnessPalPremium-24.13.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.11.0",
+          "date": "2024-03-25",
+          "size": 73759556,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/MyFitnessPalPremium-24.11.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "TikTokLRD",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "3.4-34.3.1",
+          "date": "2024-04-19",
+          "size": 191422551,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/TikTokLRD-3.4-34.3.1.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-34.1.0",
+          "date": "2024-04-04",
+          "size": 248827108,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/TikTokLRD-3.0-34.1.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-33.9.1",
+          "date": "2024-03-28",
+          "size": 249276921,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TikTokLRD-3.0-33.9.1.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-33.8.0",
+          "date": "2024-03-14",
+          "size": 250752572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokLRD-3.0-33.8.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-33.7.0",
+          "date": "2024-03-08",
+          "size": 243945132,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokLRD-3.0-33.7.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-33.4.0",
+          "date": "2024-02-23",
+          "size": 241585975,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokLRD-3.0-33.4.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-33.2.0",
+          "date": "2024-02-01",
+          "size": 239025439,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokLRD-3.0-33.2.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-32.9.0",
+          "date": "2024-01-09",
+          "size": 235048572,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TikTokLRD-3.0-32.9.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-32.6.0",
+          "date": "2023-12-25",
+          "size": 239159012,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokLRD-3.0-32.6.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-32.5.0",
+          "date": "2023-12-13",
+          "size": 245565295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokLRD-3.0-32.5.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-32.4.0",
+          "date": "2023-12-06",
+          "size": 237629062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokLRD-3.0-32.4.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-32.1.0",
+          "date": "2023-11-18",
+          "size": 271935955,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokLRD-3.0-32.1.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-31.4.0",
+          "date": "2023-10-01",
+          "size": 241104868,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRD-3.0-31.4.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-31.0.0",
+          "date": "2023-09-02",
+          "size": 171969348,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-30.8.0",
+          "date": "2023-08-19",
+          "size": 241600649,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokLRD-3.0-30.8.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-30.7.0",
+          "date": "2023-08-08",
+          "size": 238229235,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokLRD-3.0-30.7.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-30.6.0",
+          "date": "2023-08-03",
+          "size": 231719368,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-30.5.0",
+          "date": "2023-07-27",
+          "size": 234249467,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0-30.4.0",
+          "date": "2023-07-25",
+          "size": 233025011,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRD-3.0-30.4.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-30.2.0",
+          "date": "2023-07-09",
+          "size": 221657400,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/TikTokLRD-2.5-30.2.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 227767318,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/TikTokLRD-30.0.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 236684111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokLRD-30.0.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.7.0",
+          "date": "2023-06-04",
+          "size": 224380328,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokLRD-29.7.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.5.0",
+          "date": "2023-05-17",
+          "size": 165709744,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokLRD-29.5.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.3.0",
+          "date": "2023-05-10",
+          "size": 217083160,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokLRD-29.3.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.2.0",
+          "date": "2023-04-25",
+          "size": 163677940,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokLRD-29.2.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.1.1",
+          "date": "2023-04-21",
+          "size": 240382589,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2023/TikTokLRD-29.1.1.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.1.0",
+          "date": "2023-04-20",
+          "size": 160871923,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokLRD-29.1.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.0.0",
+          "date": "2023-04-14",
+          "size": 163208192,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/TikTokLRD-29.0.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-28.9.0",
+          "date": "2023-04-05",
+          "size": 233114654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokLRD-2.5-28.9.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.5-28.4.1",
+          "date": "2023-03-22",
+          "size": 231210955,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/TikTokLRD-2.5-28.4.1.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.4.0",
+          "date": "2023-02-28",
+          "size": 220648541,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokLRD-28.4.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.2.0",
+          "date": "2023-02-23",
+          "size": 163526002,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2023/TikTokLRD-28.2.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1-28.1.0",
+          "date": "2023-02-14",
+          "size": 217151010,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokLRD-2.1-28.1.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1-27.9.0",
+          "date": "2023-02-02",
+          "size": 167612872,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/TikTokLRD-2.1-27.9.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.4-26.9.0",
+          "date": "2022-12-03",
+          "size": 193264418,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/TikTokLRD-2.4-26.9.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9-27.0.0",
+          "date": "2022-11-25",
+          "size": 197785506,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/TikTokLRD-1.9-27.0.0.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1-26.6.1",
+          "date": "2022-11-11",
+          "size": 139644976,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/TikTokLRD-2.1-26.6.1.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 127178850,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokLRD.ipa",
+          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TwitchAdBlock",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+      "versions": [
+        {
+          "version": "19.1.2",
+          "date": "2024-04-19",
+          "size": 77804705,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/TwitchAdBlock-19.1.2.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "AdobeAcrobatReaderPremium",
       "bundleIdentifier": "com.adobe.Adobe-Reader",
       "developerName": "binnichtaktiv's iPA Library",
@@ -3404,203 +4472,6 @@
       ]
     },
     {
-      "name": "InstagramNyx",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "326.0.3-1.2.6b",
-          "date": "2024-04-14",
-          "size": 146042133,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/InstagramNyx-326.0.3-1.2.6b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "325.0.3-1.2.6b",
-          "date": "2024-04-10",
-          "size": 156606508,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/InstagramNyx-325.0.3-1.2.6b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "325.0.3-1.2.4",
-          "date": "2024-04-06",
-          "size": 145187709,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/InstagramNyx-325.0.3-1.2.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "324.0.4-1.2.4b",
-          "date": "2024-03-26",
-          "size": 152548585,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InstagramNyx-324.0.4-1.2.4b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "324.0.4-1.2.2",
-          "date": "2024-03-25",
-          "size": 142667013,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstagramNyx-324.0.4-1.2.2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "323.0.3-1.2.4b",
-          "date": "2024-03-23",
-          "size": 143257044,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/InstagramNyx-323.0.3-1.2.4b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "323.0.3-1.2.2",
-          "date": "2024-03-19",
-          "size": 145811947,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/InstagramNyx-323.0.3-1.2.2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "322.1.1-1.2.2",
-          "date": "2024-03-15",
-          "size": 146150436,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/InstagramNyx-322.1.1-1.2.2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "322.0.1-1.2.2b2",
-          "date": "2024-03-12",
-          "size": 146224071,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/InstagramNyx-322.0.1-1.2.2b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "321.0-1.2.2b2",
-          "date": "2024-03-08",
-          "size": 141932230,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramNyx-321.0-1.2.2b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "319.0.2-1.2.2b2",
-          "date": "2024-02-25",
-          "size": 151932436,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/InstagramNyx-319.0.2-1.2.2b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "319.0.2-1.2.0",
-          "date": "2024-02-24",
-          "size": 143660373,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstagramNyx-319.0.2-1.2.0.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "317.0.4-1.2.2b",
-          "date": "2024-02-10",
-          "size": 151808155,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/InstagramNyx-317.0.4-1.2.2b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "317.0.4-1.2.0",
-          "date": "2024-02-06",
-          "size": 152020805,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/InstagramNyx-317.0.4-1.2.0.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "315.1.2-1.2.0b2",
-          "date": "2024-01-26",
-          "size": 145258004,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/InstagramNyx-315.1.2-1.2.0b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "316.0.6-1.1.8",
-          "date": "2024-01-24",
-          "size": 135632166,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstagramNyx-316.0.6-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "315.0.2-1.2.0b",
-          "date": "2024-01-23",
-          "size": 145702159,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramNyx-315.0.2-1.2.0b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "314.0.6-1.1.8",
-          "date": "2024-01-17",
-          "size": 141918006,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-1.2.0b",
-          "date": "2024-01-16",
-          "size": 147214504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-1.1.8",
-          "date": "2024-01-13",
-          "size": 147145429,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8b2",
-          "date": "2024-01-03",
-          "size": 144606204,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8",
-          "date": "2023-12-28",
-          "size": 145628785,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.6",
-          "date": "2023-12-25",
-          "size": 143349474,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "311.0.2-1.1.6",
-          "date": "2023-12-12",
-          "size": 142283496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.6",
-          "date": "2023-12-11",
-          "size": 139562066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.4",
-          "date": "2023-12-04",
-          "size": 133602409,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-1.1.4",
-          "date": "2023-12-03",
-          "size": 133971258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "TabataTimerPremium",
       "bundleIdentifier": "com.alexandersergienko.TabataTimer",
       "developerName": "Paisseon / ArianaMinajj",
@@ -3706,357 +4577,6 @@
           "size": 110193844,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
           "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 04-13-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "BHTikTokPlus",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft / riadipa",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "34.2.1-2.3",
-          "date": "2024-04-12",
-          "size": 246890668,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/BHTikTokPlus-34.2.1-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "34.1.0-2.3",
-          "date": "2024-04-04",
-          "size": 187256396,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/BHTikTokPlus-34.1.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "34.0.0-2.3",
-          "date": "2024-03-31",
-          "size": 246399232,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/BHTikTokPlus-34.0.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.9.1-2.3",
-          "date": "2024-03-26",
-          "size": 246068072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/BHTikTokPlus-33.9.1-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.9.0-2.3",
-          "date": "2024-03-19",
-          "size": 245688503,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/BHTikTokPlus-33.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.8.0-2.3",
-          "date": "2024-03-12",
-          "size": 247246634,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/BHTikTokPlus-33.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.7.0-2.3",
-          "date": "2024-03-08",
-          "size": 243321888,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/BHTikTokPlus-33.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.6.0-2.3",
-          "date": "2024-02-28",
-          "size": 241035233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/BHTikTokPlus-33.6.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.4.0-2.3",
-          "date": "2024-02-23",
-          "size": 237649098,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/BHTikTokPlus-33.4.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.3.0-2.3",
-          "date": "2024-02-09",
-          "size": 246755562,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/BHTikTokPlus-33.3.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.2.1-2.3",
-          "date": "2024-02-06",
-          "size": 179035288,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/BHTikTokPlus-33.2.1-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.2.0-2.3",
-          "date": "2024-02-01",
-          "size": 235111448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/BHTikTokPlus-33.2.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.1.0-2.3",
-          "date": "2024-01-28",
-          "size": 234281279,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/BHTikTokPlus-33.1.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.0.0-2.3",
-          "date": "2024-01-18",
-          "size": 225298647,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/BHTikTokPlus-33.0.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.9.1-2.3",
-          "date": "2024-01-14",
-          "size": 244127363,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/BHTikTokPlus-32.9.1-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.9.0-2.3",
-          "date": "2024-01-09",
-          "size": 234418283,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/BHTikTokPlus-32.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.8.0-2.3",
-          "date": "2024-01-03",
-          "size": 235859225,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHTikTokPlus-32.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.7.0-2.3",
-          "date": "2023-12-28",
-          "size": 236887294,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/BHTikTokPlus-32.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.6.0-2.3",
-          "date": "2023-12-19",
-          "size": 236795267,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.5.0-2.3",
-          "date": "2023-12-18",
-          "size": 244719404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.4.0-2.3",
-          "date": "2023-12-05",
-          "size": 235256295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.3.0-2.3",
-          "date": "2023-11-28",
-          "size": 235569969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.2.0-2.3",
-          "date": "2023-11-21",
-          "size": 230416806,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.1.0-2.3",
-          "date": "2023-11-15",
-          "size": 268499892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.0.0-2.3",
-          "date": "2023-11-09",
-          "size": 251556245,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.9.0-2.3",
-          "date": "2023-11-01",
-          "size": 235764456,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.8.0-2.3",
-          "date": "2023-10-25",
-          "size": 238521629,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.7.0-2.3",
-          "date": "2023-10-19",
-          "size": 237220393,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.5.0-2.3",
-          "date": "2023-10-14",
-          "size": 239507576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.5.0-2.2.1",
-          "date": "2023-10-09",
-          "size": 233187621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.4.0-2.2.1",
-          "date": "2023-10-03",
-          "size": 233623072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.3.0-2.2.1",
-          "date": "2023-09-21",
-          "size": 231208792,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.2.0-2.2.1",
-          "date": "2023-09-18",
-          "size": 231301882,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.2",
-          "date": "2023-09-14",
-          "size": 230428022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.1",
-          "date": "2023-09-12",
-          "size": 230414152,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.0",
-          "date": "2023-09-08",
-          "size": 170308209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.2-2.0",
-          "date": "2023-09-05",
-          "size": 169559209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.0-2.0",
-          "date": "2023-09-02",
-          "size": 169557840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.0-1.4",
-          "date": "2023-08-31",
-          "size": 169398360,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHTikTokPlus-31.0.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.9.0-1.4",
-          "date": "2023-08-25",
-          "size": 167025365,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/BHTikTokPlus-30.9.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.8.0-1.4",
-          "date": "2023-08-22",
-          "size": 165875592,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/BHTikTokPlus-30.8.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.8.0-1.3",
-          "date": "2023-08-20",
-          "size": 165421921,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BHTikTokPlus-30.8.0-1.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.7.0-1.3",
-          "date": "2023-08-11",
-          "size": 231427797,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHTikTokPlus-30.7.0-1.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.7.0-1.2",
-          "date": "2023-08-09",
-          "size": 228018550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BHTikTokPlus-30.7.0-1.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.6.0-1.2",
-          "date": "2023-08-07",
-          "size": 228787999,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/BHTikTokPlus-30.6.0-1.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.6.0-0.0.1",
-          "date": "2023-08-02",
-          "size": 169954110,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTokPlus-30.6.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.5.0-0.0.1",
-          "date": "2023-07-27",
-          "size": 170947897,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTokPlus-30.5.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.4.0-0.0.1",
-          "date": "2023-07-25",
-          "size": 169956138,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/BHTikTokPlus-30.4.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.3.0-0.0.1",
-          "date": "2023-07-13",
-          "size": 226368598,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/BHTikTokPlus-30.3.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 04-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -4855,21 +5375,6 @@
       ]
     },
     {
-      "name": "AppLockPro",
-      "bundleIdentifier": "com.lilucat.applock.us",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png",
-      "versions": [
-        {
-          "version": "3.0.2",
-          "date": "2024-04-08",
-          "size": 14063529,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/AppLockPro-3.0.2.ipa",
-          "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 04-08-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "https://ipogo.app",
@@ -5385,28 +5890,6 @@
           "size": 226252208,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/AudiomackPremium-6.29.1.ipa",
           "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and playlists offline. Enjoy entire tracks without the need for data, as well as local MP3 files. Note: Very laggy.\nLast updated: 04-06-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "MyFitnessPalPremium",
-      "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "ipalibrary.me",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.myfitnesspal.mfp.png",
-      "versions": [
-        {
-          "version": "24.13.0",
-          "date": "2024-04-06",
-          "size": 77714063,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/MyFitnessPalPremium-24.13.0.ipa",
-          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 04-06-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "24.11.0",
-          "date": "2024-03-25",
-          "size": 73759556,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/MyFitnessPalPremium-24.11.0.ipa",
-          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 04-06-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -6633,280 +7116,6 @@
       ]
     },
     {
-      "name": "TikTokLRD",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "3.0-34.1.0",
-          "date": "2024-04-04",
-          "size": 248827108,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/TikTokLRD-3.0-34.1.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-33.9.1",
-          "date": "2024-03-28",
-          "size": 249276921,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TikTokLRD-3.0-33.9.1.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-33.8.0",
-          "date": "2024-03-14",
-          "size": 250752572,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokLRD-3.0-33.8.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-33.7.0",
-          "date": "2024-03-08",
-          "size": 243945132,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokLRD-3.0-33.7.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-33.4.0",
-          "date": "2024-02-23",
-          "size": 241585975,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokLRD-3.0-33.4.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-33.2.0",
-          "date": "2024-02-01",
-          "size": 239025439,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokLRD-3.0-33.2.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-32.9.0",
-          "date": "2024-01-09",
-          "size": 235048572,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TikTokLRD-3.0-32.9.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-32.6.0",
-          "date": "2023-12-25",
-          "size": 239159012,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokLRD-3.0-32.6.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-32.5.0",
-          "date": "2023-12-13",
-          "size": 245565295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokLRD-3.0-32.5.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-32.4.0",
-          "date": "2023-12-06",
-          "size": 237629062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokLRD-3.0-32.4.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-32.1.0",
-          "date": "2023-11-18",
-          "size": 271935955,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokLRD-3.0-32.1.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-31.4.0",
-          "date": "2023-10-01",
-          "size": 241104868,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRD-3.0-31.4.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-31.0.0",
-          "date": "2023-09-02",
-          "size": 171969348,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-30.8.0",
-          "date": "2023-08-19",
-          "size": 241600649,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokLRD-3.0-30.8.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-30.7.0",
-          "date": "2023-08-08",
-          "size": 238229235,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokLRD-3.0-30.7.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-30.6.0",
-          "date": "2023-08-03",
-          "size": 231719368,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-30.5.0",
-          "date": "2023-07-27",
-          "size": 234249467,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.0-30.4.0",
-          "date": "2023-07-25",
-          "size": 233025011,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRD-3.0-30.4.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-30.2.0",
-          "date": "2023-07-09",
-          "size": 221657400,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/TikTokLRD-2.5-30.2.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 227767318,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/TikTokLRD-30.0.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 236684111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokLRD-30.0.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.7.0",
-          "date": "2023-06-04",
-          "size": 224380328,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokLRD-29.7.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.5.0",
-          "date": "2023-05-17",
-          "size": 165709744,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokLRD-29.5.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.3.0",
-          "date": "2023-05-10",
-          "size": 217083160,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokLRD-29.3.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.2.0",
-          "date": "2023-04-25",
-          "size": 163677940,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokLRD-29.2.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.1.1",
-          "date": "2023-04-21",
-          "size": 240382589,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2023/TikTokLRD-29.1.1.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.1.0",
-          "date": "2023-04-20",
-          "size": 160871923,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokLRD-29.1.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "29.0.0",
-          "date": "2023-04-14",
-          "size": 163208192,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/TikTokLRD-29.0.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-28.9.0",
-          "date": "2023-04-05",
-          "size": 233114654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokLRD-2.5-28.9.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.5-28.4.1",
-          "date": "2023-03-22",
-          "size": 231210955,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/TikTokLRD-2.5-28.4.1.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.4.0",
-          "date": "2023-02-28",
-          "size": 220648541,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokLRD-28.4.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "28.2.0",
-          "date": "2023-02-23",
-          "size": 163526002,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2023/TikTokLRD-28.2.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1-28.1.0",
-          "date": "2023-02-14",
-          "size": 217151010,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokLRD-2.1-28.1.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1-27.9.0",
-          "date": "2023-02-02",
-          "size": 167612872,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/TikTokLRD-2.1-27.9.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.4-26.9.0",
-          "date": "2022-12-03",
-          "size": 193264418,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/TikTokLRD-2.4-26.9.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9-27.0.0",
-          "date": "2022-11-25",
-          "size": 197785506,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/TikTokLRD-1.9-27.0.0.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1-26.6.1",
-          "date": "2022-11-11",
-          "size": 139644976,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/TikTokLRD-2.1-26.6.1.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 127178850,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokLRD.ipa",
-          "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-04-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "BearPro",
       "bundleIdentifier": "net.shinyfrog.bear-iOS",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
@@ -7436,28 +7645,6 @@
       ]
     },
     {
-      "name": "LoopsiePro",
-      "bundleIdentifier": "com.gamelounge.loopsie.ios",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png",
-      "versions": [
-        {
-          "version": "8.9.2",
-          "date": "2024-03-31",
-          "size": 178876940,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/LoopsiePro-8.9.2.ipa",
-          "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 03-31-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.0.3",
-          "date": "2024-01-24",
-          "size": 190036244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/LoopsiePro-8.0.3.ipa",
-          "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 03-31-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "PicAnswerPremium",
       "bundleIdentifier": "com.techconsolidated.photosolve",
       "developerName": "DPixel",
@@ -7687,49 +7874,6 @@
       ]
     },
     {
-      "name": "ImpulsePro",
-      "bundleIdentifier": "gen.tech.impulse",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/gen.tech.impulse.png",
-      "versions": [
-        {
-          "version": "1.30.12",
-          "date": "2024-03-29",
-          "size": 75415910,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 03-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.10",
-          "date": "2024-02-25",
-          "size": 81659589,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/ImpulsePro-1.30.10.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 03-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.7",
-          "date": "2024-01-09",
-          "size": 63698691,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ImpulsePro-1.30.7.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 03-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.6",
-          "date": "2023-12-31",
-          "size": 63388115,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/ImpulsePro-1.30.6.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 03-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.5",
-          "date": "2023-12-30",
-          "size": 66288379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/ImpulsePro-1.30.5.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 03-29-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "NightSkyPlus",
       "bundleIdentifier": "com.icandiapps.nightsky",
       "developerName": "iOSGods!",
@@ -7882,28 +8026,6 @@
           "size": 183510258,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/DLTikTok.ipa",
           "localizedDescription": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 03-28-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "BeautyPlusPremium",
-      "bundleIdentifier": "com.commsource.BeautyPlus",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
-      "versions": [
-        {
-          "version": "7.7.071",
-          "date": "2024-03-27",
-          "size": 230547103,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/BeautyPlusPremium-7.7.071.ipa",
-          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "7.7.060",
-          "date": "2024-03-03",
-          "size": 236260218,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/BeautyPlusPremium-7.7.060.ipa",
-          "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
         }
       ]
     },
@@ -8717,35 +8839,6 @@
           "size": 344374996,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoleapPro-2.65.1.ipa",
           "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 03-24-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "AlarmyPremium",
-      "bundleIdentifier": "droom.sleepIfUCanFree",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
-      "versions": [
-        {
-          "version": "24.15.0",
-          "date": "2024-03-23",
-          "size": 165088148,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AlarmyPremium-24.15.0.ipa",
-          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-23-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "24.14.1",
-          "date": "2024-03-10",
-          "size": 166425719,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-24.14.1.ipa",
-          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-23-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "24.12.2",
-          "date": "2024-03-10",
-          "size": 153669264,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AlarmyPremium-24.12.2.ipa",
-          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-23-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -11571,42 +11664,42 @@
           "date": "2024-01-23",
           "size": 193125430,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TikTokLRDCracked-3.4-32.9.1.ipa",
-          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2.5-31.9.0",
           "date": "2023-11-02",
           "size": 239968530,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/TikTokLRDCracked-2.5-31.9.0.ipa",
-          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2.5-31.8.0",
           "date": "2023-10-27",
           "size": 242736601,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-27-2023/TikTokLRDCracked-2.5-31.8.0.ipa",
-          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2.5-31.3.0",
           "date": "2023-10-01",
           "size": 234888233,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRDCracked-2.5-31.3.0.ipa",
-          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2.5-31.0.2",
           "date": "2023-09-07",
           "size": 244002134,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2023/TikTokLRDCracked-2.5-31.0.2.ipa",
-          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u26a0\ufe0f"
         },
         {
           "version": "2.5-30.3.0",
           "date": "2023-07-25",
           "size": 223153658,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRDCracked-2.5-30.3.0.ipa",
-          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u2705"
+          "localizedDescription": "TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this version, so please refrain from submitting any issues.\nLast updated: 01-23-2024\nStatus: \u26a0\ufe0f"
         }
       ]
     },
