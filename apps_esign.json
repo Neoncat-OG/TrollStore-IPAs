@@ -4,6 +4,39 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BeRealBea",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "version": "1.3.6-2.13.0",
+      "versionDate": "2024-04-28",
+      "size": 61579466,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/BeRealBea-1.3.6-2.13.0.ipa",
+      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+    },
+    {
+      "name": "MatterPremium",
+      "bundleIdentifier": "com.Matter.MatterApp",
+      "version": "3.1.4",
+      "versionDate": "2024-04-28",
+      "size": 83875186,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/MatterPremium-3.1.4.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 04-28-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png"
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "version": "24.7.3",
+      "versionDate": "2024-04-28",
+      "size": 102169051,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/PicsArtPlusPlus-24.7.3.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+    },
+    {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "8.9.32-1.3",
@@ -55,7 +88,7 @@
       "size": 16028213,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-26-2024/EarthquakePro-5.4.1.ipa",
       "developerName": "Paisseon",
-      "localizedDescription": "The leading earthquake app for iOS. Access the latest global earthquake data from multiple sources and stay informed with push notification alerts.Note: To bypass the \"Integrity checks failed\" message, press \"OK\" then quickly return to the Home Screen without closing the app.\nLast updated: 04-26-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "The leading earthquake app for iOS. Access the latest global earthquake data from multiple sources and stay informed with push notification alerts.Note: To bypass the \"Integrity checks failed\" message, press \"OK\" then quickly return to the Home Screen without closing the app. Some features remain locked behind that message.\nLast updated: 04-26-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.tranquilli.Earthquake.png"
     },
     {
@@ -99,7 +132,7 @@
       "size": 62035348,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/BeRealBea-1.3.6-2.12.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -242,7 +275,7 @@
       "size": 102169543,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/PicsArtPlusPlus-24.7.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -737,7 +770,7 @@
       "size": 57831653,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/BeRealBea-1.3.6-2.10.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -1045,7 +1078,7 @@
       "size": 55166853,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/BeRealBea-1.3.6-2.9.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -1331,7 +1364,7 @@
       "size": 111761929,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PicsArtPlusPlus-24.6.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -1551,7 +1584,7 @@
       "size": 50844912,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/BeRealBea-1.3.6-2.7.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -1914,7 +1947,7 @@
       "size": 102319502,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/PicsArtPlusPlus-24.5.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -2464,7 +2497,7 @@
       "size": 56228170,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/BeRealBea-1.3.6-2.6.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -2981,7 +3014,7 @@
       "size": 54512215,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BeRealBea-1.3.6-2.5.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -3410,7 +3443,7 @@
       "size": 104708547,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/PicsArtPlusPlus-24.4.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -3553,7 +3586,7 @@
       "size": 104707065,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/PicsArtPlusPlus-24.4.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -3806,7 +3839,7 @@
       "size": 104504630,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PicsArtPlusPlus-24.3.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -3850,7 +3883,7 @@
       "size": 52507835,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/BeRealBea-1.3.6-2.4.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4411,7 +4444,7 @@
       "size": 104500926,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/PicsArtPlusPlus-24.3.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -4466,7 +4499,7 @@
       "size": 51923928,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/BeRealBea-1.3.6-2.3.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4499,7 +4532,7 @@
       "size": 51921803,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2024/BeRealBea-1.3.6-2.3.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4807,7 +4840,7 @@
       "size": 52115219,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/BeRealBea-1.3.6-2.2.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -5016,7 +5049,7 @@
       "size": 52589861,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/BeRealBea-1.3.4-2.0.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -6050,7 +6083,7 @@
       "size": 49776043,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/BeRealBea-1.3.4-1.22.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -6512,7 +6545,7 @@
       "size": 40363657,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/BeRealBea-1.3.4-1.21.5.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -6611,7 +6644,7 @@
       "size": 100398039,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -6820,7 +6853,7 @@
       "size": 100312892,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -7117,7 +7150,7 @@
       "size": 40358425,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7458,7 +7491,7 @@
       "size": 40267445,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7590,7 +7623,7 @@
       "size": 104714105,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -7920,7 +7953,7 @@
       "size": 40388621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8096,7 +8129,7 @@
       "size": 40374650,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8327,7 +8360,7 @@
       "size": 42051554,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8547,7 +8580,7 @@
       "size": 98696332,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -8701,7 +8734,7 @@
       "size": 42049413,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8965,7 +8998,7 @@
       "size": 45416994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9196,7 +9229,7 @@
       "size": 43204143,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9504,7 +9537,7 @@
       "size": 39128874,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9625,7 +9658,7 @@
       "size": 100146477,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -9669,7 +9702,7 @@
       "size": 39021872,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9889,7 +9922,7 @@
       "size": 99766481,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10065,7 +10098,7 @@
       "size": 90738824,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10208,7 +10241,7 @@
       "size": 104745334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10373,7 +10406,7 @@
       "size": 104743752,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10472,7 +10505,7 @@
       "size": 102531555,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10912,7 +10945,7 @@
       "size": 104758490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11022,7 +11055,7 @@
       "size": 44753635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -11110,7 +11143,7 @@
       "size": 103585347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11220,7 +11253,7 @@
       "size": 39714501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -11242,7 +11275,7 @@
       "size": 96172924,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11561,7 +11594,7 @@
       "size": 53570811,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -11869,7 +11902,7 @@
       "size": 38588292,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -11968,7 +12001,7 @@
       "size": 38585370,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12045,7 +12078,7 @@
       "size": 40372995,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12155,7 +12188,7 @@
       "size": 39284072,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12639,7 +12672,7 @@
       "size": 32893347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12848,7 +12881,7 @@
       "size": 31921858,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -13156,7 +13189,7 @@
       "size": 31919714,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -13706,7 +13739,7 @@
       "size": 103395444,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -13871,7 +13904,7 @@
       "size": 38098024,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -14113,7 +14146,7 @@
       "size": 97907313,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14234,7 +14267,7 @@
       "size": 102553252,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14311,7 +14344,7 @@
       "size": 41168244,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -14652,7 +14685,7 @@
       "size": 94135314,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14729,7 +14762,7 @@
       "size": 94718889,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -14938,7 +14971,7 @@
       "size": 85332473,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15180,7 +15213,7 @@
       "size": 91292482,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15301,7 +15334,7 @@
       "size": 87605312,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15587,7 +15620,7 @@
       "size": 25439241,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -15664,7 +15697,7 @@
       "size": 25156227,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -15708,7 +15741,7 @@
       "size": 95032916,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15851,7 +15884,7 @@
       "size": 98569302,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15972,7 +16005,7 @@
       "size": 89964583,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16126,7 +16159,7 @@
       "size": 89945821,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16236,7 +16269,7 @@
       "size": 89883836,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16610,7 +16643,7 @@
       "size": 89878202,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16709,7 +16742,7 @@
       "size": 89057077,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16874,7 +16907,7 @@
       "size": 84242704,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17237,7 +17270,7 @@
       "size": 90803300,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17325,7 +17358,7 @@
       "size": 95326510,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17479,7 +17512,7 @@
       "size": 94968087,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17512,7 +17545,7 @@
       "size": 83700828,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17622,7 +17655,7 @@
       "size": 93292357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17721,7 +17754,7 @@
       "size": 93292925,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18073,7 +18106,7 @@
       "size": 106754941,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18183,7 +18216,7 @@
       "size": 109413971,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18403,7 +18436,7 @@
       "size": 109380528,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18755,7 +18788,7 @@
       "size": 85002160,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19019,7 +19052,7 @@
       "size": 106146615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19140,7 +19173,7 @@
       "size": 106125185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19195,7 +19228,7 @@
       "size": 105724993,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19437,7 +19470,7 @@
       "size": 106046582,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19811,7 +19844,7 @@
       "size": 81296588,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19987,7 +20020,7 @@
       "size": 101722265,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -20372,7 +20405,7 @@
       "size": 60634846,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 04-28-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
