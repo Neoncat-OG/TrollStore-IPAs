@@ -4,6 +4,72 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AIChatbotGeniePro",
+      "bundleIdentifier": "co.appnation.geniechat.watchapp",
+      "version": "6.1.3",
+      "versionDate": "2024-04-30",
+      "size": 59604746,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/AIChatbotGeniePro-6.1.3.ipa",
+      "developerName": "ipalibrary.me / ArianaMinajj",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
+    },
+    {
+      "name": "BHX",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "10.39-4.3",
+      "versionDate": "2024-04-30",
+      "size": 123433174,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/BHX-10.39-4.3.ipa",
+      "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.34-1.4.1",
+      "versionDate": "2024-04-30",
+      "size": 69845551,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
+      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "FastingPremium",
+      "bundleIdentifier": "com.leapfitness.fasting",
+      "version": "1.6.7",
+      "versionDate": "2024-04-30",
+      "size": 251598304,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/FastingPremium-1.6.7.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 04-30-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png"
+    },
+    {
+      "name": "RadarbotPro",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "version": "9.15",
+      "versionDate": "2024-04-30",
+      "size": 227333741,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/RadarbotPro-9.15.ipa",
+      "developerName": "MeemNon / binnichtaktiv's iPA Library",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+    },
+    {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.twitch",
+      "version": "19.3-0.1.1",
+      "versionDate": "2024-04-30",
+      "size": 79143462,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/TwitchPlus-19.3-0.1.1.ipa",
+      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
       "name": "FlacboxPro",
       "bundleIdentifier": "com.leshko.flap",
       "version": "5.4",
@@ -132,7 +198,7 @@
       "size": 68598253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -231,7 +297,7 @@
       "size": 121325580,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/BHX-10.38-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -396,7 +462,7 @@
       "size": 78675168,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TwitchPlus-19.2-0.1.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -407,7 +473,7 @@
       "size": 67901441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -473,7 +539,7 @@
       "size": 68154131,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-27-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify.\nLast updated: 04-30-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -660,7 +726,7 @@
       "size": 77804705,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/TwitchPlus-19.1.2-0.1.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -693,7 +759,7 @@
       "size": 126179639,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/BHX-10.37-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -836,7 +902,7 @@
       "size": 77804956,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TwitchPlus-19.1-0.1.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -968,7 +1034,7 @@
       "size": 128162908,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/BHX-10.36.2-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -1122,7 +1188,7 @@
       "size": 126086640,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/BHX-10.36-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -1221,7 +1287,7 @@
       "size": 77547356,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/TwitchPlus-19.0-0.1.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1298,7 +1364,7 @@
       "size": 77385670,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/TwitchPlus-18.9-0.1.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -1771,7 +1837,7 @@
       "size": 53078497,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatbotGeniePro-6.1.2.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -1903,7 +1969,7 @@
       "size": 226684744,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/RadarbotPro-9.14.6.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 03-30-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -1914,7 +1980,7 @@
       "size": 78994958,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/TwitchPlus-18.8.2-0.1.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -2112,7 +2178,7 @@
       "size": 19916532,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Cytrus.ipa",
       "developerName": "Jarrod Norwell (Antique)",
-      "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
     },
     {
@@ -2123,7 +2189,7 @@
       "size": 18604325,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Sudachi.ipa",
       "developerName": "Jarrod Norwell (Antique)",
-      "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
     },
     {
@@ -2299,7 +2365,7 @@
       "size": 121664608,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/BHX-10.34-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -2519,7 +2585,7 @@
       "size": 18606861,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.2Sudachi.ipa",
       "developerName": "Jarrod Norwell (Antique)",
-      "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
     },
     {
@@ -2530,7 +2596,7 @@
       "size": 19916065,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.3Cytrus.ipa",
       "developerName": "Jarrod Norwell (Antique)",
-      "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
     },
     {
@@ -2607,7 +2673,7 @@
       "size": 13771876,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Folium-1.1.0.ipa",
       "developerName": "Jarrod Norwell (Antique)",
-      "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
     },
     {
@@ -2695,7 +2761,7 @@
       "size": 124634859,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/BHX-10.33.1-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -2794,7 +2860,7 @@
       "size": 123976236,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2024/BHX-10.33-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -3113,7 +3179,7 @@
       "size": 126259148,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BHX-10.32-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -3157,7 +3223,7 @@
       "size": 80198889,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/TwitchPlus-18.6-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -3333,7 +3399,7 @@
       "size": 18068021,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
       "developerName": "Jarrod Norwell (Antique)",
-      "localizedDescription": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2705",
+      "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
     },
     {
@@ -3366,7 +3432,7 @@
       "size": 126041993,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/BHX-10.31.1-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -3652,7 +3718,7 @@
       "size": 126062892,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BHX-10.31-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -4037,7 +4103,7 @@
       "size": 125530867,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/BHX-10.30-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -4488,7 +4554,7 @@
       "size": 126861131,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/BHX-10.29-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -4554,7 +4620,7 @@
       "size": 78190716,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/TwitchPlus-18.3-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4609,7 +4675,7 @@
       "size": 226012311,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-19-2024/RadarbotPro-9.13.5.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 03-30-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -4752,7 +4818,7 @@
       "size": 127112153,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/BHX-10.28-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -4884,7 +4950,7 @@
       "size": 78057557,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/TwitchPlus-18.2-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -4939,7 +5005,7 @@
       "size": 97919849,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/BHX-10.26-4.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -4983,7 +5049,7 @@
       "size": 53424159,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AIChatbotGeniePro-6.1.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -5203,7 +5269,7 @@
       "size": 80851803,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/TwitchPlus-18.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -5225,7 +5291,7 @@
       "size": 134801819,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/BHX-10.26-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -5423,7 +5489,7 @@
       "size": 125005404,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/BHX-10.25.1-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -5544,7 +5610,7 @@
       "size": 225458507,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/RadarbotPro-9.13.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 03-30-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -5841,7 +5907,7 @@
       "size": 51275191,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/AIChatbotGeniePro-6.1.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -6160,7 +6226,7 @@
       "size": 79663719,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/TwitchPlus-17.9-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -6534,7 +6600,7 @@
       "size": 120937899,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/BHX-10.24-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -6600,7 +6666,7 @@
       "size": 79560715,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/TwitchPlus-17.8-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -6622,7 +6688,7 @@
       "size": 221842901,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/RadarbotPro-9.12.5.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 03-30-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -6842,7 +6908,7 @@
       "size": 79202479,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/TwitchPlus-17.7.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -6952,7 +7018,7 @@
       "size": 227257052,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/RadarbotPro-9.12.4.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 03-30-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -6974,7 +7040,7 @@
       "size": 122072684,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2024/BHX-10.23-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -7139,7 +7205,7 @@
       "size": 79473559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TwitchPlus-17.7-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7271,7 +7337,7 @@
       "size": 56853767,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2024/AIChatbotGeniePro-6.0.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -7359,7 +7425,7 @@
       "size": 122793699,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHX-10.22-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -7425,7 +7491,7 @@
       "size": 83087847,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/TwitchPlus-17.6-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7568,7 +7634,7 @@
       "size": 82801964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/TwitchPlus-17.5.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -7645,7 +7711,7 @@
       "size": 52966439,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/AIChatbotGeniePro-6.0.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -7865,7 +7931,7 @@
       "size": 229895957,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/RadarbotPro-9.12.0.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 03-30-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 04-30-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -8239,7 +8305,7 @@
       "size": 125464528,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHX-10.21.1-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -8371,7 +8437,7 @@
       "size": 127098462,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-16-2023/BHX-10.20-4.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -8756,7 +8822,7 @@
       "size": 82801296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/TwitchPlus-17.5-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -8932,7 +8998,7 @@
       "size": 162702774,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2023/BHX-10.19-4.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -9108,7 +9174,7 @@
       "size": 113502254,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHX-10.19-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -9196,7 +9262,7 @@
       "size": 105344037,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TwitchPlus-17.4.1-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9383,7 +9449,7 @@
       "size": 105305867,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/TwitchPlus-17.3.2-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9427,7 +9493,7 @@
       "size": 104676718,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2023/TwitchPlus-17.3-0.1.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -9537,7 +9603,7 @@
       "size": 54447885,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatbotGeniePro-5.5.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -9724,7 +9790,7 @@
       "size": 113799817,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHX-10.18-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -9768,7 +9834,7 @@
       "size": 101199079,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10098,7 +10164,7 @@
       "size": 113313148,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHX-10.16-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -10318,7 +10384,7 @@
       "size": 113438384,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/BHX-10.15.1-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -10362,7 +10428,7 @@
       "size": 113439012,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-07-2023/BHX-10.15-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -10505,7 +10571,7 @@
       "size": 113353182,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/BHX-10.14-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -10681,7 +10747,7 @@
       "size": 54206994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-28-2023/AIChatbotGeniePro-5.4.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 03-31-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -10769,7 +10835,7 @@
       "size": 92919948,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHX-10.12-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -10857,7 +10923,7 @@
       "size": 63055501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/TwitchPlus-16.7.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -10890,7 +10956,7 @@
       "size": 92839158,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/BHX-10.11-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -11187,7 +11253,7 @@
       "size": 100530438,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHX-10.10-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -11319,7 +11385,7 @@
       "size": 92453724,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/BHX-10.9.1-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -11550,7 +11616,7 @@
       "size": 92371935,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/BHX-10.8-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -11781,7 +11847,7 @@
       "size": 73502584,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -11880,7 +11946,7 @@
       "size": 92308848,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHX-10.7-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -12078,7 +12144,7 @@
       "size": 73398412,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/TwitchPlus-16.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12254,7 +12320,7 @@
       "size": 71678888,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/TwitchPlus-16.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12430,7 +12496,7 @@
       "size": 77429598,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/BHX-10.5-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -12496,7 +12562,7 @@
       "size": 53831136,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/TwitchPlus-16.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12518,7 +12584,7 @@
       "size": 99768092,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHX-10.4-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -12650,7 +12716,7 @@
       "size": 77257426,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHX-10.4-4.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -12683,7 +12749,7 @@
       "size": 53708726,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/TwitchPlus-16.0.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12749,7 +12815,7 @@
       "size": 53709186,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2023/TwitchPlus-16.0.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12793,7 +12859,7 @@
       "size": 77825585,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-27-2023/BHX-10.3.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -12826,7 +12892,7 @@
       "size": 53656336,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/TwitchPlus-15.9.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -12947,7 +13013,7 @@
       "size": 53395273,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/TwitchPlus-15.9.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -13057,7 +13123,7 @@
       "size": 77660779,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/BHX-10.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -13211,7 +13277,7 @@
       "size": 77351471,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHX-10.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -13310,7 +13376,7 @@
       "size": 53192728,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/TwitchPlus-15.8.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -13519,7 +13585,7 @@
       "size": 64346228,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TwitchPlus-15.7.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -13563,7 +13629,7 @@
       "size": 83115116,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-31-2023/BHX-10.0.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -13959,7 +14025,7 @@
       "size": 84208984,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/BHX-9.67.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -14003,7 +14069,7 @@
       "size": 62426621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -14080,7 +14146,7 @@
       "size": 87005632,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/BHX-9.66.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -14146,7 +14212,7 @@
       "size": 86994858,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/BHX-9.65.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -14311,7 +14377,7 @@
       "size": 78060639,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -14443,7 +14509,7 @@
       "size": 97336149,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BHX-3.9.1-9.63.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -14630,7 +14696,7 @@
       "size": 58339050,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -14674,7 +14740,7 @@
       "size": 85496985,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/BHX-9.60-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -14872,7 +14938,7 @@
       "size": 85369199,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/BHX-9.59-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -14993,7 +15059,7 @@
       "size": 56367481,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/TwitchPlus-15.2.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -15026,7 +15092,7 @@
       "size": 85598661,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/BHX-9.58.1-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -15136,7 +15202,7 @@
       "size": 101344258,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/BHX-9.57.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -15257,7 +15323,7 @@
       "size": 61746901,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2023/TwitchPlus-15.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -15279,7 +15345,7 @@
       "size": 85526517,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2023/BHX-9.56.1-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -15312,7 +15378,7 @@
       "size": 85271063,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/BHX-9.56-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -15444,7 +15510,7 @@
       "size": 103490820,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/BHX-9.54.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -15741,7 +15807,7 @@
       "size": 104374009,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/BHX-9.51.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -15895,7 +15961,7 @@
       "size": 80384886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TwitchPlus-14.9.5.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16071,7 +16137,7 @@
       "size": 91804358,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/BHX-9.51.1-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -16137,7 +16203,7 @@
       "size": 71872886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/TwitchPlus-14.8.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16269,7 +16335,7 @@
       "size": 72742095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/TwitchPlus-14.8.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16511,7 +16577,7 @@
       "size": 96029159,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2023/BHX-9.49-3.9.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -16632,7 +16698,7 @@
       "size": 104137071,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/BHX-9.48-3.9.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -16775,7 +16841,7 @@
       "size": 72562212,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2023/TwitchPlus-14.7.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -16786,7 +16852,7 @@
       "size": 95320317,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2023/BHX-9.47-3.9.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -16808,7 +16874,7 @@
       "size": 87331404,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/BHX-9.47-3.8.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -17072,7 +17138,7 @@
       "size": 75478804,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/TwitchPlus-14.6.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -17171,7 +17237,7 @@
       "size": 103423125,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2023/BHX-9.46.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -17248,7 +17314,7 @@
       "size": 103297320,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/BHX-9.45.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -17380,7 +17446,7 @@
       "size": 103894926,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/BHX-9.44.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -17776,7 +17842,7 @@
       "size": 104061572,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/BHX-9.43.1.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -17963,7 +18029,7 @@
       "size": 104286746,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2023/BHX-9.42-3.7.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -18249,7 +18315,7 @@
       "size": 91823176,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2023/BHX-9.41.1-3.7.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -18447,7 +18513,7 @@
       "size": 94807701,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2023/BHX-9.40-3.7.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -18634,7 +18700,7 @@
       "size": 97136048,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2023/BHX-9.39-3.6.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -18744,7 +18810,7 @@
       "size": 94954991,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/BHX-9.39.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -19074,7 +19140,7 @@
       "size": 99440344,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/BHX-9.38-3.5.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -19272,7 +19338,7 @@
       "size": 74590187,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -19283,7 +19349,7 @@
       "size": 99397867,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2022/BHX-9.38-3.4.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -19294,7 +19360,7 @@
       "size": 100267510,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2022/BHX-9.37.1-3.4.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -19591,7 +19657,7 @@
       "size": 208544377,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2022/TwitchPlus-14.3.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -19778,7 +19844,7 @@
       "size": 72655342,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -19998,7 +20064,7 @@
       "size": 126316536,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHX-9.34.6-3.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -20009,7 +20075,7 @@
       "size": 120019068,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-25-2022/BHX-9.34.6-3.3.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
@@ -20152,7 +20218,7 @@
       "size": 72586953,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -20317,7 +20383,7 @@
       "size": 72587099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/TwitchPlus-14.2.ipa",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -20339,7 +20405,7 @@
       "size": 105691118,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/BHX-9.34.5-3.2.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
-      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 04-30-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
