@@ -96,7 +96,7 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 - **Reposters Notice:** If you intend to download IPA files from sources other than this repository, it's important to note that there is an ongoing problem with Telegram channels, websites, and individuals stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository will list parties that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. Expect regular updates to this list, as it is subject to change.
 
-   ### Known reposters: *(04-23-2024)*
+   ### Known reposters: *(05-05-2024)*
    
     | Reposter* | Original Tweak/Maintainer |
     |:---------|---------------------------|
@@ -123,7 +123,10 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [AppCake](https://www.iphonecake.com/tweak_index.php) | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [iOSGods!](https://iosgods.com/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
     | [iexmo](https://iexmo.com/ipastore/) **(CLONE)**| [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [ipalibrary.me](https://ipalibrary.me) |
     | [shuyuan](https://github.com/shidahuilang/shuyuan) **(CLONE)**| [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) |
+    | [ThuthuatJB](https://ipa.thuthuatjb.com/) | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) / [iOSGods!](https://iosgods.com/) |
     | [iApps](https://t.me/iapps_ipa) | [whoeevee](https://github.com/whoeevee/EeveeSpotify) / [EeveeSpotify IPAs](https://t.me/SpotilifeIPAs) |
+    | [Ty Family](https://t.me/Tyfamilycertipa) | [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) |
+    | [MaxiTech IPAs](https://t.me/MaxiiTech) | [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) |
 
    *Reposters **are not** automatically **unsafe or malicious** (unless specified); they may simply **fail to provide proper credits to the original creators**. While this practice is discouraged, **it doesn't necessarily imply malicious intent**.
 
@@ -137,7 +140,7 @@ Everything you can currently find in this repo:
 | AI Chat | Yet another AI thing, bunch of different assistants, including poet, comedian, interviewer, poet, etc. *p.s. you can trick this one into giving you info about stuff it normally shouldn't, if you can word it the right way ;)* | 1.02 | [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) | 06-25-2023 | ❌ |
 | AI Chatbot Genie Pro | I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading [Genie](https://apps.apple.com/us/app/genie-ai-chatbot/id1658377526) as this application appears to be more promising than the 2 below. | 6.2.0 | [ipalibrary.me](https://ipalibrary.me) / [ArianaMinajj](https://github.com/ArianaMinajj) / [CyPwn IPA Library](https://ipa.cypwn.xyz) | 05-03-2024 | ✅ 👍 |
 | AI ChatGP | Introducing yet another "ChatGPT-4" assistant, which holds promise for intriguing features. However, it is likely that its performance might fall short of Chat Genie (App above). Further testing is warranted to determine its efficacy accurately. | 2.256 | [DPixel](https://t.me/dpixel) | 03-31-2024 | ✅ |
-| AI Chat Smith Premium | A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. [Full app description here](https://apps.apple.com/fj/app/ai-chatbot-ai-chat-smith-4/id1559479889) | 6.9 | [تطبيقات IPA 🌙](https://t.me/ipa_crack) / [DPixel](https://t.me/dpixel) | 03-31-2024 | ✅ |
+| AI Chat Smith Premium | A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. [Full app description here](https://apps.apple.com/fj/app/ai-chatbot-ai-chat-smith-4/id1559479889) | 6.9 | [تطبيقات IPA 🌙](https://t.me/ipa_crack) / [DPixel](https://t.me/dpixel) | 05-05-2024 | ✅ |
 | AI Enlarger Pro | **Injected with Satella**. After extensive testing of various AI upscaler iOS applications, I'm confident that [AI Enlarger](https://apps.apple.com/us/app/ai-enlarger-for-photo-anime/id1487300354) provides the best possible results when it comes to upscaling **anime** images. Whether you're looking to enhance the resolution of your photos or enlarge low-quality images, I think AI Enlarger has got you covered. | 2.8.0 | [Paisseon](https://github.com/Paisseon/SatellaJailed) / [ArianaMinajj](https://github.com/ArianaMinajj) | 11-30-2023 | ✅ |
 | AirTroller | *Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users [here](https://github.com/haxi0/AirTroller12).* That being said, enjoy the reincarnation of TrollDrop! | 1.1.1 | [sourcelocation](https://github.com/sourcelocation/AirTroller) | 11-27-2022 | ✅ |
 | Alarmy Premium | [Alarmy](https://apps.apple.com/us/app/alarmy-alarm-clock-sleep/id1163786766) injected with premium. A user [requested](https://github.com/swaggyP36000/TrollStore-IPAs/issues/189) it so here it is. | 24.22.1 | [DPixel](https://t.me/dpixel) | 05-05-2024 | ✅ ⭐ |
