@@ -4,6 +4,942 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "462.0.0",
+          "date": "2024-05-08",
+          "size": 151299641,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/FacebookWolf-462.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "461.0.3",
+          "date": "2024-04-25",
+          "size": 144123361,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "460.0.0",
+          "date": "2024-04-18",
+          "size": 147521387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "459.0.5",
+          "date": "2024-04-11",
+          "size": 147002863,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "458.0.2",
+          "date": "2024-04-04",
+          "size": 146363775,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "457.0.2",
+          "date": "2024-03-31",
+          "size": 148361340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "456.0",
+          "date": "2024-03-26",
+          "size": 147184062,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "454.0",
+          "date": "2024-03-08",
+          "size": 150641731,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "453.0",
+          "date": "2024-02-29",
+          "size": 149793387,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "452.0",
+          "date": "2024-02-24",
+          "size": 150243112,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "451.0.4",
+          "date": "2024-02-15",
+          "size": 150007390,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "450.0",
+          "date": "2024-02-11",
+          "size": 149409221,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "449.0.2",
+          "date": "2024-02-07",
+          "size": 148743798,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "448.0",
+          "date": "2024-01-24",
+          "size": 148908203,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "447.1.2",
+          "date": "2024-01-20",
+          "size": 148992621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "447.0.2",
+          "date": "2024-01-19",
+          "size": 148992369,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "446.0",
+          "date": "2024-01-13",
+          "size": 149190964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "445.0",
+          "date": "2023-12-21",
+          "size": 150201298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "444.0",
+          "date": "2023-12-14",
+          "size": 148019677,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "443.0.2",
+          "date": "2023-12-06",
+          "size": 148641638,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "442.0",
+          "date": "2023-11-29",
+          "size": 148751080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "441.1",
+          "date": "2023-11-22",
+          "size": 151559278,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "441.0",
+          "date": "2023-11-16",
+          "size": 151548308,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "440.0",
+          "date": "2023-11-10",
+          "size": 145279761,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "439.1",
+          "date": "2023-11-02",
+          "size": 144715433,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "438.2",
+          "date": "2023-10-26",
+          "size": 143948666,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "437.2",
+          "date": "2023-10-20",
+          "size": 149712884,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-10-09",
+          "size": 148727038,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "433.1",
+          "date": "2023-09-28",
+          "size": 147521226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "432.1",
+          "date": "2023-09-19",
+          "size": 137319129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "430.0",
+          "date": "2023-08-31",
+          "size": 130980374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "429.2",
+          "date": "2023-08-25",
+          "size": 147437505,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "427.1",
+          "date": "2023-08-10",
+          "size": 131560635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "426.0",
+          "date": "2023-08-05",
+          "size": 140546097,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "422.0",
+          "date": "2023-07-09",
+          "size": 148850803,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "419.0",
+          "date": "2023-06-25",
+          "size": 147584969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "418.0",
+          "date": "2023-06-25",
+          "size": 150521266,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "415.1",
+          "date": "2023-05-24",
+          "size": 128531017,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "413.0",
+          "date": "2023-04-30",
+          "size": 143985533,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "411.0",
+          "date": "2023-04-23",
+          "size": 126730195,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "410.0",
+          "date": "2023-04-09",
+          "size": 146204031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "407.1",
+          "date": "2023-04-06",
+          "size": 126317673,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "407.0",
+          "date": "2023-03-23",
+          "size": 139434374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "406.0",
+          "date": "2023-03-16",
+          "size": 140122979,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "405.0",
+          "date": "2023-03-09",
+          "size": 142562954,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "404.0",
+          "date": "2023-02-26",
+          "size": 149662233,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "403.0",
+          "date": "2023-02-22",
+          "size": 133721522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "401.1",
+          "date": "2023-02-12",
+          "size": 123861738,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "401.0",
+          "date": "2023-02-11",
+          "size": 126709146,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "400.0",
+          "date": "2023-02-06",
+          "size": 135002490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "399.0",
+          "date": "2023-01-22",
+          "size": 149355244,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "398.0",
+          "date": "2023-01-18",
+          "size": 135094448,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "397.0",
+          "date": "2023-01-13",
+          "size": 143152840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "396.0",
+          "date": "2022-12-10",
+          "size": 137241305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "395.0",
+          "date": "2022-12-08",
+          "size": 138856989,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "394.0",
+          "date": "2022-11-27",
+          "size": 136327857,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "393.0",
+          "date": "2022-11-17",
+          "size": 135626187,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "392.0",
+          "date": "2022-11-11",
+          "size": 136100527,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 143311099,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+      "versions": [
+        {
+          "version": "7.7.5-1.1.5",
+          "date": "2024-05-08",
+          "size": 39026309,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/InfusePro-7.7.5-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.4-1.1.5",
+          "date": "2024-04-24",
+          "size": 40850984,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2024/InfusePro-7.7.4-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.3-1.1.5",
+          "date": "2024-04-09",
+          "size": 38941997,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/InfusePro-7.7.3-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.2-1.1.5",
+          "date": "2024-03-20",
+          "size": 38929838,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/InfusePro-7.7.2-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.1-1.1.5",
+          "date": "2024-03-13",
+          "size": 40181478,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InfusePro-7.7.1-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.1-1.1.4",
+          "date": "2024-02-28",
+          "size": 40129004,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/InfusePro-7.7.1-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7-1.1.4",
+          "date": "2024-02-14",
+          "size": 40306052,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/InfusePro-7.7-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.7-1.1.4",
+          "date": "2024-02-11",
+          "size": 42854299,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/InfusePro-7.6.7-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.7",
+          "date": "2024-01-30",
+          "size": 40197875,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.6",
+          "date": "2024-01-15",
+          "size": 78682777,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.5",
+          "date": "2023-12-22",
+          "size": 38834254,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.4",
+          "date": "2023-11-29",
+          "size": 36936550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.3",
+          "date": "2023-11-19",
+          "size": 45198980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.2",
+          "date": "2023-11-06",
+          "size": 45192576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6.1",
+          "date": "2023-09-27",
+          "size": 43213714,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.6",
+          "date": "2023-09-06",
+          "size": 36357059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.9",
+          "date": "2023-08-24",
+          "size": 36292217,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.8",
+          "date": "2023-07-11",
+          "size": 41628224,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.7",
+          "date": "2023-06-29",
+          "size": 44492277,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.6",
+          "date": "2023-06-25",
+          "size": 42285212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.5",
+          "date": "2023-06-04",
+          "size": 40271379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.4",
+          "date": "2023-05-15",
+          "size": 40331154,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.2",
+          "date": "2023-04-30",
+          "size": 40517963,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5.1",
+          "date": "2023-04-10",
+          "size": 40177347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.5",
+          "date": "2023-03-17",
+          "size": 39321077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.4.10",
+          "date": "2023-03-11",
+          "size": 44545614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-08-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "330.0.0-1.2.8",
+          "date": "2024-05-08",
+          "size": 154959251,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/InstagramNyx-330.0.0-1.2.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "328.1.3-1.2.6",
+          "date": "2024-04-25",
+          "size": 153419679,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/InstagramNyx-328.1.3-1.2.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "327.1.0-1.2.6",
+          "date": "2024-04-19",
+          "size": 148304795,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/InstagramNyx-327.1.0-1.2.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "326.0.3-1.2.6b",
+          "date": "2024-04-14",
+          "size": 146042133,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/InstagramNyx-326.0.3-1.2.6b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "325.0.3-1.2.6b",
+          "date": "2024-04-10",
+          "size": 156606508,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/InstagramNyx-325.0.3-1.2.6b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "325.0.3-1.2.4",
+          "date": "2024-04-06",
+          "size": 145187709,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/InstagramNyx-325.0.3-1.2.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "324.0.4-1.2.4b",
+          "date": "2024-03-26",
+          "size": 152548585,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InstagramNyx-324.0.4-1.2.4b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "324.0.4-1.2.2",
+          "date": "2024-03-25",
+          "size": 142667013,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstagramNyx-324.0.4-1.2.2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "323.0.3-1.2.4b",
+          "date": "2024-03-23",
+          "size": 143257044,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/InstagramNyx-323.0.3-1.2.4b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "323.0.3-1.2.2",
+          "date": "2024-03-19",
+          "size": 145811947,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/InstagramNyx-323.0.3-1.2.2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "322.1.1-1.2.2",
+          "date": "2024-03-15",
+          "size": 146150436,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/InstagramNyx-322.1.1-1.2.2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "322.0.1-1.2.2b2",
+          "date": "2024-03-12",
+          "size": 146224071,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/InstagramNyx-322.0.1-1.2.2b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "321.0-1.2.2b2",
+          "date": "2024-03-08",
+          "size": 141932230,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramNyx-321.0-1.2.2b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "319.0.2-1.2.2b2",
+          "date": "2024-02-25",
+          "size": 151932436,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/InstagramNyx-319.0.2-1.2.2b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "319.0.2-1.2.0",
+          "date": "2024-02-24",
+          "size": 143660373,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstagramNyx-319.0.2-1.2.0.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "317.0.4-1.2.2b",
+          "date": "2024-02-10",
+          "size": 151808155,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/InstagramNyx-317.0.4-1.2.2b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "317.0.4-1.2.0",
+          "date": "2024-02-06",
+          "size": 152020805,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/InstagramNyx-317.0.4-1.2.0.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "315.1.2-1.2.0b2",
+          "date": "2024-01-26",
+          "size": 145258004,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/InstagramNyx-315.1.2-1.2.0b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "316.0.6-1.1.8",
+          "date": "2024-01-24",
+          "size": 135632166,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstagramNyx-316.0.6-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "315.0.2-1.2.0b",
+          "date": "2024-01-23",
+          "size": 145702159,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramNyx-315.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "314.0.6-1.1.8",
+          "date": "2024-01-17",
+          "size": 141918006,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.2.0b",
+          "date": "2024-01-16",
+          "size": 147214504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.1.8",
+          "date": "2024-01-13",
+          "size": 147145429,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8b2",
+          "date": "2024-01-03",
+          "size": 144606204,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8",
+          "date": "2023-12-28",
+          "size": 145628785,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.6",
+          "date": "2023-12-25",
+          "size": 143349474,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "311.0.2-1.1.6",
+          "date": "2023-12-12",
+          "size": 142283496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.6",
+          "date": "2023-12-11",
+          "size": 139562066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.4",
+          "date": "2023-12-04",
+          "size": 133602409,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-1.1.4",
+          "date": "2023-12-03",
+          "size": 133971258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-08-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramRocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED)",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "330.0.0-3.8.24",
+          "date": "2024-05-08",
+          "size": 154227163,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/InstagramRocket-330.0.0-3.8.24.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "328.1.3-3.8.24",
+          "date": "2024-04-25",
+          "size": 150951207,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/InstagramRocket-328.1.3-3.8.24.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "322.0.1-3.8.23",
+          "date": "2024-03-13",
+          "size": 142338893,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstagramRocket-322.0.1-3.8.23.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "320.0.2-3.8.21",
+          "date": "2024-02-27",
+          "size": 142355697,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/InstagramRocket-320.0.2-3.8.21.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "319.0.2-3.8.21",
+          "date": "2024-02-24",
+          "size": 141761106,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstagramRocket-319.0.2-3.8.21.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "318.0.7-3.8.21",
+          "date": "2024-02-12",
+          "size": 142899788,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/InstagramRocket-318.0.7-3.8.21.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "317.0.4-3.8.21",
+          "date": "2024-02-07",
+          "size": 141912027,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/InstagramRocket-317.0.4-3.8.21.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "315.0.2-3.8.19",
+          "date": "2024-01-23",
+          "size": 140983805,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramRocket-315.0.2-3.8.19.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "314.0.6-3.8.19",
+          "date": "2024-01-17",
+          "size": 140209756,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-3.8.19",
+          "date": "2024-01-13",
+          "size": 142483795,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
+          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Pyoncord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "pyoncord / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "228.1",
+          "date": "2024-05-08",
+          "size": 99427351,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/Pyoncord-228.1.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "224.0",
+          "date": "2024-04-15",
+          "size": 96853734,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "223.0",
+          "date": "2024-04-12",
+          "size": 106082919,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 05-08-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "iTranslatePro",
       "bundleIdentifier": "com.outerspaceapps.itranslate",
       "developerName": "iOS Tutorials + App Cracks",
@@ -3829,702 +4765,6 @@
       ]
     },
     {
-      "name": "FacebookWolf",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
-      "versions": [
-        {
-          "version": "461.0.3",
-          "date": "2024-04-25",
-          "size": 144123361,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "460.0.0",
-          "date": "2024-04-18",
-          "size": 147521387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "459.0.5",
-          "date": "2024-04-11",
-          "size": 147002863,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "458.0.2",
-          "date": "2024-04-04",
-          "size": 146363775,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "457.0.2",
-          "date": "2024-03-31",
-          "size": 148361340,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "456.0",
-          "date": "2024-03-26",
-          "size": 147184062,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "454.0",
-          "date": "2024-03-08",
-          "size": 150641731,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "453.0",
-          "date": "2024-02-29",
-          "size": 149793387,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "452.0",
-          "date": "2024-02-24",
-          "size": 150243112,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "451.0.4",
-          "date": "2024-02-15",
-          "size": 150007390,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "450.0",
-          "date": "2024-02-11",
-          "size": 149409221,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "449.0.2",
-          "date": "2024-02-07",
-          "size": 148743798,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "448.0",
-          "date": "2024-01-24",
-          "size": 148908203,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "447.1.2",
-          "date": "2024-01-20",
-          "size": 148992621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "447.0.2",
-          "date": "2024-01-19",
-          "size": 148992369,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "446.0",
-          "date": "2024-01-13",
-          "size": 149190964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "445.0",
-          "date": "2023-12-21",
-          "size": 150201298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "444.0",
-          "date": "2023-12-14",
-          "size": 148019677,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "443.0.2",
-          "date": "2023-12-06",
-          "size": 148641638,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "442.0",
-          "date": "2023-11-29",
-          "size": 148751080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "441.1",
-          "date": "2023-11-22",
-          "size": 151559278,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "441.0",
-          "date": "2023-11-16",
-          "size": 151548308,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "440.0",
-          "date": "2023-11-10",
-          "size": 145279761,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "439.1",
-          "date": "2023-11-02",
-          "size": 144715433,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "438.2",
-          "date": "2023-10-26",
-          "size": 143948666,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "437.2",
-          "date": "2023-10-20",
-          "size": 149712884,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-10-09",
-          "size": 148727038,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "433.1",
-          "date": "2023-09-28",
-          "size": 147521226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "432.1",
-          "date": "2023-09-19",
-          "size": 137319129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "430.0",
-          "date": "2023-08-31",
-          "size": 130980374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "429.2",
-          "date": "2023-08-25",
-          "size": 147437505,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "427.1",
-          "date": "2023-08-10",
-          "size": 131560635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "426.0",
-          "date": "2023-08-05",
-          "size": 140546097,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "422.0",
-          "date": "2023-07-09",
-          "size": 148850803,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "419.0",
-          "date": "2023-06-25",
-          "size": 147584969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "418.0",
-          "date": "2023-06-25",
-          "size": 150521266,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "415.1",
-          "date": "2023-05-24",
-          "size": 128531017,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "413.0",
-          "date": "2023-04-30",
-          "size": 143985533,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "411.0",
-          "date": "2023-04-23",
-          "size": 126730195,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "410.0",
-          "date": "2023-04-09",
-          "size": 146204031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "407.1",
-          "date": "2023-04-06",
-          "size": 126317673,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "407.0",
-          "date": "2023-03-23",
-          "size": 139434374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "406.0",
-          "date": "2023-03-16",
-          "size": 140122979,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "405.0",
-          "date": "2023-03-09",
-          "size": 142562954,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "404.0",
-          "date": "2023-02-26",
-          "size": 149662233,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "403.0",
-          "date": "2023-02-22",
-          "size": 133721522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "401.1",
-          "date": "2023-02-12",
-          "size": 123861738,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "401.0",
-          "date": "2023-02-11",
-          "size": 126709146,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "400.0",
-          "date": "2023-02-06",
-          "size": 135002490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "399.0",
-          "date": "2023-01-22",
-          "size": 149355244,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "398.0",
-          "date": "2023-01-18",
-          "size": 135094448,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "397.0",
-          "date": "2023-01-13",
-          "size": 143152840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "396.0",
-          "date": "2022-12-10",
-          "size": 137241305,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "395.0",
-          "date": "2022-12-08",
-          "size": 138856989,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "394.0",
-          "date": "2022-11-27",
-          "size": 136327857,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "393.0",
-          "date": "2022-11-17",
-          "size": 135626187,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "392.0",
-          "date": "2022-11-11",
-          "size": 136100527,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 143311099,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
-          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 04-25-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "InstagramNyx",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "328.1.3-1.2.6",
-          "date": "2024-04-25",
-          "size": 153419679,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/InstagramNyx-328.1.3-1.2.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "327.1.0-1.2.6",
-          "date": "2024-04-19",
-          "size": 148304795,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/InstagramNyx-327.1.0-1.2.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "326.0.3-1.2.6b",
-          "date": "2024-04-14",
-          "size": 146042133,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2024/InstagramNyx-326.0.3-1.2.6b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "325.0.3-1.2.6b",
-          "date": "2024-04-10",
-          "size": 156606508,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/InstagramNyx-325.0.3-1.2.6b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "325.0.3-1.2.4",
-          "date": "2024-04-06",
-          "size": 145187709,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/InstagramNyx-325.0.3-1.2.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "324.0.4-1.2.4b",
-          "date": "2024-03-26",
-          "size": 152548585,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InstagramNyx-324.0.4-1.2.4b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "324.0.4-1.2.2",
-          "date": "2024-03-25",
-          "size": 142667013,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstagramNyx-324.0.4-1.2.2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "323.0.3-1.2.4b",
-          "date": "2024-03-23",
-          "size": 143257044,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/InstagramNyx-323.0.3-1.2.4b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "323.0.3-1.2.2",
-          "date": "2024-03-19",
-          "size": 145811947,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/InstagramNyx-323.0.3-1.2.2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "322.1.1-1.2.2",
-          "date": "2024-03-15",
-          "size": 146150436,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/InstagramNyx-322.1.1-1.2.2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "322.0.1-1.2.2b2",
-          "date": "2024-03-12",
-          "size": 146224071,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/InstagramNyx-322.0.1-1.2.2b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "321.0-1.2.2b2",
-          "date": "2024-03-08",
-          "size": 141932230,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramNyx-321.0-1.2.2b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "319.0.2-1.2.2b2",
-          "date": "2024-02-25",
-          "size": 151932436,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/InstagramNyx-319.0.2-1.2.2b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "319.0.2-1.2.0",
-          "date": "2024-02-24",
-          "size": 143660373,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstagramNyx-319.0.2-1.2.0.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "317.0.4-1.2.2b",
-          "date": "2024-02-10",
-          "size": 151808155,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/InstagramNyx-317.0.4-1.2.2b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "317.0.4-1.2.0",
-          "date": "2024-02-06",
-          "size": 152020805,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2024/InstagramNyx-317.0.4-1.2.0.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "315.1.2-1.2.0b2",
-          "date": "2024-01-26",
-          "size": 145258004,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/InstagramNyx-315.1.2-1.2.0b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "316.0.6-1.1.8",
-          "date": "2024-01-24",
-          "size": 135632166,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/InstagramNyx-316.0.6-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "315.0.2-1.2.0b",
-          "date": "2024-01-23",
-          "size": 145702159,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramNyx-315.0.2-1.2.0b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "314.0.6-1.1.8",
-          "date": "2024-01-17",
-          "size": 141918006,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramNyx-314.0.6-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-1.2.0b",
-          "date": "2024-01-16",
-          "size": 147214504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-1.1.8",
-          "date": "2024-01-13",
-          "size": 147145429,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8b2",
-          "date": "2024-01-03",
-          "size": 144606204,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8",
-          "date": "2023-12-28",
-          "size": 145628785,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.6",
-          "date": "2023-12-25",
-          "size": 143349474,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "311.0.2-1.1.6",
-          "date": "2023-12-12",
-          "size": 142283496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.6",
-          "date": "2023-12-11",
-          "size": 139562066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.4",
-          "date": "2023-12-04",
-          "size": 133602409,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-1.1.4",
-          "date": "2023-12-03",
-          "size": 133971258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 04-25-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstagramRocket",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED)",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "328.1.3-3.8.24",
-          "date": "2024-04-25",
-          "size": 150951207,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/InstagramRocket-328.1.3-3.8.24.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "322.0.1-3.8.23",
-          "date": "2024-03-13",
-          "size": 142338893,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstagramRocket-322.0.1-3.8.23.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "320.0.2-3.8.21",
-          "date": "2024-02-27",
-          "size": 142355697,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/InstagramRocket-320.0.2-3.8.21.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "319.0.2-3.8.21",
-          "date": "2024-02-24",
-          "size": 141761106,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstagramRocket-319.0.2-3.8.21.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "318.0.7-3.8.21",
-          "date": "2024-02-12",
-          "size": 142899788,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-12-2024/InstagramRocket-318.0.7-3.8.21.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "317.0.4-3.8.21",
-          "date": "2024-02-07",
-          "size": 141912027,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/InstagramRocket-317.0.4-3.8.21.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "315.0.2-3.8.19",
-          "date": "2024-01-23",
-          "size": 140983805,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/InstagramRocket-315.0.2-3.8.19.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "314.0.6-3.8.19",
-          "date": "2024-01-17",
-          "size": 140209756,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "313.0.2-3.8.19",
-          "date": "2024-01-13",
-          "size": 142483795,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramRocket-313.0.2-3.8.19.ipa",
-          "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 04-25-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "PixelPalsPremium",
       "bundleIdentifier": "com.christian.PixelPals",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
@@ -4536,189 +4776,6 @@
           "size": 15367632,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/PixelPalsPremium-2.0.13.ipa",
           "localizedDescription": "App that offers a unique way to personalize your Home and Lock Screen with customizable, adorable pets, enhancing your app navigation and phone unlocking experience. Note: To unlock premium press purchase then close the app, you might need to repeat the process twice. You can also reinstall the app via the AppStore as it might keep the tweak working.\nLast updated: 04-25-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "InfusePro",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "Suffuse-Team / InfusePlus",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
-      "versions": [
-        {
-          "version": "7.7.4-1.1.5",
-          "date": "2024-04-24",
-          "size": 40850984,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2024/InfusePro-7.7.4-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7.3-1.1.5",
-          "date": "2024-04-09",
-          "size": 38941997,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/InfusePro-7.7.3-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7.2-1.1.5",
-          "date": "2024-03-20",
-          "size": 38929838,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/InfusePro-7.7.2-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7.1-1.1.5",
-          "date": "2024-03-13",
-          "size": 40181478,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InfusePro-7.7.1-1.1.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7.1-1.1.4",
-          "date": "2024-02-28",
-          "size": 40129004,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/InfusePro-7.7.1-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.7-1.1.4",
-          "date": "2024-02-14",
-          "size": 40306052,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/InfusePro-7.7-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.7-1.1.4",
-          "date": "2024-02-11",
-          "size": 42854299,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/InfusePro-7.6.7-1.1.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.7",
-          "date": "2024-01-30",
-          "size": 40197875,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.6",
-          "date": "2024-01-15",
-          "size": 78682777,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.5",
-          "date": "2023-12-22",
-          "size": 38834254,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/InfusePro-7.6.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.4",
-          "date": "2023-11-29",
-          "size": 36936550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/InfusePro-7.6.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.3",
-          "date": "2023-11-19",
-          "size": 45198980,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-19-2023/InfusePro-7.6.3.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.2",
-          "date": "2023-11-06",
-          "size": 45192576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/InfusePro-7.6.2.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6.1",
-          "date": "2023-09-27",
-          "size": 43213714,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/InfusePro-7.6.1.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.6",
-          "date": "2023-09-06",
-          "size": 36357059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/InfusePro-7.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.9",
-          "date": "2023-08-24",
-          "size": 36292217,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-24-2023/InfusePro-7.5.9.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.8",
-          "date": "2023-07-11",
-          "size": 41628224,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/InfusePro-7.5.8.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.7",
-          "date": "2023-06-29",
-          "size": 44492277,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InfusePro-7.5.7.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.6",
-          "date": "2023-06-25",
-          "size": 42285212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InfusePro-7.5.6.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.5",
-          "date": "2023-06-04",
-          "size": 40271379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InfusePro-7.5.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.4",
-          "date": "2023-05-15",
-          "size": 40331154,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/InfusePro-7.5.4.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.2",
-          "date": "2023-04-30",
-          "size": 40517963,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/InfusePro-7.5.2.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5.1",
-          "date": "2023-04-10",
-          "size": 40177347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2023/InfusePro-7.5.1.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.5",
-          "date": "2023-03-17",
-          "size": 39321077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2023/InfusePro-7.5.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "7.4.10",
-          "date": "2023-03-11",
-          "size": 44545614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
-          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 04-24-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
@@ -7074,28 +7131,6 @@
           "size": 38006205,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/DarkNoisePro-3.2.6.ipa",
           "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "Pyoncord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "pyoncord",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "224.0",
-          "date": "2024-04-15",
-          "size": 96853734,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 04-15-2024\nStatus: \u2705"
-        },
-        {
-          "version": "223.0",
-          "date": "2024-04-12",
-          "size": 106082919,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 04-15-2024\nStatus: \u2705"
         }
       ]
     },
