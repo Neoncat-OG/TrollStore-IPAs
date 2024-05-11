@@ -4,6 +4,39 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Flightradar24Gold",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
+      "version": "9.21.0",
+      "versionDate": "2024-05-11",
+      "size": 99237102,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2024/Flightradar24Gold-9.21.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library / AppDB",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "version": "2024.4.19",
+      "versionDate": "2024-05-11",
+      "size": 83114360,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2024/MemrisePremium-2024.4.19.ipa",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
+    },
+    {
+      "name": "SparkPremium",
+      "bundleIdentifier": "com.readdle.smartemail",
+      "version": "3.9.6",
+      "versionDate": "2024-05-11",
+      "size": 121485106,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2024/SparkPremium-3.9.6.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.40-4.3",
@@ -286,7 +319,7 @@
       "size": 150477829,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/Flightradar24Gold-9.20.0.ipa",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
-      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
     },
     {
@@ -2178,7 +2211,7 @@
       "size": 137326472,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MemrisePremium-2024.3.28.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -2684,7 +2717,7 @@
       "size": 97707884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 03-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -3223,7 +3256,7 @@
       "size": 151430872,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Flightradar24Gold-9.19.0.ipa",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
-      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
     },
     {
@@ -4015,7 +4048,7 @@
       "size": 136742945,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/MemrisePremium-2024.2.21.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -5192,7 +5225,7 @@
       "size": 136445511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/MemrisePremium-2024.2.3.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -5478,7 +5511,7 @@
       "size": 150431521,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/Flightradar24Gold-9.17.0.ipa",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
-      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
     },
     {
@@ -7590,7 +7623,7 @@
       "size": 105982017,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MemrisePremium-2024.1.8.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -8063,7 +8096,7 @@
       "size": 105998328,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/MemrisePremium-2023.12.20.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -8789,7 +8822,7 @@
       "size": 105998045,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -9504,7 +9537,7 @@
       "size": 106107558,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -9691,7 +9724,7 @@
       "size": 184885684,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 03-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -10340,7 +10373,7 @@
       "size": 90694453,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -10978,7 +11011,7 @@
       "size": 146348694,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
@@ -12100,7 +12133,7 @@
       "size": 142729185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 04-03-2024\nStatus: \u2705",
+      "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
