@@ -4,6 +4,162 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png",
+      "versions": [
+        {
+          "version": "7.10.8",
+          "date": "2024-05-14",
+          "size": 74673060,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/MusixmatchPremium-7.10.8.ipa",
+          "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 05-14-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "developerName": "Lessica / TrollRecorder",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.8.7-150",
+          "date": "2024-05-14",
+          "size": 2378032,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.6-145",
+          "date": "2024-05-12",
+          "size": 2339231,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.2-137",
+          "date": "2024-05-06",
+          "size": 2281296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.0-131",
+          "date": "2024-05-01",
+          "size": 2204095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.9-127",
+          "date": "2024-04-29",
+          "size": 2202695,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.6-117",
+          "date": "2024-04-23",
+          "size": 2137022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.4-113",
+          "date": "2024-04-20",
+          "size": 2070853,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2-109",
+          "date": "2024-04-17",
+          "size": 2078685,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.0-101",
+          "date": "2024-04-13",
+          "size": 2066248,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.6-93",
+          "date": "2024-04-11",
+          "size": 1931520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.4-89",
+          "date": "2024-04-07",
+          "size": 1926520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.12-82",
+          "date": "2024-04-05",
+          "size": 1908353,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.9-79",
+          "date": "2024-04-02",
+          "size": 1886301,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.5-72",
+          "date": "2024-03-29",
+          "size": 2415865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.4-70",
+          "date": "2024-03-28",
+          "size": 2412683,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.7-46",
+          "date": "2024-03-17",
+          "size": 2079031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.5-36",
+          "date": "2024-03-15",
+          "size": 2067973,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1-30",
+          "date": "2024-03-14",
+          "size": 2549610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.2-20",
+          "date": "2024-03-10",
+          "size": 2525367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "AdobeAcrobatReaderPremium",
       "bundleIdentifier": "com.adobe.Adobe-Reader",
       "developerName": "binnichtaktiv's iPA Library",
@@ -1713,140 +1869,6 @@
           "size": 114949354,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
           "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 05-12-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TrollRecorder",
-      "bundleIdentifier": "wiki.qaq.trapp",
-      "developerName": "Lessica / TrollRecorder",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
-      "versions": [
-        {
-          "version": "1.8.6-145",
-          "date": "2024-05-12",
-          "size": 2339231,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.2-137",
-          "date": "2024-05-06",
-          "size": 2281296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.0-131",
-          "date": "2024-05-01",
-          "size": 2204095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.9-127",
-          "date": "2024-04-29",
-          "size": 2202695,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.6-117",
-          "date": "2024-04-23",
-          "size": 2137022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.4-113",
-          "date": "2024-04-20",
-          "size": 2070853,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.2-109",
-          "date": "2024-04-17",
-          "size": 2078685,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.0-101",
-          "date": "2024-04-13",
-          "size": 2066248,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.6-93",
-          "date": "2024-04-11",
-          "size": 1931520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.4-89",
-          "date": "2024-04-07",
-          "size": 1926520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.12-82",
-          "date": "2024-04-05",
-          "size": 1908353,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.9-79",
-          "date": "2024-04-02",
-          "size": 1886301,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.5-72",
-          "date": "2024-03-29",
-          "size": 2415865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.4-70",
-          "date": "2024-03-28",
-          "size": 2412683,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.7-46",
-          "date": "2024-03-17",
-          "size": 2079031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.5-36",
-          "date": "2024-03-15",
-          "size": 2067973,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.1-30",
-          "date": "2024-03-14",
-          "size": 2549610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.2-20",
-          "date": "2024-03-10",
-          "size": 2525367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-12-2024\nStatus: \u2705"
         }
       ]
     },
