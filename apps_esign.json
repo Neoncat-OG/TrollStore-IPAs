@@ -4,6 +4,72 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FacetunePro",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "version": "3.55",
+      "versionDate": "2024-05-15",
+      "size": 415431924,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/FacetunePro-3.55.ipa",
+      "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.3.25",
+      "versionDate": "2024-05-15",
+      "size": 330592734,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/Goodnotes6-6.3.25.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "IPTVPro",
+      "bundleIdentifier": "com.courtois.PerfectIPTVn",
+      "version": "2.7",
+      "versionDate": "2024-05-15",
+      "size": 19553102,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/IPTVPro-2.7.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 05-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png"
+    },
+    {
+      "name": "RadarbotPro",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "version": "9.15.4",
+      "versionDate": "2024-05-15",
+      "size": 227853232,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/RadarbotPro-9.15.4.ipa",
+      "developerName": "MeemNon / binnichtaktiv's iPA Library",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+    },
+    {
+      "name": "VidsAIPro",
+      "bundleIdentifier": "viral.vision.vids",
+      "version": "1.59.1",
+      "versionDate": "2024-05-15",
+      "size": 149530357,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VidsAIPro-1.59.1.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
+    },
+    {
+      "name": "VSCOPremium",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "version": "373.0",
+      "versionDate": "2024-05-15",
+      "size": 121616504,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
+      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
+    },
+    {
       "name": "MusixmatchPremium",
       "bundleIdentifier": "com.musixmatch.lyrics",
       "version": "7.10.8",
@@ -561,7 +627,7 @@
       "size": 227070074,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/RadarbotPro-9.15.2.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -572,7 +638,7 @@
       "size": 120648502,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -649,7 +715,7 @@
       "size": 329866623,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/Goodnotes6-6.3.20.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -759,7 +825,7 @@
       "size": 227333741,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/RadarbotPro-9.15.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -847,7 +913,7 @@
       "size": 148851342,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VidsAIPro-1.58.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-29-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -858,7 +924,7 @@
       "size": 120599686,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -946,7 +1012,7 @@
       "size": 423331257,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-26-2024/FacetunePro-3.53.1.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -1243,7 +1309,7 @@
       "size": 119912875,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -1617,7 +1683,7 @@
       "size": 321439029,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/Goodnotes6-6.3.18.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -1782,7 +1848,7 @@
       "size": 119024411,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -1903,7 +1969,7 @@
       "size": 424735272,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/FacetunePro-3.50.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -1958,7 +2024,7 @@
       "size": 162378395,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/VidsAIPro-1.55.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-29-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -2046,7 +2112,7 @@
       "size": 331622201,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/Goodnotes6-6.3.14.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -2090,7 +2156,7 @@
       "size": 165476569,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/VidsAIPro-1.54.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-29-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -2607,7 +2673,7 @@
       "size": 119535206,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -2629,7 +2695,7 @@
       "size": 226684744,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/RadarbotPro-9.14.6.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -2739,7 +2805,7 @@
       "size": 434328517,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/FacetunePro-3.49.2.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -3344,7 +3410,7 @@
       "size": 323637347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Goodnotes6-6.3.12.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -3443,7 +3509,7 @@
       "size": 321760236,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Goodnotes6-6.3.10.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -3498,7 +3564,7 @@
       "size": 154841675,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/VidsAIPro-1.52.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-29-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -3894,7 +3960,7 @@
       "size": 170001237,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/VidsAIPro-1.51.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 04-29-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -4565,7 +4631,7 @@
       "size": 436191661,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/FacetunePro-3.47.2.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -4609,7 +4675,7 @@
       "size": 436181501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/FacetunePro-3.47.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -4664,7 +4730,7 @@
       "size": 119138442,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -4829,7 +4895,7 @@
       "size": 296255622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/Goodnotes6-6.3.4.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -5137,7 +5203,7 @@
       "size": 480821701,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/FacetunePro-3.46.3.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -5302,7 +5368,7 @@
       "size": 118977867,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -5335,7 +5401,7 @@
       "size": 226012311,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-19-2024/RadarbotPro-9.13.5.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -5445,7 +5511,7 @@
       "size": 480823932,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2024/FacetunePro-3.46.1.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -5830,7 +5896,7 @@
       "size": 119124395,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -6270,7 +6336,7 @@
       "size": 225458507,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/RadarbotPro-9.13.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -6974,7 +7040,7 @@
       "size": 478327305,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/FacetunePro-3.44.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "Cracked. A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 04-26-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -7348,7 +7414,7 @@
       "size": 221842901,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-16-2024/RadarbotPro-9.12.5.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -7579,7 +7645,7 @@
       "size": 117025196,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
@@ -7678,7 +7744,7 @@
       "size": 227257052,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/RadarbotPro-9.12.4.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -8591,7 +8657,7 @@
       "size": 229895957,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/RadarbotPro-9.12.0.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
-      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
@@ -10197,7 +10263,7 @@
       "size": 315141070,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-02-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -18392,7 +18458,7 @@
       "size": 110193844,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-04-2024\nStatus: \u2705",
+      "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
     },
     {
