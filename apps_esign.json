@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "464.0.0",
+      "versionDate": "2024-05-20",
+      "size": 147131532,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+    },
+    {
+      "name": "Otraku",
+      "bundleIdentifier": "com.otraku.app",
+      "version": "1.3.2-ios15.0+",
+      "versionDate": "2024-05-20",
+      "size": 10142193,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/Otraku-1.3.2-ios15.0%2B.ipa",
+      "developerName": "lotusprey",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
+    },
+    {
+      "name": "Otraku",
+      "bundleIdentifier": "com.otraku.app",
+      "version": "1.3.2-ios16.6+",
+      "versionDate": "2024-05-20",
+      "size": 10139292,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/Otraku-1.3.2-ios16.6%2B.ipa",
+      "developerName": "lotusprey",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "version": "1.2.39",
+      "versionDate": "2024-05-20",
+      "size": 37273324,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/Streamer-1.2.39.ipa",
+      "developerName": "StreamerApp",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "1.9.1-163",
+      "versionDate": "2024-05-20",
+      "size": 2832511,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
+      "developerName": "Lessica / TrollRecorder",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
       "name": "TrollRecorder",
       "bundleIdentifier": "wiki.qaq.trapp",
       "version": "1.9.0-161",
@@ -11,7 +66,7 @@
       "size": 2831974,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -220,7 +275,7 @@
       "size": 2378032,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -363,7 +418,7 @@
       "size": 2339231,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -440,7 +495,7 @@
       "size": 153007992,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/FacebookWolf-463.0.4.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -495,7 +550,7 @@
       "size": 151299641,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/FacebookWolf-462.0.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -638,7 +693,7 @@
       "size": 2281296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -891,7 +946,7 @@
       "size": 2204095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1034,7 +1089,7 @@
       "size": 2202695,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1133,7 +1188,7 @@
       "size": 37649128,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/Streamer-1.2.38.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -1188,7 +1243,7 @@
       "size": 144123361,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/FacebookWolf-461.0.3.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -1331,7 +1386,7 @@
       "size": 2137022,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1485,7 +1540,7 @@
       "size": 2070853,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1639,7 +1694,7 @@
       "size": 147521387,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FacebookWolf-460.0.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -1760,7 +1815,7 @@
       "size": 2078685,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1969,7 +2024,7 @@
       "size": 2066248,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2024,7 +2079,7 @@
       "size": 147002863,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -2035,7 +2090,7 @@
       "size": 1931520,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2266,7 +2321,7 @@
       "size": 1926520,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2464,7 +2519,7 @@
       "size": 1908353,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2486,7 +2541,7 @@
       "size": 146363775,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -2629,7 +2684,7 @@
       "size": 1886301,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2739,7 +2794,7 @@
       "size": 148361340,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -2904,7 +2959,7 @@
       "size": 2415865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2992,7 +3047,7 @@
       "size": 2412683,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3179,7 +3234,7 @@
       "size": 147184062,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -3399,7 +3454,7 @@
       "size": 9995792,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/Otraku-1.2.8%2B2-ios15.0%2B.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -3410,7 +3465,7 @@
       "size": 9992877,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/Otraku-1.2.8%2B2-ios16.6%2B.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -3828,7 +3883,7 @@
       "size": 2079031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3916,7 +3971,7 @@
       "size": 34186141,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Streamer-1.2.37.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -3938,7 +3993,7 @@
       "size": 2067973,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4015,7 +4070,7 @@
       "size": 2549610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4235,7 +4290,7 @@
       "size": 2525367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-19-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4323,7 +4378,7 @@
       "size": 150641731,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -4433,7 +4488,7 @@
       "size": 9995768,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Otraku-1.2.8%2B1-ios15.0%2B.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -4444,7 +4499,7 @@
       "size": 9992852,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Otraku-1.2.8%2B1-ios16.6%2B.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -4906,7 +4961,7 @@
       "size": 149793387,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/FacebookWolf-453.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5016,7 +5071,7 @@
       "size": 34110548,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -5148,7 +5203,7 @@
       "size": 150243112,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/FacebookWolf-452.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5698,7 +5753,7 @@
       "size": 150007390,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/FacebookWolf-451.0.4.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -5874,7 +5929,7 @@
       "size": 149409221,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/FacebookWolf-450.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -6072,7 +6127,7 @@
       "size": 148743798,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/FacebookWolf-449.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -6248,7 +6303,7 @@
       "size": 36488526,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Streamer-1.2.35.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -6831,7 +6886,7 @@
       "size": 148908203,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/FacebookWolf-448.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -7040,7 +7095,7 @@
       "size": 36489010,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -7183,7 +7238,7 @@
       "size": 9941759,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Otraku-1.2.7%2B2-ios15.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -7194,7 +7249,7 @@
       "size": 9939478,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Otraku-1.2.7%2B2-ios16%2B.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -7249,7 +7304,7 @@
       "size": 148992621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/FacebookWolf-447.1.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -7337,7 +7392,7 @@
       "size": 148992369,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/FacebookWolf-447.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -7700,7 +7755,7 @@
       "size": 149190964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/FacebookWolf-446.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -8338,7 +8393,7 @@
       "size": 35874964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -9009,7 +9064,7 @@
       "size": 150201298,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/FacebookWolf-445.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -9284,7 +9339,7 @@
       "size": 27651126,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 04-27-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -9383,7 +9438,7 @@
       "size": 148019677,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/FacebookWolf-444.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -9955,7 +10010,7 @@
       "size": 148641638,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/FacebookWolf-443.0.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -10560,7 +10615,7 @@
       "size": 148751080,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/FacebookWolf-442.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -10791,7 +10846,7 @@
       "size": 151559278,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2023/FacebookWolf-441.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11000,7 +11055,7 @@
       "size": 151548308,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2023/FacebookWolf-441.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11187,7 +11242,7 @@
       "size": 145279761,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11440,7 +11495,7 @@
       "size": 144715433,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/FacebookWolf-439.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11638,7 +11693,7 @@
       "size": 143948666,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-26-2023/FacebookWolf-438.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11891,7 +11946,7 @@
       "size": 149712884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/FacebookWolf-437.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -11946,7 +12001,7 @@
       "size": 9843461,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Otraku-1.2.6%2B1.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -12199,7 +12254,7 @@
       "size": 148727038,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/FacebookWolf-433.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12551,7 +12606,7 @@
       "size": 147521226,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/FacebookWolf-433.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -12760,7 +12815,7 @@
       "size": 9842869,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Otraku-1.2.5.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -12925,7 +12980,7 @@
       "size": 137319129,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/FacebookWolf-432.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -13585,7 +13640,7 @@
       "size": 130980374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/FacebookWolf-430.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -13739,7 +13794,7 @@
       "size": 147437505,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/FacebookWolf-429.2.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -14146,7 +14201,7 @@
       "size": 131560635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2023/FacebookWolf-427.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -14333,7 +14388,7 @@
       "size": 140546097,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/FacebookWolf-426.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -15026,7 +15081,7 @@
       "size": 10120299,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Otraku-1.2.4%2B1.ipa",
       "developerName": "lotusprey",
-      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-23-2024\nStatus: \u2705",
+      "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png"
     },
     {
@@ -15081,7 +15136,7 @@
       "size": 148850803,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/FacebookWolf-422.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -15323,7 +15378,7 @@
       "size": 147584969,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/FacebookWolf-419.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -15389,7 +15444,7 @@
       "size": 150521266,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/FacebookWolf-418.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -15829,7 +15884,7 @@
       "size": 128531017,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/FacebookWolf-415.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16247,7 +16302,7 @@
       "size": 143985533,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2023/FacebookWolf-413.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16390,7 +16445,7 @@
       "size": 126730195,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/FacebookWolf-411.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16852,7 +16907,7 @@
       "size": 146204031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/FacebookWolf-410.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -16907,7 +16962,7 @@
       "size": 126317673,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2023/FacebookWolf-407.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17160,7 +17215,7 @@
       "size": 139434374,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/FacebookWolf-407.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17358,7 +17413,7 @@
       "size": 140122979,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/FacebookWolf-406.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17611,7 +17666,7 @@
       "size": 142562954,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/FacebookWolf-405.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -17941,7 +17996,7 @@
       "size": 149662233,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2023/FacebookWolf-404.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -18139,7 +18194,7 @@
       "size": 133721522,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2023/FacebookWolf-403.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -18447,7 +18502,7 @@
       "size": 126709146,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -18458,7 +18513,7 @@
       "size": 123861738,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2023/FacebookWolf-401.1.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -18623,7 +18678,7 @@
       "size": 135002490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/FacebookWolf-400.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -19140,7 +19195,7 @@
       "size": 149355244,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2023/FacebookWolf-399.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -19250,7 +19305,7 @@
       "size": 135094448,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2023/FacebookWolf-398.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -19415,7 +19470,7 @@
       "size": 143152840,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2023/FacebookWolf-397.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -20361,7 +20416,7 @@
       "size": 137241305,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/FacebookWolf-396.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -20438,7 +20493,7 @@
       "size": 138856989,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2022/FacebookWolf-395.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -20834,7 +20889,7 @@
       "size": 136327857,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/FacebookWolf-394.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -21164,7 +21219,7 @@
       "size": 135626187,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/FacebookWolf-393.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -21505,7 +21560,7 @@
       "size": 136100527,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/FacebookWolf-392.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -21648,7 +21703,7 @@
       "size": 143311099,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
-      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
