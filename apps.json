@@ -4,6 +4,267 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "developerName": "Lessica / TrollRecorder",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.9.6-175",
+          "date": "2024-05-26",
+          "size": 3282320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.3-166",
+          "date": "2024-05-21",
+          "size": 3237518,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.1-163",
+          "date": "2024-05-20",
+          "size": 2832511,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.0-161",
+          "date": "2024-05-19",
+          "size": 2831974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.7-150",
+          "date": "2024-05-14",
+          "size": 2378032,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.6-145",
+          "date": "2024-05-12",
+          "size": 2339231,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.2-137",
+          "date": "2024-05-06",
+          "size": 2281296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.0-131",
+          "date": "2024-05-01",
+          "size": 2204095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.9-127",
+          "date": "2024-04-29",
+          "size": 2202695,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.6-117",
+          "date": "2024-04-23",
+          "size": 2137022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.4-113",
+          "date": "2024-04-20",
+          "size": 2070853,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2-109",
+          "date": "2024-04-17",
+          "size": 2078685,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.0-101",
+          "date": "2024-04-13",
+          "size": 2066248,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.6-93",
+          "date": "2024-04-11",
+          "size": 1931520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.4-89",
+          "date": "2024-04-07",
+          "size": 1926520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.12-82",
+          "date": "2024-04-05",
+          "size": 1908353,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.9-79",
+          "date": "2024-04-02",
+          "size": 1886301,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.5-72",
+          "date": "2024-03-29",
+          "size": 2415865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.4-70",
+          "date": "2024-03-28",
+          "size": 2412683,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.7-46",
+          "date": "2024-03-17",
+          "size": 2079031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.5-36",
+          "date": "2024-03-15",
+          "size": 2067973,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1-30",
+          "date": "2024-03-14",
+          "size": 2549610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.2-20",
+          "date": "2024-03-10",
+          "size": 2525367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-26-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Violet",
+      "bundleIdentifier": "xyz.project.violet",
+      "developerName": "project-violet",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png",
+      "versions": [
+        {
+          "version": "1.32.0",
+          "date": "2024-05-26",
+          "size": 43186804,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/Violet-1.32.0.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.31.1",
+          "date": "2024-02-17",
+          "size": 94290854,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Violet-1.31.1.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.31.0",
+          "date": "2024-02-03",
+          "size": 94267150,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Violet-1.31.0.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.2",
+          "date": "2024-01-26",
+          "size": 94201838,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/Violet-1.30.2.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.1",
+          "date": "2024-01-22",
+          "size": 94135640,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/Violet-1.30.1.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.0",
+          "date": "2024-01-04",
+          "size": 93992082,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2024/Violet-1.30.0.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.29.2",
+          "date": "2023-12-10",
+          "size": 94253440,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Violet-1.29.2.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.29.1",
+          "date": "2023-12-05",
+          "size": 94249905,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Violet-1.29.1.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.29.0",
+          "date": "2023-11-05",
+          "size": 94207694,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Violet-1.29.0.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.28.5",
+          "date": "2023-07-11",
+          "size": 94054828,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Violet-1.28.5.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.28.4",
+          "date": "2023-04-09",
+          "size": 93832933,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/Violet-1.28.4.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.28.3",
+          "date": "2023-03-27",
+          "size": 93833329,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/Violet-1.28.3.ipa",
+          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 05-26-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "AIChatbotGeniePro",
       "bundleIdentifier": "co.appnation.geniechat.watchapp",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library",
@@ -1979,168 +2240,6 @@
           "size": 106082919,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
           "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 05-21-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "TrollRecorder",
-      "bundleIdentifier": "wiki.qaq.trapp",
-      "developerName": "Lessica / TrollRecorder",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
-      "versions": [
-        {
-          "version": "1.9.3-166",
-          "date": "2024-05-21",
-          "size": 3237518,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.1-163",
-          "date": "2024-05-20",
-          "size": 2832511,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.0-161",
-          "date": "2024-05-19",
-          "size": 2831974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.7-150",
-          "date": "2024-05-14",
-          "size": 2378032,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.6-145",
-          "date": "2024-05-12",
-          "size": 2339231,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.2-137",
-          "date": "2024-05-06",
-          "size": 2281296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.0-131",
-          "date": "2024-05-01",
-          "size": 2204095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.9-127",
-          "date": "2024-04-29",
-          "size": 2202695,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.6-117",
-          "date": "2024-04-23",
-          "size": 2137022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.4-113",
-          "date": "2024-04-20",
-          "size": 2070853,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.2-109",
-          "date": "2024-04-17",
-          "size": 2078685,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.0-101",
-          "date": "2024-04-13",
-          "size": 2066248,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.6-93",
-          "date": "2024-04-11",
-          "size": 1931520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.4-89",
-          "date": "2024-04-07",
-          "size": 1926520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.12-82",
-          "date": "2024-04-05",
-          "size": 1908353,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.9-79",
-          "date": "2024-04-02",
-          "size": 1886301,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.5-72",
-          "date": "2024-03-29",
-          "size": 2415865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.4-70",
-          "date": "2024-03-28",
-          "size": 2412683,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.7-46",
-          "date": "2024-03-17",
-          "size": 2079031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.5-36",
-          "date": "2024-03-15",
-          "size": 2067973,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.1-30",
-          "date": "2024-03-14",
-          "size": 2549610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.2-20",
-          "date": "2024-03-10",
-          "size": 2525367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-21-2024\nStatus: \u2705"
         }
       ]
     },
@@ -12262,91 +12361,6 @@
           "size": 93987800,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/Vendetta-181.0.ipa",
           "localizedDescription": "Vendetta plugins list. A modified Discord client akin to Enmity for Discord, built upon the foundation of Vencord, I believe. It boasts a distinct set of plugins, although many of the plugins from Enmity are also available on Vendetta. Additionally, Enmity themes can be transferred to Vendetta, although users should anticipate encountering user interface issues during the process. Full description here\nLast updated: 02-22-2024\nStatus: \u274c"
-        }
-      ]
-    },
-    {
-      "name": "Violet",
-      "bundleIdentifier": "xyz.project.violet",
-      "developerName": "project-violet",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.project.violet.png",
-      "versions": [
-        {
-          "version": "1.31.1",
-          "date": "2024-02-17",
-          "size": 94290854,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Violet-1.31.1.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.31.0",
-          "date": "2024-02-03",
-          "size": 94267150,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Violet-1.31.0.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.2",
-          "date": "2024-01-26",
-          "size": 94201838,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-26-2024/Violet-1.30.2.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.1",
-          "date": "2024-01-22",
-          "size": 94135640,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/Violet-1.30.1.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.0",
-          "date": "2024-01-04",
-          "size": 93992082,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2024/Violet-1.30.0.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.29.2",
-          "date": "2023-12-10",
-          "size": 94253440,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Violet-1.29.2.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.29.1",
-          "date": "2023-12-05",
-          "size": 94249905,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/Violet-1.29.1.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.29.0",
-          "date": "2023-11-05",
-          "size": 94207694,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Violet-1.29.0.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.28.5",
-          "date": "2023-07-11",
-          "size": 94054828,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Violet-1.28.5.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.28.4",
-          "date": "2023-04-09",
-          "size": 93832933,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/Violet-1.28.4.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.28.3",
-          "date": "2023-03-27",
-          "size": 93833329,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/Violet-1.28.3.ipa",
-          "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: \u2705"
         }
       ]
     },
