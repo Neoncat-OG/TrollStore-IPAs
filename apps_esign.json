@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "iPoGo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "version": "3.3.9",
+      "versionDate": "2024-05-31",
+      "size": 143359914,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-31-2024/iPoGo-3.3.9.ipa",
+      "developerName": "https://ipogo.app",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 05-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+    },
+    {
       "name": "DLTikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "34.7.1-2.0.5",
