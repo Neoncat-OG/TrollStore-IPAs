@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "version": "1.2.40",
+      "versionDate": "2024-06-03",
+      "size": 38036090,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/Streamer-1.2.40.ipa",
+      "developerName": "StreamerApp",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "1.9.8-236",
+      "versionDate": "2024-06-03",
+      "size": 3356655,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/TrollRecorder-1.9.8-236.ipa",
+      "developerName": "Lessica / TrollRecorder",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
       "name": "AIChatbotGeniePro",
       "bundleIdentifier": "co.appnation.geniechat.watchapp",
       "version": "6.3.0",
@@ -253,7 +275,7 @@
       "size": 3286009,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -385,7 +407,7 @@
       "size": 3282320,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -550,7 +572,7 @@
       "size": 3237518,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -605,7 +627,7 @@
       "size": 37273324,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/Streamer-1.2.39.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -616,7 +638,7 @@
       "size": 2832511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -627,7 +649,7 @@
       "size": 2831974,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -836,7 +858,7 @@
       "size": 2378032,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -979,7 +1001,7 @@
       "size": 2339231,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1254,7 +1276,7 @@
       "size": 2281296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1507,7 +1529,7 @@
       "size": 2204095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1650,7 +1672,7 @@
       "size": 2202695,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1749,7 +1771,7 @@
       "size": 37649128,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/Streamer-1.2.38.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -1947,7 +1969,7 @@
       "size": 2137022,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2101,7 +2123,7 @@
       "size": 2070853,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2376,7 +2398,7 @@
       "size": 2078685,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2585,7 +2607,7 @@
       "size": 2066248,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2651,7 +2673,7 @@
       "size": 1931520,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2882,7 +2904,7 @@
       "size": 1926520,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3080,7 +3102,7 @@
       "size": 1908353,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3245,7 +3267,7 @@
       "size": 1886301,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3520,7 +3542,7 @@
       "size": 2415865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3608,7 +3630,7 @@
       "size": 2412683,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4444,7 +4466,7 @@
       "size": 2079031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4532,7 +4554,7 @@
       "size": 34186141,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Streamer-1.2.37.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -4554,7 +4576,7 @@
       "size": 2067973,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4631,7 +4653,7 @@
       "size": 2549610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4851,7 +4873,7 @@
       "size": 2525367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 05-30-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -5632,7 +5654,7 @@
       "size": 34110548,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -6864,7 +6886,7 @@
       "size": 36488526,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Streamer-1.2.35.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -7656,7 +7678,7 @@
       "size": 36489010,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -8954,7 +8976,7 @@
       "size": 35874964,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
@@ -9900,7 +9922,7 @@
       "size": 27651126,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
       "developerName": "StreamerApp",
-      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: \u2705",
+      "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
     },
     {
