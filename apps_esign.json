@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.44-4.1",
+      "versionDate": "2024-06-08",
+      "size": 75650658,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
+      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "version": "25.1.1",
+      "versionDate": "2024-06-08",
+      "size": 102299934,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/PicsArtPlusPlus-25.1.1.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+    },
+    {
       "name": "LingoDeer",
       "bundleIdentifier": "com.lingodeer",
       "version": "2.9.18",
@@ -506,7 +528,7 @@
       "size": 75072303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -572,7 +594,7 @@
       "size": 102492411,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-27-2024/PicsArtPlusPlus-25.0.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -726,7 +748,7 @@
       "size": 74984525,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1144,7 +1166,7 @@
       "size": 102429621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/PicsArtPlusPlus-24.9.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -1243,7 +1265,7 @@
       "size": 72660511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1419,7 +1441,7 @@
       "size": 72906034,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1683,7 +1705,7 @@
       "size": 102348030,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/PicsArtPlusPlus-24.8.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -1749,7 +1771,7 @@
       "size": 69845551,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1903,7 +1925,7 @@
       "size": 102169051,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/PicsArtPlusPlus-24.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -1914,7 +1936,7 @@
       "size": 68598253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2123,7 +2145,7 @@
       "size": 102169543,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/PicsArtPlusPlus-24.7.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -2167,7 +2189,7 @@
       "size": 67901441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2233,7 +2255,7 @@
       "size": 68154131,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-28-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-08-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3190,7 +3212,7 @@
       "size": 111761929,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PicsArtPlusPlus-24.6.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -3773,7 +3795,7 @@
       "size": 102319502,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/PicsArtPlusPlus-24.5.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -5269,7 +5291,7 @@
       "size": 104708547,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/PicsArtPlusPlus-24.4.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -5412,7 +5434,7 @@
       "size": 104707065,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/PicsArtPlusPlus-24.4.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -5665,7 +5687,7 @@
       "size": 104504630,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PicsArtPlusPlus-24.3.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -6270,7 +6292,7 @@
       "size": 104500926,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/PicsArtPlusPlus-24.3.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -8470,7 +8492,7 @@
       "size": 100398039,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -8679,7 +8701,7 @@
       "size": 100312892,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -9449,7 +9471,7 @@
       "size": 104714105,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -10406,7 +10428,7 @@
       "size": 98696332,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11484,7 +11506,7 @@
       "size": 100146477,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11748,7 +11770,7 @@
       "size": 99766481,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -11924,7 +11946,7 @@
       "size": 90738824,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12067,7 +12089,7 @@
       "size": 104745334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12232,7 +12254,7 @@
       "size": 104743752,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12331,7 +12353,7 @@
       "size": 102531555,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12771,7 +12793,7 @@
       "size": 104758490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -12969,7 +12991,7 @@
       "size": 103585347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -13101,7 +13123,7 @@
       "size": 96172924,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15565,7 +15587,7 @@
       "size": 103395444,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -15972,7 +15994,7 @@
       "size": 97907313,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16093,7 +16115,7 @@
       "size": 102553252,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16511,7 +16533,7 @@
       "size": 94135314,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16588,7 +16610,7 @@
       "size": 94718889,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -16797,7 +16819,7 @@
       "size": 85332473,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17039,7 +17061,7 @@
       "size": 91292482,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17160,7 +17182,7 @@
       "size": 87605312,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17567,7 +17589,7 @@
       "size": 95032916,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17710,7 +17732,7 @@
       "size": 98569302,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17831,7 +17853,7 @@
       "size": 89964583,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -17985,7 +18007,7 @@
       "size": 89945821,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18095,7 +18117,7 @@
       "size": 89883836,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18469,7 +18491,7 @@
       "size": 89878202,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18568,7 +18590,7 @@
       "size": 89057077,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -18733,7 +18755,7 @@
       "size": 84242704,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19096,7 +19118,7 @@
       "size": 90803300,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19184,7 +19206,7 @@
       "size": 95326510,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19338,7 +19360,7 @@
       "size": 94968087,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19371,7 +19393,7 @@
       "size": 83700828,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19481,7 +19503,7 @@
       "size": 93292357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19580,7 +19602,7 @@
       "size": 93292925,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -19932,7 +19954,7 @@
       "size": 106754941,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -20042,7 +20064,7 @@
       "size": 109413971,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -20262,7 +20284,7 @@
       "size": 109380528,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -20614,7 +20636,7 @@
       "size": 85002160,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -20878,7 +20900,7 @@
       "size": 106146615,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -20999,7 +21021,7 @@
       "size": 106125185,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -21054,7 +21076,7 @@
       "size": 105724993,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -21296,7 +21318,7 @@
       "size": 106046582,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -21670,7 +21692,7 @@
       "size": 81296588,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -21846,7 +21868,7 @@
       "size": 101722265,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
@@ -22231,7 +22253,7 @@
       "size": 60634846,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-08-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
     },
     {
