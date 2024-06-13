@@ -4,14 +4,14 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
-      "name": "AddonPro",
+      "name": "AddonsPro",
       "bundleIdentifier": "com.qingbin.Addons",
       "version": "3.6",
       "versionDate": "2024-06-13",
       "size": 29020552,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-13-2024/AddonPro-3.6.ipa",
-      "developerName": "",
-      "localizedDescription": "",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-13-2024/AddonsPro-3.6.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 06-13-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.qingbin.Addons.png"
     },
     {
@@ -20911,7 +20911,7 @@
       "size": 1170406,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/DPixelGPT-1.0.ipa",
       "developerName": "DPixel",
-      "localizedDescription": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a limited number of questions per hour, so using one account between multiple people will just be an inconvenience\nLast updated: 12-29-2022\nStatus: \u274c",
+      "localizedDescription": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a limited number of questions per hour, so using one account between multiple people will just be an inconvenience.\nLast updated: 12-29-2022\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dpixel.chatgpt.png"
     },
     {
