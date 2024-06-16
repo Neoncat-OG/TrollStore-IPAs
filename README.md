@@ -96,12 +96,11 @@ These emojis should assist you in making informed decisions when selecting apps 
   
 - **Reposters Notice:** If you intend to download IPA files from sources other than this repository, it's important to note that there is an ongoing problem with Telegram channels, websites, and individuals stealing, reposting, and claiming the work of others as their own. These reposters often remove original credits and add their own channel icons or signatures. To ensure the safety and integrity of the content, this repository will list parties that engage in such practices. Users are encouraged to be cautious and support original creators and maintainers. Expect regular updates to this list, as it is subject to change.
 
-   ### Known reposters: *(06-13-2024)*
+   ### Known reposters: *(06-16-2024)*
    
     | Reposter* | Original Tweak/Maintainer |
     |:---------|---------------------------|
     | [IPAUniverse: Telegram channel](https://t.me/lPAUniverse)→ [IPAUniverse: GitHub repository](https://github.com/ipauniverse/IPAUniverse)→ [IPAUniverse: Website](https://www.ipauniverse.com/) **(MASSIVE CLONE, UNSAFE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) / [DPixel](https://t.me/dpixel) / [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/) / [ipalibrary.me](https://ipalibrary.me) / [Kanji's discord](https://discord.gg/iotatweak) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) / [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) / [whoeevee](https://github.com/whoeevee/EeveeSpotify) / [EeveeSpotify IPAs](https://t.me/SpotilifeIPAs) |
-    | [IPA Galaxy](https://ipagalaxy.com/) **(CLONE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) |
     | [AppCake](https://www.iphonecake.com/tweak_index.php) **(CLONE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [iOSGods!](https://iosgods.com/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
     | [KAMO HACkS](https://t.me/kamohacks) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) |
     | [AppleFavour iPA Library](https://t.me/iparsiv) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
