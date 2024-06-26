@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ipogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "version": "3.4.2",
+      "versionDate": "2024-06-26",
+      "size": 145479759,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/ipogo-3.4.2.ipa",
+      "developerName": "https://ipogo.app",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+    },
+    {
+      "name": "SparkPremium",
+      "bundleIdentifier": "com.readdle.smartemail",
+      "version": "3.9.10",
+      "versionDate": "2024-06-26",
+      "size": 189076792,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/SparkPremium-3.9.10.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 06-26-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
+    },
+    {
+      "name": "WaterMinderPremium",
+      "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
+      "version": "6.5.12",
+      "versionDate": "2024-06-26",
+      "size": 207898704,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/WaterMinderPremium-6.5.12.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
+    },
+    {
+      "name": "WebSSHPro",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "26.6",
+      "versionDate": "2024-06-26",
+      "size": 29762304,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-26-2024/WebSSHPro-26.6.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 06-26-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.47-4.3",
@@ -880,7 +924,7 @@
       "size": 143982408,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/ipogo-3.4.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -1584,7 +1628,7 @@
       "size": 34019480,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/WebSSHPro-26.4.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 06-02-2024\nStatus: \u2705",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
     },
     {
@@ -1595,7 +1639,7 @@
       "size": 143359914,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-31-2024/iPoGo-3.3.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -1903,7 +1947,7 @@
       "size": 140126813,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-23-2024/iPoGo-3.3.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -2046,7 +2090,7 @@
       "size": 140002119,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-18-2024/iPoGo-3.3.7.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -2365,7 +2409,7 @@
       "size": 139705228,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/iPoGo-3.3.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -2409,7 +2453,7 @@
       "size": 121485106,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-11-2024/SparkPremium-3.9.6.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 06-26-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -2717,7 +2761,7 @@
       "size": 139657228,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/iPoGo-3.3.3.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -2783,7 +2827,7 @@
       "size": 452810800,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/WaterMinderPremium-6.5.3.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -3113,7 +3157,7 @@
       "size": 137280947,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/iPoGo-3.3.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -4158,7 +4202,7 @@
       "size": 522673827,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/WaterMinderPremium-6.4.16.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -4180,7 +4224,7 @@
       "size": 135870239,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/iPoGo-3.3.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -4290,7 +4334,7 @@
       "size": 522640961,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WaterMinderPremium-6.4.15.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -5082,7 +5126,7 @@
       "size": 97707884,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 06-26-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -5456,7 +5500,7 @@
       "size": 135869447,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/iPoGo-3.2.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -5577,7 +5621,7 @@
       "size": 522223495,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/WaterMinderPremium-6.4.12.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -5731,7 +5775,7 @@
       "size": 130452296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2024/iPoGo-3.2.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -5896,7 +5940,7 @@
       "size": 130471605,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/iPoGo-3.2.6.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -6127,7 +6171,7 @@
       "size": 522405516,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/WaterMinderPremium-6.4.11.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -6688,7 +6732,7 @@
       "size": 130920116,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/iPoGo-3.2.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -6864,7 +6908,7 @@
       "size": 521958567,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/WaterMinderPremium-6.4.8.ipa",
       "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 06-26-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
@@ -8041,7 +8085,7 @@
       "size": 127670322,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/iPoGo-3.2.4.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -9009,7 +9053,7 @@
       "size": 127510651,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -11022,7 +11066,7 @@
       "size": 128549352,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -11341,7 +11385,7 @@
       "size": 128405035,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -12089,7 +12133,7 @@
       "size": 184885684,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/SparkPremium-3.6.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
-      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 06-26-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.smartemail.png"
     },
     {
@@ -12650,7 +12694,7 @@
       "size": 127955571,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -12716,7 +12760,7 @@
       "size": 127974496,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -13123,7 +13167,7 @@
       "size": 129188645,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -13585,7 +13629,7 @@
       "size": 129089719,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -14025,7 +14069,7 @@
       "size": 127860610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -14740,7 +14784,7 @@
       "size": 127591654,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -15367,7 +15411,7 @@
       "size": 126239276,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -16676,7 +16720,7 @@
       "size": 126194522,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -17666,7 +17710,7 @@
       "size": 123882886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -17831,7 +17875,7 @@
       "size": 123750627,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -17963,7 +18007,7 @@
       "size": 122938601,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -18150,7 +18194,7 @@
       "size": 122907896,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -18667,7 +18711,7 @@
       "size": 122882233,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -19217,7 +19261,7 @@
       "size": 121718227,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -19503,7 +19547,7 @@
       "size": 123182848,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -19778,7 +19822,7 @@
       "size": 123377179,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -20042,7 +20086,7 @@
       "size": 123377179,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -20196,7 +20240,7 @@
       "size": 118904543,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -20702,7 +20746,7 @@
       "size": 122913076,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -20834,7 +20878,7 @@
       "size": 123001961,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -21604,7 +21648,7 @@
       "size": 119064262,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -22253,7 +22297,7 @@
       "size": 119086766,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -22528,7 +22572,7 @@
       "size": 118512858,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -22759,7 +22803,7 @@
       "size": 118590622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -23386,7 +23430,7 @@
       "size": 115862609,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -23694,7 +23738,7 @@
       "size": 114949354,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
       "developerName": "https://ipogo.app",
-      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 06-26-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
