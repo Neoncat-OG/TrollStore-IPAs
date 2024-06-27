@@ -4,6 +4,1286 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "2.2.6-234.0",
+          "date": "2024-06-27",
+          "size": 110987837,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Enmity-2.2.6-234.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-231.1",
+          "date": "2024-06-06",
+          "size": 104499137,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-06-2024/Enmity-2.2.6-231.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-218",
+          "date": "2024-03-07",
+          "size": 96424709,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Enmity-2.2.6-218.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-216",
+          "date": "2024-02-14",
+          "size": 94889337,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Enmity-2.2.6-216.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-213.1",
+          "date": "2024-01-27",
+          "size": 95239142,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Enmity-2.2.6-213.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-209.0",
+          "date": "2023-12-21",
+          "size": 94971519,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-207.0",
+          "date": "2023-12-10",
+          "size": 94194608,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-206.0",
+          "date": "2023-12-03",
+          "size": 97983202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6",
+          "date": "2023-11-05",
+          "size": 100528562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-195.0",
+          "date": "2023-09-14",
+          "size": 108435829,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-194.0",
+          "date": "2023-09-08",
+          "size": 103897880,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-190.0",
+          "date": "2023-08-17",
+          "size": 96341212,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-184.0",
+          "date": "2023-07-04",
+          "size": 99992444,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-180.0",
+          "date": "2023-06-04",
+          "size": 98676455,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-177.1",
+          "date": "2023-05-15",
+          "size": 90036977,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "177.1",
+          "date": "2023-05-10",
+          "size": 95348126,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.5-176.0",
+          "date": "2023-05-06",
+          "size": 89066297,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.5-175.0",
+          "date": "2023-04-19",
+          "size": 87875691,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-158.0",
+          "date": "2022-12-22",
+          "size": 134818918,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-155.0",
+          "date": "2022-11-29",
+          "size": 79750354,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-153.0",
+          "date": "2022-11-10",
+          "size": 78691336,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 76682774,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PhotoshopExpress",
+      "bundleIdentifier": "com.adobe.PSMobile",
+      "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
+      "versions": [
+        {
+          "version": "24.24.3",
+          "date": "2024-06-27",
+          "size": 166956497,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/PhotoshopExpress-24.24.3.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.23.1",
+          "date": "2024-06-11",
+          "size": 147389570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/PhotoshopExpress-24.23.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.14.1",
+          "date": "2024-04-10",
+          "size": 144213612,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/PhotoshopExpress-24.14.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.12.1",
+          "date": "2024-04-01",
+          "size": 158108176,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.8.1",
+          "date": "2024-03-01",
+          "size": 152471570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PhotoshopExpress-24.8.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.8.0",
+          "date": "2024-02-27",
+          "size": 152446513,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/PhotoshopExpress-24.8.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.7.0",
+          "date": "2024-02-20",
+          "size": 152298127,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/PhotoshopExpress-24.7.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.6.0",
+          "date": "2024-02-13",
+          "size": 152402553,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/PhotoshopExpress-24.6.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.5.0",
+          "date": "2024-02-07",
+          "size": 152095628,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/PhotoshopExpress-24.5.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.4.0",
+          "date": "2024-01-30",
+          "size": 153622066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.3.0",
+          "date": "2024-01-24",
+          "size": 152454168,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoshopExpress-24.3.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.2.0",
+          "date": "2024-01-18",
+          "size": 152334454,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/PhotoshopExpress-24.2.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.1.0",
+          "date": "2024-01-09",
+          "size": 156808271,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PhotoshopExpress-24.1.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.49.1",
+          "date": "2023-12-14",
+          "size": 156326689,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/PhotoshopExpress-23.49.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.48.0",
+          "date": "2023-12-05",
+          "size": 155947352,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotoshopExpress-23.48.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.47.0",
+          "date": "2023-11-30",
+          "size": 156599162,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/PhotoshopExpress-23.47.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.46.0",
+          "date": "2023-11-24",
+          "size": 155089400,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.45.0",
+          "date": "2023-11-18",
+          "size": 155132644,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PhotoshopExpress-23.45.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.44.1",
+          "date": "2023-11-12",
+          "size": 154639594,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.42.0",
+          "date": "2023-10-30",
+          "size": 156653773,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.41.0",
+          "date": "2023-10-22",
+          "size": 155694493,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/PhotoshopExpress-23.41.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.40.2",
+          "date": "2023-10-16",
+          "size": 154168333,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/PhotoshopExpress-23.40.2.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.38.1",
+          "date": "2023-10-09",
+          "size": 130238077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/PhotoshopExpress-23.38.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.37.0",
+          "date": "2023-09-19",
+          "size": 127523623,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/PhotoshopExpress-23.37.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.36.0",
+          "date": "2023-09-18",
+          "size": 154943359,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/PhotoshopExpress-23.36.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.35.0",
+          "date": "2023-09-05",
+          "size": 154735334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/PhotoshopExpress-23.35.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.34.0",
+          "date": "2023-08-28",
+          "size": 131525141,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/PhotoshopExpress-23.34.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.31.0",
+          "date": "2023-08-09",
+          "size": 125936476,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/PhotoshopExpress-23.31.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.30.0",
+          "date": "2023-08-03",
+          "size": 136902646,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.29.1",
+          "date": "2023-07-30",
+          "size": 115403508,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.29.0",
+          "date": "2023-07-26",
+          "size": 115405351,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.28.0",
+          "date": "2023-07-25",
+          "size": 126854080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotoshopExpress-23.28.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.19.0",
+          "date": "2023-05-24",
+          "size": 123085415,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.17.1",
+          "date": "2023-05-06",
+          "size": 126750253,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.16.0",
+          "date": "2023-04-27",
+          "size": 125974130,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotoshopExpress-23.16.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.14.0",
+          "date": "2023-04-17",
+          "size": 126153344,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/PhotoshopExpress-23.14.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.4.0",
+          "date": "2023-04-15",
+          "size": 137605730,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.12.1",
+          "date": "2023-04-01",
+          "size": 116943668,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.10.0",
+          "date": "2023-03-16",
+          "size": 117862297,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/PhotoshopExpress-23.10.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.8.0",
+          "date": "2023-03-09",
+          "size": 126854080,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/PhotoshopExpress-23.8.0.ipa",
+          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+      "versions": [
+        {
+          "version": "25.2.1",
+          "date": "2024-06-27",
+          "size": 102276722,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/PicsArtPlusPlus-25.2.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "25.1.2",
+          "date": "2024-06-10",
+          "size": 102299654,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-10-2024/PicsArtPlusPlus-25.1.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "25.1.1",
+          "date": "2024-06-08",
+          "size": 102299934,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/PicsArtPlusPlus-25.1.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "25.0.1",
+          "date": "2024-05-27",
+          "size": 102492411,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-27-2024/PicsArtPlusPlus-25.0.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.9.1",
+          "date": "2024-05-13",
+          "size": 102429621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/PicsArtPlusPlus-24.9.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.8.2",
+          "date": "2024-05-02",
+          "size": 102348030,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/PicsArtPlusPlus-24.8.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.7.3",
+          "date": "2024-04-28",
+          "size": 102169051,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/PicsArtPlusPlus-24.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.7.2",
+          "date": "2024-04-23",
+          "size": 102169543,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/PicsArtPlusPlus-24.7.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.6.2",
+          "date": "2024-04-06",
+          "size": 111761929,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PicsArtPlusPlus-24.6.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.5.1",
+          "date": "2024-03-28",
+          "size": 102319502,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/PicsArtPlusPlus-24.5.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.4.2",
+          "date": "2024-03-07",
+          "size": 104708547,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/PicsArtPlusPlus-24.4.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.4.1",
+          "date": "2024-03-05",
+          "size": 104707065,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/PicsArtPlusPlus-24.4.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.3.3",
+          "date": "2024-03-01",
+          "size": 104504630,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PicsArtPlusPlus-24.3.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.3.2",
+          "date": "2024-02-21",
+          "size": 104500926,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/PicsArtPlusPlus-24.3.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.0.2",
+          "date": "2024-01-14",
+          "size": 100398039,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "24.0.1",
+          "date": "2024-01-11",
+          "size": 100312892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.9.1",
+          "date": "2023-12-28",
+          "size": 104714105,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.8.1",
+          "date": "2023-12-12",
+          "size": 98696332,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.7.3",
+          "date": "2023-11-28",
+          "size": 100146477,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.6.4",
+          "date": "2023-11-18",
+          "size": 99766481,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.6.3",
+          "date": "2023-11-13",
+          "size": 90738824,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.5.3",
+          "date": "2023-11-08",
+          "size": 104745334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.5.2",
+          "date": "2023-11-04",
+          "size": 104743752,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.5.1",
+          "date": "2023-11-01",
+          "size": 102531555,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.4.3",
+          "date": "2023-10-20",
+          "size": 104758490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.3.4",
+          "date": "2023-10-11",
+          "size": 103585347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "23.3.3",
+          "date": "2023-10-05",
+          "size": 96172924,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.7.1",
+          "date": "2023-07-25",
+          "size": 103395444,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.6.2",
+          "date": "2023-06-30",
+          "size": 97907313,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.5.6",
+          "date": "2023-06-27",
+          "size": 102553252,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.4.4",
+          "date": "2023-06-04",
+          "size": 94135314,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.3.5",
+          "date": "2023-05-29",
+          "size": 94718889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.3.2",
+          "date": "2023-05-17",
+          "size": 85332473,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.1.7",
+          "date": "2023-05-01",
+          "size": 91292482,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.1.6",
+          "date": "2023-04-24",
+          "size": 87605312,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.0.6",
+          "date": "2023-04-15",
+          "size": 95032916,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "22.0.3",
+          "date": "2023-04-08",
+          "size": 98569302,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.9.5",
+          "date": "2023-03-31",
+          "size": 89964583,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.9.4",
+          "date": "2023-03-23",
+          "size": 89945821,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.8.7",
+          "date": "2023-03-18",
+          "size": 89883836,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.8.5",
+          "date": "2023-03-09",
+          "size": 89878202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.7.3",
+          "date": "2023-03-05",
+          "size": 89057077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.7.2",
+          "date": "2023-02-28",
+          "size": 84242704,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.6.4",
+          "date": "2023-02-15",
+          "size": 90803300,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.6.3",
+          "date": "2023-02-14",
+          "size": 95326510,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.5.6",
+          "date": "2023-02-10",
+          "size": 94968087,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.5.5",
+          "date": "2023-02-09",
+          "size": 83700828,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.5.4",
+          "date": "2023-02-06",
+          "size": 93292357,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.5.3",
+          "date": "2023-02-01",
+          "size": 93292925,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.4.7",
+          "date": "2023-01-23",
+          "size": 106754941,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.4.6",
+          "date": "2023-01-19",
+          "size": 109413971,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.4.3",
+          "date": "2023-01-12",
+          "size": 109380528,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.3.14",
+          "date": "2022-12-30",
+          "size": 85002160,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.3.11",
+          "date": "2022-12-23",
+          "size": 106146615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.3.9",
+          "date": "2022-12-21",
+          "size": 106125185,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.3.8",
+          "date": "2022-12-17",
+          "size": 105724993,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.2.6",
+          "date": "2022-12-06",
+          "size": 106046582,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.1.5",
+          "date": "2022-11-27",
+          "size": 81296588,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "21.0.2",
+          "date": "2022-11-20",
+          "size": 101722265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "19.8.2",
+          "date": "2022-11-12",
+          "size": 60634846,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Pyoncord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "pyoncord / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "235.0",
+          "date": "2024-06-27",
+          "size": 112173273,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Pyoncord-235.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "231.1",
+          "date": "2024-06-02",
+          "size": 100870252,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Pyoncord-231.1.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "231.0",
+          "date": "2024-05-29",
+          "size": 100860996,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2024/Pyoncord-231.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "230.0",
+          "date": "2024-05-21",
+          "size": 99218413,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/Pyoncord-230.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "229.0",
+          "date": "2024-05-16",
+          "size": 99348048,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-16-2024/Pyoncord-229.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "228.1",
+          "date": "2024-05-08",
+          "size": 99427351,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/Pyoncord-228.1.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "224.0",
+          "date": "2024-04-15",
+          "size": 96853734,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "223.0",
+          "date": "2024-04-12",
+          "size": 106082919,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "developerName": "Lessica / TrollRecorder",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.15.0-331",
+          "date": "2024-06-27",
+          "size": 3977201,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/TrollRecorder-1.15.0-331.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.3-295",
+          "date": "2024-06-25",
+          "size": 3969071,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/TrollRecorder-1.12.3-295.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.2-291",
+          "date": "2024-06-19",
+          "size": 3932532,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/TrollRecorder-1.12.2-291.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.3-283",
+          "date": "2024-06-14",
+          "size": 3923911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-14-2024/TrollRecorder-1.10.3-283.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.2-280",
+          "date": "2024-06-12",
+          "size": 3898404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/TrollRecorder-1.10.2-280.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.0-266",
+          "date": "2024-06-05",
+          "size": 3836678,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/TrollRecorder-1.10.0-266.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.8-236",
+          "date": "2024-06-03",
+          "size": 3356655,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/TrollRecorder-1.9.8-236.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.7-183",
+          "date": "2024-05-30",
+          "size": 3286009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.6-175",
+          "date": "2024-05-26",
+          "size": 3282320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.3-166",
+          "date": "2024-05-21",
+          "size": 3237518,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.1-163",
+          "date": "2024-05-20",
+          "size": 2832511,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.0-161",
+          "date": "2024-05-19",
+          "size": 2831974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.7-150",
+          "date": "2024-05-14",
+          "size": 2378032,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.6-145",
+          "date": "2024-05-12",
+          "size": 2339231,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.2-137",
+          "date": "2024-05-06",
+          "size": 2281296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.0-131",
+          "date": "2024-05-01",
+          "size": 2204095,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.9-127",
+          "date": "2024-04-29",
+          "size": 2202695,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.6-117",
+          "date": "2024-04-23",
+          "size": 2137022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.4-113",
+          "date": "2024-04-20",
+          "size": 2070853,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2-109",
+          "date": "2024-04-17",
+          "size": 2078685,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.0-101",
+          "date": "2024-04-13",
+          "size": 2066248,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.6-93",
+          "date": "2024-04-11",
+          "size": 1931520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.4-89",
+          "date": "2024-04-07",
+          "size": 1926520,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.12-82",
+          "date": "2024-04-05",
+          "size": 1908353,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.9-79",
+          "date": "2024-04-02",
+          "size": 1886301,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.5-72",
+          "date": "2024-03-29",
+          "size": 2415865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.4-70",
+          "date": "2024-03-28",
+          "size": 2412683,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.7-46",
+          "date": "2024-03-17",
+          "size": 2079031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.5-36",
+          "date": "2024-03-15",
+          "size": 2067973,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.4.1-30",
+          "date": "2024-03-14",
+          "size": 2549610,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.2-20",
+          "date": "2024-03-10",
+          "size": 2525367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "VSCOPremium",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+      "versions": [
+        {
+          "version": "379.0.0",
+          "date": "2024-06-27",
+          "size": 121070246,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/VSCOPremium-379.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "377.0.0",
+          "date": "2024-06-07",
+          "size": 121917984,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-07-2024/VSCOPremium-377.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "376.0.1",
+          "date": "2024-06-02",
+          "size": 121742313,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/VSCOPremium-376.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "375.0",
+          "date": "2024-05-24",
+          "size": 121725355,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2024/VSCOPremium-375.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "373.0",
+          "date": "2024-05-15",
+          "size": 121616504,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "372.0",
+          "date": "2024-05-04",
+          "size": 120648502,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "371.0",
+          "date": "2024-04-29",
+          "size": 120599686,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "370.0",
+          "date": "2024-04-21",
+          "size": 119912875,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "368.0",
+          "date": "2024-04-13",
+          "size": 119024411,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "366.0",
+          "date": "2024-03-31",
+          "size": 119535206,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "362.0",
+          "date": "2024-03-01",
+          "size": 119138442,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "361.0",
+          "date": "2024-02-21",
+          "size": 118977867,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "359.0.1",
+          "date": "2024-02-09",
+          "size": 119124395,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "355.0.1",
+          "date": "2024-01-13",
+          "size": 117025196,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        },
+        {
+          "version": "306.0.0",
+          "date": "2023-02-08",
+          "size": 110193844,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
+          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-27-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "ipogo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "https://ipogo.app",
@@ -1797,224 +3077,6 @@
           "size": 140339885,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/RedditPlus.ipa",
           "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 06-25-2024\nStatus: \u2754"
-        }
-      ]
-    },
-    {
-      "name": "TrollRecorder",
-      "bundleIdentifier": "wiki.qaq.trapp",
-      "developerName": "Lessica / TrollRecorder",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
-      "versions": [
-        {
-          "version": "1.12.3-295",
-          "date": "2024-06-25",
-          "size": 3969071,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/TrollRecorder-1.12.3-295.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.12.2-291",
-          "date": "2024-06-19",
-          "size": 3932532,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/TrollRecorder-1.12.2-291.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.3-283",
-          "date": "2024-06-14",
-          "size": 3923911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-14-2024/TrollRecorder-1.10.3-283.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.2-280",
-          "date": "2024-06-12",
-          "size": 3898404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/TrollRecorder-1.10.2-280.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.0-266",
-          "date": "2024-06-05",
-          "size": 3836678,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/TrollRecorder-1.10.0-266.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.8-236",
-          "date": "2024-06-03",
-          "size": 3356655,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/TrollRecorder-1.9.8-236.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.7-183",
-          "date": "2024-05-30",
-          "size": 3286009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.6-175",
-          "date": "2024-05-26",
-          "size": 3282320,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.3-166",
-          "date": "2024-05-21",
-          "size": 3237518,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.1-163",
-          "date": "2024-05-20",
-          "size": 2832511,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.0-161",
-          "date": "2024-05-19",
-          "size": 2831974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.7-150",
-          "date": "2024-05-14",
-          "size": 2378032,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.6-145",
-          "date": "2024-05-12",
-          "size": 2339231,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.2-137",
-          "date": "2024-05-06",
-          "size": 2281296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.8.0-131",
-          "date": "2024-05-01",
-          "size": 2204095,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.9-127",
-          "date": "2024-04-29",
-          "size": 2202695,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.6-117",
-          "date": "2024-04-23",
-          "size": 2137022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.4-113",
-          "date": "2024-04-20",
-          "size": 2070853,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.2-109",
-          "date": "2024-04-17",
-          "size": 2078685,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.0-101",
-          "date": "2024-04-13",
-          "size": 2066248,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.6-93",
-          "date": "2024-04-11",
-          "size": 1931520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.4-89",
-          "date": "2024-04-07",
-          "size": 1926520,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.12-82",
-          "date": "2024-04-05",
-          "size": 1908353,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.9-79",
-          "date": "2024-04-02",
-          "size": 1886301,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.5-72",
-          "date": "2024-03-29",
-          "size": 2415865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.4-70",
-          "date": "2024-03-28",
-          "size": 2412683,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.7-46",
-          "date": "2024-03-17",
-          "size": 2079031,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.5-36",
-          "date": "2024-03-15",
-          "size": 2067973,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.4.1-30",
-          "date": "2024-03-14",
-          "size": 2549610,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.3.2-20",
-          "date": "2024-03-10",
-          "size": 2525367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
-          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 06-25-2024\nStatus: \u2705"
         }
       ]
     },
@@ -6357,287 +7419,6 @@
       ]
     },
     {
-      "name": "PhotoshopExpress",
-      "bundleIdentifier": "com.adobe.PSMobile",
-      "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
-      "versions": [
-        {
-          "version": "24.23.1",
-          "date": "2024-06-11",
-          "size": 147389570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/PhotoshopExpress-24.23.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.14.1",
-          "date": "2024-04-10",
-          "size": 144213612,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/PhotoshopExpress-24.14.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.12.1",
-          "date": "2024-04-01",
-          "size": 158108176,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.8.1",
-          "date": "2024-03-01",
-          "size": 152471570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PhotoshopExpress-24.8.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.8.0",
-          "date": "2024-02-27",
-          "size": 152446513,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/PhotoshopExpress-24.8.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.7.0",
-          "date": "2024-02-20",
-          "size": 152298127,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/PhotoshopExpress-24.7.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.6.0",
-          "date": "2024-02-13",
-          "size": 152402553,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/PhotoshopExpress-24.6.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.5.0",
-          "date": "2024-02-07",
-          "size": 152095628,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/PhotoshopExpress-24.5.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.4.0",
-          "date": "2024-01-30",
-          "size": 153622066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.3.0",
-          "date": "2024-01-24",
-          "size": 152454168,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoshopExpress-24.3.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.2.0",
-          "date": "2024-01-18",
-          "size": 152334454,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/PhotoshopExpress-24.2.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.1.0",
-          "date": "2024-01-09",
-          "size": 156808271,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PhotoshopExpress-24.1.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.49.1",
-          "date": "2023-12-14",
-          "size": 156326689,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/PhotoshopExpress-23.49.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.48.0",
-          "date": "2023-12-05",
-          "size": 155947352,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotoshopExpress-23.48.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.47.0",
-          "date": "2023-11-30",
-          "size": 156599162,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/PhotoshopExpress-23.47.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.46.0",
-          "date": "2023-11-24",
-          "size": 155089400,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.45.0",
-          "date": "2023-11-18",
-          "size": 155132644,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PhotoshopExpress-23.45.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.44.1",
-          "date": "2023-11-12",
-          "size": 154639594,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.42.0",
-          "date": "2023-10-30",
-          "size": 156653773,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.41.0",
-          "date": "2023-10-22",
-          "size": 155694493,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/PhotoshopExpress-23.41.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.40.2",
-          "date": "2023-10-16",
-          "size": 154168333,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/PhotoshopExpress-23.40.2.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.38.1",
-          "date": "2023-10-09",
-          "size": 130238077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/PhotoshopExpress-23.38.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.37.0",
-          "date": "2023-09-19",
-          "size": 127523623,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/PhotoshopExpress-23.37.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.36.0",
-          "date": "2023-09-18",
-          "size": 154943359,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/PhotoshopExpress-23.36.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.35.0",
-          "date": "2023-09-05",
-          "size": 154735334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/PhotoshopExpress-23.35.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.34.0",
-          "date": "2023-08-28",
-          "size": 131525141,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/PhotoshopExpress-23.34.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.31.0",
-          "date": "2023-08-09",
-          "size": 125936476,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/PhotoshopExpress-23.31.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.30.0",
-          "date": "2023-08-03",
-          "size": 136902646,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.29.1",
-          "date": "2023-07-30",
-          "size": 115403508,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.29.0",
-          "date": "2023-07-26",
-          "size": 115405351,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.28.0",
-          "date": "2023-07-25",
-          "size": 126854080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotoshopExpress-23.28.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.19.0",
-          "date": "2023-05-24",
-          "size": 123085415,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.17.1",
-          "date": "2023-05-06",
-          "size": 126750253,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.16.0",
-          "date": "2023-04-27",
-          "size": 125974130,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotoshopExpress-23.16.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.14.0",
-          "date": "2023-04-17",
-          "size": 126153344,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/PhotoshopExpress-23.14.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.4.0",
-          "date": "2023-04-15",
-          "size": 137605730,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.12.1",
-          "date": "2023-04-01",
-          "size": 116943668,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.10.0",
-          "date": "2023-03-16",
-          "size": 117862297,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/PhotoshopExpress-23.10.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.8.0",
-          "date": "2023-03-09",
-          "size": 126854080,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/PhotoshopExpress-23.8.0.ipa",
-          "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 06-11-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "TorBrowserPlusPlus",
       "bundleIdentifier": "ch.b-eng.tor",
       "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
@@ -7172,427 +7953,6 @@
       ]
     },
     {
-      "name": "PicsArtPlusPlus",
-      "bundleIdentifier": "com.picsart.studio",
-      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
-      "versions": [
-        {
-          "version": "25.1.2",
-          "date": "2024-06-10",
-          "size": 102299654,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-10-2024/PicsArtPlusPlus-25.1.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "25.1.1",
-          "date": "2024-06-08",
-          "size": 102299934,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/PicsArtPlusPlus-25.1.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "25.0.1",
-          "date": "2024-05-27",
-          "size": 102492411,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-27-2024/PicsArtPlusPlus-25.0.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.9.1",
-          "date": "2024-05-13",
-          "size": 102429621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/PicsArtPlusPlus-24.9.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.8.2",
-          "date": "2024-05-02",
-          "size": 102348030,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/PicsArtPlusPlus-24.8.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.7.3",
-          "date": "2024-04-28",
-          "size": 102169051,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/PicsArtPlusPlus-24.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.7.2",
-          "date": "2024-04-23",
-          "size": 102169543,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/PicsArtPlusPlus-24.7.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.6.2",
-          "date": "2024-04-06",
-          "size": 111761929,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PicsArtPlusPlus-24.6.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.5.1",
-          "date": "2024-03-28",
-          "size": 102319502,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/PicsArtPlusPlus-24.5.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.4.2",
-          "date": "2024-03-07",
-          "size": 104708547,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/PicsArtPlusPlus-24.4.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.4.1",
-          "date": "2024-03-05",
-          "size": 104707065,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/PicsArtPlusPlus-24.4.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.3.3",
-          "date": "2024-03-01",
-          "size": 104504630,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PicsArtPlusPlus-24.3.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.3.2",
-          "date": "2024-02-21",
-          "size": 104500926,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/PicsArtPlusPlus-24.3.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.0.2",
-          "date": "2024-01-14",
-          "size": 100398039,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "24.0.1",
-          "date": "2024-01-11",
-          "size": 100312892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.9.1",
-          "date": "2023-12-28",
-          "size": 104714105,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.8.1",
-          "date": "2023-12-12",
-          "size": 98696332,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.7.3",
-          "date": "2023-11-28",
-          "size": 100146477,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.6.4",
-          "date": "2023-11-18",
-          "size": 99766481,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.6.3",
-          "date": "2023-11-13",
-          "size": 90738824,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.5.3",
-          "date": "2023-11-08",
-          "size": 104745334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.5.2",
-          "date": "2023-11-04",
-          "size": 104743752,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.5.1",
-          "date": "2023-11-01",
-          "size": 102531555,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.4.3",
-          "date": "2023-10-20",
-          "size": 104758490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.3.4",
-          "date": "2023-10-11",
-          "size": 103585347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "23.3.3",
-          "date": "2023-10-05",
-          "size": 96172924,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.7.1",
-          "date": "2023-07-25",
-          "size": 103395444,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.6.2",
-          "date": "2023-06-30",
-          "size": 97907313,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.5.6",
-          "date": "2023-06-27",
-          "size": 102553252,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.4.4",
-          "date": "2023-06-04",
-          "size": 94135314,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.3.5",
-          "date": "2023-05-29",
-          "size": 94718889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.3.2",
-          "date": "2023-05-17",
-          "size": 85332473,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.1.7",
-          "date": "2023-05-01",
-          "size": 91292482,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.1.6",
-          "date": "2023-04-24",
-          "size": 87605312,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.0.6",
-          "date": "2023-04-15",
-          "size": 95032916,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "22.0.3",
-          "date": "2023-04-08",
-          "size": 98569302,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.9.5",
-          "date": "2023-03-31",
-          "size": 89964583,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.9.4",
-          "date": "2023-03-23",
-          "size": 89945821,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.8.7",
-          "date": "2023-03-18",
-          "size": 89883836,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.8.5",
-          "date": "2023-03-09",
-          "size": 89878202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.7.3",
-          "date": "2023-03-05",
-          "size": 89057077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.7.2",
-          "date": "2023-02-28",
-          "size": 84242704,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.6.4",
-          "date": "2023-02-15",
-          "size": 90803300,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.6.3",
-          "date": "2023-02-14",
-          "size": 95326510,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.5.6",
-          "date": "2023-02-10",
-          "size": 94968087,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.5.5",
-          "date": "2023-02-09",
-          "size": 83700828,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.5.4",
-          "date": "2023-02-06",
-          "size": 93292357,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.5.3",
-          "date": "2023-02-01",
-          "size": 93292925,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.4.7",
-          "date": "2023-01-23",
-          "size": 106754941,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.4.6",
-          "date": "2023-01-19",
-          "size": 109413971,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.4.3",
-          "date": "2023-01-12",
-          "size": 109380528,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.3.14",
-          "date": "2022-12-30",
-          "size": 85002160,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.3.11",
-          "date": "2022-12-23",
-          "size": 106146615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.3.9",
-          "date": "2022-12-21",
-          "size": 106125185,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.3.8",
-          "date": "2022-12-17",
-          "size": 105724993,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.2.6",
-          "date": "2022-12-06",
-          "size": 106046582,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.1.5",
-          "date": "2022-11-27",
-          "size": 81296588,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "21.0.2",
-          "date": "2022-11-20",
-          "size": 101722265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "19.8.2",
-          "date": "2022-11-12",
-          "size": 60634846,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 06-10-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "LingoDeer",
       "bundleIdentifier": "com.lingodeer",
       "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
@@ -7664,112 +8024,6 @@
       ]
     },
     {
-      "name": "VSCOPremium",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
-      "versions": [
-        {
-          "version": "377.0.0",
-          "date": "2024-06-07",
-          "size": 121917984,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-07-2024/VSCOPremium-377.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "376.0.1",
-          "date": "2024-06-02",
-          "size": 121742313,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/VSCOPremium-376.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "375.0",
-          "date": "2024-05-24",
-          "size": 121725355,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2024/VSCOPremium-375.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "373.0",
-          "date": "2024-05-15",
-          "size": 121616504,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VSCOPremium-373.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "372.0",
-          "date": "2024-05-04",
-          "size": 120648502,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "371.0",
-          "date": "2024-04-29",
-          "size": 120599686,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VSCOPremium-371.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "370.0",
-          "date": "2024-04-21",
-          "size": 119912875,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/VSCOPremium-370.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "368.0",
-          "date": "2024-04-13",
-          "size": 119024411,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/VSCOPremium-368.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "366.0",
-          "date": "2024-03-31",
-          "size": 119535206,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "362.0",
-          "date": "2024-03-01",
-          "size": 119138442,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/VSCOPremium-362.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "361.0",
-          "date": "2024-02-21",
-          "size": 118977867,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/VSCOPremium-361.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "359.0.1",
-          "date": "2024-02-09",
-          "size": 119124395,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2024/VSCOPremium-359.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "355.0.1",
-          "date": "2024-01-13",
-          "size": 117025196,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/VSCOPremium-355.0.1.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "306.0.0",
-          "date": "2023-02-08",
-          "size": 110193844,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/VSCOPremium-306.0.0.ipa",
-          "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 06-07-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "EnhanceFoxPro",
       "bundleIdentifier": "com.risingcabbage.enhancefox",
       "developerName": "Qamislo - Apps",
@@ -7802,161 +8056,6 @@
           "size": 244706177,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/EnhanceFoxPro-7.0.0.ipa",
           "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 06-06-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Enmity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "2.2.6-231.1",
-          "date": "2024-06-06",
-          "size": 104499137,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-06-2024/Enmity-2.2.6-231.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-218",
-          "date": "2024-03-07",
-          "size": 96424709,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Enmity-2.2.6-218.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-216",
-          "date": "2024-02-14",
-          "size": 94889337,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Enmity-2.2.6-216.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-213.1",
-          "date": "2024-01-27",
-          "size": 95239142,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Enmity-2.2.6-213.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-209.0",
-          "date": "2023-12-21",
-          "size": 94971519,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/Enmity-2.2.6-209.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-207.0",
-          "date": "2023-12-10",
-          "size": 94194608,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/Enmity-2.2.6-207.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-206.0",
-          "date": "2023-12-03",
-          "size": 97983202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/Enmity-2.2.6-206.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6",
-          "date": "2023-11-05",
-          "size": 100528562,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/Enmity-2.2.6.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-195.0",
-          "date": "2023-09-14",
-          "size": 108435829,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/Enmity-2.2.6-195.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-194.0",
-          "date": "2023-09-08",
-          "size": 103897880,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/Enmity-2.2.6-194.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-190.0",
-          "date": "2023-08-17",
-          "size": 96341212,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/Enmity-2.2.6-190.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-184.0",
-          "date": "2023-07-04",
-          "size": 99992444,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-180.0",
-          "date": "2023-06-04",
-          "size": 98676455,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.6-177.1",
-          "date": "2023-05-15",
-          "size": 90036977,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "177.1",
-          "date": "2023-05-10",
-          "size": 95348126,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/Enmity-177.1.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.5-176.0",
-          "date": "2023-05-06",
-          "size": 89066297,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/Enmity-2.2.5-176.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.5-175.0",
-          "date": "2023-04-19",
-          "size": 87875691,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2023/Enmity-2.2.5-175.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1.4-158.0",
-          "date": "2022-12-22",
-          "size": 134818918,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2022/Enmity-2.1.4-158.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1.4-155.0",
-          "date": "2022-11-29",
-          "size": 79750354,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/Enmity-2.1.4-155.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1.4-153.0",
-          "date": "2022-11-10",
-          "size": 78691336,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Enmity-2.1.4-153.0.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 76682774,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Enmity.ipa",
-          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 06-06-2024\nStatus: \u2705"
         }
       ]
     },
@@ -8764,63 +8863,6 @@
           "size": 150431521,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/Flightradar24Gold-9.17.0.ipa",
           "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 06-02-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "Pyoncord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "231.1",
-          "date": "2024-06-02",
-          "size": 100870252,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Pyoncord-231.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "231.0",
-          "date": "2024-05-29",
-          "size": 100860996,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2024/Pyoncord-231.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "230.0",
-          "date": "2024-05-21",
-          "size": 99218413,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/Pyoncord-230.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "229.0",
-          "date": "2024-05-16",
-          "size": 99348048,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-16-2024/Pyoncord-229.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "228.1",
-          "date": "2024-05-08",
-          "size": 99427351,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/Pyoncord-228.1.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "224.0",
-          "date": "2024-04-15",
-          "size": 96853734,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "223.0",
-          "date": "2024-04-12",
-          "size": 106082919,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
-          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 06-02-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
