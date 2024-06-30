@@ -4,6 +4,522 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PhotomathPlus",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
+      "versions": [
+        {
+          "version": "8.37.0",
+          "date": "2024-06-30",
+          "size": 16750186,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/PhotomathPlus-8.37.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.36.0",
+          "date": "2024-04-29",
+          "size": 16580746,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/PhotomathPlus-8.36.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.35.0",
+          "date": "2024-02-02",
+          "size": 16844499,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/PhotomathPlus-8.35.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.34.1",
+          "date": "2023-12-21",
+          "size": 16030553,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.33.0",
+          "date": "2023-12-05",
+          "size": 8908705,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotomathPlus-8.33.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.32.0",
+          "date": "2023-11-06",
+          "size": 9538298,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/PhotomathPlus-8.32.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.31.1",
+          "date": "2023-10-23",
+          "size": 10379636,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/PhotomathPlus-8.31.1.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.30.0",
+          "date": "2023-09-27",
+          "size": 10877296,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/PhotomathPlus-8.30.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.29.0",
+          "date": "2023-09-06",
+          "size": 11270367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/PhotomathPlus-8.29.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.28.0",
+          "date": "2023-08-17",
+          "size": 11252320,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/PhotomathPlus-8.28.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.27.0",
+          "date": "2023-07-25",
+          "size": 14507570,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotomathPlus-8.27.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.26.0",
+          "date": "2023-07-02",
+          "size": 16295410,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/PhotomathPlus-8.26.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.25.0",
+          "date": "2023-06-25",
+          "size": 13939748,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/PhotomathPlus-8.25.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.24.0",
+          "date": "2023-05-24",
+          "size": 13704658,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotomathPlus-8.24.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.23.0",
+          "date": "2023-05-10",
+          "size": 13513357,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/PhotomathPlus-8.23.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.22.1",
+          "date": "2023-04-27",
+          "size": 13331452,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotomathPlus-8.22.1.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.22.0",
+          "date": "2023-04-25",
+          "size": 13255926,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/PhotomathPlus-8.22.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.19.2",
+          "date": "2023-04-15",
+          "size": 13261470,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PhotomathPlus-8.19.2.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.19.1",
+          "date": "2023-02-16",
+          "size": 16121910,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PhotomathPlus-8.19.1.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.18.0",
+          "date": "2023-01-24",
+          "size": 13394622,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/PhotomathPlus-8.18.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.15.0",
+          "date": "2022-12-02",
+          "size": 12615196,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PicAnswerPremium",
+      "bundleIdentifier": "com.techconsolidated.photosolve",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.techconsolidated.photosolve.png",
+      "versions": [
+        {
+          "version": "1.39.1",
+          "date": "2024-06-30",
+          "size": 42805518,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/PicAnswerPremium-1.39.1.ipa",
+          "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.33.1",
+          "date": "2024-03-31",
+          "size": 48130605,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/PicAnswerPremium-1.33.1.ipa",
+          "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.31.1",
+          "date": "2024-03-18",
+          "size": 46209998,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2024/PicAnswerPremium-1.31.1.ipa",
+          "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "PolishPro",
+      "bundleIdentifier": "com.photoeditor.polish",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.photoeditor.polish.png",
+      "versions": [
+        {
+          "version": "1.7.6",
+          "date": "2024-06-30",
+          "size": 172185185,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/PolishPro-1.7.6.ipa",
+          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.1",
+          "date": "2024-04-06",
+          "size": 133546470,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PolishPro-1.7.1.ipa",
+          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.5",
+          "date": "2024-01-09",
+          "size": 85135314,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PolishPro-1.6.5.ipa",
+          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.6.3",
+          "date": "2023-12-01",
+          "size": 84943731,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/PolishPro-1.6.3.ipa",
+          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.5.3",
+          "date": "2023-02-26",
+          "size": 76533227,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/PolishPro-1.5.3.ipa",
+          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ProcreatePocket",
+      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
+      "versions": [
+        {
+          "version": "4.0.11",
+          "date": "2024-06-30",
+          "size": 302479486,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/ProcreatePocket-4.0.11.ipa",
+          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.10",
+          "date": "2024-03-07",
+          "size": 300681781,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ProcreatePocket-4.0.10.ipa",
+          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9",
+          "date": "2023-12-27",
+          "size": 296768591,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2023/ProcreatePocket-4.0.9.ipa",
+          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+      "versions": [
+        {
+          "version": "6.4.2",
+          "date": "2024-06-30",
+          "size": 66792966,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/QuakeFeedPremium-6.4.2.ipa",
+          "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.4",
+          "date": "2024-03-23",
+          "size": 62786555,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/QuakeFeedPremium-6.4.ipa",
+          "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.5",
+          "date": "2024-01-31",
+          "size": 61336181,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/QuakeFeedPremium-6.3.5.ipa",
+          "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ReelsappPro",
+      "bundleIdentifier": "com.nextgen.reelsapp",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nextgen.reelsapp.png",
+      "versions": [
+        {
+          "version": "6.0",
+          "date": "2024-06-30",
+          "size": 39988031,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/ReelsappPro-6.0.ipa",
+          "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.7",
+          "date": "2024-03-06",
+          "size": 43839941,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2024/ReelsappPro-5.7.ipa",
+          "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "RingtoneMaker",
+      "bundleIdentifier": "com.csj.ling",
+      "developerName": "ArianaMinajj",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.csj.ling.png",
+      "versions": [
+        {
+          "version": "1.9.19",
+          "date": "2024-06-30",
+          "size": 17897259,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/RingtoneMaker-1.9.19.ipa",
+          "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.17",
+          "date": "2024-02-26",
+          "size": 15388388,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/RingtoneMaker-1.9.17.ipa",
+          "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ScannerProPlus",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+      "versions": [
+        {
+          "version": "8.20.0",
+          "date": "2024-06-30",
+          "size": 121382722,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/ScannerProPlus-8.20.0.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.17.3",
+          "date": "2024-03-27",
+          "size": 112797069,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/ScannerProPlus-8.17.3.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.17.1",
+          "date": "2024-02-17",
+          "size": 112858637,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ScannerProPlus-8.17.1.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "StoicPremium",
+      "bundleIdentifier": "com.mlobodzinski.Stoic",
+      "developerName": "zxcvbn's tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png",
+      "versions": [
+        {
+          "version": "2024.22",
+          "date": "2024-06-30",
+          "size": 88759859,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/StoicPremium-2024.22.ipa",
+          "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2024.14",
+          "date": "2024-04-08",
+          "size": 82428079,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/StoicPremium-2024.14.ipa",
+          "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2024.4",
+          "date": "2024-03-04",
+          "size": 68188034,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2024/StoicPremium-2024.4.ipa",
+          "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "StravaPremium",
+      "bundleIdentifier": "com.strava.stravaride",
+      "developerName": "Dell",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png",
+      "versions": [
+        {
+          "version": "365.0.0",
+          "date": "2024-06-30",
+          "size": 134058088,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/StravaPremium-365.0.0.ipa",
+          "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "357.0.1",
+          "date": "2024-05-05",
+          "size": 139654227,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/StravaPremium-357.0.1.ipa",
+          "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png",
+      "versions": [
+        {
+          "version": "1.2.41",
+          "date": "2024-06-30",
+          "size": 35381345,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/Streamer-1.2.41.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.40",
+          "date": "2024-06-03",
+          "size": 38036090,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/Streamer-1.2.40.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.39",
+          "date": "2024-05-20",
+          "size": 37273324,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/Streamer-1.2.39.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.38",
+          "date": "2024-04-27",
+          "size": 37649128,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/Streamer-1.2.38.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.37",
+          "date": "2024-03-15",
+          "size": 34186141,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Streamer-1.2.37.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.36",
+          "date": "2024-02-27",
+          "size": 34110548,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.35",
+          "date": "2024-02-03",
+          "size": 36488526,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Streamer-1.2.35.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.34",
+          "date": "2024-01-23",
+          "size": 36489010,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.33",
+          "date": "2024-01-03",
+          "size": 35874964,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.2.32",
+          "date": "2023-12-17",
+          "size": 27651126,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
+          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "developerName": "iOS Tutorials + App Cracks",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leomehlig.today.png",
+      "versions": [
+        {
+          "version": "3.5.0",
+          "date": "2024-06-30",
+          "size": 91278791,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2024/StructuredPro-3.5.0.ipa",
+          "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 06-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.4.0",
+          "date": "2024-02-25",
+          "size": 96898251,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/StructuredPro-3.4.0.ipa",
+          "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 06-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "3.3.1",
+          "date": "2024-01-15",
+          "size": 66861189,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/StructuredPro-3.3.1.ipa",
+          "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 06-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
       "name": "DocumentsPlus",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
@@ -8860,77 +9376,6 @@
       ]
     },
     {
-      "name": "Streamer",
-      "bundleIdentifier": "com.streamer.ios",
-      "developerName": "StreamerApp",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png",
-      "versions": [
-        {
-          "version": "1.2.40",
-          "date": "2024-06-03",
-          "size": 38036090,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/Streamer-1.2.40.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.39",
-          "date": "2024-05-20",
-          "size": 37273324,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/Streamer-1.2.39.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.38",
-          "date": "2024-04-27",
-          "size": 37649128,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/Streamer-1.2.38.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.37",
-          "date": "2024-03-15",
-          "size": 34186141,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Streamer-1.2.37.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.36",
-          "date": "2024-02-27",
-          "size": 34110548,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.35",
-          "date": "2024-02-03",
-          "size": 36488526,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Streamer-1.2.35.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.34",
-          "date": "2024-01-23",
-          "size": 36489010,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.33",
-          "date": "2024-01-03",
-          "size": 35874964,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.2.32",
-          "date": "2023-12-17",
-          "size": 27651126,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
-          "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 06-03-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "Flightradar24Gold",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
@@ -10664,21 +11109,6 @@
       ]
     },
     {
-      "name": "StravaPremium",
-      "bundleIdentifier": "com.strava.stravaride",
-      "developerName": "Dell",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png",
-      "versions": [
-        {
-          "version": "357.0.1",
-          "date": "2024-05-05",
-          "size": 139654227,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/StravaPremium-357.0.1.ipa",
-          "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "ChargeLimiter",
       "bundleIdentifier": "chaoge.ChargeLimiter",
       "developerName": "lich4",
@@ -10834,154 +11264,6 @@
           "size": 41199562,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
           "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 04-29-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "PhotomathPlus",
-      "bundleIdentifier": "com.microblink.PhotoMath",
-      "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
-      "versions": [
-        {
-          "version": "8.36.0",
-          "date": "2024-04-29",
-          "size": 16580746,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/PhotomathPlus-8.36.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.35.0",
-          "date": "2024-02-02",
-          "size": 16844499,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/PhotomathPlus-8.35.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.34.1",
-          "date": "2023-12-21",
-          "size": 16030553,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.33.0",
-          "date": "2023-12-05",
-          "size": 8908705,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotomathPlus-8.33.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.32.0",
-          "date": "2023-11-06",
-          "size": 9538298,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-06-2023/PhotomathPlus-8.32.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.31.1",
-          "date": "2023-10-23",
-          "size": 10379636,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/PhotomathPlus-8.31.1.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.30.0",
-          "date": "2023-09-27",
-          "size": 10877296,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/PhotomathPlus-8.30.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.29.0",
-          "date": "2023-09-06",
-          "size": 11270367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/PhotomathPlus-8.29.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.28.0",
-          "date": "2023-08-17",
-          "size": 11252320,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-17-2023/PhotomathPlus-8.28.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.27.0",
-          "date": "2023-07-25",
-          "size": 14507570,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotomathPlus-8.27.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.26.0",
-          "date": "2023-07-02",
-          "size": 16295410,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2023/PhotomathPlus-8.26.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.25.0",
-          "date": "2023-06-25",
-          "size": 13939748,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/PhotomathPlus-8.25.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.24.0",
-          "date": "2023-05-24",
-          "size": 13704658,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotomathPlus-8.24.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.23.0",
-          "date": "2023-05-10",
-          "size": 13513357,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/PhotomathPlus-8.23.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.22.1",
-          "date": "2023-04-27",
-          "size": 13331452,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotomathPlus-8.22.1.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.22.0",
-          "date": "2023-04-25",
-          "size": 13255926,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/PhotomathPlus-8.22.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.19.2",
-          "date": "2023-04-15",
-          "size": 13261470,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PhotomathPlus-8.19.2.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.19.1",
-          "date": "2023-02-16",
-          "size": 16121910,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PhotomathPlus-8.19.1.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.18.0",
-          "date": "2023-01-24",
-          "size": 13394622,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/PhotomathPlus-8.18.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.15.0",
-          "date": "2022-12-02",
-          "size": 12615196,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-02-2022/PhotomathPlus-8.15.0.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: \u2705"
         }
       ]
     },
@@ -11510,28 +11792,6 @@
       ]
     },
     {
-      "name": "StoicPremium",
-      "bundleIdentifier": "com.mlobodzinski.Stoic",
-      "developerName": "zxcvbn's tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png",
-      "versions": [
-        {
-          "version": "2024.14",
-          "date": "2024-04-08",
-          "size": 82428079,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/StoicPremium-2024.14.ipa",
-          "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 04-08-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2024.4",
-          "date": "2024-03-04",
-          "size": 68188034,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2024/StoicPremium-2024.4.ipa",
-          "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 04-08-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "Kodi",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "ArianaMinajj",
@@ -11629,42 +11889,6 @@
           "size": 148420878,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
           "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "PolishPro",
-      "bundleIdentifier": "com.photoeditor.polish",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.photoeditor.polish.png",
-      "versions": [
-        {
-          "version": "1.7.1",
-          "date": "2024-04-06",
-          "size": 133546470,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PolishPro-1.7.1.ipa",
-          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.5",
-          "date": "2024-01-09",
-          "size": 85135314,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PolishPro-1.6.5.ipa",
-          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.6.3",
-          "date": "2023-12-01",
-          "size": 84943731,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/PolishPro-1.6.3.ipa",
-          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.5.3",
-          "date": "2023-02-26",
-          "size": 76533227,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2023/PolishPro-1.5.3.ipa",
-          "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 04-06-2024\nStatus: \u2705"
         }
       ]
     },
@@ -12242,28 +12466,6 @@
       ]
     },
     {
-      "name": "PicAnswerPremium",
-      "bundleIdentifier": "com.techconsolidated.photosolve",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.techconsolidated.photosolve.png",
-      "versions": [
-        {
-          "version": "1.33.1",
-          "date": "2024-03-31",
-          "size": 48130605,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/PicAnswerPremium-1.33.1.ipa",
-          "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 03-31-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.31.1",
-          "date": "2024-03-18",
-          "size": 46209998,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2024/PicAnswerPremium-1.31.1.ipa",
-          "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 03-31-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "Ignited",
       "bundleIdentifier": "com.litritt.ignited",
       "developerName": "LitRitt",
@@ -12403,28 +12605,6 @@
           "size": 51998703,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PixelWeather-7.0.2.ipa",
           "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "ScannerProPlus",
-      "bundleIdentifier": "com.readdle.Scanner",
-      "developerName": "Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
-      "versions": [
-        {
-          "version": "8.17.3",
-          "date": "2024-03-27",
-          "size": 112797069,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/ScannerProPlus-8.17.3.ipa",
-          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.17.1",
-          "date": "2024-02-17",
-          "size": 112858637,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ScannerProPlus-8.17.1.ipa",
-          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705"
         }
       ]
     },
@@ -12820,28 +13000,6 @@
       ]
     },
     {
-      "name": "QuakeFeedPremium",
-      "bundleIdentifier": "com.artisanglobal.quakefeed",
-      "developerName": "zxcvbn\u2019s tweaked IPAs",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
-      "versions": [
-        {
-          "version": "6.4",
-          "date": "2024-03-23",
-          "size": 62786555,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/QuakeFeedPremium-6.4.ipa",
-          "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 03-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "6.3.5",
-          "date": "2024-01-31",
-          "size": 61336181,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/QuakeFeedPremium-6.3.5.ipa",
-          "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 03-23-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "SwipewipePremium",
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "iOS Tutorials + App Cracks",
@@ -13138,28 +13296,6 @@
       ]
     },
     {
-      "name": "ProcreatePocket",
-      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
-      "versions": [
-        {
-          "version": "4.0.10",
-          "date": "2024-03-07",
-          "size": 300681781,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ProcreatePocket-4.0.10.ipa",
-          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705"
-        },
-        {
-          "version": "4.0.9",
-          "date": "2023-12-27",
-          "size": 296768591,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2023/ProcreatePocket-4.0.9.ipa",
-          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "Soor",
       "bundleIdentifier": "me.tanmay.Music",
       "developerName": "Starfiles / AppDB",
@@ -13228,21 +13364,6 @@
           "size": 26410422,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/BlackHole-1.15.6.ipa",
           "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u274c"
-        }
-      ]
-    },
-    {
-      "name": "ReelsappPro",
-      "bundleIdentifier": "com.nextgen.reelsapp",
-      "developerName": "binnichtaktiv's iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nextgen.reelsapp.png",
-      "versions": [
-        {
-          "version": "5.7",
-          "date": "2024-03-06",
-          "size": 43839941,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-06-2024/ReelsappPro-5.7.ipa",
-          "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: \u2705"
         }
       ]
     },
@@ -13359,43 +13480,6 @@
           "size": 10667274,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/VesselFinderPro-5.5.2.ipa",
           "localizedDescription": "Leading app for tracking vessels, offering up-to-the-minute information on vessel positions and movements through a vast network of onshore AIS receivers. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
-      "name": "RingtoneMaker",
-      "bundleIdentifier": "com.csj.ling",
-      "developerName": "ArianaMinajj",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.csj.ling.png",
-      "versions": [
-        {
-          "version": "1.9.17",
-          "date": "2024-02-26",
-          "size": 15388388,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/RingtoneMaker-1.9.17.ipa",
-          "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 02-26-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "StructuredPro",
-      "bundleIdentifier": "com.leomehlig.today",
-      "developerName": "iOS Tutorials + App Cracks",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leomehlig.today.png",
-      "versions": [
-        {
-          "version": "3.4.0",
-          "date": "2024-02-25",
-          "size": 96898251,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/StructuredPro-3.4.0.ipa",
-          "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 02-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "3.3.1",
-          "date": "2024-01-15",
-          "size": 66861189,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/StructuredPro-3.3.1.ipa",
-          "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 02-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
