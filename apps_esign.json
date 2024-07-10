@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AdobeScanPremium",
+      "bundleIdentifier": "com.adobe.scan.ios",
+      "version": "24.07.16",
+      "versionDate": "2024-07-10",
+      "size": 132264770,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/AdobeScanPremium-24.07.16.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
+    },
+    {
+      "name": "ConceptsPro",
+      "bundleIdentifier": "com.tophatch.Concepts",
+      "version": "6.14.2",
+      "versionDate": "2024-07-10",
+      "size": 103333803,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/ConceptsPro-6.14.2.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "This app is a versatile vector-based sketchbook that allows you to transform your ideas from concept to reality. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tophatch.Concepts.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.3.43",
+      "versionDate": "2024-07-10",
+      "size": 476519952,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/Goodnotes6-6.3.43.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "Pyoncord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "236.1",
+      "versionDate": "2024-07-10",
+      "size": 111183290,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/Pyoncord-236.1.ipa",
+      "developerName": "pyoncord / zxcvbn's tweaked IPAs",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "StepsAppPro",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "version": "7.0.17",
+      "versionDate": "2024-07-10",
+      "size": 167961413,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-10-2024/StepsAppPro-7.0.17.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
+    },
+    {
       "name": "DLTikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "35.1.0-2.0.5",
@@ -264,7 +319,7 @@
       "size": 111183311,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/Pyoncord-236.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -715,7 +770,7 @@
       "size": 112173273,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/Pyoncord-235.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -1419,7 +1474,7 @@
       "size": 363240681,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-18-2024/Goodnotes6-6.3.38.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -1617,7 +1672,7 @@
       "size": 369784107,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/Goodnotes6-6.3.36.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -1683,7 +1738,7 @@
       "size": 135051468,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-15-2024/AdobeScanPremium-24.06.11.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-15-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
     },
     {
@@ -1781,8 +1836,8 @@
       "versionDate": "2024-06-12",
       "size": 163609221,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/StepsAppPro-7.0.14.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 06-12-2024\nStatus: \u2705 \u2b50",
+      "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -2266,7 +2321,7 @@
       "size": 333805313,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Goodnotes6-6.3.33.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -2321,7 +2376,7 @@
       "size": 100870252,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/Pyoncord-231.1.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2464,7 +2519,7 @@
       "size": 100860996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2024/Pyoncord-231.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2508,7 +2563,7 @@
       "size": 330530681,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/Goodnotes6-6.3.31.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -2541,7 +2596,7 @@
       "size": 132231691,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-27-2024/AdobeScanPremium-24.05.21.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-15-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
     },
     {
@@ -2662,7 +2717,7 @@
       "size": 330862700,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-23-2024/Goodnotes6-6.3.28.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -2728,7 +2783,7 @@
       "size": 99218413,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/Pyoncord-230.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2937,7 +2992,7 @@
       "size": 99348048,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-16-2024/Pyoncord-229.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -2959,7 +3014,7 @@
       "size": 330592734,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/Goodnotes6-6.3.25.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -3322,7 +3377,7 @@
       "size": 99427351,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-08-2024/Pyoncord-228.1.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -3630,7 +3685,7 @@
       "size": 329866623,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/Goodnotes6-6.3.20.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -4554,7 +4609,7 @@
       "size": 130485369,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/AdobeScanPremium-24.04.16.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-15-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
     },
     {
@@ -4587,7 +4642,7 @@
       "size": 321439029,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/Goodnotes6-6.3.18.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -4664,7 +4719,7 @@
       "size": 96853734,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2024/Pyoncord-224.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -4774,7 +4829,7 @@
       "size": 106082919,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-12-2024/Pyoncord-223.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
-      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-06-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -5016,7 +5071,7 @@
       "size": 331622201,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/Goodnotes6-6.3.14.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -6303,7 +6358,7 @@
       "size": 323637347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/Goodnotes6-6.3.12.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -6324,8 +6379,8 @@
       "versionDate": "2024-03-20",
       "size": 160638930,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/StepsAppPro-7.0.8.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 06-12-2024\nStatus: \u2705 \u2b50",
+      "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -6402,7 +6457,7 @@
       "size": 321760236,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/Goodnotes6-6.3.10.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -7381,7 +7436,7 @@
       "size": 131093423,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2024/AdobeScanPremium-24.03.05.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-15-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
     },
     {
@@ -7788,7 +7843,7 @@
       "size": 296255622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/Goodnotes6-6.3.4.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
@@ -8063,7 +8118,7 @@
       "size": 131094490,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/AdobeScanPremium-24.02.22.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-15-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
     },
     {
@@ -8426,7 +8481,7 @@
       "size": 131059969,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/AdobeScanPremium-24.02.06.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-15-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 07-10-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png"
     },
     {
@@ -9074,8 +9129,8 @@
       "versionDate": "2024-02-02",
       "size": 160327151,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/StepsAppPro-7.0.4.ipa",
-      "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 06-12-2024\nStatus: \u2705 \u2b50",
+      "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png"
     },
     {
@@ -13112,7 +13167,7 @@
       "size": 315141070,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Goodnotes6-6.2.15.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 07-10-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
     },
     {
