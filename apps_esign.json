@@ -4,6 +4,149 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AddonsPro",
+      "bundleIdentifier": "com.qingbin.Addons",
+      "version": "3.8",
+      "versionDate": "2024-07-11",
+      "size": 29133138,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AddonsPro-3.8.ipa",
+      "developerName": "Paisseon",
+      "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.qingbin.Addons.png"
+    },
+    {
+      "name": "AdobeAcrobatReaderPremium",
+      "bundleIdentifier": "com.adobe.Adobe-Reader",
+      "version": "24.05.02",
+      "versionDate": "2024-07-11",
+      "size": 169003289,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AdobeAcrobatReaderPremium-24.05.02.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png"
+    },
+    {
+      "name": "AIChatGP",
+      "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
+      "version": "2.262",
+      "versionDate": "2024-07-11",
+      "size": 36720622,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AIChatGP-2.262.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Introducing yet another \"ChatGPT-4\" assistant, which holds promise for intriguing features. However, it is likely that its performance might fall short of Chat Genie (App above). Further testing is warranted to determine its efficacy accurately.\nLast updated: 03-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.chatgtp.gpt-3.Chat-GPT.png"
+    },
+    {
+      "name": "AIChatSmithPremium",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "version": "7.0.0",
+      "versionDate": "2024-07-11",
+      "size": 74937503,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AIChatSmithPremium-7.0.0.ipa",
+      "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+    },
+    {
+      "name": "AlohaBrowserPremium",
+      "bundleIdentifier": "com.alohabrowser.alohabrowser",
+      "version": "5.12.1",
+      "versionDate": "2024-07-11",
+      "size": 107894228,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AlohaBrowserPremium-5.12.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
+    },
+    {
+      "name": "AppLockPro",
+      "bundleIdentifier": "com.lilucat.applock.us",
+      "version": "3.2.0",
+      "versionDate": "2024-07-11",
+      "size": 14493592,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AppLockPro-3.2.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
+    },
+    {
+      "name": "APTVPro",
+      "bundleIdentifier": "com.kimen.aptvpro",
+      "version": "1.2.11",
+      "versionDate": "2024-07-11",
+      "size": 33064204,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/APTVPro-1.2.11.ipa",
+      "developerName": "macked",
+      "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kimen.aptvpro.png"
+    },
+    {
+      "name": "BearPro",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "version": "2.2.2",
+      "versionDate": "2024-07-11",
+      "size": 32537782,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/BearPro-2.2.2.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
+    },
+    {
+      "name": "BeautyPlusPremium",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "version": "7.7.121",
+      "versionDate": "2024-07-11",
+      "size": 256785626,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/BeautyPlusPremium-7.7.121.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.54-4.4",
+      "versionDate": "2024-07-11",
+      "size": 75064559,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/EeveeSpotify-8.9.54-4.4.ipa",
+      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "FacetunePro",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "version": "3.60.1",
+      "versionDate": "2024-07-11",
+      "size": 340466594,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/FacetunePro-3.60.1.ipa",
+      "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
+    },
+    {
+      "name": "PhotoshopExpress",
+      "bundleIdentifier": "com.adobe.PSMobile",
+      "version": "24.27.0",
+      "versionDate": "2024-07-11",
+      "size": 154949675,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/PhotoshopExpress-24.27.0.ipa",
+      "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+    },
+    {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "1.16.2-344",
+      "versionDate": "2024-07-11",
+      "size": 4015399,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/TrollRecorder-1.16.2-344.ipa",
+      "developerName": "Lessica / TrollRecorder",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
       "name": "AdobeScanPremium",
       "bundleIdentifier": "com.adobe.scan.ios",
       "version": "24.07.16",
@@ -297,7 +440,7 @@
       "size": 151496695,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-06-2024/PhotoshopExpress-24.26.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -418,7 +561,7 @@
       "size": 3989334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-02-2024/TrollRecorder-1.16.0-338.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -748,7 +891,7 @@
       "size": 166956497,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/PhotoshopExpress-24.24.3.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -781,7 +924,7 @@
       "size": 3977201,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2024/TrollRecorder-1.15.0-331.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -858,7 +1001,7 @@
       "size": 75026367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/EeveeSpotify-8.9.50-4.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -935,7 +1078,7 @@
       "size": 3969071,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/TrollRecorder-1.12.3-295.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1441,7 +1584,7 @@
       "size": 3932532,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/TrollRecorder-1.12.2-291.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1452,7 +1595,7 @@
       "size": 419878923,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-18-2024/FacetunePro-3.58.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -1529,7 +1672,7 @@
       "size": 75337996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/EeveeSpotify-8.9.48-4.2.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1573,7 +1716,7 @@
       "size": 59622765,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/AIChatSmithPremium-6.9.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -1584,7 +1727,7 @@
       "size": 14555485,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/AppLockPro-3.1.7.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -1595,7 +1738,7 @@
       "size": 32533932,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/BearPro-2.2.1.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -1749,7 +1892,7 @@
       "size": 100531576,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-15-2024/AlohaBrowserPremium-5.10.1.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -1771,7 +1914,7 @@
       "size": 3923911,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-14-2024/TrollRecorder-1.10.3-283.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1782,7 +1925,7 @@
       "size": 29020552,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-13-2024/AddonsPro-3.6.ipa",
       "developerName": "Paisseon",
-      "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 06-13-2024\nStatus: \u2705",
+      "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.qingbin.Addons.png"
     },
     {
@@ -1848,7 +1991,7 @@
       "size": 3898404,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-12-2024/TrollRecorder-1.10.2-280.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -1958,7 +2101,7 @@
       "size": 147389570,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/PhotoshopExpress-24.23.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -2035,7 +2178,7 @@
       "size": 75650658,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2156,30 +2299,8 @@
       "size": 160111420,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/AdobeAcrobatReaderPremium-24.04.61.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png"
-    },
-    {
-      "name": "AlarmyPremium",
-      "bundleIdentifier": "droom.sleepIfUCanFree",
-      "version": "24.24.5",
-      "versionDate": "2024-06-05",
-      "size": 138288555,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/AlarmyPremium-24.24.5.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
-    },
-    {
-      "name": "APTVPro",
-      "bundleIdentifier": "com.kimen.aptvpro",
-      "version": "1.3.4",
-      "versionDate": "2024-06-05",
-      "size": 37508851,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/APTVPro-1.3.4.ipa",
-      "developerName": "iOS Tutorials + App Cracks / binnichtaktiv's iPA Library",
-      "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kimen.aptvpro.png"
     },
     {
       "name": "AudiomackPremium",
@@ -2200,7 +2321,7 @@
       "size": 3836678,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-05-2024/TrollRecorder-1.10.0-266.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2211,7 +2332,7 @@
       "size": 426024228,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2024/FacetunePro-3.57.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -2244,7 +2365,7 @@
       "size": 3356655,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-03-2024/TrollRecorder-1.9.8-236.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2497,7 +2618,7 @@
       "size": 3286009,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2530,7 +2651,7 @@
       "size": 237009746,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/BeautyPlusPremium-7.7.111.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 05-28-2024\nStatus: \u2705",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
     },
     {
@@ -2552,7 +2673,7 @@
       "size": 75072303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2629,7 +2750,7 @@
       "size": 3282320,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-26-2024/TrollRecorder-1.9.6-175.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2662,7 +2783,7 @@
       "size": 99863389,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-25-2024/AlohaBrowserPremium-5.9.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -2772,7 +2893,7 @@
       "size": 74984525,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2794,7 +2915,7 @@
       "size": 3237518,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/TrollRecorder-1.9.3-166.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2860,7 +2981,7 @@
       "size": 2832511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-20-2024/TrollRecorder-1.9.1-163.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -2871,7 +2992,7 @@
       "size": 2831974,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.9.0-161.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3003,7 +3124,7 @@
       "size": 415431924,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/FacetunePro-3.55.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -3080,7 +3201,7 @@
       "size": 2378032,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-14-2024/TrollRecorder-1.8.7-150.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3091,7 +3212,7 @@
       "size": 163110773,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/AdobeAcrobatReaderPremium-24.04.51.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png"
     },
     {
@@ -3124,7 +3245,7 @@
       "size": 95621170,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/AlohaBrowserPremium-5.8.1.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -3135,7 +3256,7 @@
       "size": 238124043,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/BeautyPlusPremium-7.7.103.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 05-28-2024\nStatus: \u2705",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
     },
     {
@@ -3212,7 +3333,7 @@
       "size": 2339231,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-12-2024/TrollRecorder-1.8.6-145.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3267,7 +3388,7 @@
       "size": 72660511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3443,7 +3564,7 @@
       "size": 72906034,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3476,7 +3597,7 @@
       "size": 2281296,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/TrollRecorder-1.8.2-137.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3487,19 +3608,8 @@
       "size": 61467005,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/AIChatSmithPremium-6.9.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
-    },
-    {
-      "name": "AlarmyPremium",
-      "bundleIdentifier": "droom.sleepIfUCanFree",
-      "version": "24.22.1",
-      "versionDate": "2024-05-05",
-      "size": 164130313,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/AlarmyPremium-24.22.1.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
       "name": "BoostcampPro",
@@ -3729,7 +3839,7 @@
       "size": 2204095,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-01-2024/TrollRecorder-1.8.0-131.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3773,7 +3883,7 @@
       "size": 69845551,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3872,7 +3982,7 @@
       "size": 2202695,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/TrollRecorder-1.7.9-127.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -3938,7 +4048,7 @@
       "size": 68598253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3982,7 +4092,7 @@
       "size": 423331257,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-26-2024/FacetunePro-3.53.1.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -4169,7 +4279,7 @@
       "size": 2137022,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/TrollRecorder-1.7.6-117.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4191,7 +4301,7 @@
       "size": 67901441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4257,7 +4367,7 @@
       "size": 68154131,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 06-25-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4323,7 +4433,7 @@
       "size": 2070853,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2024/TrollRecorder-1.7.4-113.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4334,7 +4444,7 @@
       "size": 161819886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/AlarmyPremium-24.21.1.ipa",
       "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
@@ -4345,7 +4455,7 @@
       "size": 15928622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/AppLockPro-3.1.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -4356,7 +4466,7 @@
       "size": 243974211,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/BeautyPlusPremium-7.7.090.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 05-28-2024\nStatus: \u2705",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
     },
     {
@@ -4444,7 +4554,7 @@
       "size": 159172590,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/AdobeAcrobatReaderPremium-24.04.00.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png"
     },
     {
@@ -4455,7 +4565,7 @@
       "size": 92774353,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/AlohaBrowserPremium-5.7.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -4587,7 +4697,7 @@
       "size": 2078685,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2024/TrollRecorder-1.7.2-109.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4796,7 +4906,7 @@
       "size": 2066248,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2024/TrollRecorder-1.7.0-101.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4862,7 +4972,7 @@
       "size": 1931520,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -4906,7 +5016,7 @@
       "size": 144213612,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/PhotoshopExpress-24.14.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -4928,7 +5038,7 @@
       "size": 424735272,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/FacetunePro-3.50.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -5005,7 +5115,7 @@
       "size": 14063529,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/AppLockPro-3.0.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -5053,17 +5163,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
-      "name": "APTVPro",
-      "bundleIdentifier": "com.kimen.aptvpro",
-      "version": "1.3.2",
-      "versionDate": "2024-04-07",
-      "size": 35980895,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/APTVPro-1.3.2.ipa",
-      "developerName": "iOS Tutorials + App Cracks / binnichtaktiv's iPA Library",
-      "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kimen.aptvpro.png"
-    },
-    {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
       "version": "6.3.14",
@@ -5093,7 +5192,7 @@
       "size": 1926520,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -5291,7 +5390,7 @@
       "size": 1908353,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -5368,7 +5467,7 @@
       "size": 31416422,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/BearPro-2.1.8.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -5456,7 +5555,7 @@
       "size": 1886301,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -5511,7 +5610,7 @@
       "size": 158108176,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -5544,7 +5643,7 @@
       "size": 73082432,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatSmithPremium-6.8.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -5731,7 +5830,7 @@
       "size": 2415865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -5742,7 +5841,7 @@
       "size": 161126318,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/AdobeAcrobatReaderPremium-24.02.02.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png"
     },
     {
@@ -5764,7 +5863,7 @@
       "size": 434328517,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/FacetunePro-3.49.2.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -5819,7 +5918,7 @@
       "size": 2412683,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -5830,7 +5929,7 @@
       "size": 91269062,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/AlohaBrowserPremium-5.6.1.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -5841,7 +5940,7 @@
       "size": 230547103,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/BeautyPlusPremium-7.7.071.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 05-28-2024\nStatus: \u2705",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
     },
     {
@@ -6138,7 +6237,7 @@
       "size": 75247641,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AIChatSmithPremium-6.7.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -6149,7 +6248,7 @@
       "size": 165088148,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AlarmyPremium-24.15.0.ipa",
       "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
@@ -6314,7 +6413,7 @@
       "size": 91059892,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/AlohaBrowserPremium-5.6.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -6644,7 +6743,7 @@
       "size": 2079031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -6677,7 +6776,7 @@
       "size": 31410377,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/BearPro-2.1.6.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -6754,7 +6853,7 @@
       "size": 2067973,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -6831,7 +6930,7 @@
       "size": 2549610,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -7051,7 +7150,7 @@
       "size": 2525367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
       "developerName": "Lessica / TrollRecorder",
-      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-02-2024\nStatus: \u2705",
+      "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
@@ -7205,7 +7304,7 @@
       "size": 166425719,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-24.14.1.ipa",
       "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
@@ -7359,7 +7458,7 @@
       "size": 65832217,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/AIChatSmithPremium-6.7.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -7381,7 +7480,7 @@
       "size": 31398674,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BearPro-2.1.4.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -7469,7 +7568,7 @@
       "size": 236260218,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/BeautyPlusPremium-7.7.060.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 05-28-2024\nStatus: \u2705",
+      "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
     },
     {
@@ -7579,7 +7678,7 @@
       "size": 436191661,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/FacetunePro-3.47.2.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -7612,7 +7711,7 @@
       "size": 89734990,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/AlohaBrowserPremium-5.5.2.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -7623,7 +7722,7 @@
       "size": 436181501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/FacetunePro-3.47.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -7656,7 +7755,7 @@
       "size": 152471570,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/PhotoshopExpress-24.8.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -7810,7 +7909,7 @@
       "size": 152446513,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/PhotoshopExpress-24.8.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -8041,7 +8140,7 @@
       "size": 89860458,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-23-2024/AlohaBrowserPremium-5.5.1.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -8151,7 +8250,7 @@
       "size": 480821701,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/FacetunePro-3.46.3.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -8338,7 +8437,7 @@
       "size": 152298127,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/PhotoshopExpress-24.7.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -8371,7 +8470,7 @@
       "size": 65112838,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/AIChatSmithPremium-6.6.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -8459,7 +8558,7 @@
       "size": 480823932,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2024/FacetunePro-3.46.1.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -8602,7 +8701,7 @@
       "size": 152402553,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/PhotoshopExpress-24.6.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -8734,7 +8833,7 @@
       "size": 153669264,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AlarmyPremium-24.12.2.ipa",
       "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 06-05-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
@@ -8745,7 +8844,7 @@
       "size": 31397543,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/BearPro-2.1.3.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -8910,7 +9009,7 @@
       "size": 152095628,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/PhotoshopExpress-24.5.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9086,7 +9185,7 @@
       "size": 63770471,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AIChatSmithPremium-6.6.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -9097,7 +9196,7 @@
       "size": 89330708,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AlohaBrowserPremium-5.4.1.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
-      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 06-15-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
     },
     {
@@ -9350,7 +9449,7 @@
       "size": 153622066,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9713,7 +9812,7 @@
       "size": 152454168,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/PhotoshopExpress-24.3.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -9977,7 +10076,7 @@
       "size": 478327305,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/FacetunePro-3.44.ipa",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
-      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 06-18-2024\nStatus: \u2705",
+      "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
     },
     {
@@ -10131,7 +10230,7 @@
       "size": 31070367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/BearPro-2.1.1.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -10208,7 +10307,7 @@
       "size": 152334454,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-18-2024/PhotoshopExpress-24.2.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -10230,7 +10329,7 @@
       "size": 62009094,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/AIChatSmithPremium-6.5.3.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -10714,7 +10813,7 @@
       "size": 52194438,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/AIChatSmithPremium-6.5.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -10813,7 +10912,7 @@
       "size": 156808271,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PhotoshopExpress-24.1.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -11231,7 +11330,7 @@
       "size": 52191156,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/AIChatSmithPremium-6.5.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -11726,7 +11825,7 @@
       "size": 56038752,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/AIChatSmithPremium-6.5.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -11737,7 +11836,7 @@
       "size": 26290969,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -12188,7 +12287,7 @@
       "size": 156326689,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/PhotoshopExpress-23.49.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -12859,7 +12958,7 @@
       "size": 155947352,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/PhotoshopExpress-23.48.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -12925,7 +13024,7 @@
       "size": 58544194,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmithPremium-6.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -13002,7 +13101,7 @@
       "size": 26179550,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -13255,7 +13354,7 @@
       "size": 68062282,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmithPremium-6.3.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -13310,7 +13409,7 @@
       "size": 156599162,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/PhotoshopExpress-23.47.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -13530,7 +13629,7 @@
       "size": 155089400,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -13695,7 +13794,7 @@
       "size": 155132644,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PhotoshopExpress-23.45.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -13893,7 +13992,7 @@
       "size": 68210762,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmithPremium-6.3.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -13926,7 +14025,7 @@
       "size": 154639594,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -14245,7 +14344,7 @@
       "size": 31176993,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -14344,7 +14443,7 @@
       "size": 156653773,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/PhotoshopExpress-23.42.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -14608,7 +14707,7 @@
       "size": 155694493,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-22-2023/PhotoshopExpress-23.41.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -14630,7 +14729,7 @@
       "size": 83774996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmithPremium-6.2.6.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -14861,7 +14960,7 @@
       "size": 154168333,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/PhotoshopExpress-23.40.2.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -14993,7 +15092,7 @@
       "size": 130238077,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/PhotoshopExpress-23.38.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -15004,7 +15103,7 @@
       "size": 85820013,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmithPremium-6.2.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -15180,7 +15279,7 @@
       "size": 27851640,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
@@ -15312,7 +15411,7 @@
       "size": 58152963,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmithPremium-6.2.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -15664,7 +15763,7 @@
       "size": 56830198,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmithPremium-6.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -15741,7 +15840,7 @@
       "size": 127523623,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/PhotoshopExpress-23.37.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -15818,7 +15917,7 @@
       "size": 154943359,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/PhotoshopExpress-23.36.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -16247,7 +16346,7 @@
       "size": 154735334,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/PhotoshopExpress-23.35.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -16291,7 +16390,7 @@
       "size": 48912919,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmithPremium-6.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -16467,7 +16566,7 @@
       "size": 131525141,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/PhotoshopExpress-23.34.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -16995,7 +17094,7 @@
       "size": 125936476,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/PhotoshopExpress-23.31.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -17182,7 +17281,7 @@
       "size": 136902646,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/PhotoshopExpress-23.30.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -17292,7 +17391,7 @@
       "size": 115403508,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-30-2023/PhotoshopExpress-23.29.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -17380,7 +17479,7 @@
       "size": 115405351,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/PhotoshopExpress-23.29.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -17512,7 +17611,7 @@
       "size": 126854080,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PhotoshopExpress-23.28.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -18656,7 +18755,7 @@
       "size": 123085415,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/PhotoshopExpress-23.19.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -18942,7 +19041,7 @@
       "size": 126750253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/PhotoshopExpress-23.17.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -19052,7 +19151,7 @@
       "size": 125974130,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2023/PhotoshopExpress-23.16.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -19283,7 +19382,7 @@
       "size": 57656818,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/AIChatSmithPremium-5.2.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 06-16-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -19426,7 +19525,7 @@
       "size": 126153344,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/PhotoshopExpress-23.14.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -19492,7 +19591,7 @@
       "size": 137605730,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/PhotoshopExpress-23.4.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -19756,7 +19855,7 @@
       "size": 116943668,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2023/PhotoshopExpress-23.12.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -20141,7 +20240,7 @@
       "size": 117862297,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2023/PhotoshopExpress-23.10.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -20339,7 +20438,7 @@
       "size": 126854080,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2023/PhotoshopExpress-23.8.0.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-06-2024\nStatus: \u2705",
+      "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 07-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -23782,7 +23881,7 @@
       "size": 18798823,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
-      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
     },
     {
