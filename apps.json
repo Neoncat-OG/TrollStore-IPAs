@@ -4,6 +4,324 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "B612VIP",
+      "bundleIdentifier": "com.linecorp.b612",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.linecorp.b612.png",
+      "versions": [
+        {
+          "version": "13.2.10",
+          "date": "2024-07-14",
+          "size": 117982684,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/B612VIP-13.2.10.ipa",
+          "localizedDescription": "All-in-one camera and photo/video editing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Doppler3",
+      "bundleIdentifier": "co.brushedtype.doppler-ios",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.brushedtype.doppler-ios.png",
+      "versions": [
+        {
+          "version": "3.1.5",
+          "date": "2024-07-14",
+          "size": 14617674,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/Doppler3-3.1.5.ipa",
+          "localizedDescription": "A stunningly FLAC and MP3 player that supports a wide range of file formats. Easily import music and playlists for offline listening and edit song and album artwork and information without the need for syncing. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "GentlerPremium",
+      "bundleIdentifier": "app.gentler.activity",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.gentler.activity.png",
+      "versions": [
+        {
+          "version": "4.7.4",
+          "date": "2024-07-14",
+          "size": 98045999,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/GentlerPremium-4.7.4.ipa",
+          "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "4.7.2",
+          "date": "2024-06-18",
+          "size": 97806350,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-18-2024/GentlerPremium-4.7.2.ipa",
+          "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "GoodReaderPro",
+      "bundleIdentifier": "com.goodiware.grpro",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodiware.grpro.png",
+      "versions": [
+        {
+          "version": "5.19.1203",
+          "date": "2024-07-14",
+          "size": 26873107,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/GoodReaderPro-5.19.1203.ipa",
+          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.19.1200",
+          "date": "2024-06-16",
+          "size": 26871401,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/GoodReaderPro-5.19.1200.ipa",
+          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.18.1196",
+          "date": "2024-04-10",
+          "size": 26880692,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/GoodReaderPro-5.18.1196.ipa",
+          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "HomeWorkoutPremium",
+      "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
+      "developerName": "binnichtaktiv's iPA Library / Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.abishkking.maleworkout.watchkitapp.png",
+      "versions": [
+        {
+          "version": "1.25.2",
+          "date": "2024-07-14",
+          "size": 346035026,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/HomeWorkoutPremium-1.25.2.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.25.1",
+          "date": "2024-06-16",
+          "size": 352866705,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/HomeWorkoutPremium-1.25.1.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.24.12",
+          "date": "2024-05-13",
+          "size": 349278616,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/HomeWorkoutPremium-1.24.12.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.24.10",
+          "date": "2024-05-02",
+          "size": 349281968,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/HomeWorkoutPremium-1.24.10.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.24.2",
+          "date": "2024-04-29",
+          "size": 330029149,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/HomeWorkoutPremium-1.24.2.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.23.1",
+          "date": "2024-03-31",
+          "size": 352576899,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/HomeWorkoutPremium-1.23.1.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.22.0",
+          "date": "2024-03-05",
+          "size": 362444522,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/HomeWorkoutPremium-1.22.0.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ImpulsePro",
+      "bundleIdentifier": "gen.tech.impulse",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/gen.tech.impulse.png",
+      "versions": [
+        {
+          "version": "1.30.21",
+          "date": "2024-07-14",
+          "size": 83243101,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/ImpulsePro-1.30.21.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.18",
+          "date": "2024-06-16",
+          "size": 84149183,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/ImpulsePro-1.30.18.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.15",
+          "date": "2024-04-19",
+          "size": 80589578,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/ImpulsePro-1.30.15.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.12",
+          "date": "2024-03-29",
+          "size": 75415910,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.10",
+          "date": "2024-02-25",
+          "size": 81659589,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/ImpulsePro-1.30.10.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.7",
+          "date": "2024-01-09",
+          "size": 63698691,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ImpulsePro-1.30.7.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.6",
+          "date": "2023-12-31",
+          "size": 63388115,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/ImpulsePro-1.30.6.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.30.5",
+          "date": "2023-12-30",
+          "size": 66288379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/ImpulsePro-1.30.5.ipa",
+          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InkhunterPremium",
+      "bundleIdentifier": "InkHunter.inkHunter",
+      "developerName": "Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png",
+      "versions": [
+        {
+          "version": "3.0.6",
+          "date": "2024-07-14",
+          "size": 18114231,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/InkhunterPremium-3.0.6.ipa",
+          "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.0.4",
+          "date": "2024-06-11",
+          "size": 17470144,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/InkhunterPremium-3.0.4.ipa",
+          "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstoriesPro",
+      "bundleIdentifier": "ylee.studio.instories",
+      "developerName": "IAppsBestLibrary",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ylee.studio.instories.png",
+      "versions": [
+        {
+          "version": "5.60.0",
+          "date": "2024-07-14",
+          "size": 207800804,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/InstoriesPro-5.60.0.ipa",
+          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.57.0",
+          "date": "2024-06-20",
+          "size": 207567660,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-20-2024/InstoriesPro-5.57.0.ipa",
+          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.54.1",
+          "date": "2024-04-18",
+          "size": 206379615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/InstoriesPro-5.54.1.ipa",
+          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.53.0",
+          "date": "2024-04-02",
+          "size": 201750823,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/InstoriesPro-5.53.0.ipa",
+          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
+      "versions": [
+        {
+          "version": "2.0.7-5",
+          "date": "2024-07-14",
+          "size": 6917642,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/iTorrent-2.0.7-5.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-14-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "2.0.7-2",
+          "date": "2024-07-12",
+          "size": 6755521,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/iTorrent-2.0.7-2.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-14-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.9-25",
+          "date": "2024-01-31",
+          "size": 17095980,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/iTorrent-1.9-25.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-14-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.9-25",
+          "date": "2023-12-19",
+          "size": 18290374,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/iTorrent-1.9-25.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-14-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.8.3",
+          "date": "2023-11-12",
+          "size": 21247865,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iTorrent-1.8.3.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-14-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "PhotoGridPro",
+      "bundleIdentifier": "com.YunFang.PhotoGrid",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png",
+      "versions": [
+        {
+          "version": "8.8.43",
+          "date": "2024-07-14",
+          "size": 174422692,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2024/PhotoGridPro-8.8.43.ipa",
+          "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "AdobeAcrobatReaderPremium",
       "bundleIdentifier": "com.adobe.Adobe-Reader",
       "developerName": "binnichtaktiv's iPA Library",
@@ -2202,42 +2520,6 @@
           "size": 77681163,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/InShotPro.ipa",
           "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 07-12-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
-      "versions": [
-        {
-          "version": "2.0.7-2",
-          "date": "2024-07-12",
-          "size": 6755521,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/iTorrent-2.0.7-2.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.9-25",
-          "date": "2024-01-31",
-          "size": 17095980,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/iTorrent-1.9-25.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.9-25",
-          "date": "2023-12-19",
-          "size": 18290374,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/iTorrent-1.9-25.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.8.3",
-          "date": "2023-11-12",
-          "size": 21247865,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iTorrent-1.8.3.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -10161,35 +10443,6 @@
       ]
     },
     {
-      "name": "InstoriesPro",
-      "bundleIdentifier": "ylee.studio.instories",
-      "developerName": "IAppsBestLibrary",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ylee.studio.instories.png",
-      "versions": [
-        {
-          "version": "5.57.0",
-          "date": "2024-06-20",
-          "size": 207567660,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-20-2024/InstoriesPro-5.57.0.ipa",
-          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.54.1",
-          "date": "2024-04-18",
-          "size": 206379615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/InstoriesPro-5.54.1.ipa",
-          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.53.0",
-          "date": "2024-04-02",
-          "size": 201750823,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/InstoriesPro-5.53.0.ipa",
-          "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "IPTVPro",
       "bundleIdentifier": "com.courtois.PerfectIPTVn",
       "developerName": "Paisseon",
@@ -10818,21 +11071,6 @@
       ]
     },
     {
-      "name": "GentlerPremium",
-      "bundleIdentifier": "app.gentler.activity",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.gentler.activity.png",
-      "versions": [
-        {
-          "version": "4.7.2",
-          "date": "2024-06-18",
-          "size": 97806350,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-18-2024/GentlerPremium-4.7.2.ipa",
-          "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 06-18-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "CarrotWeatherUltra",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "zxcvbn's tweaked IPAs",
@@ -11002,135 +11240,6 @@
           "size": 77576260,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-18-2024/FitnessAIPremium-8.12.12.ipa",
           "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "GoodReaderPro",
-      "bundleIdentifier": "com.goodiware.grpro",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.goodiware.grpro.png",
-      "versions": [
-        {
-          "version": "5.19.1200",
-          "date": "2024-06-16",
-          "size": 26871401,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/GoodReaderPro-5.19.1200.ipa",
-          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.18.1196",
-          "date": "2024-04-10",
-          "size": 26880692,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/GoodReaderPro-5.18.1196.ipa",
-          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "HomeWorkoutPremium",
-      "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
-      "developerName": "binnichtaktiv's iPA Library / Paisseon",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.abishkking.maleworkout.watchkitapp.png",
-      "versions": [
-        {
-          "version": "1.25.1",
-          "date": "2024-06-16",
-          "size": 352866705,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/HomeWorkoutPremium-1.25.1.ipa",
-          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.24.12",
-          "date": "2024-05-13",
-          "size": 349278616,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/HomeWorkoutPremium-1.24.12.ipa",
-          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.24.10",
-          "date": "2024-05-02",
-          "size": 349281968,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/HomeWorkoutPremium-1.24.10.ipa",
-          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.24.2",
-          "date": "2024-04-29",
-          "size": 330029149,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/HomeWorkoutPremium-1.24.2.ipa",
-          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.23.1",
-          "date": "2024-03-31",
-          "size": 352576899,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/HomeWorkoutPremium-1.23.1.ipa",
-          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.22.0",
-          "date": "2024-03-05",
-          "size": 362444522,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/HomeWorkoutPremium-1.22.0.ipa",
-          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "ImpulsePro",
-      "bundleIdentifier": "gen.tech.impulse",
-      "developerName": "DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/gen.tech.impulse.png",
-      "versions": [
-        {
-          "version": "1.30.18",
-          "date": "2024-06-16",
-          "size": 84149183,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/ImpulsePro-1.30.18.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.15",
-          "date": "2024-04-19",
-          "size": 80589578,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/ImpulsePro-1.30.15.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.12",
-          "date": "2024-03-29",
-          "size": 75415910,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.10",
-          "date": "2024-02-25",
-          "size": 81659589,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/ImpulsePro-1.30.10.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.7",
-          "date": "2024-01-09",
-          "size": 63698691,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ImpulsePro-1.30.7.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.6",
-          "date": "2023-12-31",
-          "size": 63388115,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/ImpulsePro-1.30.6.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.30.5",
-          "date": "2023-12-30",
-          "size": 66288379,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2023/ImpulsePro-1.30.5.ipa",
-          "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 06-16-2024\nStatus: \u2705"
         }
       ]
     },
@@ -11311,21 +11420,6 @@
           "size": 11683418,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-02-2024/EarthquakePro-4.6.8.ipa",
           "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"OK\", quickly return to the Home Screen without closing the app then re-open it. Push notification alerts will not work.\nLast updated: 06-11-2024\nStatus: \u26a0\ufe0f \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "InkhunterPremium",
-      "bundleIdentifier": "InkHunter.inkHunter",
-      "developerName": "Paisseon",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png",
-      "versions": [
-        {
-          "version": "3.0.4",
-          "date": "2024-06-11",
-          "size": 17470144,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-11-2024/InkhunterPremium-3.0.4.ipa",
-          "localizedDescription": "An app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 06-11-2024\nStatus: \u2705"
         }
       ]
     },
