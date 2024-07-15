@@ -4,6 +4,163 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "KetchupPlus",
+      "bundleIdentifier": "com.benricemccarthy.ketchup",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png",
+      "versions": [
+        {
+          "version": "2024.5",
+          "date": "2024-07-15",
+          "size": 215571649,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-15-2024/KetchupPlus-2024.5.ipa",
+          "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.4",
+          "date": "2024-06-22",
+          "size": 215586009,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/KetchupPlus-2024.4.ipa",
+          "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.2",
+          "date": "2024-05-03",
+          "size": 191218824,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-03-2024/KetchupPlus-2024.2.ipa",
+          "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MacroFactorPremium",
+      "bundleIdentifier": "com.sbs.diet",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.sbs.diet.png",
+      "versions": [
+        {
+          "version": "2.8.14",
+          "date": "2024-07-15",
+          "size": 62376119,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-15-2024/MacroFactorPremium-2.8.14.ipa",
+          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.8.10",
+          "date": "2024-06-22",
+          "size": 66061420,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MacroFactorPremium-2.8.10.ipa",
+          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.7.9",
+          "date": "2024-05-07",
+          "size": 66117942,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-07-2024/MacroFactorPremium-2.7.9.ipa",
+          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.7.4",
+          "date": "2024-04-21",
+          "size": 67803633,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/MacroFactorPremium-2.7.4.ipa",
+          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "MemrisePremium",
+      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
+      "versions": [
+        {
+          "version": "2024.7.5",
+          "date": "2024-07-15",
+          "size": 145324596,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-15-2024/MemrisePremium-2024.7.5.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.5.21",
+          "date": "2024-06-22",
+          "size": 140522367,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MemrisePremium-2024.5.21.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.3.28",
+          "date": "2024-04-03",
+          "size": 137326472,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MemrisePremium-2024.3.28.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.2.21",
+          "date": "2024-03-07",
+          "size": 136742945,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/MemrisePremium-2024.2.21.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.2.3",
+          "date": "2024-02-17",
+          "size": 136445511,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/MemrisePremium-2024.2.3.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2024.1.8",
+          "date": "2024-01-09",
+          "size": 105982017,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MemrisePremium-2024.1.8.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2023.12.20",
+          "date": "2023-12-31",
+          "size": 105998328,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/MemrisePremium-2023.12.20.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2023.12.11",
+          "date": "2023-12-19",
+          "size": 105998045,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2023.12.6",
+          "date": "2023-12-08",
+          "size": 106107558,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2023.11.17",
+          "date": "2023-11-24",
+          "size": 90694453,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2023.10.20",
+          "date": "2023-11-05",
+          "size": 146348694,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2023.9.15",
+          "date": "2023-09-30",
+          "size": 142729185,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa",
+          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 07-15-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "B612VIP",
       "bundleIdentifier": "com.linecorp.b612",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -9957,28 +10114,6 @@
       ]
     },
     {
-      "name": "KetchupPlus",
-      "bundleIdentifier": "com.benricemccarthy.ketchup",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png",
-      "versions": [
-        {
-          "version": "2024.4",
-          "date": "2024-06-22",
-          "size": 215586009,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/KetchupPlus-2024.4.ipa",
-          "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2024.2",
-          "date": "2024-05-03",
-          "size": 191218824,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-03-2024/KetchupPlus-2024.2.ipa",
-          "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "LightroomPremium",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -10040,35 +10175,6 @@
           "size": 190036244,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/LoopsiePro-8.0.3.ipa",
           "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "MacroFactorPremium",
-      "bundleIdentifier": "com.sbs.diet",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.sbs.diet.png",
-      "versions": [
-        {
-          "version": "2.8.10",
-          "date": "2024-06-22",
-          "size": 66061420,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MacroFactorPremium-2.8.10.ipa",
-          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.7.9",
-          "date": "2024-05-07",
-          "size": 66117942,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-07-2024/MacroFactorPremium-2.7.9.ipa",
-          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "2.7.4",
-          "date": "2024-04-21",
-          "size": 67803633,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/MacroFactorPremium-2.7.4.ipa",
-          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
@@ -10211,91 +10317,6 @@
           "size": 221377534,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/MeituPlusPlus-9.7.30.ipa",
           "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "MemrisePremium",
-      "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-      "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
-      "versions": [
-        {
-          "version": "2024.5.21",
-          "date": "2024-06-22",
-          "size": 140522367,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/MemrisePremium-2024.5.21.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2024.3.28",
-          "date": "2024-04-03",
-          "size": 137326472,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MemrisePremium-2024.3.28.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2024.2.21",
-          "date": "2024-03-07",
-          "size": 136742945,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/MemrisePremium-2024.2.21.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2024.2.3",
-          "date": "2024-02-17",
-          "size": 136445511,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/MemrisePremium-2024.2.3.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2024.1.8",
-          "date": "2024-01-09",
-          "size": 105982017,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/MemrisePremium-2024.1.8.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2023.12.20",
-          "date": "2023-12-31",
-          "size": 105998328,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/MemrisePremium-2023.12.20.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2023.12.11",
-          "date": "2023-12-19",
-          "size": 105998045,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/MemrisePremium-2023.12.11.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2023.12.6",
-          "date": "2023-12-08",
-          "size": 106107558,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/MemrisePremium-2023.12.6.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2023.11.17",
-          "date": "2023-11-24",
-          "size": 90694453,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/MemrisePremium-2023.11.17.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2023.10.20",
-          "date": "2023-11-05",
-          "size": 146348694,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-05-2023/MemrisePremium-2023.10.20.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2023.9.15",
-          "date": "2023-09-30",
-          "size": 142729185,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-30-2023/MemrisePremium-2023.9.15.ipa",
-          "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 06-22-2024\nStatus: \u2705"
         }
       ]
     },
