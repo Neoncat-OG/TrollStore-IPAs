@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.58-4.5",
+      "versionDate": "2024-07-21",
+      "size": 76177478,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/EeveeSpotify-8.9.58-4.5.ipa",
+      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "PaperPro",
+      "bundleIdentifier": "com.fiftythree.paper",
+      "version": "5.4.8",
+      "versionDate": "2024-07-21",
+      "size": 63394004,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/PaperPro-5.4.8.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
+    },
+    {
+      "name": "RadioAppPremium",
+      "bundleIdentifier": "com.firstclass.radiofree",
+      "version": "2.0.19",
+      "versionDate": "2024-07-21",
+      "size": 35329967,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/RadioAppPremium-2.0.19.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "version": "1.3-9",
+      "versionDate": "2024-07-21",
+      "size": 28077538,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-1.3-9.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
+    },
+    {
       "name": "iTorrent",
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "version": "2.0.8-1",
@@ -902,7 +946,7 @@
       "size": 75064559,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/EeveeSpotify-8.9.54-4.4.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1793,7 +1837,7 @@
       "size": 75026367,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2024/EeveeSpotify-8.9.50-4.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -1914,7 +1958,7 @@
       "size": 63393450,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2024/PaperPro-5.4.7.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 06-24-2024\nStatus: \u2705",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
     },
     {
@@ -2464,7 +2508,7 @@
       "size": 75337996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/EeveeSpotify-8.9.48-4.2.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -2970,7 +3014,7 @@
       "size": 75650658,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-08-2024/EeveeSpotify-8.9.44-4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3454,7 +3498,7 @@
       "size": 75072303,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-28-2024/EeveeSpotify-8.9.42-4.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -3674,7 +3718,7 @@
       "size": 74984525,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-21-2024/EeveeSpotify-8.9.40-3.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4158,7 +4202,7 @@
       "size": 72660511,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4334,7 +4378,7 @@
       "size": 72906034,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/EeveeSpotify-8.9.36-2.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4653,7 +4697,7 @@
       "size": 69845551,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/EeveeSpotify-8.9.34-1.4.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -4818,7 +4862,7 @@
       "size": 68598253,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-27-2024/EeveeSpotify-8.9.32-1.3.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5071,7 +5115,7 @@
       "size": 67901441,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-22-2024/EeveeSpotify-8.9.32-1.1.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -5137,7 +5181,7 @@
       "size": 68154131,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-21-2024/EeveeSpotify-8.9.32.ipa",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
+      "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
@@ -8635,7 +8679,7 @@
       "size": 38719359,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/PaperPro-5.4.4.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 06-24-2024\nStatus: \u2705",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
     },
     {
