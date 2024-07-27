@@ -4,6 +4,107 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FastingPremium",
+      "bundleIdentifier": "com.leapfitness.fasting",
+      "developerName": "Paisseon / iApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png",
+      "versions": [
+        {
+          "version": "1.7.5",
+          "date": "2024-07-27",
+          "size": 258741608,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/FastingPremium-1.7.5.ipa",
+          "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.7.1",
+          "date": "2024-06-22",
+          "size": 258561188,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/FastingPremium-1.7.1.ipa",
+          "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.6.7",
+          "date": "2024-04-30",
+          "size": 251598304,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/FastingPremium-1.6.7.ipa",
+          "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+      "versions": [
+        {
+          "version": "9.4.1",
+          "date": "2024-07-27",
+          "size": 177516305,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/LightroomPremium-9.4.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.3.1",
+          "date": "2024-06-22",
+          "size": 186320966,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/LightroomPremium-9.3.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.2.1",
+          "date": "2024-04-01",
+          "size": 166970182,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/LightroomPremium-9.2.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.1.1",
+          "date": "2024-01-27",
+          "size": 160822525,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/LightroomPremium-9.1.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "WindyappPro",
+      "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
+      "versions": [
+        {
+          "version": "13.6.6",
+          "date": "2024-07-27",
+          "size": 211068559,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/WindyappPro-13.6.6.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.4.1",
+          "date": "2024-04-07",
+          "size": 121501690,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WindyappPro-13.4.1.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.3.0",
+          "date": "2024-03-30",
+          "size": 150309334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/WindyappPro-13.3.0.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "13.1.4",
+          "date": "2024-03-23",
+          "size": 148420878,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
+          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 07-27-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "HomeWorkoutPremium",
       "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
       "developerName": "binnichtaktiv's iPA Library / Paisseon",
@@ -1840,77 +1941,77 @@
           "date": "2024-07-23",
           "size": 224904127,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/CarrotWeatherUltra-6.0.3.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "6.0.2",
           "date": "2024-06-17",
           "size": 224787328,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/CarrotWeatherUltra-6.0.2.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "6.0.1",
           "date": "2024-06-06",
           "size": 224832665,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-06-2024/CarrotWeatherUltra-6.0.1.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "6.0",
           "date": "2024-06-02",
           "size": 224882754,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/CarrotWeatherUltra-6.0.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.12.12",
           "date": "2024-03-11",
           "size": 201596884,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/CarrotWeatherUltra-5.12.12.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.12.9",
           "date": "2024-02-02",
           "size": 58933266,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/CarrotWeatherUltra-5.12.9.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.12.6",
           "date": "2023-10-20",
           "size": 182398493,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/CarrotWeatherUltra-5.12.6.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.12.5",
           "date": "2023-10-14",
           "size": 215675993,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/CarrotWeatherUltra-5.12.5.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.12.3",
           "date": "2023-10-01",
           "size": 180569316,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/CarrotWeatherUltra-5.12.3.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.12.2",
           "date": "2023-09-27",
           "size": 180561153,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/CarrotWeatherUltra-5.12.2.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
           "version": "5.11.2",
           "date": "2023-08-16",
           "size": 51651080,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-16-2023/CarrotWeatherUltra-5.11.2.ipa",
-          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 06-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -11193,57 +11294,6 @@
       ]
     },
     {
-      "name": "FastingPremium",
-      "bundleIdentifier": "com.leapfitness.fasting",
-      "developerName": "Paisseon / iApps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png",
-      "versions": [
-        {
-          "version": "1.7.1",
-          "date": "2024-06-22",
-          "size": 258561188,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/FastingPremium-1.7.1.ipa",
-          "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "1.6.7",
-          "date": "2024-04-30",
-          "size": 251598304,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/FastingPremium-1.6.7.ipa",
-          "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "LightroomPremium",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
-      "versions": [
-        {
-          "version": "9.3.1",
-          "date": "2024-06-22",
-          "size": 186320966,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-22-2024/LightroomPremium-9.3.1.ipa",
-          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.2.1",
-          "date": "2024-04-01",
-          "size": 166970182,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/LightroomPremium-9.2.1.ipa",
-          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "9.1.1",
-          "date": "2024-01-27",
-          "size": 160822525,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/LightroomPremium-9.1.1.ipa",
-          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 06-22-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
       "name": "Panels3",
       "bundleIdentifier": "es.produkt.app.panels",
       "developerName": "iApps",
@@ -13641,35 +13691,6 @@
           "size": 19232013,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
           "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "WindyappPro",
-      "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
-      "developerName": "iApps",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
-      "versions": [
-        {
-          "version": "13.4.1",
-          "date": "2024-04-07",
-          "size": 121501690,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WindyappPro-13.4.1.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "13.3.0",
-          "date": "2024-03-30",
-          "size": 150309334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/WindyappPro-13.3.0.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "13.1.4",
-          "date": "2024-03-23",
-          "size": 148420878,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
-          "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50"
         }
       ]
     },
