@@ -69,6 +69,49 @@
       ]
     },
     {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "developerName": "Lessica",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+      "versions": [
+        {
+          "version": "2.4-2",
+          "date": "2024-07-27",
+          "size": 3371615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2024/TrollFools-2.4-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-1",
+          "date": "2024-07-24",
+          "size": 3247279,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3-5",
+          "date": "2024-07-23",
+          "size": 3242975,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1-6",
+          "date": "2024-07-22",
+          "size": 3141310,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.0-2",
+          "date": "2024-07-21",
+          "size": 28248614,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-27-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "WindyappPro",
       "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
       "developerName": "iApps",
@@ -1847,42 +1890,6 @@
           "size": 66861189,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/StructuredPro-3.3.1.ipa",
           "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "TrollFools",
-      "bundleIdentifier": "wiki.qaq.TrollFools",
-      "developerName": "Lessica",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
-      "versions": [
-        {
-          "version": "2.4-1",
-          "date": "2024-07-24",
-          "size": 3247279,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-24-2024/TrollFools-2.4-1.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.3-5",
-          "date": "2024-07-23",
-          "size": 3242975,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/TrollFools-2.3-5.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.1-6",
-          "date": "2024-07-22",
-          "size": 3141310,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-22-2024/TrollFools-2.1-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.0-2",
-          "date": "2024-07-21",
-          "size": 28248614,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/TrollFools-2.0-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
