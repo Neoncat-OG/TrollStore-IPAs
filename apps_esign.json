@@ -4,6 +4,72 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AIChatbotGeniePro",
+      "bundleIdentifier": "co.appnation.geniechat.watchapp",
+      "version": "6.4.3",
+      "versionDate": "2024-08-02",
+      "size": 61690962,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/AIChatbotGeniePro-6.4.3.ipa",
+      "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
+    },
+    {
+      "name": "AIChatSmithPremium",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "version": "7.0.2",
+      "versionDate": "2024-08-02",
+      "size": 105844925,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/AIChatSmithPremium-7.0.2.ipa",
+      "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+    },
+    {
+      "name": "ApolloICA",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11-1.1.2",
+      "versionDate": "2024-08-02",
+      "size": 108281915,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/ApolloICA-1.15.11-1.1.2.ipa",
+      "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
+    },
+    {
+      "name": "ApolloPatcher",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "version": "1.15.11-0.0.9",
+      "versionDate": "2024-08-02",
+      "size": 89235758,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/ApolloPatcher-1.15.11-0.0.9.ipa",
+      "developerName": "ichitaso",
+      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
+    },
+    {
+      "name": "AppLockPro",
+      "bundleIdentifier": "com.lilucat.applock.us",
+      "version": "3.2.2",
+      "versionDate": "2024-08-02",
+      "size": 15497838,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/AppLockPro-3.2.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
+    },
+    {
+      "name": "BeRealBea",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "version": "1.3.7-2.25.1",
+      "versionDate": "2024-08-02",
+      "size": 79857412,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2024/BeRealBea-1.3.7-2.25.1.ipa",
+      "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+    },
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.52-4.3",
@@ -1309,7 +1375,7 @@
       "size": 55977681,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/AIChatbotGeniePro-6.4.2.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -1507,7 +1573,7 @@
       "size": 74937503,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AIChatSmithPremium-7.0.0.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -1529,7 +1595,7 @@
       "size": 14493592,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/AppLockPro-3.2.0.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -2310,7 +2376,7 @@
       "size": 57637097,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2024/AIChatbotGeniePro-6.4.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -2992,7 +3058,7 @@
       "size": 57627720,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/AIChatbotGeniePro-6.4.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -3003,7 +3069,7 @@
       "size": 79159886,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/BeRealBea-1.3.7-2.16.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -3179,7 +3245,7 @@
       "size": 59622765,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/AIChatSmithPremium-6.9.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -3190,7 +3256,7 @@
       "size": 14555485,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-16-2024/AppLockPro-3.1.7.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -3366,7 +3432,7 @@
       "size": 66515609,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-15-2024/BeRealBea-1.3.7-2.15.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -3839,7 +3905,7 @@
       "size": 63683993,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-02-2024/AIChatbotGeniePro-6.3.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -4224,7 +4290,7 @@
       "size": 65324639,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-25-2024/AIChatbotGeniePro-6.2.4.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -4279,7 +4345,7 @@
       "size": 54742203,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-23-2024/AIChatbotGeniePro-6.2.3.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -4477,7 +4543,7 @@
       "size": 66283317,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2024/BeRealBea-1.3.7-2.14.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4675,7 +4741,7 @@
       "size": 53619951,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/AIChatbotGeniePro-6.2.2.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -4719,7 +4785,7 @@
       "size": 64498691,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/BeRealBea-1.3.7-2.14.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -4862,7 +4928,7 @@
       "size": 57171031,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-09-2024/AIChatbotGeniePro-6.2.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -4873,7 +4939,7 @@
       "size": 64684703,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-09-2024/BeRealBea-1.3.6-2.14.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -5049,7 +5115,7 @@
       "size": 61467005,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-05-2024/AIChatSmithPremium-6.9.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -5126,7 +5192,7 @@
       "size": 65341786,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-04-2024/BeRealBea-1.3.6-2.13.3.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -5181,7 +5247,7 @@
       "size": 55348845,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-03-2024/AIChatbotGeniePro-6.2.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -5302,7 +5368,7 @@
       "size": 59604746,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2024/AIChatbotGeniePro-6.1.3.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -5456,7 +5522,7 @@
       "size": 61579466,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-28-2024/BeRealBea-1.3.6-2.13.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -5555,7 +5621,7 @@
       "size": 62035348,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2024/BeRealBea-1.3.6-2.12.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -5896,7 +5962,7 @@
       "size": 15928622,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2024/AppLockPro-3.1.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -6171,7 +6237,7 @@
       "size": 57831653,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2024/BeRealBea-1.3.6-2.10.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -6468,7 +6534,7 @@
       "size": 55166853,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/BeRealBea-1.3.6-2.9.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -6556,7 +6622,7 @@
       "size": 14063529,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/AppLockPro-3.0.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 07-11-2024\nStatus: \u2705 \u2b50",
+      "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png"
     },
     {
@@ -6963,7 +7029,7 @@
       "size": 50844912,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/BeRealBea-1.3.6-2.7.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -7062,7 +7128,7 @@
       "size": 53078497,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatbotGeniePro-6.1.2.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -7084,7 +7150,7 @@
       "size": 73082432,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatSmithPremium-6.8.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -7667,7 +7733,7 @@
       "size": 75247641,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AIChatSmithPremium-6.7.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -7854,7 +7920,7 @@
       "size": 56228170,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-20-2024/BeRealBea-1.3.6-2.6.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8371,7 +8437,7 @@
       "size": 54512215,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BeRealBea-1.3.6-2.5.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -8745,7 +8811,7 @@
       "size": 108157689,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ApolloICA-1.15.11-1.0.11.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -8888,7 +8954,7 @@
       "size": 65832217,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/AIChatSmithPremium-6.7.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -8899,7 +8965,7 @@
       "size": 110386362,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/ApolloPatcher-1.15.11-0.0.8.ipa",
       "developerName": "ichitaso",
-      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-05-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -9229,7 +9295,7 @@
       "size": 52507835,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-29-2024/BeRealBea-1.3.6-2.4.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9834,7 +9900,7 @@
       "size": 51923928,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-20-2024/BeRealBea-1.3.6-2.3.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9867,7 +9933,7 @@
       "size": 51921803,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2024/BeRealBea-1.3.6-2.3.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -9878,7 +9944,7 @@
       "size": 65112838,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/AIChatSmithPremium-6.6.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -10175,7 +10241,7 @@
       "size": 52115219,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-11-2024/BeRealBea-1.3.6-2.2.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -10230,7 +10296,7 @@
       "size": 53424159,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AIChatbotGeniePro-6.1.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -10384,7 +10450,7 @@
       "size": 52589861,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-07-2024/BeRealBea-1.3.4-2.0.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -10593,7 +10659,7 @@
       "size": 63770471,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/AIChatSmithPremium-6.6.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -11077,7 +11143,7 @@
       "size": 51275191,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2024/AIChatbotGeniePro-6.1.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -11132,7 +11198,7 @@
       "size": 89241987,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/ApolloPatcher-1.15.11-0.0.7.ipa",
       "developerName": "ichitaso",
-      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-05-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -11275,7 +11341,7 @@
       "size": 108157865,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -11407,7 +11473,7 @@
       "size": 49776043,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/BeRealBea-1.3.4-1.22.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -11737,7 +11803,7 @@
       "size": 62009094,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/AIChatSmithPremium-6.5.3.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -11748,7 +11814,7 @@
       "size": 110386487,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/ApolloPatcher-1.15.11-0.0.6-1.ipa",
       "developerName": "ichitaso",
-      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-05-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + ApolloPatcher (in-app configurable API keys). Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -11858,7 +11924,7 @@
       "size": 40363657,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/BeRealBea-1.3.4-1.21.5.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12199,7 +12265,7 @@
       "size": 52194438,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/AIChatSmithPremium-6.5.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -12408,7 +12474,7 @@
       "size": 87166749,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/ApolloICA-1.15.11-1.0.9.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -12441,7 +12507,7 @@
       "size": 40358425,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2024/BeRealBea-1.3.3-1.21.4.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12474,7 +12540,7 @@
       "size": 56853767,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2024/AIChatbotGeniePro-6.0.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -12705,7 +12771,7 @@
       "size": 52191156,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-31-2023/AIChatSmithPremium-6.5.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -12771,7 +12837,7 @@
       "size": 40267445,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2023/BeRealBea-1.3.3-1.21.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -12837,7 +12903,7 @@
       "size": 52966439,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/AIChatbotGeniePro-6.0.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -13189,7 +13255,7 @@
       "size": 56038752,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/AIChatSmithPremium-6.5.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -13211,7 +13277,7 @@
       "size": 40388621,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BeRealBea-1.3.3-1.20.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -13387,7 +13453,7 @@
       "size": 40374650,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BeRealBea-1.3.3-1.20.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -13486,7 +13552,7 @@
       "size": 87096056,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/ApolloICA-1.15.11-1.0.8.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -13607,7 +13673,7 @@
       "size": 42051554,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-14-2023/BeRealBea-1.3.3-1.19.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -13981,7 +14047,7 @@
       "size": 42049413,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/BeRealBea-1.3.3-1.19.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -14245,7 +14311,7 @@
       "size": 45416994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BeRealBea-1.3.3-1.18.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -14377,7 +14443,7 @@
       "size": 58544194,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/AIChatSmithPremium-6.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -14443,7 +14509,7 @@
       "size": 87165733,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/ApolloICA-1.15.11-1.0.5.ipa",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754",
+      "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: \u2705 \u2754",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
     },
     {
@@ -14465,7 +14531,7 @@
       "size": 43204143,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BeRealBea-1.3.3-1.18.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -14674,7 +14740,7 @@
       "size": 54447885,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatbotGeniePro-5.5.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -14696,7 +14762,7 @@
       "size": 68062282,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-30-2023/AIChatSmithPremium-6.3.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -14762,7 +14828,7 @@
       "size": 39128874,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -14927,7 +14993,7 @@
       "size": 39021872,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/BeRealBea-1.3.3-1.17.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -15334,7 +15400,7 @@
       "size": 68210762,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmithPremium-6.3.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -15818,7 +15884,7 @@
       "size": 54206994,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-28-2023/AIChatbotGeniePro-5.4.0.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library / Blatant",
-      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 07-12-2024\nStatus: \u2705 \ud83d\udc4d",
+      "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this one appears to be more promising than the 2 below.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
@@ -16071,7 +16137,7 @@
       "size": 83774996,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/AIChatSmithPremium-6.2.6.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -16280,7 +16346,7 @@
       "size": 44753635,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-16-2023/BeRealBea-1.3.2-1.15.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -16445,7 +16511,7 @@
       "size": 85820013,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-07-2023/AIChatSmithPremium-6.2.4.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -16478,7 +16544,7 @@
       "size": 39714501,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/BeRealBea-1.3.2-1.14.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -16753,7 +16819,7 @@
       "size": 58152963,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-28-2023/AIChatSmithPremium-6.2.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -16819,7 +16885,7 @@
       "size": 53570811,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/BeRealBea-1.3.2-1.13.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -17105,7 +17171,7 @@
       "size": 56830198,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/AIChatSmithPremium-6.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -17127,7 +17193,7 @@
       "size": 38588292,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-19-2023/BeRealBea-1.3.2-1.12.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -17226,7 +17292,7 @@
       "size": 38585370,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BeRealBea-1.3.1-1.12.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -17303,7 +17369,7 @@
       "size": 40372995,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BeRealBea-1.3.1-1.11.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -17413,7 +17479,7 @@
       "size": 39284072,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BeRealBea-1.3.1-1.10.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -17732,7 +17798,7 @@
       "size": 48912919,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/AIChatSmithPremium-6.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -17897,7 +17963,7 @@
       "size": 32893347,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-28-2023/BeRealBea-1.3.1-1.10.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -18106,7 +18172,7 @@
       "size": 31921858,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BeRealBea-1.3.1-1.9.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -18414,7 +18480,7 @@
       "size": 31919714,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BeRealBea-1.3.1-1.9.0.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -19129,7 +19195,7 @@
       "size": 38098024,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/BeRealBea-1.3-1.7.1.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -19569,7 +19635,7 @@
       "size": 41168244,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/BeRealBea-1.2.2-1.5.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -20724,7 +20790,7 @@
       "size": 57656818,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/AIChatSmithPremium-5.2.2.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
-      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 07-11-2024\nStatus: \u2705",
+      "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
@@ -20845,7 +20911,7 @@
       "size": 25439241,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-17-2023/BeRealBea-1.1-0.36.3.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -20922,7 +20988,7 @@
       "size": 25156227,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-15-2023/BeRealBea-1.0-0.36.2.ipa",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
-      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 07-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
