@@ -446,7 +446,7 @@ Everything you can currently find in this repo:
 | TrollCuts | Shortcuts extensions for iOS 16.0+ | 1.1 | [udevsharold](https://github.com/udevsharold/TrollCuts) | 01-23-2024 | ✅ |
 | TrollDecrypt | Can decrypt any IPA swiftly without initially launching the app, and there's no need to navigate through Filza to locate the decrypted file due to an included history feature! | 1.1 | [donato-fiore](https://github.com/donato-fiore/TrollDecrypt) | 12-12-2023 | ✅ 👍 |
 | TrollFools | Experimental app for injecting tweaks into App Store apps. | 2.5-2 | [Lessica](https://github.com/Lessica/TrollFools) / [trollfools](https://havoc.app/package/trollfools) | 07-28-2024 | ✅ 👍 |
-| TrollFoolshuami | A fork of TrollFools with additional features. | 2.5-2 | [huami1314](https://github.com/huami1314/SuperIcons) | 08-03-2024 | ✅ |
+| TrollFoolshuami | A fork of TrollFools with additional features. | 2.5-2 | [huami1314](https://github.com/huami1314/TrollFools) | 08-03-2024 | ✅ |
 | TrollInstallerX | TrollStore installer for iOS 14.0 to 16.6.1 | 1.0.2 | [alfiecg24](https://github.com/alfiecg24/TrollInstallerX) | 04-09-2024 | ✅ |
 | TrollLEDs | Control individual flashlight LEDs. **Note: Refer to the original GitHub repository to find the list of supported devices.** | 1.8.0 | [PoomSmart](https://github.com/PoomSmart/TrollLEDs) | 02-04-2024 | ✅ |
 | TrollLock Reborn | [TrollLock](https://github.com/verygenericname/TrollLock), for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub | 0.2 | [haxi0](https://github.com/haxi0/TrollLock-Reborn) | 12-25-2022 | ✅ |
