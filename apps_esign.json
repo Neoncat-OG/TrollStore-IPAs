@@ -4,6 +4,72 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "AnkiProPremium",
+      "bundleIdentifier": "com.vedasapps.flashcards",
+      "version": "2.1.0",
+      "versionDate": "2024-08-07",
+      "size": 62618755,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/AnkiProPremium-2.1.0.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "flashcard app that uses an enhanced spaced repetition algorithm to help you study efficiently. With a sleek design, fast performance, and online collaboration, it supports exam preparation and vocabulary learning. Customize your flashcards or choose from over 50,000 pre-made decks. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.vedasapps.flashcards.png"
+    },
+    {
+      "name": "FotorPro",
+      "bundleIdentifier": "com.everimaging.photoeffectstudio",
+      "version": "10.6.6",
+      "versionDate": "2024-08-07",
+      "size": 363010182,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/FotorPro-10.6.6.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "all-in-one AI photo editing app. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.everimaging.photoeffectstudio.png"
+    },
+    {
+      "name": "PhotoroomPro",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "6.0.9",
+      "versionDate": "2024-08-07",
+      "size": 91761621,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/PhotoroomPro-6.0.9.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png"
+    },
+    {
+      "name": "VidsAIPro",
+      "bundleIdentifier": "viral.vision.vids",
+      "version": "1.71.0",
+      "versionDate": "2024-08-07",
+      "size": 162913877,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/VidsAIPro-1.71.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
+    },
+    {
+      "name": "WebVideoCasterPremium",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "1.40",
+      "versionDate": "2024-08-07",
+      "size": 22505251,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/WebVideoCasterPremium-1.40.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
+      "name": "WebVideoCasterPremium",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "2.31",
+      "versionDate": "2024-08-07",
+      "size": 42115601,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2024/WebVideoCasterPremium-2.31.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "8.9.62-4.6",
@@ -605,7 +671,7 @@
       "size": 152603000,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2024/VidsAIPro-1.69.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -1632,12 +1698,12 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
     },
     {
-      "name": "FInalCutCameraTS",
+      "name": "FinalCutCameraTS",
       "bundleIdentifier": "com.apple.FinalCutApp.companion",
       "version": "1.0",
-      "versionDate": "2024-07-12",
+      "versionDate": "2024-08-07",
       "size": 33964101,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/FInalCutCameraTS-1.0.ipa",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/FinalCutCameraTS-1.0.ipa",
       "developerName": "trollstoretv",
       "localizedDescription": "The Final Cut Camera app allows you to record professional videos on your mobile devices with complete control. Note: Exclusively for iOS 17.0 TrollStore Users.\nLast updated: 07-12-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.apple.FinalCutApp.companion.png"
@@ -1980,7 +2046,7 @@
       "size": 153726900,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/VidsAIPro-1.67.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -2200,7 +2266,7 @@
       "size": 151610305,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2024/VidsAIPro-1.66.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -2541,7 +2607,7 @@
       "size": 149348335,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-29-2024/VidsAIPro-1.65.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -4862,7 +4928,7 @@
       "size": 149530357,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/VidsAIPro-1.59.1.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -5676,7 +5742,7 @@
       "size": 148851342,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-29-2024/VidsAIPro-1.58.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -6776,7 +6842,7 @@
       "size": 162378395,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/VidsAIPro-1.55.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -6897,7 +6963,7 @@
       "size": 165476569,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/VidsAIPro-1.54.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -8283,7 +8349,7 @@
       "size": 154841675,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-19-2024/VidsAIPro-1.52.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
@@ -8679,7 +8745,7 @@
       "size": 170001237,
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/VidsAIPro-1.51.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
-      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 07-26-2024\nStatus: \u2705",
+      "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 08-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/viral.vision.vids.png"
     },
     {
