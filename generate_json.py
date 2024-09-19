@@ -94,7 +94,7 @@ if __name__ == "__main__":
     data["apps"] = []
 
     g = Github(token)
-    repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
+    repo = g.get_repo("Neoncat-OG/TrollStore-IPAs")
     releases = repo.get_releases()
 
     for release in releases:
@@ -138,7 +138,7 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": dev_name,
                     "localizedDescription": desc,
-                    "iconURL": f"https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/{bundle_id}.png",
+                    "iconURL": f"https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/{bundle_id}.png",
                 }
             )
 
