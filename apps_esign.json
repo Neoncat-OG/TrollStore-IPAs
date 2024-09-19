@@ -2,5 +2,17 @@
   "name": "swaggyP36000 IPA Library",
   "identifier": "xyz.hieuddo.ipalibrary",
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
-  "apps": []
+  "apps": [
+    {
+      "name": "DummyApp",
+      "bundleIdentifier": "com.pax.DummyApp",
+      "version": "1.0",
+      "versionDate": "2024-09-19",
+      "size": 22500,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/09-19-2024/DummyApp-1.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pax.DummyApp.png"
+    }
+  ]
 }
