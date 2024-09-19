@@ -56,7 +56,7 @@ def get_single_bundle_id(url, name="temp.ipa"):
 
 def generate_bundle_id_csv(token):
     g = github.Github(token)
-    repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
+    repo = g.get_repo("Neoncat-OG/TrollStore-IPAs")
     releases = repo.get_releases()
 
     df = pd.DataFrame(columns=["name", "bundleId"])
