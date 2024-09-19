@@ -1,5 +1,5 @@
 on:
-  release:
+  push:
     branches: ["main"]
     
 permissions: write-all
