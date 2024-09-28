@@ -3,9 +3,8 @@
 <p align="center"><strong>A collection from many different sources, for TrollStore!</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Neoncat-OG/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/Neoncat-OG/TrollStore-IPAs/?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
+  <a href="https://github.com/Neoncat-OG/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/Neoncat-OG/TrollStore-IPAs?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
 </p>
-
 <p align="center">
     <a href="https://github.com/Neoncat-OG/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/downloads/Neoncat-OG/TrollStore-IPAs/latest/total?color=%23007BFF&label=Downloads%20(Latest%20Release)" alt="Downloads (Latest Release) Badge"></a>
     <a href="https://github.com/Neoncat-OG/TrollStore-IPAs/releases"><img src="https://img.shields.io/github/downloads/Neoncat-OG/TrollStore-IPAs/total?color=%23007BFF&label=Total%20Downloads" alt="Total Downloads Badge"></a>
