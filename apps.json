@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "DocumentsPlus",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "versions": [
+        {
+          "version": "8.10.5",
+          "date": "2024-09-29",
+          "size": 149574425,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.10.5.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+      "developerName": "sourcelocation / AppDB",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-09-29",
+          "size": 3537264,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
+          "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "DarkNoisePro",
       "bundleIdentifier": "com.charliemchapman.dark-noise",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -941,13 +971,6 @@
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
       "versions": [
-        {
-          "version": "1.0",
-          "date": "2024-09-28",
-          "size": 128743285,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTwitter1050SM/BHTwitter1050SM.ipa",
-          "localizedDescription": ""
-        },
         {
           "version": "1.0",
           "date": "2024-09-28",

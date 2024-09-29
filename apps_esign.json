@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "DocumentsPlus",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "version": "8.10.5",
+      "versionDate": "2024-09-29",
+      "size": 149574425,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.10.5.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png"
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+      "version": "1.0",
+      "versionDate": "2024-09-29",
+      "size": 3537264,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
+      "developerName": "sourcelocation / AppDB",
+      "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
+    },
+    {
       "name": "DarkNoisePro",
       "bundleIdentifier": "com.charliemchapman.dark-noise",
       "version": "3.2.6",
@@ -1101,17 +1123,6 @@
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHX/BHX-9.66.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1 / Sultan Mods / binnichtaktiv's iPA Library / nowesr1",
       "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 08-16-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
-    },
-    {
-      "name": "BHTwitter1050SM",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "1.0",
-      "versionDate": "2024-09-28",
-      "size": 128743285,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTwitter1050SM/BHTwitter1050SM.ipa",
-      "developerName": "",
-      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
