@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "EarthquakePro",
+      "bundleIdentifier": "org.tranquilli.Earthquake",
+      "version": "4.6.8",
+      "versionDate": "2024-09-29",
+      "size": 11683418,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EarthquakePro/EarthquakePro-4.6.8.ipa",
+      "developerName": "DPixel / Paisseon",
+      "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"OK\", quickly return to the Home Screen without closing the app then re-open it. Push notification alerts will not work.\nLast updated: 06-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.tranquilli.Earthquake.png"
+    },
+    {
       "name": "ESign",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "version": "4.7.1",
@@ -15,12 +26,111 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.7.2",
+      "versionDate": "2024-09-29",
+      "size": 8159031,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-4.7.2.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.7.3.1",
+      "versionDate": "2024-09-29",
+      "size": 8223334,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-4.7.3.1.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.7.3",
+      "versionDate": "2024-09-29",
+      "size": 8180940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-4.7.3.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.7.4",
+      "versionDate": "2024-09-29",
+      "size": 8796490,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-4.7.4.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.8.2",
+      "versionDate": "2024-09-29",
+      "size": 7120626,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-4.8.2.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "5.0.1",
+      "versionDate": "2024-09-29",
+      "size": 7489038,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-5.0.1.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "5.0.2",
+      "versionDate": "2024-09-29",
+      "size": 7522792,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-5.0.2.ipa",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "version": "7.23.0",
       "versionDate": "2024-09-29",
       "size": 113443307,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DuolingoMax/DuolingoMax-7.23.0.ipa",
+      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
+      "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
+    },
+    {
+      "name": "DuolingoMax",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.26.1",
+      "versionDate": "2024-09-29",
+      "size": 111328210,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DuolingoMax/DuolingoMax-7.26.1.ipa",
+      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
+      "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
+    },
+    {
+      "name": "DuolingoMax",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.37.1",
+      "versionDate": "2024-09-29",
+      "size": 135865053,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DuolingoMax/DuolingoMax-7.37.1.ipa",
       "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
       "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
