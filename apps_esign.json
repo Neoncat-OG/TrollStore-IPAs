@@ -4,12 +4,67 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "DarkNoisePro",
+      "bundleIdentifier": "com.charliemchapman.dark-noise",
+      "version": "3.2.6",
+      "versionDate": "2024-09-29",
+      "size": 38006205,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DarkNoisePro/DarkNoisePro-3.2.6.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemchapman.dark-noise.png"
+    },
+    {
       "name": "DLTwitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "10.16",
       "versionDate": "2024-09-29",
       "size": 113223807,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTwitter/DLTwitter-10.16.ipa",
+      "developerName": "CydiaAbdullah / IPA Fire / FayezUpdates / nowesr1",
+      "localizedDescription": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+    },
+    {
+      "name": "DLTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "10.21.1",
+      "versionDate": "2024-09-29",
+      "size": 116709707,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTwitter/DLTwitter-10.21.1.ipa",
+      "developerName": "CydiaAbdullah / IPA Fire / FayezUpdates / nowesr1",
+      "localizedDescription": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+    },
+    {
+      "name": "DLTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "10.25.1",
+      "versionDate": "2024-09-29",
+      "size": 120825916,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTwitter/DLTwitter-10.25.1.ipa",
+      "developerName": "CydiaAbdullah / IPA Fire / FayezUpdates / nowesr1",
+      "localizedDescription": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+    },
+    {
+      "name": "DLTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "10.31.1",
+      "versionDate": "2024-09-29",
+      "size": 120770294,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTwitter/DLTwitter-10.31.1.ipa",
+      "developerName": "CydiaAbdullah / IPA Fire / FayezUpdates / nowesr1",
+      "localizedDescription": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+    },
+    {
+      "name": "DLTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "10.32",
+      "versionDate": "2024-09-29",
+      "size": 118044750,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTwitter/DLTwitter-10.32.ipa",
       "developerName": "CydiaAbdullah / IPA Fire / FayezUpdates / nowesr1",
       "localizedDescription": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading.\nLast updated: 08-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
@@ -54,6 +109,28 @@
       "versionDate": "2024-09-29",
       "size": 268869800,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTikTok/DLTikTok-32.1.0.ipa",
+      "developerName": "AppDB / CydiaAbdullah / KZStore* / nowesr1",
+      "localizedDescription": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 07-09-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "DLTikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "32.5.0",
+      "versionDate": "2024-09-29",
+      "size": 239821940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTikTok/DLTikTok-32.5.0.ipa",
+      "developerName": "AppDB / CydiaAbdullah / KZStore* / nowesr1",
+      "localizedDescription": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 07-09-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "DLTikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "32.6.0",
+      "versionDate": "2024-09-29",
+      "size": 238136582,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DLTikTok/DLTikTok-32.6.0.ipa",
       "developerName": "AppDB / CydiaAbdullah / KZStore* / nowesr1",
       "localizedDescription": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 07-09-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
@@ -1024,6 +1101,17 @@
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHX/BHX-9.66.ipa",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1 / Sultan Mods / binnichtaktiv's iPA Library / nowesr1",
       "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 08-16-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+    },
+    {
+      "name": "BHTwitter1050SM",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "1.0",
+      "versionDate": "2024-09-28",
+      "size": 128743285,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTwitter1050SM/BHTwitter1050SM.ipa",
+      "developerName": "",
+      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
     },
     {
