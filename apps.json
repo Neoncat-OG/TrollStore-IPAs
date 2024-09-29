@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "CyPwn IPA Library / AppDB",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+      "versions": [
+        {
+          "version": "4.7.1",
+          "date": "2024-09-29",
+          "size": 8162762,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-4.7.1.ipa",
+          "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
