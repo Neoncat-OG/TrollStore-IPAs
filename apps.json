@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FacebookMiX",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "IPA Fire",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "414.0",
+          "date": "2024-09-29",
+          "size": 156849761,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookMiX/FacebookMiX-414.0.ipa",
+          "localizedDescription": "injected with both Wolf and TxC\nLast updated: 05-15-2023\nStatus: \u274c"
+        }
+      ]
+    },
+    {
+      "name": "FInalCutCameraTS",
+      "bundleIdentifier": "com.apple.FinalCutApp.companion",
+      "developerName": "trollstoretv",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.FinalCutApp.companion.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-09-29",
+          "size": 33964101,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FInalCutCameraTS/FInalCutCameraTS-1.0.ipa",
+          "localizedDescription": "The Final Cut Camera app allows you to record professional videos on your mobile devices with complete control. Note: Exclusively for iOS 17.0 TrollStore Users.\nLast updated: 07-12-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Enmity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
@@ -57,6 +87,13 @@
           "date": "2024-09-29",
           "size": 192560506,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.3.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.4.0",
+          "date": "2024-09-29",
+          "size": 187169651,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.4.0.ipa",
           "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705"
         }
       ]
