@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "EhPanda",
+      "bundleIdentifier": "zeng.EhPanda",
+      "developerName": "EhPanda-Team",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/zeng.EhPanda.png",
+      "versions": [
+        {
+          "version": "2.7.4",
+          "date": "2024-09-29",
+          "size": 6685295,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EhPanda/EhPanda-2.7.4.ipa",
+          "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 07-12-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
@@ -1817,6 +1832,20 @@
       "developerName": "Paisseon",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png",
       "versions": [
+        {
+          "version": "3.6",
+          "date": "2024-09-27",
+          "size": 29020552,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.6.ipa",
+          "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "3.8",
+          "date": "2024-09-27",
+          "size": 29133138,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.8.ipa",
+          "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705"
+        },
         {
           "version": "3.6",
           "date": "2024-09-27",
