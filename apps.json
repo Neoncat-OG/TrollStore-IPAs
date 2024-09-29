@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "DramasFlic",
+      "bundleIdentifier": "com.bonov.sensial",
+      "developerName": "DPixel",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bonov.sensial.png",
+      "versions": [
+        {
+          "version": "4.0",
+          "date": "2024-09-29",
+          "size": 17727292,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramasFlic/DramasFlic-4.0.ipa",
+          "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "DramaFlix",
+      "bundleIdentifier": "com.dramaflix.co",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dramaflix.co.png",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-09-29",
+          "size": 9164315,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramaFlix/DramaFlix-1.1.0.ipa",
+          "localizedDescription": "Movie app, same as HDO Play but also slightly updated\nLast updated: 01-03-2023\nStatus: \u26a0\ufe0f \u2754"
+        }
+      ]
+    },
+    {
       "name": "Doppler3",
       "bundleIdentifier": "co.brushedtype.doppler-ios",
       "developerName": "binnichtaktiv's iPA Library",
@@ -71,6 +101,13 @@
           "date": "2024-09-29",
           "size": 158832943,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.12.ipa",
+          "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.13",
+          "date": "2024-09-29",
+          "size": 173447970,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.13.ipa",
           "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50"
         }
       ]
