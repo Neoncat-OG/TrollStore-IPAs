@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FacetunePro",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
+      "versions": [
+        {
+          "version": "3.46.3",
+          "date": "2024-09-29",
+          "size": 480821701,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacetunePro/FacetunePro-3.46.3.ipa",
+          "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 08-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "FacebookWolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "392.0",
+          "date": "2024-09-29",
+          "size": 136100527,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookWolf/FacebookWolf-392.0.ipa",
+          "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "FacebookMiX",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "IPA Fire",
