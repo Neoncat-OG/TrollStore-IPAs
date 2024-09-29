@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "177.1",
+          "date": "2024-09-29",
+          "size": 95348126,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "EnhanceFoxPro",
       "bundleIdentifier": "com.risingcabbage.enhancefox",
       "developerName": "Qamislo - Apps",
@@ -29,6 +44,20 @@
           "date": "2024-09-29",
           "size": 18220329,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-6.3.0.ipa",
+          "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.0.5",
+          "date": "2024-09-29",
+          "size": 15550465,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-7.0.5.ipa",
+          "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.0.6",
+          "date": "2024-09-29",
+          "size": 15621986,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-7.0.6.ipa",
           "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705"
         }
       ]
