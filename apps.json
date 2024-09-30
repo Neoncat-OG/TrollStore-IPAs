@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FitbodElite",
+      "bundleIdentifier": "com.fitbod",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fitbod.png",
+      "versions": [
+        {
+          "version": "6.28.1",
+          "date": "2024-09-30",
+          "size": 97736577,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.28.1.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "FineReaderPDFPro",
       "bundleIdentifier": "com.abbyy.finescanner-pro",
       "developerName": "CyPwn IPA Library",
@@ -14,6 +29,13 @@
           "date": "2024-09-30",
           "size": 66167334,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FineReaderPDFPro/FineReaderPDFPro-15.6.4.ipa",
+          "localizedDescription": "FineReader PDF, with pro features unlocked.\nLast updated: 06-16-2024\nStatus: \u2705"
+        },
+        {
+          "version": "15.6.6",
+          "date": "2024-09-30",
+          "size": 67986618,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FineReaderPDFPro/FineReaderPDFPro-15.6.6.ipa",
           "localizedDescription": "FineReader PDF, with pro features unlocked.\nLast updated: 06-16-2024\nStatus: \u2705"
         }
       ]
