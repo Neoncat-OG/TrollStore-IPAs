@@ -4,12 +4,34 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FlacboxPro",
+      "bundleIdentifier": "com.leshko.flap",
+      "version": "5.3",
+      "versionDate": "2024-09-30",
+      "size": 41199562,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlacboxPro/FlacboxPro-5.3.ipa",
+      "developerName": "iApps / Paisseon",
+      "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 07-12-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leshko.flap.png"
+    },
+    {
       "name": "FitnessAIPremium",
       "bundleIdentifier": "com.jakemor.firness-ai",
       "version": "8.12.12",
       "versionDate": "2024-09-30",
       "size": 77576260,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitnessAIPremium/FitnessAIPremium-8.12.12.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.jakemor.firness-ai.png"
+    },
+    {
+      "name": "FitnessAIPremium",
+      "bundleIdentifier": "com.jakemor.firness-ai",
+      "version": "8.13.0",
+      "versionDate": "2024-09-30",
+      "size": 77752435,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitnessAIPremium/FitnessAIPremium-8.13.0.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.jakemor.firness-ai.png"

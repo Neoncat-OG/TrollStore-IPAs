@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FlacboxPro",
+      "bundleIdentifier": "com.leshko.flap",
+      "developerName": "iApps / Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leshko.flap.png",
+      "versions": [
+        {
+          "version": "5.3",
+          "date": "2024-09-30",
+          "size": 41199562,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlacboxPro/FlacboxPro-5.3.ipa",
+          "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 07-12-2024\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
       "name": "FitnessAIPremium",
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -14,6 +29,13 @@
           "date": "2024-09-30",
           "size": 77576260,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitnessAIPremium/FitnessAIPremium-8.12.12.ipa",
+          "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.13.0",
+          "date": "2024-09-30",
+          "size": 77752435,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitnessAIPremium/FitnessAIPremium-8.13.0.ipa",
           "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50"
         }
       ]
