@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FitnessAIPremium",
+      "bundleIdentifier": "com.jakemor.firness-ai",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.jakemor.firness-ai.png",
+      "versions": [
+        {
+          "version": "8.12.12",
+          "date": "2024-09-30",
+          "size": 77576260,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitnessAIPremium/FitnessAIPremium-8.12.12.ipa",
+          "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 06-16-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "FitbodElite",
       "bundleIdentifier": "com.fitbod",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -14,6 +29,55 @@
           "date": "2024-09-30",
           "size": 97736577,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.28.1.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.30.0",
+          "date": "2024-09-30",
+          "size": 113470786,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.30.0.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.31.0",
+          "date": "2024-09-30",
+          "size": 98332477,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.31.0.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.31.2",
+          "date": "2024-09-30",
+          "size": 101945016,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.31.2.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.33.0",
+          "date": "2024-09-30",
+          "size": 98332717,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.33.0.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.34.0",
+          "date": "2024-09-30",
+          "size": 92512598,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.34.0.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.36.0",
+          "date": "2024-09-30",
+          "size": 93089702,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.36.0.ipa",
+          "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "6.38.0",
+          "date": "2024-09-30",
+          "size": 93136477,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FitbodElite/FitbodElite-6.38.0.ipa",
           "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: \u2705 \u2b50"
         }
       ]
