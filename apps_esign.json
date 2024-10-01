@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "version": "2.0.1",
+      "versionDate": "2024-10-01",
+      "size": 3827002,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.1.ipa",
+      "developerName": "leminlimez",
+      "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png"
+    },
+    {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "version": "2.0.2",
+      "versionDate": "2024-10-01",
+      "size": 3829465,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.2.ipa",
+      "developerName": "leminlimez",
+      "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png"
+    },
+    {
+      "name": "HdoPlay",
+      "bundleIdentifier": "com.hdoplay.apt",
+      "version": "1.0",
+      "versionDate": "2024-10-01",
+      "size": 23561400,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HdoPlay/HdoPlay.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hdoplay.apt.png"
+    },
+    {
+      "name": "HPHogwartsMystery",
+      "bundleIdentifier": "com.tinyco.potter",
+      "version": "4.9.1",
+      "versionDate": "2024-10-01",
+      "size": 134103479,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HPHogwartsMystery/HPHogwartsMystery-4.9.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png"
+    },
+    {
       "name": "HDFlixNoAds",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
       "version": "3.0",
@@ -109,6 +153,17 @@
       "versionDate": "2024-10-01",
       "size": 321760236,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.10.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.3.12",
+      "versionDate": "2024-10-01",
+      "size": 323637347,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.12.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
       "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
@@ -1619,50 +1674,6 @@
       "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
       "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
-    },
-    {
-      "name": "EnhanceFoxPro",
-      "bundleIdentifier": "com.risingcabbage.enhancefox",
-      "version": "7.0.0",
-      "versionDate": "2024-09-29",
-      "size": 244706177,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.0.0.ipa",
-      "developerName": "Qamislo - Apps",
-      "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
-    },
-    {
-      "name": "EnhanceFoxPro",
-      "bundleIdentifier": "com.risingcabbage.enhancefox",
-      "version": "7.1.0",
-      "versionDate": "2024-09-29",
-      "size": 189385446,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.1.0.ipa",
-      "developerName": "Qamislo - Apps",
-      "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
-    },
-    {
-      "name": "EnhanceFoxPro",
-      "bundleIdentifier": "com.risingcabbage.enhancefox",
-      "version": "7.3.0",
-      "versionDate": "2024-09-29",
-      "size": 192560506,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.3.0.ipa",
-      "developerName": "Qamislo - Apps",
-      "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
-    },
-    {
-      "name": "EnhanceFoxPro",
-      "bundleIdentifier": "com.risingcabbage.enhancefox",
-      "version": "7.4.0",
-      "versionDate": "2024-09-29",
-      "size": 187169651,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.4.0.ipa",
-      "developerName": "Qamislo - Apps",
-      "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
     },
     {
       "name": "EnhanceFoxPro",
