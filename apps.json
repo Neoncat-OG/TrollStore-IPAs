@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "GoogleNews",
+      "bundleIdentifier": "com.google.GoogleDigitalEditions",
+      "developerName": "AppDB",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png",
+      "versions": [
+        {
+          "version": "5.87",
+          "date": "2024-10-01",
+          "size": 46477554,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.87.ipa",
+          "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
+      "versions": [
+        {
+          "version": "6.2.15",
+          "date": "2024-10-01",
+          "size": 315141070,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.2.15.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "GoodReaderPro",
       "bundleIdentifier": "com.goodiware.grpro",
       "developerName": "N/A",
@@ -21,6 +51,13 @@
           "date": "2024-10-01",
           "size": 26871401,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.19.1200.ipa",
+          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.19.1203",
+          "date": "2024-10-01",
+          "size": 26873107,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.19.1203.ipa",
           "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
         }
       ]
@@ -3388,27 +3425,6 @@
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
       "versions": [
-        {
-          "version": "6.2",
-          "date": "2024-09-27",
-          "size": 56830198,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.2.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "6.4",
-          "date": "2024-09-27",
-          "size": 58544194,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "6.5",
-          "date": "2024-09-27",
-          "size": 56038752,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.5.ipa",
-          "localizedDescription": ""
-        },
         {
           "version": "6.2",
           "date": "2024-09-27",
