@@ -4,16 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Flightradar24Gold",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
+      "developerName": "binnichtaktiv's iPA Library / AppDB",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png",
+      "versions": [
+        {
+          "version": "9.19.0",
+          "date": "2024-10-01",
+          "size": 151430872,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.19.0.ipa",
+          "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "FlightTrackerPremium",
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "iOS Tutorials + App Cracks",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iaftt.flightplusfree.png",
       "versions": [
         {
+          "version": "6.9.7",
+          "date": "2024-10-01",
+          "size": 141466042,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightTrackerPremium/FlightTrackerPremium-6.9.7.ipa",
+          "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 08-12-2024\nStatus: \u2705"
+        },
+        {
           "version": "6.10.4",
           "date": "2024-09-30",
           "size": 120583797,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightTrackerPremium/FlightTrackerPremium-6.10.4.ipa",
+          "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 08-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.9.10",
+          "date": "2024-09-30",
+          "size": 115322150,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightTrackerPremium/FlightTrackerPremium-6.9.10.ipa",
           "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 08-12-2024\nStatus: \u2705"
         }
       ]
