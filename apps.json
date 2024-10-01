@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "HDFlixNoAds",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "developerName": "Manpreet Singh @thisismanpreeets / ArianaMinajj",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png",
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2024-10-01",
+          "size": 32320054,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixNoAds/HDFlixNoAds-3.0.ipa",
+          "localizedDescription": "HD Flix without ads. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "HDFlixDezokr",
       "bundleIdentifier": "com.huiynfim.play",
       "developerName": "N/A",
@@ -1255,6 +1270,34 @@
       "developerName": "Qamislo - Apps",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png",
       "versions": [
+        {
+          "version": "7.0.0",
+          "date": "2024-09-29",
+          "size": 244706177,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.0.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.1.0",
+          "date": "2024-09-29",
+          "size": 189385446,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.1.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.3.0",
+          "date": "2024-09-29",
+          "size": 192560506,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.3.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.4.0",
+          "date": "2024-09-29",
+          "size": 187169651,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EnhanceFoxPro/EnhanceFoxPro-7.4.0.ipa",
+          "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
         {
           "version": "7.0.0",
           "date": "2024-09-29",
@@ -3150,20 +3193,6 @@
       "developerName": "Paisseon",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png",
       "versions": [
-        {
-          "version": "3.6",
-          "date": "2024-09-27",
-          "size": 29020552,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.6.ipa",
-          "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "3.8",
-          "date": "2024-09-27",
-          "size": 29133138,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.8.ipa",
-          "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: \u2705"
-        },
         {
           "version": "3.6",
           "date": "2024-09-27",
