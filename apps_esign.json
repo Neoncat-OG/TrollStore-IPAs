@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "HDFlixDezokr",
+      "bundleIdentifier": "com.huiynfim.play",
+      "version": "3.0",
+      "versionDate": "2024-10-01",
+      "size": 30396686,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixDezokr/HDFlixDezokr-3.0.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Removed from the repo: A better version of this app is hosted.\nLast updated: 03-19-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.huiynfim.play.png"
+    },
+    {
+      "name": "HDFlix",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "version": "3.0",
+      "versionDate": "2024-10-01",
+      "size": 21989838,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlix/HDFlix-3.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png"
+    },
+    {
       "name": "Grammarly",
       "bundleIdentifier": "com.grammarly.keyboard",
       "version": "4.0.0",
@@ -65,6 +87,17 @@
       "versionDate": "2024-10-01",
       "size": 315141070,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.2.15.ipa",
+      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
+      "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
+    },
+    {
+      "name": "Goodnotes6",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "version": "6.3.10",
+      "versionDate": "2024-10-01",
+      "size": 321760236,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.10.ipa",
       "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / binnichtaktiv's iPA Library",
       "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png"
@@ -1619,6 +1652,39 @@
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 07-12-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.risingcabbage.enhancefox.png"
+    },
+    {
+      "name": "ElectricalCalculationsPro",
+      "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
+      "version": "6.3.0",
+      "versionDate": "2024-09-29",
+      "size": 18220329,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-6.3.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
+    },
+    {
+      "name": "ElectricalCalculationsPro",
+      "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
+      "version": "7.0.5",
+      "versionDate": "2024-09-29",
+      "size": 15550465,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-7.0.5.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
+    },
+    {
+      "name": "ElectricalCalculationsPro",
+      "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
+      "version": "7.0.6",
+      "versionDate": "2024-09-29",
+      "size": 15621986,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ElectricalCalculationsPro/ElectricalCalculationsPro-7.0.6.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 08-11-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
     },
     {
       "name": "ElectricalCalculationsPro",
