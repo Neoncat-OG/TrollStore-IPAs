@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "developerName": "c22dev",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2024-10-01",
+          "size": 5945760,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.0.4.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "GentlerPremium",
       "bundleIdentifier": "app.gentler.activity",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -14,6 +29,13 @@
           "date": "2024-10-01",
           "size": 97806350,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GentlerPremium/GentlerPremium-4.7.2.ipa",
+          "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "4.7.4",
+          "date": "2024-10-01",
+          "size": 98045999,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GentlerPremium/GentlerPremium-4.7.4.ipa",
           "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50"
         }
       ]
