@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "HomeWorkoutPremium",
+      "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
+      "developerName": "binnichtaktiv's iPA Library / Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.abishkking.maleworkout.watchkitapp.png",
+      "versions": [
+        {
+          "version": "1.23.1",
+          "date": "2024-10-01",
+          "size": 352576899,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HomeWorkoutPremium/HomeWorkoutPremium-1.23.1.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "HevyPro",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hevyapp.hevy.png",
+      "versions": [
+        {
+          "version": "2.0.6",
+          "date": "2024-10-01",
+          "size": 71982011,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HevyPro/HevyPro-2.0.6.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "Helium",
       "bundleIdentifier": "com.leemin.helium",
       "developerName": "leminlimez",
@@ -21,6 +51,27 @@
           "date": "2024-10-01",
           "size": 3829465,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.2.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1",
+          "date": "2024-10-01",
+          "size": 3874054,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.1",
+          "date": "2024-10-01",
+          "size": 3924363,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2",
+          "date": "2024-10-01",
+          "size": 3896129,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.ipa",
           "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
         }
       ]
