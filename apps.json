@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Grammarly",
+      "bundleIdentifier": "com.grammarly.keyboard",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.grammarly.keyboard.png",
+      "versions": [
+        {
+          "version": "4.0.0",
+          "date": "2024-10-01",
+          "size": 156360115,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Grammarly/Grammarly-4.0.0.ipa",
+          "localizedDescription": "Removed from the repo: Tweak useless (simply removes the \"upgrade\" icon).\nLast updated: 12-15-2023\nStatus: \u274c"
+        }
+      ]
+    },
+    {
       "name": "GoogleNews",
       "bundleIdentifier": "com.google.GoogleDigitalEditions",
       "developerName": "AppDB",
@@ -14,6 +29,27 @@
           "date": "2024-10-01",
           "size": 46477554,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.87.ipa",
+          "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.88",
+          "date": "2024-10-01",
+          "size": 46596013,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.88.ipa",
+          "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.91",
+          "date": "2024-10-01",
+          "size": 43558456,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.91.ipa",
+          "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.94",
+          "date": "2024-10-01",
+          "size": 43006480,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.94.ipa",
           "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: \u2705"
         }
       ]
