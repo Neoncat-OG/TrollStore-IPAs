@@ -4,12 +4,67 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "GoodReaderPro",
+      "bundleIdentifier": "com.goodiware.grpro",
+      "version": "5.18.1196",
+      "versionDate": "2024-10-01",
+      "size": 26880692,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.18.1196.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png"
+    },
+    {
+      "name": "GoodReaderPro",
+      "bundleIdentifier": "com.goodiware.grpro",
+      "version": "5.19.1200",
+      "versionDate": "2024-10-01",
+      "size": 26871401,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.19.1200.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png"
+    },
+    {
       "name": "Geranium",
       "bundleIdentifier": "live.cclerc.geranium",
       "version": "1.0.4",
       "versionDate": "2024-10-01",
       "size": 5945760,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.0.4.ipa",
+      "developerName": "c22dev",
+      "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png"
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "version": "1.1.1",
+      "versionDate": "2024-10-01",
+      "size": 6135248,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.1.ipa",
+      "developerName": "c22dev",
+      "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png"
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "version": "1.1.2",
+      "versionDate": "2024-10-01",
+      "size": 6161855,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.2.ipa",
+      "developerName": "c22dev",
+      "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png"
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "version": "1.1",
+      "versionDate": "2024-10-01",
+      "size": 6032621,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.ipa",
       "developerName": "c22dev",
       "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png"
@@ -4137,6 +4192,39 @@
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmithPremium/AIChatSmithPremium-7.2.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
       "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+    },
+    {
+      "name": "AIChatSmith",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "version": "6.2",
+      "versionDate": "2024-09-27",
+      "size": 56830198,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.2.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+    },
+    {
+      "name": "AIChatSmith",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "version": "6.4",
+      "versionDate": "2024-09-27",
+      "size": 58544194,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.4.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
+    },
+    {
+      "name": "AIChatSmith",
+      "bundleIdentifier": "co.vulcanlabs.moodtracker",
+      "version": "6.5",
+      "versionDate": "2024-09-27",
+      "size": 56038752,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.5.ipa",
+      "developerName": "",
+      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {

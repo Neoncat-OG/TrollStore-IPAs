@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "GoodReaderPro",
+      "bundleIdentifier": "com.goodiware.grpro",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png",
+      "versions": [
+        {
+          "version": "5.18.1196",
+          "date": "2024-10-01",
+          "size": 26880692,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.18.1196.ipa",
+          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.19.1200",
+          "date": "2024-10-01",
+          "size": 26871401,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.19.1200.ipa",
+          "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Geranium",
       "bundleIdentifier": "live.cclerc.geranium",
       "developerName": "c22dev",
@@ -14,6 +36,27 @@
           "date": "2024-10-01",
           "size": 5945760,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.0.4.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.1",
+          "date": "2024-10-01",
+          "size": 6135248,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.1.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.2",
+          "date": "2024-10-01",
+          "size": 6161855,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.2.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1",
+          "date": "2024-10-01",
+          "size": 6032621,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.ipa",
           "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
         }
       ]
@@ -3345,6 +3388,27 @@
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
       "versions": [
+        {
+          "version": "6.2",
+          "date": "2024-09-27",
+          "size": 56830198,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.2.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "6.4",
+          "date": "2024-09-27",
+          "size": 58544194,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "6.5",
+          "date": "2024-09-27",
+          "size": 56038752,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmith/AIChatSmith-6.5.ipa",
+          "localizedDescription": ""
+        },
         {
           "version": "6.2",
           "date": "2024-09-27",
