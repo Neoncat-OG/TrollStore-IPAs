@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "GentlerPremium",
+      "bundleIdentifier": "app.gentler.activity",
+      "version": "4.7.2",
+      "versionDate": "2024-10-01",
+      "size": 97806350,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GentlerPremium/GentlerPremium-4.7.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.gentler.activity.png"
+    },
+    {
+      "name": "GameSeagullTS",
+      "bundleIdentifier": "com.gamerdelights.gamepigeon",
+      "version": "2.1",
+      "versionDate": "2024-10-01",
+      "size": 90278934,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS-2.1.ipa",
+      "developerName": "donato-fiore",
+      "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull should work from there!\nLast updated: 02-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png"
+    },
+    {
+      "name": "GameSeagullTS",
+      "bundleIdentifier": "com.gamerdelights.gamepigeon",
+      "version": "1.0",
+      "versionDate": "2024-10-01",
+      "size": 90271704,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS.ipa",
+      "developerName": "donato-fiore",
+      "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull should work from there!\nLast updated: 02-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png"
+    },
+    {
+      "name": "GIFMakerPremium",
+      "bundleIdentifier": "com.debotoshdey.gifmaker",
+      "version": "3.10",
+      "versionDate": "2024-10-01",
+      "size": 247501101,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GIFMakerPremium/GIFMakerPremium-3.10.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.debotoshdey.gifmaker.png"
+    },
+    {
       "name": "FotorPro",
       "bundleIdentifier": "com.everimaging.photoeffectstudio",
       "version": "10.6.6",
