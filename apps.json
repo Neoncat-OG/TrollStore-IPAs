@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FlightyPro",
+      "bundleIdentifier": "com.flightyapp.flighty",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png",
+      "versions": [
+        {
+          "version": "3.4.2",
+          "date": "2024-10-01",
+          "size": 136173483,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightyPro/FlightyPro-3.4.2.ipa",
+          "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is.\nLast updated: 03-18-2024\nStatus: \u26a0\ufe0f \u2b50"
+        }
+      ]
+    },
+    {
       "name": "Flightradar24Gold",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
@@ -14,6 +29,20 @@
           "date": "2024-10-01",
           "size": 151430872,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.19.0.ipa",
+          "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.20.0",
+          "date": "2024-10-01",
+          "size": 150477829,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.20.0.ipa",
+          "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "9.21.0",
+          "date": "2024-10-01",
+          "size": 99237102,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.21.0.ipa",
           "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
         }
       ]
@@ -29,6 +58,20 @@
           "date": "2024-10-01",
           "size": 141466042,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightTrackerPremium/FlightTrackerPremium-6.9.7.ipa",
+          "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 08-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.9.8",
+          "date": "2024-10-01",
+          "size": 139276753,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightTrackerPremium/FlightTrackerPremium-6.9.8.ipa",
+          "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 08-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "7.0.1",
+          "date": "2024-10-01",
+          "size": 120899586,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightTrackerPremium/FlightTrackerPremium-7.0.1.ipa",
           "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 08-12-2024\nStatus: \u2705"
         },
         {
