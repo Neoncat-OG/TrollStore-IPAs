@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "developerName": "LitRitt",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
+      "versions": [
+        {
+          "version": "1.10",
+          "date": "2024-10-01",
+          "size": 35402158,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Ignited/Ignited-1.10.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "IPTVPro",
+      "bundleIdentifier": "com.courtois.PerfectIPTVn",
+      "developerName": "Paisseon",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png",
+      "versions": [
+        {
+          "version": "2.7",
+          "date": "2024-10-01",
+          "size": 19553102,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/IPTVPro/IPTVPro-2.7.ipa",
+          "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.8.1",
+          "date": "2024-10-01",
+          "size": 20129071,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/IPTVPro/IPTVPro-2.8.1.ipa",
+          "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "HomeWorkoutPremium",
       "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
       "developerName": "binnichtaktiv's iPA Library / Paisseon",
@@ -14,6 +51,13 @@
           "date": "2024-10-01",
           "size": 352576899,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HomeWorkoutPremium/HomeWorkoutPremium-1.23.1.ipa",
+          "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.24.10",
+          "date": "2024-10-01",
+          "size": 349281968,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HomeWorkoutPremium/HomeWorkoutPremium-1.24.10.ipa",
           "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705"
         }
       ]
@@ -227,6 +271,48 @@
           "date": "2024-10-01",
           "size": 323637347,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.12.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.14",
+          "date": "2024-10-01",
+          "size": 331622201,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.14.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.18",
+          "date": "2024-10-01",
+          "size": 321439029,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.18.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.20",
+          "date": "2024-10-01",
+          "size": 329866623,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.20.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.25",
+          "date": "2024-10-01",
+          "size": 330592734,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.25.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.28",
+          "date": "2024-10-01",
+          "size": 330862700,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.28.ipa",
+          "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.3.31",
+          "date": "2024-10-01",
+          "size": 330530681,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.31.ipa",
           "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: \u2705"
         }
       ]
