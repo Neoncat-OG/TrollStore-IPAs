@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Jitterbug",
+      "bundleIdentifier": "com.osy86.Jitterbug",
+      "developerName": "osy",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png",
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date": "2024-10-03",
+          "size": 23012478,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Jitterbug/Jitterbug-1.3.1.ipa",
+          "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: \u2754"
+        }
+      ]
+    },
+    {
       "name": "InstoriesPro",
       "bundleIdentifier": "ylee.studio.instories",
       "developerName": "IAppsBestLibrary",
