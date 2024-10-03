@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "InstagramElite",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "266.0",
+          "date": "2024-10-03",
+          "size": 117477390,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstagramElite/InstagramElite-266.0.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked and DLInsta/ DLInsta's media downloading is hit-and-miss depending on the post, so keep that disabled and use Rocket's media saving toggles. For all other settings, you can pick and choose which tweak you want to do what. To activate Rocket, follow these steps\nLast updated: 06-28-2023\nStatus: \u274c"
+        }
+      ]
+    },
+    {
       "name": "InstagramDark",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "CydiaAbdullah",
@@ -14,6 +29,13 @@
           "date": "2024-10-03",
           "size": 102463535,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstagramDark/InstagramDark-267.0.ipa",
+          "localizedDescription": "Kinda like TikTokDark, but for Instagram. Features include media saving, profile picture saving, follow status, anonymous story viewing, etc. I mean, IG Rocket IPAs are very easy to find, but this one has a slightly better UI if you ask me\nLast updated: 04-23-2023\nStatus: \u274c"
+        },
+        {
+          "version": "276.1",
+          "date": "2024-10-03",
+          "size": 101600290,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstagramDark/InstagramDark-276.1.ipa",
           "localizedDescription": "Kinda like TikTokDark, but for Instagram. Features include media saving, profile picture saving, follow status, anonymous story viewing, etc. I mean, IG Rocket IPAs are very easy to find, but this one has a slightly better UI if you ask me\nLast updated: 04-23-2023\nStatus: \u274c"
         }
       ]

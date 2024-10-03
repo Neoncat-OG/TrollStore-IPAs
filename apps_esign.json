@@ -4,12 +4,34 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "InstagramElite",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "266.0",
+      "versionDate": "2024-10-03",
+      "size": 117477390,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstagramElite/InstagramElite-266.0.ipa",
+      "developerName": "DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
+      "localizedDescription": "Instagram, injected with Rocket Cracked and DLInsta/ DLInsta's media downloading is hit-and-miss depending on the post, so keep that disabled and use Rocket's media saving toggles. For all other settings, you can pick and choose which tweak you want to do what. To activate Rocket, follow these steps\nLast updated: 06-28-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
       "name": "InstagramDark",
       "bundleIdentifier": "com.burbn.instagram",
       "version": "267.0",
       "versionDate": "2024-10-03",
       "size": 102463535,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstagramDark/InstagramDark-267.0.ipa",
+      "developerName": "CydiaAbdullah",
+      "localizedDescription": "Kinda like TikTokDark, but for Instagram. Features include media saving, profile picture saving, follow status, anonymous story viewing, etc. I mean, IG Rocket IPAs are very easy to find, but this one has a slightly better UI if you ask me\nLast updated: 04-23-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "InstagramDark",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "276.1",
+      "versionDate": "2024-10-03",
+      "size": 101600290,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstagramDark/InstagramDark-276.1.ipa",
       "developerName": "CydiaAbdullah",
       "localizedDescription": "Kinda like TikTokDark, but for Instagram. Features include media saving, profile picture saving, follow status, anonymous story viewing, etc. I mean, IG Rocket IPAs are very easy to find, but this one has a slightly better UI if you ask me\nLast updated: 04-23-2023\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
