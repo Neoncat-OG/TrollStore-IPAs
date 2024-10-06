@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "InstaLRDBH",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "rznkn / riadipa",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "2.5-312.0.1",
+          "date": "2024-10-06",
+          "size": 143512305,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstaLRDBH/InstaLRDBH-2.5-312.0.1.ipa",
+          "localizedDescription": "Instagram, injected with LRD Cracked and BH. Note: Support will not be provided for this so please refrain from submitting any issues. Refer to this issue for more informations.\nLast updated: 01-20-2024\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "FacebookE0",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+      "versions": [
+        {
+          "version": "v473.0.0",
+          "date": "2024-10-06",
+          "size": 156246009,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookE0/FacebookE0-v473.0.0.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "ESignNoLogs",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "developerName": "r/sideloaded",
@@ -800,6 +830,13 @@
           "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
+          "version": "36.2.0-2.3",
+          "date": "2024-10-06",
+          "size": 295311098,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-36.2.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
           "version": "31.0.0-2.0",
           "date": "2024-10-05",
           "size": 169557840,
@@ -1027,6 +1064,34 @@
       "developerName": "Suffuse-Team / InfusePlus",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
       "versions": [
+        {
+          "version": "7.6.7-1.1.4",
+          "date": "2024-10-06",
+          "size": 42854299,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.6.7-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7-1.1.4",
+          "date": "2024-10-06",
+          "size": 40306052,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.1-1.1.4",
+          "date": "2024-10-06",
+          "size": 40129004,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7.1-1.1.4.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "7.7.1-1.1.5",
+          "date": "2024-10-06",
+          "size": 40181478,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7.1-1.1.5.ipa",
+          "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
         {
           "version": "7.4.10",
           "date": "2024-10-03",

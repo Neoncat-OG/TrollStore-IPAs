@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "InstaLRDBH",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "2.5-312.0.1",
+      "versionDate": "2024-10-06",
+      "size": 143512305,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstaLRDBH/InstaLRDBH-2.5-312.0.1.ipa",
+      "developerName": "rznkn / riadipa",
+      "localizedDescription": "Instagram, injected with LRD Cracked and BH. Note: Support will not be provided for this so please refrain from submitting any issues. Refer to this issue for more informations.\nLast updated: 01-20-2024\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "FacebookE0",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "v473.0.0",
+      "versionDate": "2024-10-06",
+      "size": 156246009,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookE0/FacebookE0-v473.0.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
+    },
+    {
       "name": "ESignNoLogs",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "version": "5.0-1.1",
@@ -1346,6 +1368,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "36.2.0-2.3",
+      "versionDate": "2024-10-06",
+      "size": 295311098,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-36.2.0-2.3.ipa",
+      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft / riadipa / ArianaMinajj",
+      "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
       "name": "ApolloPatcher",
       "bundleIdentifier": "com.christianselig.Apollo",
       "version": "1.15.11-0.0.6-1",
@@ -1458,10 +1491,54 @@
     {
       "name": "InfusePro",
       "bundleIdentifier": "com.firecore.infuse",
+      "version": "7.6.7-1.1.4",
+      "versionDate": "2024-10-06",
+      "size": 42854299,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.6.7-1.1.4.ipa",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
       "version": "7.6.7",
       "versionDate": "2024-10-03",
       "size": 40197875,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.6.7.ipa",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "version": "7.7-1.1.4",
+      "versionDate": "2024-10-06",
+      "size": 40306052,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7-1.1.4.ipa",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "version": "7.7.1-1.1.4",
+      "versionDate": "2024-10-06",
+      "size": 40129004,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7.1-1.1.4.ipa",
+      "developerName": "Suffuse-Team / InfusePlus",
+      "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+    },
+    {
+      "name": "InfusePro",
+      "bundleIdentifier": "com.firecore.infuse",
+      "version": "7.7.1-1.1.5",
+      "versionDate": "2024-10-06",
+      "size": 40181478,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7.1-1.1.5.ipa",
       "developerName": "Suffuse-Team / InfusePlus",
       "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 08-09-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
