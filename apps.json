@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "developerName": "AltStore Official",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
+      "versions": [
+        {
+          "version": "1.4rc",
+          "date": "2024-10-06",
+          "size": 46299284,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Delta/Delta-1.4rc.ipa",
+          "localizedDescription": "Emulator for GBA, N64, and NDS\nLast updated: 09-23-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "InstoriesPro",
       "bundleIdentifier": "ylee.studio.instories",
       "developerName": "IAppsBestLibrary",
@@ -451,6 +466,237 @@
           "size": 25156227,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.0-0.36.2.ipa",
           "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.1-0.36.3",
+          "date": "2024-10-06",
+          "size": 25439241,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.1-0.36.3.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.2.2-1.5",
+          "date": "2024-10-06",
+          "size": 41168244,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.2.2-1.5.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3-1.7.1",
+          "date": "2024-10-06",
+          "size": 38098024,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3-1.7.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.10.0",
+          "date": "2024-10-06",
+          "size": 32893347,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.10.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.10.1",
+          "date": "2024-10-06",
+          "size": 39284072,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.10.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.11.0",
+          "date": "2024-10-06",
+          "size": 40372995,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.11.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.12.0",
+          "date": "2024-10-06",
+          "size": 38585370,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.12.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.9.0",
+          "date": "2024-10-06",
+          "size": 31919714,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.9.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.1-1.9.1",
+          "date": "2024-10-06",
+          "size": 31921858,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.9.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.12.1",
+          "date": "2024-10-06",
+          "size": 38588292,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.2-1.12.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.2-1.14.0",
+          "date": "2024-10-06",
+          "size": 39714501,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.2-1.14.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.17.1",
+          "date": "2024-10-06",
+          "size": 39021872,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.3-1.17.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.18.0",
+          "date": "2024-10-06",
+          "size": 43204143,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.3-1.18.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.18.1",
+          "date": "2024-10-06",
+          "size": 45416994,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.3-1.18.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.19.0",
+          "date": "2024-10-06",
+          "size": 42049413,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.3-1.19.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.19.1",
+          "date": "2024-10-06",
+          "size": 42051554,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.3-1.19.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.3-1.20.0",
+          "date": "2024-10-06",
+          "size": 40374650,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.3-1.20.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.10.2",
+          "date": "2024-10-06",
+          "size": 57831653,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.10.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.12.0",
+          "date": "2024-10-06",
+          "size": 62035348,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.12.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.13.0",
+          "date": "2024-10-06",
+          "size": 61579466,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.13.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.14.0",
+          "date": "2024-10-06",
+          "size": 64684703,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.14.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.14.1",
+          "date": "2024-10-06",
+          "size": 64498691,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.14.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.14.2",
+          "date": "2024-10-06",
+          "size": 66283317,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.14.2.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.15.0",
+          "date": "2024-10-06",
+          "size": 66515609,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.15.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.4.0",
+          "date": "2024-10-06",
+          "size": 52507835,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.4.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.5.0",
+          "date": "2024-10-06",
+          "size": 54512215,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.5.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.6.0",
+          "date": "2024-10-06",
+          "size": 56228170,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.6.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.7.0",
+          "date": "2024-10-06",
+          "size": 50844912,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.7.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.6-2.9.0",
+          "date": "2024-10-06",
+          "size": 55166853,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.6-2.9.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.7-2.15.0",
+          "date": "2024-10-06",
+          "size": 66515609,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.7-2.15.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.7-2.16.0",
+          "date": "2024-10-06",
+          "size": 79159886,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.7-2.16.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.7-2.25.1",
+          "date": "2024-10-06",
+          "size": 79857412,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.7-2.25.1.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.3.7-3.5.0",
+          "date": "2024-10-06",
+          "size": 86620589,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.7-3.5.0.ipa",
+          "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -480,6 +726,62 @@
           "date": "2024-10-06",
           "size": 244719404,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-32.5.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.7.0-2.3",
+          "date": "2024-10-06",
+          "size": 243321888,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-33.7.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "33.8.0-2.3",
+          "date": "2024-10-06",
+          "size": 247246634,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-33.8.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.0.0-2.3",
+          "date": "2024-10-06",
+          "size": 246399232,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-34.0.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.1.0-2.3",
+          "date": "2024-10-06",
+          "size": 187256396,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-34.1.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.2.1-2.3",
+          "date": "2024-10-06",
+          "size": 246890668,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-34.2.1-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.3.1-2.3",
+          "date": "2024-10-06",
+          "size": 188239774,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-34.3.1-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "34.5.0-2.3",
+          "date": "2024-10-06",
+          "size": 247546655,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-34.5.0-2.3.ipa",
+          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "35.1.0-2.3",
+          "date": "2024-10-06",
+          "size": 256277741,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-35.1.0-2.3.ipa",
           "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
@@ -620,20 +922,6 @@
           "date": "2024-10-05",
           "size": 241035233,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-33.6.0-2.3.ipa",
-          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "33.7.0-2.3",
-          "date": "2024-10-05",
-          "size": 243321888,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-33.7.0-2.3.ipa",
-          "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "34.2.1-2.3",
-          "date": "2024-10-05",
-          "size": 246890668,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHTikTokPlus/BHTikTokPlus-34.2.1-2.3.ipa",
           "localizedDescription": "Despite being outdated, this tweak still offers a few features that are compatible with the latest versions of the app. Note: \"Change Region\" feature seems to not be working, refer to this issue + Given that updates for this tweak are unlikely to be released, you'll need to configure the tweak to your liking (using the latest stable version or lower: <=34.1.0-2.3) before installing the latest version over the stable one. (tweak will work with your settings but you won't be able to open the menu)\nLast updated: dayanch96 : 08-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
         },
         {
