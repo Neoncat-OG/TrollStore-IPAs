@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ESignNoLogs",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "5.0-1.1",
+      "versionDate": "2024-10-06",
+      "size": 8042159,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESignNoLogs/ESignNoLogs-5.0-1.1.ipa",
+      "developerName": "r/sideloaded",
+      "localizedDescription": "ESign without its telemetry.\nLast updated: 07-17-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
       "name": "Delta",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "version": "1.4rc",
