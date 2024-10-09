@@ -4,12 +4,56 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "LooraPremium",
+      "bundleIdentifier": "ai.loora.Loora-iOS",
+      "version": "1.60.2",
+      "versionDate": "2024-10-09",
+      "size": 45433750,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LooraPremium/LooraPremium-1.60.2.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Personal AI English coach to practice conversation. A user requested it so here it is.\nLast updated: 08-09-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.loora.Loora-iOS.png"
+    },
+    {
       "name": "LoopsiePro",
       "bundleIdentifier": "com.gamelounge.loopsie.ios",
       "version": "8.10.2",
       "versionDate": "2024-10-09",
       "size": 185592561,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.13.3",
+      "versionDate": "2024-10-09",
+      "size": 193293799,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.13.3.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.14.0",
+      "versionDate": "2024-10-09",
+      "size": 193302411,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.14.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
+    },
+    {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.9.2",
+      "versionDate": "2024-10-09",
+      "size": 178876940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.9.2.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
       "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png"
@@ -8527,6 +8571,17 @@
       "developerName": "Sangwan5688",
       "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png"
+    },
+    {
+      "name": "BenkyoPro",
+      "bundleIdentifier": "app.benkyo.Benkyo",
+      "version": "2.3.6",
+      "versionDate": "2024-09-27",
+      "size": 101093291,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BenkyoPro/BenkyoPro-2.3.6.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.benkyo.Benkyo.png"
     },
     {
       "name": "BenkyoPro",
