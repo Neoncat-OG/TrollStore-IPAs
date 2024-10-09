@@ -4,12 +4,67 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.1.0",
+      "versionDate": "2024-10-09",
+      "size": 93145110,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Mangayomi/Mangayomi-0.1.0.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 08-05-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png"
+    },
+    {
       "name": "MacroFactorPremium",
       "bundleIdentifier": "com.sbs.diet",
       "version": "2.7.4",
       "versionDate": "2024-10-09",
       "size": 67803633,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-2.7.4.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png"
+    },
+    {
+      "name": "MacroFactorPremium",
+      "bundleIdentifier": "com.sbs.diet",
+      "version": "2.7.9",
+      "versionDate": "2024-10-09",
+      "size": 66117942,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-2.7.9.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png"
+    },
+    {
+      "name": "MacroFactorPremium",
+      "bundleIdentifier": "com.sbs.diet",
+      "version": "2.8.10",
+      "versionDate": "2024-10-09",
+      "size": 66061420,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-2.8.10.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png"
+    },
+    {
+      "name": "MacroFactorPremium",
+      "bundleIdentifier": "com.sbs.diet",
+      "version": "2.8.14",
+      "versionDate": "2024-10-09",
+      "size": 62376119,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-2.8.14.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png"
+    },
+    {
+      "name": "MacroFactorPremium",
+      "bundleIdentifier": "com.sbs.diet",
+      "version": "3.0.0",
+      "versionDate": "2024-10-09",
+      "size": 68013392,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-3.0.0.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png"
