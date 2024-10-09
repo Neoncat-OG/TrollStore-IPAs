@@ -4,12 +4,89 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "LingoDeer",
+      "bundleIdentifier": "com.lingodeer",
+      "version": "2.9.10",
+      "versionDate": "2024-10-09",
+      "size": 162949817,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LingoDeer/LingoDeer-2.9.10.ipa",
+      "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient and effective learning. Achieve conversational fluency in 12 languages, including Korean, Japanese, Spanish, French, Italian, German, Portuguese, Chinese, Thai, Arabic, Russian, Vietnamese, and English. Full app description here\nLast updated: 08-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lingodeer.png"
+    },
+    {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "version": "1.0.8.4",
+      "versionDate": "2024-10-09",
+      "size": 17299572,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.4.ipa",
+      "developerName": "emuPlace",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
+    },
+    {
+      "name": "Limon",
+      "bundleIdentifier": "com.antique.Limon",
+      "version": "1.0.8.5",
+      "versionDate": "2024-10-09",
+      "size": 17327622,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Limon/Limon-1.0.8.5.ipa",
+      "developerName": "emuPlace",
+      "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Limon.png"
+    },
+    {
       "name": "LightroomPremium",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "version": "9.1.1",
       "versionDate": "2024-10-09",
       "size": 160822525,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.1.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png"
+    },
+    {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "version": "9.2.1",
+      "versionDate": "2024-10-09",
+      "size": 166970182,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.2.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png"
+    },
+    {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "version": "9.3.1",
+      "versionDate": "2024-10-09",
+      "size": 186320966,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.3.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png"
+    },
+    {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "version": "9.4.1",
+      "versionDate": "2024-10-09",
+      "size": 177516305,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.4.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png"
+    },
+    {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "version": "9.5.0",
+      "versionDate": "2024-10-09",
+      "size": 173915997,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.5.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png"
