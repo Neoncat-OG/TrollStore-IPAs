@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "LoopsiePro",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "developerName": "Manpreet Singh @thisismanpreeets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamelounge.loopsie.ios.png",
+      "versions": [
+        {
+          "version": "8.10.2",
+          "date": "2024-10-09",
+          "size": 185592561,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+          "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "LokLok",
+      "bundleIdentifier": "com.xoumb.mp3.video.player",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xoumb.mp3.video.player.png",
+      "versions": [
+        {
+          "version": "5.0",
+          "date": "2024-10-09",
+          "size": 22035388,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LokLok/LokLok-5.0.ipa",
+          "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754"
+        }
+      ]
+    },
+    {
       "name": "LocketWidgetGold",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "ipalibrary.me",
@@ -14,6 +44,55 @@
           "date": "2024-10-09",
           "size": 91019398,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.63.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.65.0",
+          "date": "2024-10-09",
+          "size": 91041698,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.65.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.67.0",
+          "date": "2024-10-09",
+          "size": 93639386,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.67.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.71.0",
+          "date": "2024-10-09",
+          "size": 98143607,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.71.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.75.0",
+          "date": "2024-10-09",
+          "size": 98627916,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.75.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.77.0",
+          "date": "2024-10-09",
+          "size": 98798122,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.77.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.80.0",
+          "date": "2024-10-09",
+          "size": 111520694,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.80.0.ipa",
+          "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "1.84.0",
+          "date": "2024-10-09",
+          "size": 112307887,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.84.0.ipa",
           "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: \u2705 \u2b50"
         }
       ]
