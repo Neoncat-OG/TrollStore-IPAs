@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "MacroFactorPremium",
+      "bundleIdentifier": "com.sbs.diet",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png",
+      "versions": [
+        {
+          "version": "2.7.4",
+          "date": "2024-10-09",
+          "size": 67803633,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-2.7.4.ipa",
+          "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "LyricifyMobile",
+      "bundleIdentifier": "com.wxriw.LyricifyMobile",
+      "developerName": "Lyricify-App",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png",
+      "versions": [
+        {
+          "version": "1.4.3",
+          "date": "2024-10-09",
+          "size": 23887689,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
+          "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "LooraPremium",
       "bundleIdentifier": "ai.loora.Loora-iOS",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -6406,13 +6436,6 @@
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.benkyo.Benkyo.png",
       "versions": [
-        {
-          "version": "2.3.6",
-          "date": "2024-09-27",
-          "size": 101093291,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BenkyoPro/BenkyoPro-2.3.6.ipa",
-          "localizedDescription": ""
-        },
         {
           "version": "2.3.6",
           "date": "2024-09-27",
