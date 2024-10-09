@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "LightroomPremium",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+      "versions": [
+        {
+          "version": "9.1.1",
+          "date": "2024-10-09",
+          "size": 160822525,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.1.1.ipa",
+          "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "LightleapPro",
+      "bundleIdentifier": "com.lightricks.Enlight-Photos",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Photos.png",
+      "versions": [
+        {
+          "version": "1.9.20",
+          "date": "2024-10-09",
+          "size": 247018582,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightleapPro/LightleapPro-1.9.20.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "Kodi",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "ArianaMinajj",
@@ -14,6 +44,34 @@
           "date": "2024-10-09",
           "size": 139017750,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.2.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "20.3",
+          "date": "2024-10-09",
+          "size": 139228918,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.3.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "20.5",
+          "date": "2024-10-09",
+          "size": 149514068,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.5.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "21.0",
+          "date": "2024-10-09",
+          "size": 146282653,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.0.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "21.1",
+          "date": "2024-10-09",
+          "size": 145936557,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.1.ipa",
           "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
         }
       ]
