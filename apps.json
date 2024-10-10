@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "Misaka",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
+      "versions": [
+        {
+          "version": "3.3.5",
+          "date": "2024-10-10",
+          "size": 28563166,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-3.3.5.ipa",
+          "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MessengerLSN",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "ipalibrary.me",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
+      "versions": [
+        {
+          "version": "439.0.0",
+          "date": "2024-10-10",
+          "size": 64677332,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MessengerLSN/MessengerLSN-439.0.0.ipa",
+          "localizedDescription": "Block ads, seen messages and story view notifications but it's marred by bugs like call issues and crashes and lacks customizable settings. Note: I haven't tested this because I don't have Facebook nor Messenger so please refrain from opening an issue because I won't be able to provide assistance.\nLast updated: 02-23-2024\nStatus: \u2754"
+        },
+        {
+          "version": "446.0",
+          "date": "2024-10-10",
+          "size": 69454501,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MessengerLSN/MessengerLSN-446.0.ipa",
+          "localizedDescription": "Block ads, seen messages and story view notifications but it's marred by bugs like call issues and crashes and lacks customizable settings. Note: I haven't tested this because I don't have Facebook nor Messenger so please refrain from opening an issue because I won't be able to provide assistance.\nLast updated: 02-23-2024\nStatus: \u2754"
+        }
+      ]
+    },
+    {
       "name": "MemrisePremium",
       "bundleIdentifier": "com.memrise.ios.memrisecompanion",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
@@ -14,6 +51,62 @@
           "date": "2024-10-10",
           "size": 90694453,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.11.17.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2023.12.11",
+          "date": "2024-10-10",
+          "size": 105998045,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.12.11.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2023.12.20",
+          "date": "2024-10-10",
+          "size": 105998328,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.12.20.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2023.12.6",
+          "date": "2024-10-10",
+          "size": 106107558,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.12.6.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2023.9.15",
+          "date": "2024-10-10",
+          "size": 142729185,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2023.9.15.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2024.3.28",
+          "date": "2024-10-10",
+          "size": 137326472,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2024.3.28.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2024.4.19",
+          "date": "2024-10-10",
+          "size": 83114360,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2024.4.19.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2024.5.21",
+          "date": "2024-10-10",
+          "size": 140522367,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2024.5.21.ipa",
+          "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2024.7.5",
+          "date": "2024-10-10",
+          "size": 145324596,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2024.7.5.ipa",
           "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: \u26a0\ufe0f"
         }
       ]
