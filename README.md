@@ -47,7 +47,7 @@ Releases are made by the day - new day, new release. I make a release one day an
 
 ## Announcements
 
-**(17-09-24)** **GitHub shadowbanned swaggyP36000** without any warning which resulted in him loosing all permitions to his repos. Sadly as of then all progress towards this repo has stoped
+**(17-09-24)** **GitHub shadowbanned swaggyP36000** without any warning which resulted in him losing all permissions to his repos. Sadly as of then all progress towards this repo has stopped.
 
 ---
 
