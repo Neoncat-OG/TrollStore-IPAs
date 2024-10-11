@@ -4,12 +4,89 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ObjectRemoval",
+      "bundleIdentifier": "com.skysoft.removalfree",
+      "version": "3.8.7",
+      "versionDate": "2024-10-11",
+      "size": 64666410,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
+      "developerName": "FayezUpdates",
+      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
+    },
+    {
+      "name": "OVFEditorPremium",
+      "bundleIdentifier": "com.mutaeb.OVF-Editor",
+      "version": "5.0.1",
+      "versionDate": "2024-10-11",
+      "size": 41848347,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OVFEditorPremium/OVFEditorPremium-5.0.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png"
+    },
+    {
+      "name": "OTADisabler",
+      "bundleIdentifier": "com.ichitaso.otadisablerts",
+      "version": "1.0",
+      "versionDate": "2024-10-11",
+      "size": 382202,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OTADisabler/OTADisabler-1.0.ipa",
+      "developerName": "ichitaso",
+      "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png"
+    },
+    {
       "name": "Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
       "version": "14.5",
       "versionDate": "2024-10-11",
       "size": 168598738,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Notability/Notability-14.5.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Injected with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
+    },
+    {
+      "name": "Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "14.7.10",
+      "versionDate": "2024-10-11",
+      "size": 209462046,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Notability/Notability-14.7.10.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Injected with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
+    },
+    {
+      "name": "Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "14.7.6",
+      "versionDate": "2024-10-11",
+      "size": 203537580,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Notability/Notability-14.7.6.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Injected with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
+    },
+    {
+      "name": "Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "14.8.8",
+      "versionDate": "2024-10-11",
+      "size": 204654000,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Notability/Notability-14.8.8.ipa",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "localizedDescription": "Injected with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
+    },
+    {
+      "name": "Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "14.9.2",
+      "versionDate": "2024-10-11",
+      "size": 205383803,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Notability/Notability-14.9.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
       "localizedDescription": "Injected with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gingerlabs.Notability.png"
