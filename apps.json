@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PDFitAllPlus",
+      "bundleIdentifier": "com.digiset.pdfit",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png",
+      "versions": [
+        {
+          "version": "5.1.1",
+          "date": "2024-10-11",
+          "size": 12116619,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.1.1.ipa",
+          "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "OutsidePro",
       "bundleIdentifier": "so.outside.app",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -14,6 +29,27 @@
           "date": "2024-10-11",
           "size": 66395387,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.74.0.ipa",
+          "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "0.75.16",
+          "date": "2024-10-11",
+          "size": 66485524,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.75.16.ipa",
+          "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "0.75.5",
+          "date": "2024-10-11",
+          "size": 66168001,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.75.5.ipa",
+          "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "0.76.9",
+          "date": "2024-10-11",
+          "size": 70439179,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.76.9.ipa",
           "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
         }
       ]
