@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "NGLPro",
+      "bundleIdentifier": "fun.ask",
+      "developerName": "AbodSyripa",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png",
+      "versions": [
+        {
+          "version": "6.1.117",
+          "date": "2024-10-11",
+          "size": 50645390,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.117.ipa",
+          "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.1.122",
+          "date": "2024-10-11",
+          "size": 53659706,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.122.ipa",
+          "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "MyTimetablePremium",
+      "bundleIdentifier": "fr.adriencarvalot.Timetable",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fr.adriencarvalot.Timetable.png",
+      "versions": [
+        {
+          "version": "2.6.4",
+          "date": "2024-10-11",
+          "size": 204385158,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyTimetablePremium/MyTimetablePremium-2.6.4.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "MyFitnessPalPremium",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
@@ -14,6 +51,55 @@
           "date": "2024-10-11",
           "size": 73759556,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.11.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.13.0",
+          "date": "2024-10-11",
+          "size": 77714063,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.13.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.15.0",
+          "date": "2024-10-11",
+          "size": 78126607,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.15.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.17.0",
+          "date": "2024-10-11",
+          "size": 78267994,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.17.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.23.0",
+          "date": "2024-10-11",
+          "size": 73098275,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.23.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.28.0",
+          "date": "2024-10-11",
+          "size": 73148365,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.28.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.30.0",
+          "date": "2024-10-11",
+          "size": 77477338,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.30.0.ipa",
+          "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "24.32.0",
+          "date": "2024-10-11",
+          "size": 93131122,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.32.0.ipa",
           "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: \u2705 \u2b50"
         }
       ]
