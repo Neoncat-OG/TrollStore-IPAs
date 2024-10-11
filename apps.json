@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PhotomathPlus",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
+      "versions": [
+        {
+          "version": "8.15.0",
+          "date": "2024-10-11",
+          "size": 12615196,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotomathPlus/PhotomathPlus-8.15.0.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.19.2",
+          "date": "2024-10-11",
+          "size": 13261470,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotomathPlus/PhotomathPlus-8.19.2.ipa",
+          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "PhotoleapPro",
       "bundleIdentifier": "com.lightricks.Enlight-Editor",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -14,6 +36,27 @@
           "date": "2024-10-11",
           "size": 357248206,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoleapPro/PhotoleapPro-2.71.ipa",
+          "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.85.1",
+          "date": "2024-10-11",
+          "size": 368475885,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoleapPro/PhotoleapPro-2.85.1.ipa",
+          "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.87",
+          "date": "2024-10-11",
+          "size": 368506331,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoleapPro/PhotoleapPro-2.87.ipa",
+          "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.90",
+          "date": "2024-10-11",
+          "size": 358753701,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoleapPro/PhotoleapPro-2.90.ipa",
           "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
         }
       ]
