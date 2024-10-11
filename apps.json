@@ -4,6 +4,58 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PaperPro",
+      "bundleIdentifier": "com.fiftythree.paper",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png",
+      "versions": [
+        {
+          "version": "5.4.4",
+          "date": "2024-10-11",
+          "size": 38719359,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.4.ipa",
+          "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.4.7",
+          "date": "2024-10-11",
+          "size": 63393450,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.7.ipa",
+          "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Panels3",
+      "bundleIdentifier": "es.produkt.app.panels",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/es.produkt.app.panels.png",
+      "versions": [
+        {
+          "version": "3.4.4",
+          "date": "2024-10-11",
+          "size": 48034315,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Panels3/Panels3-3.4.4.ipa",
+          "localizedDescription": "Enhance your comic reading with Panels: a clean, customizable, and feature-rich interface for your favorite titles. A user requested it so here it is.\nLast updated: 06-21-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "PandaHelper",
+      "bundleIdentifier": "com.pandahelper.deb",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pandahelper.deb.png",
+      "versions": [
+        {
+          "version": "2.3.4",
+          "date": "2024-10-11",
+          "size": 89788257,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PandaHelper/PandaHelper-2.3.4.ipa",
+          "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 11-30-2022\nStatus: \u274c"
+        }
+      ]
+    },
+    {
       "name": "PairedPremium",
       "bundleIdentifier": "io.betterhalf.app",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -2714,13 +2766,6 @@
       "developerName": "AltStore Official",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
       "versions": [
-        {
-          "version": "1.4rc",
-          "date": "2024-10-06",
-          "size": 46299284,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Delta/Delta-1.4rc.ipa",
-          "localizedDescription": "Emulator for GBA, N64, and NDS\nLast updated: 09-23-2023\nStatus: \u2705"
-        },
         {
           "version": "1.4rc",
           "date": "2024-10-06",
@@ -8912,6 +8957,20 @@
           "size": 118684980,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlightMotionPremium/AlightMotionPremium-6.2.8.ipa",
           "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.2.6",
+          "date": "2024-09-27",
+          "size": 115205137,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlightMotionPremium/AlightMotionPremium-6.2.6.ipa",
+          "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705"
+        },
+        {
+          "version": "6.2.8",
+          "date": "2024-09-27",
+          "size": 118684980,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlightMotionPremium/AlightMotionPremium-6.2.8.ipa",
+          "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705"
         }
       ]
     },
@@ -8943,27 +9002,6 @@
       "developerName": "DPixel",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
       "versions": [
-        {
-          "version": "24.15.0",
-          "date": "2024-09-27",
-          "size": 165088148,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.15.0.ipa",
-          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50"
-        },
-        {
-          "version": "24.21.1",
-          "date": "2024-09-27",
-          "size": 161819886,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.21.1.ipa",
-          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50"
-        },
-        {
-          "version": "24.22.1",
-          "date": "2024-09-27",
-          "size": 164130313,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.22.1.ipa",
-          "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50"
-        },
         {
           "version": "24.15.0",
           "date": "2024-09-27",
