@@ -4,12 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PairedPremium",
+      "bundleIdentifier": "io.betterhalf.app",
+      "version": "1.852.0",
+      "versionDate": "2024-10-11",
+      "size": 32763288,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PairedPremium/PairedPremium-1.852.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "An app designed for couples with its premium features unlocked.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/io.betterhalf.app.png"
+    },
+    {
+      "name": "PairedPremium",
+      "bundleIdentifier": "io.betterhalf.app",
+      "version": "2.0.1",
+      "versionDate": "2024-10-11",
+      "size": 30743973,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PairedPremium/PairedPremium-2.0.1.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "An app designed for couples with its premium features unlocked.\nLast updated: 07-16-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/io.betterhalf.app.png"
+    },
+    {
       "name": "PDFitAllPlus",
       "bundleIdentifier": "com.digiset.pdfit",
       "version": "5.1.1",
       "versionDate": "2024-10-11",
       "size": 12116619,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.1.1.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png"
+    },
+    {
+      "name": "PDFitAllPlus",
+      "bundleIdentifier": "com.digiset.pdfit",
+      "version": "5.2.2",
+      "versionDate": "2024-10-11",
+      "size": 15226786,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.2.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png"
@@ -3478,6 +3511,17 @@
       "developerName": "r/sideloaded",
       "localizedDescription": "ESign without its telemetry.\nLast updated: 07-17-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "version": "1.4rc",
+      "versionDate": "2024-10-06",
+      "size": 46299284,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Delta/Delta-1.4rc.ipa",
+      "developerName": "AltStore Official",
+      "localizedDescription": "Emulator for GBA, N64, and NDS\nLast updated: 09-23-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png"
     },
     {
       "name": "Delta",
@@ -11772,6 +11816,39 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "All-in-one app offering live streaming, instant intruder alerts, walkie-talkie, etc. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kalavision.alfred.png"
+    },
+    {
+      "name": "AlarmyPremium",
+      "bundleIdentifier": "droom.sleepIfUCanFree",
+      "version": "24.15.0",
+      "versionDate": "2024-09-27",
+      "size": 165088148,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.15.0.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
+    },
+    {
+      "name": "AlarmyPremium",
+      "bundleIdentifier": "droom.sleepIfUCanFree",
+      "version": "24.21.1",
+      "versionDate": "2024-09-27",
+      "size": 161819886,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.21.1.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
+    },
+    {
+      "name": "AlarmyPremium",
+      "bundleIdentifier": "droom.sleepIfUCanFree",
+      "version": "24.22.1",
+      "versionDate": "2024-09-27",
+      "size": 164130313,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.22.1.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: \u26a0\ufe0f \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png"
     },
     {
       "name": "AlarmyPremium",
