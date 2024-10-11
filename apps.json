@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "MuslimProPlus",
+      "bundleIdentifier": "com.bitsmedia.muslimpro",
+      "developerName": "IAppsBestLibrary",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bitsmedia.muslimpro.png",
+      "versions": [
+        {
+          "version": "15.2.1",
+          "date": "2024-10-11",
+          "size": 138906790,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuslimProPlus/MuslimProPlus-15.2.1.ipa",
+          "localizedDescription": "Deepen your commitment to Islam with Muslim Pro as your app companion. Enjoy a brand new experience with personalized learning and memorization tools, explore our new AI bot that can answer your Islamic questions at any time, and watch exciting Ramadan shows exclusively on Qalbox. Note: AI feature is unavailable.\nLast updated: 07-30-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "MusixmatchPremium",
+      "bundleIdentifier": "com.musixmatch.lyrics",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.musixmatch.lyrics.png",
+      "versions": [
+        {
+          "version": "7.10.8",
+          "date": "2024-10-11",
+          "size": 74673060,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+          "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "MusicAIVIP",
       "bundleIdentifier": "com.feraset.tune",
       "developerName": "Zzz Zzz",
@@ -14,6 +44,13 @@
           "date": "2024-10-11",
           "size": 49729423,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.1.5.ipa",
+          "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.2.24",
+          "date": "2024-10-11",
+          "size": 131693879,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusicAIVIP/MusicAIVIP-4.2.24.ipa",
           "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 06-23-2024\nStatus: \u2705"
         }
       ]
