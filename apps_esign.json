@@ -4,12 +4,56 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Musi",
+      "bundleIdentifier": "com.feelthemusi.musi",
+      "version": "6.2.35",
+      "versionDate": "2024-10-11",
+      "size": 19556756,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.35.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png"
+    },
+    {
+      "name": "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.1",
+      "versionDate": "2024-10-11",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MuffinStore/MuffinStore-1.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.xd.mbp31",
       "version": "11.8",
       "versionDate": "2024-10-11",
       "size": 137967748,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MovieBoxPro/MovieBoxPro-11.8.ipa",
+      "developerName": "AppDB / DPixel / IPA Fire",
+      "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
+    },
+    {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "version": "11.9",
+      "versionDate": "2024-10-11",
+      "size": 138036751,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MovieBoxPro/MovieBoxPro-11.9.ipa",
+      "developerName": "AppDB / DPixel / IPA Fire",
+      "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
+    },
+    {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "version": "13.3",
+      "versionDate": "2024-10-11",
+      "size": 36150824,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MovieBoxPro/MovieBoxPro-13.3.ipa",
       "developerName": "AppDB / DPixel / IPA Fire",
       "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
