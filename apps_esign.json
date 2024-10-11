@@ -4,12 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PhotoleapPro",
+      "bundleIdentifier": "com.lightricks.Enlight-Editor",
+      "version": "2.71",
+      "versionDate": "2024-10-11",
+      "size": 357248206,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoleapPro/PhotoleapPro-2.71.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Editor.png"
+    },
+    {
+      "name": "PhotoSyncPremium",
+      "bundleIdentifier": "com.touchbyte.PhotoSync",
+      "version": "4.9.1",
+      "versionDate": "2024-10-11",
+      "size": 59737296,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoSyncPremium/PhotoSyncPremium-4.9.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.touchbyte.PhotoSync.png"
+    },
+    {
       "name": "PhotoGridPro",
       "bundleIdentifier": "com.YunFang.PhotoGrid",
       "version": "8.8.43",
       "versionDate": "2024-10-11",
       "size": 174422692,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoGridPro/PhotoGridPro-8.8.43.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png"
+    },
+    {
+      "name": "PhotoGridPro",
+      "bundleIdentifier": "com.YunFang.PhotoGrid",
+      "version": "8.8.80",
+      "versionDate": "2024-10-11",
+      "size": 180880817,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoGridPro/PhotoGridPro-8.8.80.ipa",
       "developerName": "iApps",
       "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png"
