@@ -4,6 +4,51 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PhotoGridPro",
+      "bundleIdentifier": "com.YunFang.PhotoGrid",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png",
+      "versions": [
+        {
+          "version": "8.8.43",
+          "date": "2024-10-11",
+          "size": 174422692,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoGridPro/PhotoGridPro-8.8.43.ipa",
+          "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "developerName": "MacKed",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wiheads.paste.png",
+      "versions": [
+        {
+          "version": "4.0.1",
+          "date": "2024-10-11",
+          "size": 56774818,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paste/Paste-4.0.1.ipa",
+          "localizedDescription": "App that serves as a clipboard manager and presents a potential alternative to Copylog. Although the cracked version is a bit outdated, it still works pretty well. Note: Begin by installing it from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version.\nLast updated: 07-18-2024\nStatus: \u26a0\ufe0f \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Paperback",
+      "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png",
+      "versions": [
+        {
+          "version": "0.8.7",
+          "date": "2024-10-11",
+          "size": 10982924,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paperback/Paperback-0.8.7.ipa",
+          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "PaperPro",
       "bundleIdentifier": "com.fiftythree.paper",
       "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -21,6 +66,13 @@
           "date": "2024-10-11",
           "size": 63393450,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.7.ipa",
+          "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.4.8",
+          "date": "2024-10-11",
+          "size": 63394004,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.8.ipa",
           "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
         }
       ]
@@ -8944,20 +8996,6 @@
       "developerName": "iOS Tutorials + App Cracks",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.alightcreative.motion.png",
       "versions": [
-        {
-          "version": "6.2.6",
-          "date": "2024-09-27",
-          "size": 115205137,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlightMotionPremium/AlightMotionPremium-6.2.6.ipa",
-          "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705"
-        },
-        {
-          "version": "6.2.8",
-          "date": "2024-09-27",
-          "size": 118684980,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlightMotionPremium/AlightMotionPremium-6.2.8.ipa",
-          "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705"
-        },
         {
           "version": "6.2.6",
           "date": "2024-09-27",
