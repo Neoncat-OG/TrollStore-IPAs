@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "MotionleapPro",
+      "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Phoenix.png",
+      "versions": [
+        {
+          "version": "1.9.23",
+          "date": "2024-10-11",
+          "size": 175507184,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MotionleapPro/MotionleapPro-1.9.23.ipa",
+          "localizedDescription": "Generate art with the power of AI as Motionleap enhances images through animation, bringing them to life and creating dynamic moving visuals. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "MoovitPlus",
       "bundleIdentifier": "com.tranzmate.tranzmate1",
       "developerName": "IAppsBestLibrary",
@@ -14,6 +29,20 @@
           "date": "2024-10-11",
           "size": 85759040,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+          "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.149.0",
+          "date": "2024-10-11",
+          "size": 85840031,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.149.0.ipa",
+          "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.151.1",
+          "date": "2024-10-11",
+          "size": 85453645,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.151.1.ipa",
           "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: \u2705"
         }
       ]
