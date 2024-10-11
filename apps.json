@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "AppDB / DPixel / IPA Fire",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xd.mbp31.png",
+      "versions": [
+        {
+          "version": "11.8",
+          "date": "2024-10-11",
+          "size": 137967748,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MovieBoxPro/MovieBoxPro-11.8.ipa",
+          "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "MotionleapPro",
       "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -14,6 +29,13 @@
           "date": "2024-10-11",
           "size": 175507184,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MotionleapPro/MotionleapPro-1.9.23.ipa",
+          "localizedDescription": "Generate art with the power of AI as Motionleap enhances images through animation, bringing them to life and creating dynamic moving visuals. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.25",
+          "date": "2024-10-11",
+          "size": 179774360,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MotionleapPro/MotionleapPro-1.9.25.ipa",
           "localizedDescription": "Generate art with the power of AI as Motionleap enhances images through animation, bringing them to life and creating dynamic moving visuals. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
         }
       ]
