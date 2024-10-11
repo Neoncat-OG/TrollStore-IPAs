@@ -4,6 +4,58 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Panels3",
+      "bundleIdentifier": "es.produkt.app.panels",
+      "developerName": "iApps",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/es.produkt.app.panels.png",
+      "versions": [
+        {
+          "version": "3.4.4",
+          "date": "2024-10-11",
+          "size": 48034315,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Panels3/Panels3-3.4.4.ipa",
+          "localizedDescription": "Enhance your comic reading with Panels: a clean, customizable, and feature-rich interface for your favorite titles. A user requested it so here it is.\nLast updated: 06-21-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "PandaHelper",
+      "bundleIdentifier": "com.pandahelper.deb",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pandahelper.deb.png",
+      "versions": [
+        {
+          "version": "2.3.4",
+          "date": "2024-10-11",
+          "size": 89788257,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PandaHelper/PandaHelper-2.3.4.ipa",
+          "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 11-30-2022\nStatus: \u274c"
+        }
+      ]
+    },
+    {
+      "name": "PairedPremium",
+      "bundleIdentifier": "io.betterhalf.app",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/io.betterhalf.app.png",
+      "versions": [
+        {
+          "version": "1.852.0",
+          "date": "2024-10-11",
+          "size": 32763288,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PairedPremium/PairedPremium-1.852.0.ipa",
+          "localizedDescription": "An app designed for couples with its premium features unlocked.\nLast updated: 07-16-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.0.1",
+          "date": "2024-10-11",
+          "size": 30743973,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PairedPremium/PairedPremium-2.0.1.ipa",
+          "localizedDescription": "An app designed for couples with its premium features unlocked.\nLast updated: 07-16-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "PDFitAllPlus",
       "bundleIdentifier": "com.digiset.pdfit",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
@@ -14,6 +66,13 @@
           "date": "2024-10-11",
           "size": 12116619,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.1.1.ipa",
+          "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705"
+        },
+        {
+          "version": "5.2.2",
+          "date": "2024-10-11",
+          "size": 15226786,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.2.2.ipa",
           "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: \u2705"
         }
       ]
