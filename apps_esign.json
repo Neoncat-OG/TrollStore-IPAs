@@ -4,12 +4,122 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "OsmAndMapsPlus",
+      "bundleIdentifier": "net.osmand.maps",
+      "version": "4.7.6",
+      "versionDate": "2024-10-11",
+      "size": 101594696,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OsmAndMapsPlus/OsmAndMapsPlus-4.7.6.ipa",
+      "developerName": "Qamislo - Apps",
+      "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.1",
+      "versionDate": "2024-10-11",
+      "size": 619940,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.1.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.4",
+      "versionDate": "2024-10-11",
+      "size": 524202,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.4.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.5",
+      "versionDate": "2024-10-11",
+      "size": 525634,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.5.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.12.6",
+      "versionDate": "2024-10-11",
+      "size": 525501,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.12.6.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.13.3",
+      "versionDate": "2024-10-11",
+      "size": 563582,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.13.3.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.13.5",
+      "versionDate": "2024-10-11",
+      "size": 775574,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.13.5.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.13",
+      "versionDate": "2024-10-11",
+      "size": 624822,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener-1.13.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "version": "1.0",
+      "versionDate": "2024-10-11",
+      "size": 1813888,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Opener/Opener.ipa",
+      "developerName": "CyPwn IPA library",
+      "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 07-18-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tijo.opener.Opener.png"
+    },
+    {
       "name": "OpalPro",
       "bundleIdentifier": "com.withopal.opal",
       "version": "3.56",
       "versionDate": "2024-10-11",
       "size": 85467018,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OpalPro/OpalPro-3.56.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.withopal.opal.png"
+    },
+    {
+      "name": "OpalPro",
+      "bundleIdentifier": "com.withopal.opal",
+      "version": "3.69",
+      "versionDate": "2024-10-11",
+      "size": 136303513,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OpalPro/OpalPro-3.69.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.withopal.opal.png"
