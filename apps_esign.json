@@ -4,12 +4,45 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "OpalPro",
+      "bundleIdentifier": "com.withopal.opal",
+      "version": "3.56",
+      "versionDate": "2024-10-11",
+      "size": 85467018,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OpalPro/OpalPro-3.56.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.withopal.opal.png"
+    },
+    {
       "name": "OniriPremium",
       "bundleIdentifier": "com.sublime.capture",
       "version": "4.5.5",
       "versionDate": "2024-10-11",
       "size": 80376918,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.5.5.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png"
+    },
+    {
+      "name": "OniriPremium",
+      "bundleIdentifier": "com.sublime.capture",
+      "version": "4.5.8",
+      "versionDate": "2024-10-11",
+      "size": 80679890,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.5.8.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png"
+    },
+    {
+      "name": "OniriPremium",
+      "bundleIdentifier": "com.sublime.capture",
+      "version": "4.6.1",
+      "versionDate": "2024-10-11",
+      "size": 86011475,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.6.1.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png"
