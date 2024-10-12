@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ProcreatePocket",
+      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
+      "versions": [
+        {
+          "version": "4.0.10",
+          "date": "2024-10-12",
+          "size": 300681781,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ProcreatePocket/ProcreatePocket-4.0.10.ipa",
+          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Procreate",
       "bundleIdentifier": "au.com.savageinteractive.procreate",
       "developerName": "N/A",
