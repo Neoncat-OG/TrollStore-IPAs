@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ReFacePro",
+      "bundleIdentifier": "com.neocortext.doublicatapp",
+      "developerName": "iPAWiND",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png",
+      "versions": [
+        {
+          "version": "3.15.0",
+          "date": "2024-10-12",
+          "size": 44629260,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReFacePro/ReFacePro-3.15.0.ipa",
+          "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release. ReFace, a popular face-swap app, with pro features unlocked\nLast updated: 03-21-2023\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "RadioAppPremium",
+      "bundleIdentifier": "com.firstclass.radiofree",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png",
+      "versions": [
+        {
+          "version": "2.0.19",
+          "date": "2024-10-12",
+          "size": 35329967,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
+          "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "RadarbotPro",
       "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
@@ -14,6 +44,62 @@
           "date": "2024-10-12",
           "size": 229895957,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.12.0.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.12.4",
+          "date": "2024-10-12",
+          "size": 227257052,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.12.4.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.12.5",
+          "date": "2024-10-12",
+          "size": 221842901,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.12.5.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.13",
+          "date": "2024-10-12",
+          "size": 225458507,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.13.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.14.6",
+          "date": "2024-10-12",
+          "size": 226684744,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.14.6.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.15.12",
+          "date": "2024-10-12",
+          "size": 228246594,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.15.12.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.15.4",
+          "date": "2024-10-12",
+          "size": 227853232,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.15.4.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.15.8",
+          "date": "2024-10-12",
+          "size": 231590085,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.15.8.ipa",
+          "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
+        },
+        {
+          "version": "9.15",
+          "date": "2024-10-12",
+          "size": 227333741,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.15.ipa",
           "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705"
         }
       ]
