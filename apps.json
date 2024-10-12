@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+      "versions": [
+        {
+          "version": "21.0.2",
+          "date": "2024-10-12",
+          "size": 101722265,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsArtPlusPlus/PicsArtPlusPlus-21.0.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 08-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "PicsArtPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+      "versions": [
+        {
+          "version": "21.0.2",
+          "date": "2024-10-12",
+          "size": 101722265,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsArtPlus/PicsArtPlus-21.0.2.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "PicStitchPro",
       "bundleIdentifier": "com.bigblueclip.picstitch",
       "developerName": "Turki",
@@ -14,6 +44,13 @@
           "date": "2024-10-12",
           "size": 225086655,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicStitchPro/PicStitchPro-8.3.2.ipa",
+          "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "8.3.6",
+          "date": "2024-10-12",
+          "size": 229350417,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicStitchPro/PicStitchPro-8.3.6.ipa",
           "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
         }
       ]
