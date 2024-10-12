@@ -4,6 +4,39 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PolishPro",
+      "bundleIdentifier": "com.photoeditor.polish",
+      "version": "1.6.3",
+      "versionDate": "2024-10-12",
+      "size": 84943731,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PolishPro/PolishPro-1.6.3.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 07-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
+    },
+    {
+      "name": "PlayTally",
+      "bundleIdentifier": "com.michaelclay.BackTracks",
+      "version": "1.4.9",
+      "versionDate": "2024-10-12",
+      "size": 13254491,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayTally/PlayTally-1.4.9.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png"
+    },
+    {
+      "name": "PlayDiary",
+      "bundleIdentifier": "com.pt.playdiary",
+      "version": "1.1.0",
+      "versionDate": "2024-10-12",
+      "size": 9147929,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayDiary/PlayDiary-1.1.0.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "HDO Play's catalog under a slightly different UI. See app description for HDO Play\nLast updated: 11-10-2022\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pt.playdiary.png"
+    },
+    {
       "name": "PixelWeather",
       "bundleIdentifier": "com.woo-interactive.PixelWeather",
       "version": "7.0.2",
