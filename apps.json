@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+      "versions": [
+        {
+          "version": "6.3.5",
+          "date": "2024-10-12",
+          "size": 61336181,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.3.5.ipa",
+          "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Pyoncord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs / Sultan Mods",
@@ -14,6 +29,97 @@
           "date": "2024-10-12",
           "size": 106082919,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-223.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "224.0",
+          "date": "2024-10-12",
+          "size": 96853734,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-224.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "228.1",
+          "date": "2024-10-12",
+          "size": 99427351,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-228.1.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "229.0",
+          "date": "2024-10-12",
+          "size": 99348048,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-229.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "230.0",
+          "date": "2024-10-12",
+          "size": 99218413,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-230.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "231.0",
+          "date": "2024-10-12",
+          "size": 100860996,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-231.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "231.1",
+          "date": "2024-10-12",
+          "size": 100870252,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-231.1.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "235.0",
+          "date": "2024-10-12",
+          "size": 112173273,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-235.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "236.0",
+          "date": "2024-10-12",
+          "size": 111183311,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-236.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "236.1",
+          "date": "2024-10-12",
+          "size": 111183290,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-236.1.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "237.0",
+          "date": "2024-10-12",
+          "size": 114323285,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-237.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "241.0",
+          "date": "2024-10-12",
+          "size": 106140259,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-241.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "244.0",
+          "date": "2024-10-12",
+          "size": 115088844,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-244.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "245.0",
+          "date": "2024-10-12",
+          "size": 115153396,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-245.0.ipa",
           "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
