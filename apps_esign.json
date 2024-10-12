@@ -4,6 +4,28 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PixelWeather",
+      "bundleIdentifier": "com.woo-interactive.PixelWeather",
+      "version": "7.0.2",
+      "versionDate": "2024-10-12",
+      "size": 51998703,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PixelWeather/PixelWeather-7.0.2.ipa",
+      "developerName": "N/A",
+      "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.woo-interactive.PixelWeather.png"
+    },
+    {
+      "name": "PixelPalsPremium",
+      "bundleIdentifier": "com.christian.PixelPals",
+      "version": "2.0.13",
+      "versionDate": "2024-10-12",
+      "size": 15367632,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PixelPalsPremium/PixelPalsPremium-2.0.13.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
+      "localizedDescription": "App that offers a unique way to personalize your Home and Lock Screen with customizable, adorable pets. Note: To unlock premium press purchase then close the app, you might need to repeat the process twice. You can also reinstall the app via the AppStore as it might keep the tweak working.\nLast updated: 04-25-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.christian.PixelPals.png"
+    },
+    {
       "name": "PicsewPro",
       "bundleIdentifier": "com.sugarmo.ScrollClip",
       "version": "3.10.2",
@@ -21,6 +43,17 @@
       "versionDate": "2024-10-12",
       "size": 27292111,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsewPro/PicsewPro-3.9.4.ipa",
+      "developerName": "iOS\u5b9d\u85cf",
+      "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sugarmo.ScrollClip.png"
+    },
+    {
+      "name": "PicsewPro",
+      "bundleIdentifier": "com.sugarmo.ScrollClip",
+      "version": "3.9.7",
+      "versionDate": "2024-10-12",
+      "size": 27760811,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsewPro/PicsewPro-3.9.7.ipa",
       "developerName": "iOS\u5b9d\u85cf",
       "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sugarmo.ScrollClip.png"
@@ -11002,17 +11035,6 @@
       "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
       "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png"
-    },
-    {
-      "name": "DebToIPA",
-      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
-      "version": "1.0",
-      "versionDate": "2024-09-29",
-      "size": 3537264,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
-      "developerName": "sourcelocation / AppDB",
-      "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
     },
     {
       "name": "DebToIPA",
