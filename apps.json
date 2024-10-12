@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "PicStitchPro",
+      "bundleIdentifier": "com.bigblueclip.picstitch",
+      "developerName": "Turki",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bigblueclip.picstitch.png",
+      "versions": [
+        {
+          "version": "8.3.2",
+          "date": "2024-10-12",
+          "size": 225086655,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicStitchPro/PicStitchPro-8.3.2.ipa",
+          "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 07-18-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "PicCollageVIP",
       "bundleIdentifier": "com.cardinalblue.PicCollage",
       "developerName": "Paisseon / ArianaMinajj",
@@ -14,6 +29,20 @@
           "date": "2024-10-12",
           "size": 123215788,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.34.2.ipa",
+          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.37.2",
+          "date": "2024-10-12",
+          "size": 134802389,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.37.2.ipa",
+          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.39.1",
+          "date": "2024-10-12",
+          "size": 115179607,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.39.1.ipa",
           "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
         }
       ]
