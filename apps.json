@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Pyoncord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "pyoncord / zxcvbn's tweaked IPAs / Sultan Mods",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "223.0",
+          "date": "2024-10-12",
+          "size": 106082919,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Pyoncord/Pyoncord-223.0.ipa",
+          "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
       "name": "ProcreatePocket",
       "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
       "developerName": "N/A",
@@ -14,6 +29,20 @@
           "date": "2024-10-12",
           "size": 300681781,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ProcreatePocket/ProcreatePocket-4.0.10.ipa",
+          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.11",
+          "date": "2024-10-12",
+          "size": 302479486,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ProcreatePocket/ProcreatePocket-4.0.11.ipa",
+          "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.0.9",
+          "date": "2024-10-12",
+          "size": 296768591,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ProcreatePocket/ProcreatePocket-4.0.9.ipa",
           "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
         }
       ]
