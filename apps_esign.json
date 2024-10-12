@@ -4,12 +4,67 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "RadarbotPro",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "version": "9.12.0",
+      "versionDate": "2024-10-12",
+      "size": 229895957,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadarbotPro/RadarbotPro-9.12.0.ipa",
+      "developerName": "MeemNon / binnichtaktiv's iPA Library",
+      "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 07-12-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+    },
+    {
       "name": "QuizletPlus",
       "bundleIdentifier": "com.quizlet.quizlet",
       "version": "8.14",
       "versionDate": "2024-10-12",
       "size": 54472832,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuizletPlus/QuizletPlus-8.14.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.15",
+      "versionDate": "2024-10-12",
+      "size": 54568872,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuizletPlus/QuizletPlus-8.15.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.16",
+      "versionDate": "2024-10-12",
+      "size": 54774996,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuizletPlus/QuizletPlus-8.16.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.17",
+      "versionDate": "2024-10-12",
+      "size": 54797523,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuizletPlus/QuizletPlus-8.17.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.19",
+      "versionDate": "2024-10-12",
+      "size": 55946039,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuizletPlus/QuizletPlus-8.19.ipa",
       "developerName": "AIpalux / IPA Fire",
       "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
