@@ -4,6 +4,80 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "SharkForMessenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
+      "versions": [
+        {
+          "version": "2.2.1-311.0",
+          "date": "2024-10-13",
+          "size": 34767265,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SharkForMessenger/SharkForMessenger-2.2.1-311.0.ipa",
+          "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+        },
+        {
+          "version": "2.2.1-385.0",
+          "date": "2024-10-13",
+          "size": 44298930,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SharkForMessenger/SharkForMessenger-2.2.1-385.0.ipa",
+          "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "Shadowrocket",
+      "bundleIdentifier": "com.liguangming.Shadowrocket",
+      "developerName": "Qamislo - Apps",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.liguangming.Shadowrocket.png",
+      "versions": [
+        {
+          "version": "2.2.41",
+          "date": "2024-10-13",
+          "size": 34343960,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Shadowrocket/Shadowrocket-2.2.41.ipa",
+          "localizedDescription": "This link allow to use or potentially unlock the premium functions of many applications. Use only if you're well-versed with the process.\nLast updated: 12-19-2023\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "SenditDiamond",
+      "bundleIdentifier": "com.fullsenders.sendit",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png",
+      "versions": [
+        {
+          "version": "21.6.2",
+          "date": "2024-10-13",
+          "size": 54214503,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "SecondHand",
+      "bundleIdentifier": "com.leemin.SecondHand",
+      "developerName": "leminlimez",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.SecondHand.png",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2024-10-13",
+          "size": 2911445,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SecondHand/SecondHand-1.1.ipa",
+          "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1\nLast updated: 11-28-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.3.",
+          "date": "2024-10-13",
+          "size": 2786051,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SecondHand/SecondHand-1.3.tipa",
+          "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1\nLast updated: 11-28-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "ScannerProPlus",
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -14,6 +88,13 @@
           "date": "2024-10-13",
           "size": 121382722,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ScannerProPlus/ScannerProPlus-8.20.0.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.22.1",
+          "date": "2024-10-13",
+          "size": 181076109,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ScannerProPlus/ScannerProPlus-8.22.1.ipa",
           "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
         }
       ]
