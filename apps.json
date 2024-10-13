@@ -4,6 +4,73 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Rosiecord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "acquitelol",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "versions": [
+        {
+          "version": "155",
+          "date": "2024-10-13",
+          "size": 80707613,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-155.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "RingtoneMaker",
+      "bundleIdentifier": "com.csj.ling",
+      "developerName": "ArianaMinajj",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.csj.ling.png",
+      "versions": [
+        {
+          "version": "1.9.17",
+          "date": "2024-10-13",
+          "size": 15388388,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RingtoneMaker/RingtoneMaker-1.9.17.ipa",
+          "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.19",
+          "date": "2024-10-13",
+          "size": 17897259,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RingtoneMaker/RingtoneMaker-1.9.19.ipa",
+          "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ResolutionSetterTS",
+      "bundleIdentifier": "com.michael.resolutionsetter",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png",
+      "versions": [
+        {
+          "version": "1.3.0",
+          "date": "2024-10-13",
+          "size": 30408,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ResolutionSetterTS/ResolutionSetterTS-1.3.0.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "RemoteMousePro",
+      "bundleIdentifier": "com.remotemouse.remotemouse4free",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.remotemouse.remotemouse4free.png",
+      "versions": [
+        {
+          "version": "5.300",
+          "date": "2024-10-13",
+          "size": 38923298,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RemoteMousePro/RemoteMousePro-5.300.ipa",
+          "localizedDescription": "App to transform your iPhone into a versatile remote control. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "ReminiPro",
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "developerName": "Aboalaouy97",
@@ -14,6 +81,48 @@
           "date": "2024-10-13",
           "size": 188654192,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.10.41.ipa",
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.10.47",
+          "date": "2024-10-13",
+          "size": 191535686,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.10.47.ipa",
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.9.100",
+          "date": "2024-10-13",
+          "size": 154258812,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.100.ipa",
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.9.101",
+          "date": "2024-10-13",
+          "size": 69713882,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.101.ipa",
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.9.103",
+          "date": "2024-10-13",
+          "size": 76485486,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.103.ipa",
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.9.107",
+          "date": "2024-10-13",
+          "size": 77844357,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.107.ipa",
+          "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
+        },
+        {
+          "version": "2.9.77",
+          "date": "2024-10-13",
+          "size": 179064805,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.77.ipa",
           "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: \u2705 \u2b50"
         }
       ]
