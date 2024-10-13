@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "SnapEditPro",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "version": "5.1.5",
+      "versionDate": "2024-10-13",
+      "size": 92623522,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SnapEditPro/SnapEditPro-5.1.5.ipa",
+      "developerName": "IAppsBestLibrary",
+      "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sfun.snapedit.png"
+    },
+    {
+      "name": "SmuleVIP",
+      "bundleIdentifier": "com.smule.sing",
+      "version": "12.2.3",
+      "versionDate": "2024-10-13",
+      "size": 63283283,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SmuleVIP/SmuleVIP-12.2.3.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.smule.sing.png"
+    },
+    {
+      "name": "SmuleVIP",
+      "bundleIdentifier": "com.smule.sing",
+      "version": "12.7.5",
+      "versionDate": "2024-10-13",
+      "size": 89529530,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SmuleVIP/SmuleVIP-12.7.5.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.smule.sing.png"
+    },
+    {
+      "name": "ShowMania",
+      "bundleIdentifier": "com.showmania.co",
+      "version": "1.0.5",
+      "versionDate": "2024-10-13",
+      "size": 17483418,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ShowMania/ShowMania-1.0.5.ipa",
+      "developerName": "DPixel / Manpreet Singh @thisismanpreets",
+      "localizedDescription": "Yet another HDO Play under a different name, modded for no ads\nLast updated: 06-25-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.showmania.co.png"
+    },
+    {
       "name": "ShowBox",
       "bundleIdentifier": "com.tovuen.play",
       "version": "3.0",
@@ -1168,17 +1212,6 @@
       "developerName": "DPixel",
       "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 07-06-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.photoeditor.polish.png"
-    },
-    {
-      "name": "PlayTally",
-      "bundleIdentifier": "com.michaelclay.BackTracks",
-      "version": "1.4.9",
-      "versionDate": "2024-10-12",
-      "size": 13254491,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayTally/PlayTally-1.4.9.ipa",
-      "developerName": "N/A",
-      "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png"
     },
     {
       "name": "PlayTally",
@@ -3060,105 +3093,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "3.8.7",
-      "versionDate": "2024-10-11",
-      "size": 64666410,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.8.7.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "3.9.0",
-      "versionDate": "2024-10-11",
-      "size": 54832010,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-3.9.0.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.1.4",
-      "versionDate": "2024-10-11",
-      "size": 79934637,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.1.4.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.2.5",
-      "versionDate": "2024-10-11",
-      "size": 69320831,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.2.5.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.3.2",
-      "versionDate": "2024-10-11",
-      "size": 75831930,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.3.2.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.3.6",
-      "versionDate": "2024-10-11",
-      "size": 272114001,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.3.6.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.4.4",
-      "versionDate": "2024-10-11",
-      "size": 274711307,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.4.4.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.5.0",
-      "versionDate": "2024-10-11",
-      "size": 272401482,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.5.0.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
-    },
-    {
-      "name": "ObjectRemoval",
-      "bundleIdentifier": "com.skysoft.removalfree",
-      "version": "4.5.4",
-      "versionDate": "2024-10-11",
-      "size": 272459137,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.5.4.ipa",
-      "developerName": "FayezUpdates",
-      "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png"
     },
     {
       "name": "ObjectRemoval",
