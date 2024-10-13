@@ -4,6 +4,58 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ScannerProPlus",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+      "versions": [
+        {
+          "version": "8.20.0",
+          "date": "2024-10-13",
+          "size": 121382722,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ScannerProPlus/ScannerProPlus-8.20.0.ipa",
+          "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Salatuk",
+      "bundleIdentifier": "com.masaratapp.salatuk",
+      "developerName": "Sultan Mods",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2024-10-13",
+          "size": 54823320,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Salatuk/Salatuk-2.1.0.ipa",
+          "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.1",
+          "date": "2024-10-13",
+          "size": 42633648,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Salatuk/Salatuk-2.1.1.ipa",
+          "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "SafeLockPremium",
+      "bundleIdentifier": "com.appslab.safelock",
+      "developerName": "Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.appslab.safelock.png",
+      "versions": [
+        {
+          "version": "2.14",
+          "date": "2024-10-13",
+          "size": 16341590,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SafeLockPremium/SafeLockPremium-2.14.ipa",
+          "localizedDescription": "This app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that your confidential photo album is securely locked and protected from unauthorized viewers.\nLast updated: 04-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "SCMusicPlus",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "Rov3r",
@@ -1319,27 +1371,6 @@
       "developerName": "Paisseon / ArianaMinajj",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.cardinalblue.PicCollage.png",
       "versions": [
-        {
-          "version": "8.34.2",
-          "date": "2024-10-12",
-          "size": 123215788,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.34.2.ipa",
-          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.37.2",
-          "date": "2024-10-12",
-          "size": 134802389,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.37.2.ipa",
-          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
-        },
-        {
-          "version": "8.39.1",
-          "date": "2024-10-12",
-          "size": 115179607,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.39.1.ipa",
-          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
-        },
         {
           "version": "8.34.2",
           "date": "2024-10-12",
@@ -3870,41 +3901,6 @@
       "developerName": "ArianaMinajj",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png",
       "versions": [
-        {
-          "version": "20.2",
-          "date": "2024-10-09",
-          "size": 139017750,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.2.ipa",
-          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
-        },
-        {
-          "version": "20.3",
-          "date": "2024-10-09",
-          "size": 139228918,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.3.ipa",
-          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
-        },
-        {
-          "version": "20.5",
-          "date": "2024-10-09",
-          "size": 149514068,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.5.ipa",
-          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
-        },
-        {
-          "version": "21.0",
-          "date": "2024-10-09",
-          "size": 146282653,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.0.ipa",
-          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
-        },
-        {
-          "version": "21.1",
-          "date": "2024-10-09",
-          "size": 145936557,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.1.ipa",
-          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
-        },
         {
           "version": "20.2",
           "date": "2024-10-09",
