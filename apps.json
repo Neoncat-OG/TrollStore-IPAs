@@ -4,11 +4,33 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "RedditPlus",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "AppDB / Ed0.ipa / Jacks_Apps / level3tjg / Manpreet Singh @thisismanpreeets / Sultan Mods",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
+      "versions": [
+        {
+          "version": "2022.44.0",
+          "date": "2024-10-13",
+          "size": 141904208,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RedditPlus/RedditPlus-2022.44.0.ipa",
+          "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit. (AppleCraxkhead)\nLast updated: 07-25-2024\nStatus: \u2754"
+        }
+      ]
+    },
+    {
       "name": "ReFacePro",
       "bundleIdentifier": "com.neocortext.doublicatapp",
       "developerName": "iPAWiND",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png",
       "versions": [
+        {
+          "version": "4.18.0",
+          "date": "2024-10-13",
+          "size": 89282854,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReFacePro/ReFacePro-4.18.0.ipa",
+          "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release. ReFace, a popular face-swap app, with pro features unlocked\nLast updated: 03-21-2023\nStatus: \u26a0\ufe0f"
+        },
         {
           "version": "3.15.0",
           "date": "2024-10-12",
@@ -1684,24 +1706,24 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.otraku.app.png",
       "versions": [
         {
-          "version": "1.2.7.2-ios16",
-          "date": "2024-10-11",
+          "version": "1.2.7plus2-ios16plus",
+          "date": "2024-10-13",
           "size": 9939478,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.2.7.2-ios16.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.2.7plus2-ios16plus.ipa",
           "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 07-01-2024\nStatus: \u2705"
         },
         {
-          "version": "1.3.2-ios15.0",
-          "date": "2024-10-11",
+          "version": "1.3.2-ios15.0plus",
+          "date": "2024-10-13",
           "size": 10142193,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.3.2-ios15.0.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.3.2-ios15.0plus.ipa",
           "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 07-01-2024\nStatus: \u2705"
         },
         {
-          "version": "1.3.2-ios16.6",
-          "date": "2024-10-11",
+          "version": "1.3.2-ios16.6plus",
+          "date": "2024-10-13",
           "size": 10139292,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.3.2-ios16.6.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.3.2-ios16.6plus.ipa",
           "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 07-01-2024\nStatus: \u2705"
         }
       ]
