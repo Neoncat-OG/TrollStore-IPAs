@@ -1,4 +1,4 @@
-<h1 align="center">TrollStore-IPAs</h1>
+<h1 align="center">TrollStore-IPA</h1>
 
 <p align="center"><strong>A collection from many different sources, for TrollStore!</strong></p>
 
