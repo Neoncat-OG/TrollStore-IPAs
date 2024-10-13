@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "SCMusicPlus",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "Rov3r",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.soundcloud.TouchApp.png",
+      "versions": [
+        {
+          "version": "6.22.0-2.2.1",
+          "date": "2024-10-13",
+          "size": 61258341,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SCMusicPlus/SCMusicPlus-6.22.0-2.2.1.ipa",
+          "localizedDescription": "Improve your SoundCloud experience by eliminating advertisements, getting rid of promoted playlists, and removing upsell buttons. Installation: Download the standard SoundCloud app from the app store and sign in, then delete the app while still logged in, and use this IPA. Once installed, you can start enjoying it as you should already be logged in.\nLast updated: 12-12-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "Rosiecord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "acquitelol",
@@ -14,6 +29,62 @@
           "date": "2024-10-13",
           "size": 80707613,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-155.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "208.0",
+          "date": "2024-10-13",
+          "size": 99949821,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-208.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "209.0",
+          "date": "2024-10-13",
+          "size": 100981286,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-209.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "212.0",
+          "date": "2024-10-13",
+          "size": 101241215,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-212.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "217.0",
+          "date": "2024-10-13",
+          "size": 101230124,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-217.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "218.0",
+          "date": "2024-10-13",
+          "size": 102435896,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-218.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "219.0",
+          "date": "2024-10-13",
+          "size": 107926514,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-219.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "221.0",
+          "date": "2024-10-13",
+          "size": 108580034,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-221.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "223.0",
+          "date": "2024-10-13",
+          "size": 106773646,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-223.0.ipa",
           "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
         }
       ]
@@ -1248,6 +1319,27 @@
       "developerName": "Paisseon / ArianaMinajj",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.cardinalblue.PicCollage.png",
       "versions": [
+        {
+          "version": "8.34.2",
+          "date": "2024-10-12",
+          "size": 123215788,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.34.2.ipa",
+          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.37.2",
+          "date": "2024-10-12",
+          "size": 134802389,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.37.2.ipa",
+          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
+        {
+          "version": "8.39.1",
+          "date": "2024-10-12",
+          "size": 115179607,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicCollageVIP/PicCollageVIP-8.39.1.ipa",
+          "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        },
         {
           "version": "8.34.2",
           "date": "2024-10-12",
@@ -3778,6 +3870,41 @@
       "developerName": "ArianaMinajj",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png",
       "versions": [
+        {
+          "version": "20.2",
+          "date": "2024-10-09",
+          "size": 139017750,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.2.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "20.3",
+          "date": "2024-10-09",
+          "size": 139228918,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.3.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "20.5",
+          "date": "2024-10-09",
+          "size": 149514068,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-20.5.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "21.0",
+          "date": "2024-10-09",
+          "size": 146282653,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.0.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
+        {
+          "version": "21.1",
+          "date": "2024-10-09",
+          "size": 145936557,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.1.ipa",
+          "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: \u2754"
+        },
         {
           "version": "20.2",
           "date": "2024-10-09",
