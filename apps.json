@@ -4,6 +4,151 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "developerName": "alfiecg24",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2024-10-14",
+          "size": 6888282,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerX/TrollInstallerX-1.0.2.ipa",
+          "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1\nLast updated: 04-09-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.3",
+          "date": "2024-10-14",
+          "size": 6889214,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerX/TrollInstallerX-1.0.3.ipa",
+          "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1\nLast updated: 04-09-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollInstallerMDC",
+      "bundleIdentifier": "com.dhinakg.trollinstallermdc",
+      "developerName": "ramblings",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dhinakg.trollinstallermdc.png",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date": "2024-10-14",
+          "size": 228202,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerMDC/TrollInstallerMDC-1.0.4.ipa",
+          "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore guide for detailed instructions.\nLast updated: 12-08-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2024-10-14",
+          "size": 224603,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerMDC/TrollInstallerMDC-1.0.5.ipa",
+          "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore guide for detailed instructions.\nLast updated: 12-08-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "developerName": "Lessica / trollfools",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+      "versions": [
+        {
+          "version": "2.0-2",
+          "date": "2024-10-14",
+          "size": 28248614,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.0-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1-6",
+          "date": "2024-10-14",
+          "size": 3141310,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.1-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3-5",
+          "date": "2024-10-14",
+          "size": 3242975,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.3-5.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-1",
+          "date": "2024-10-14",
+          "size": 3247279,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-1.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-2",
+          "date": "2024-10-14",
+          "size": 3371615,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-2",
+          "date": "2024-10-14",
+          "size": 3376019,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-3",
+          "date": "2024-10-14",
+          "size": 3383534,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-3.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.6-6",
+          "date": "2024-10-14",
+          "size": 3383397,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.6-8",
+          "date": "2024-10-14",
+          "size": 3383703,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-8.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "TrollCuts",
+      "bundleIdentifier": "com.udevs.TrollCuts",
+      "developerName": "udevsharold",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2024-10-14",
+          "size": 529664,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollCuts/TrollCuts-1.1.ipa",
+          "localizedDescription": "Shortcuts extensions for iOS 16.0+\nLast updated: 01-23-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollBox",
+      "bundleIdentifier": "live.cclerc.trollbox",
+      "developerName": "c22dev",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png",
+      "versions": [
+        {
+          "version": "0.0.6a",
+          "date": "2024-10-14",
+          "size": 3510461,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollBox/TrollBox-0.0.6a.ipa",
+          "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c"
+        }
+      ]
+    },
+    {
       "name": "TrollApps",
       "bundleIdentifier": "org.resonance.store",
       "developerName": "TrollApps",
@@ -28,6 +173,13 @@
           "date": "2024-10-14",
           "size": 5205646,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3b-Hotfix2.ipa",
+          "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3b-Hotfix3",
+          "date": "2024-10-14",
+          "size": 5533915,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3b-Hotfix3.ipa",
           "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
@@ -1283,55 +1435,6 @@
           "size": 69184085,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.96.ipa",
           "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.7.42",
-          "date": "2024-10-13",
-          "size": 59961671,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.7.42.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.7.87",
-          "date": "2024-10-13",
-          "size": 62293223,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.7.87.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.8.68",
-          "date": "2024-10-13",
-          "size": 66031079,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.68.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.8.70",
-          "date": "2024-10-13",
-          "size": 66308661,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.70.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.8.86",
-          "date": "2024-10-13",
-          "size": 67759458,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.86.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.8.94",
-          "date": "2024-10-13",
-          "size": 68352416,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.94.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
-        },
-        {
-          "version": "8.8.96",
-          "date": "2024-10-13",
-          "size": 69184085,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.96.ipa",
-          "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c"
         }
       ]
     },
@@ -2370,13 +2473,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png",
       "versions": [
-        {
-          "version": "2.0.19",
-          "date": "2024-10-12",
-          "size": 35329967,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
-          "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50"
-        },
         {
           "version": "2.0.19",
           "date": "2024-10-12",
@@ -3897,27 +3993,6 @@
       "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png",
       "versions": [
-        {
-          "version": "5.4.4",
-          "date": "2024-10-11",
-          "size": 38719359,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.4.ipa",
-          "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.4.7",
-          "date": "2024-10-11",
-          "size": 63393450,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.7.ipa",
-          "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.4.8",
-          "date": "2024-10-11",
-          "size": 63394004,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.8.ipa",
-          "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705"
-        },
         {
           "version": "5.4.4",
           "date": "2024-10-11",
