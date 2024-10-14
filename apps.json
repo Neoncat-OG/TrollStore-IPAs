@@ -4,23 +4,38 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TempoPro",
+      "bundleIdentifier": "com.quvideo.VISO",
+      "developerName": "DPixel / Manpreet Singh @thisismanpreets",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quvideo.VISO.png",
+      "versions": [
+        {
+          "version": "4.46.0",
+          "date": "2024-10-14",
+          "size": 91555638,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TempoPro/TempoPro-4.46.0.ipa",
+          "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x.\nLast updated: 02-25-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "TarteelPremium",
       "bundleIdentifier": "com.iqraapp.Iqra",
       "developerName": "DPixel",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iqraapp.Iqra.png",
       "versions": [
         {
+          "version": "5.39.7",
+          "date": "2024-10-14",
+          "size": 110919920,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TarteelPremium/TarteelPremium-5.39.7.ipa",
+          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
           "version": "5.39.5",
           "date": "2024-10-13",
           "size": 104422933,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TarteelPremium/TarteelPremium-5.39.5.ipa",
-          "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "5.39.7",
-          "date": "2024-10-13",
-          "size": 110919920,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TarteelPremium/TarteelPremium-5.39.7.ipa",
           "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: \u2705"
         }
       ]
@@ -901,6 +916,13 @@
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
       "versions": [
+        {
+          "version": "12.52",
+          "date": "2024-10-14",
+          "size": 106067994,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SnapchatWicked/SnapchatWicked-12.52.ipa",
+          "localizedDescription": ""
+        },
         {
           "version": "12.59",
           "date": "2024-10-13",
