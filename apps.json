@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "developerName": "Lessica / TrollRecorder",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.10.2-280",
+          "date": "2024-10-14",
+          "size": 3898404,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollRecorder/TrollRecorder-1.10.2-280.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-25-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.3-283",
+          "date": "2024-10-14",
+          "size": 3923911,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollRecorder/TrollRecorder-1.10.3-283.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-25-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.2-291",
+          "date": "2024-10-14",
+          "size": 3932532,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollRecorder/TrollRecorder-1.12.2-291.ipa",
+          "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 07-25-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollMisaka",
+      "bundleIdentifier": "com.straight-tamago.trollmisaka",
+      "developerName": "straight-tamago",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.trollmisaka.png",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2024-10-14",
+          "size": 913060,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollMisaka/TrollMisaka-2.0.ipa",
+          "localizedDescription": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions.\nLast updated: 01-19-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "TrollLEDs",
       "bundleIdentifier": "com.ps.TrollLEDs",
       "developerName": "PoomSmart",
