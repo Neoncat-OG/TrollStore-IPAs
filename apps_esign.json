@@ -4,12 +4,188 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "version": "2.1",
+      "versionDate": "2024-10-14",
+      "size": 2127280,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.1.ipa",
+      "developerName": "TrollApps",
+      "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.resonance.store.png"
+    },
+    {
+      "name": "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "version": "2.3",
+      "versionDate": "2024-10-14",
+      "size": 5549018,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3.ipa",
+      "developerName": "TrollApps",
+      "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.resonance.store.png"
+    },
+    {
+      "name": "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "version": "2.3b-Hotfix2",
+      "versionDate": "2024-10-14",
+      "size": 5205646,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3b-Hotfix2.ipa",
+      "developerName": "TrollApps",
+      "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Below). Let users download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.resonance.store.png"
+    },
+    {
+      "name": "TrollAppDuplicator",
+      "bundleIdentifier": "com.zznq.trollappduplicator",
+      "version": "1.1",
+      "versionDate": "2024-10-14",
+      "size": 175605,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollAppDuplicator/TrollAppDuplicator-1.1.ipa",
+      "developerName": "BreakOnCrash / TrollAppDuplicator",
+      "localizedDescription": "iOS App duplicator for TS which makes it easier to copy apps (with a different bundleID).\nLast updated: 08-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zznq.trollappduplicator.png"
+    },
+    {
+      "name": "TransitRoyale",
+      "bundleIdentifier": "com.samvermette.Transit",
+      "version": "5.17.0",
+      "versionDate": "2024-10-14",
+      "size": 95381069,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TransitRoyale/TransitRoyale-5.17.0.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.samvermette.Transit.png"
+    },
+    {
+      "name": "TorBrowserPremium",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.21",
+      "versionDate": "2024-10-14",
+      "size": 124682319,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPremium/TorBrowserPremium-3.4.21.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
       "name": "TorBrowserPlusPlus",
       "bundleIdentifier": "ch.b-eng.tor",
       "version": "3.2.10",
       "versionDate": "2024-10-14",
       "size": 72628445,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.2.10.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.2.15",
+      "versionDate": "2024-10-14",
+      "size": 116146314,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.2.15.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.2.2",
+      "versionDate": "2024-10-14",
+      "size": 114511347,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.2.2.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.3.4",
+      "versionDate": "2024-10-14",
+      "size": 102332595,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.3.4.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.10",
+      "versionDate": "2024-10-14",
+      "size": 113816354,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.4.10.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.16",
+      "versionDate": "2024-10-14",
+      "size": 114150338,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.4.16.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.17",
+      "versionDate": "2024-10-14",
+      "size": 113716263,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.4.17.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.18",
+      "versionDate": "2024-10-14",
+      "size": 122722373,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.4.18.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.4.21",
+      "versionDate": "2024-10-14",
+      "size": 124682319,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.4.21.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.5.1",
+      "versionDate": "2024-10-14",
+      "size": 126629397,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.5.1.ipa",
+      "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+      "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "version": "3.5.5",
+      "versionDate": "2024-10-14",
+      "size": 130264176,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPlusPlus/TorBrowserPlusPlus-3.5.5.ipa",
       "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
       "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 08-14-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png"
@@ -1467,6 +1643,83 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
     },
     {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.7.42",
+      "versionDate": "2024-10-13",
+      "size": 59961671,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.7.42.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.7.87",
+      "versionDate": "2024-10-13",
+      "size": 62293223,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.7.87.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.8.68",
+      "versionDate": "2024-10-13",
+      "size": 66031079,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.68.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.8.70",
+      "versionDate": "2024-10-13",
+      "size": 66308661,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.70.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.8.86",
+      "versionDate": "2024-10-13",
+      "size": 67759458,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.86.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.8.94",
+      "versionDate": "2024-10-13",
+      "size": 68352416,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.94.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "SpotifyDeluxe",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.8.96",
+      "versionDate": "2024-10-13",
+      "size": 69184085,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpotifyDeluxe/SpotifyDeluxe-8.8.96.ipa",
+      "developerName": "AppDB / CyPwn IPA Library",
+      "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
       "name": "Sposilife",
       "bundleIdentifier": "com.spotify.client",
       "version": "8.5.60",
@@ -2730,6 +2983,17 @@
       "developerName": "iPAWiND",
       "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release. ReFace, a popular face-swap app, with pro features unlocked\nLast updated: 03-21-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png"
+    },
+    {
+      "name": "RadioAppPremium",
+      "bundleIdentifier": "com.firstclass.radiofree",
+      "version": "2.0.19",
+      "versionDate": "2024-10-12",
+      "size": 35329967,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png"
     },
     {
       "name": "RadioAppPremium",
@@ -4754,6 +5018,39 @@
       "developerName": "N/A",
       "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png"
+    },
+    {
+      "name": "PaperPro",
+      "bundleIdentifier": "com.fiftythree.paper",
+      "version": "5.4.4",
+      "versionDate": "2024-10-11",
+      "size": 38719359,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.4.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
+    },
+    {
+      "name": "PaperPro",
+      "bundleIdentifier": "com.fiftythree.paper",
+      "version": "5.4.7",
+      "versionDate": "2024-10-11",
+      "size": 63393450,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.7.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
+    },
+    {
+      "name": "PaperPro",
+      "bundleIdentifier": "com.fiftythree.paper",
+      "version": "5.4.8",
+      "versionDate": "2024-10-11",
+      "size": 63394004,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PaperPro/PaperPro-5.4.8.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 07-21-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
     },
     {
       "name": "PaperPro",
