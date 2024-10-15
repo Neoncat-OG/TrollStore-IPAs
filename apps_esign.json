@@ -4,12 +4,67 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "VPNERO",
+      "bundleIdentifier": "com.appyogi.vpnapp",
+      "version": "1.1.29",
+      "versionDate": "2024-10-15",
+      "size": 214236344,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VPNERO/VPNERO-1.1.29.ipa",
+      "developerName": "iApps",
+      "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 12-23-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.appyogi.vpnapp.png"
+    },
+    {
+      "name": "UsagePro",
+      "bundleIdentifier": "com.olegst.usage",
+      "version": "4.20.3",
+      "versionDate": "2024-10-15",
+      "size": 19232013,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/UsagePro/UsagePro-4.20.3.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.olegst.usage.png"
+    },
+    {
+      "name": "UsagePro",
+      "bundleIdentifier": "com.olegst.usage",
+      "version": "4.20.5",
+      "versionDate": "2024-10-15",
+      "size": 20484617,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/UsagePro/UsagePro-4.20.5.ipa",
+      "developerName": "AbodSyripa",
+      "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.olegst.usage.png"
+    },
+    {
+      "name": "UTMHV",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "version": "4.5.4",
+      "versionDate": "2024-10-15",
+      "size": 122065094,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/UTMHV/UTMHV-4.5.4.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.utmapp.UTM.png"
+    },
+    {
       "name": "TwitchToolbox",
       "bundleIdentifier": "tv.twitch",
       "version": "14.2",
       "versionDate": "2024-10-15",
       "size": 74624303,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchToolbox/TwitchToolbox-14.2.ipa",
+      "developerName": "AppDB / DPixel",
+      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
+      "name": "TwitchToolbox",
+      "bundleIdentifier": "tv.twitch",
+      "version": "14.3",
+      "versionDate": "2024-10-15",
+      "size": 210513268,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchToolbox/TwitchToolbox-14.3.ipa",
       "developerName": "AppDB / DPixel",
       "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png"
@@ -15886,6 +15941,17 @@
       "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
       "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png"
+    },
+    {
+      "name": "DramasFlic",
+      "bundleIdentifier": "com.bonov.sensial",
+      "version": "4.0",
+      "versionDate": "2024-09-29",
+      "size": 17727292,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramasFlic/DramasFlic-4.0.ipa",
+      "developerName": "DPixel",
+      "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bonov.sensial.png"
     },
     {
       "name": "DramasFlic",
