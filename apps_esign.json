@@ -4,6 +4,50 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "WaterMinderPremium",
+      "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
+      "version": "6.4.11",
+      "versionDate": "2024-10-15",
+      "size": 522405516,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WaterMinderPremium/WaterMinderPremium-6.4.11.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 07-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
+    },
+    {
+      "name": "WaterMinder",
+      "bundleIdentifier": "com.waterminder.waterminder",
+      "version": "6.5.15-1721750405",
+      "versionDate": "2024-10-15",
+      "size": 206981419,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WaterMinder/WaterMinder-6.5.15-1721750405.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.waterminder.waterminder.png"
+    },
+    {
+      "name": "Watching",
+      "bundleIdentifier": "com.34306.watching",
+      "version": "1.0",
+      "versionDate": "2024-10-15",
+      "size": 3103136,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watching/Watching-1.0.ipa",
+      "developerName": "34306",
+      "localizedDescription": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose.\nLast updated: 03-17-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.watching.png"
+    },
+    {
+      "name": "WallpapersforDynamicIsland",
+      "bundleIdentifier": "com.dynamicisland.app",
+      "version": "1.9.1",
+      "versionDate": "2024-10-15",
+      "size": 34490423,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WallpapersforDynamicIsland/WallpapersforDynamicIsland-1.9.1.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dynamicisland.app.png"
+    },
+    {
       "name": "WallcraftPro",
       "bundleIdentifier": "com.wallpaperscraft.wallpapers",
       "version": "3.12",
