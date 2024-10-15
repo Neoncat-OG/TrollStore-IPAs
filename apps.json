@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa / ArianaMinajj",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png",
+      "versions": [
+        {
+          "version": "14.2",
+          "date": "2024-10-15",
+          "size": 72655342,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchPlus/TwitchPlus-14.2.ipa",
+          "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 08-13-2024\nStatus: \u2705 \u2b50"
+        }
+      ]
+    },
+    {
       "name": "TwitchDvnloaderPlus",
       "bundleIdentifier": "tv.twitch",
       "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
@@ -14,6 +29,27 @@
           "date": "2024-10-15",
           "size": 90187568,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-17.5.1.ipa",
+          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "20.5.3-0.1.4-0.0.2",
+          "date": "2024-10-15",
+          "size": 92699005,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-20.5.3-0.1.4-0.0.2.ipa",
+          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "20.7-0.1.4-0.0.2",
+          "date": "2024-10-15",
+          "size": 94188213,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-20.7-0.1.4-0.0.2.ipa",
+          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "20.8.1-0.1.4-0.0.2",
+          "date": "2024-10-15",
+          "size": 94845665,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-20.8.1-0.1.4-0.0.2.ipa",
           "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
