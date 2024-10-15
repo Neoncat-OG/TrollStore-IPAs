@@ -4,12 +4,67 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TwitchDvnloaderPlus",
+      "bundleIdentifier": "tv.twitch",
+      "version": "17.5.1",
+      "versionDate": "2024-10-15",
+      "size": 90187568,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-17.5.1.ipa",
+      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
+      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
+      "name": "TwitchAdBlock",
+      "bundleIdentifier": "tv.twitch",
+      "version": "0.1.0-Twitch-17.3",
+      "versionDate": "2024-10-15",
+      "size": 104676718,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchAdBlock/TwitchAdBlock-0.1.0-Twitch-17.3.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
+      "name": "TurboVPN",
+      "bundleIdentifier": "com.allconnected.turbovpn",
+      "version": "2.9.16",
+      "versionDate": "2024-10-15",
+      "size": 58002559,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TurboVPN/TurboVPN-2.9.16.ipa",
+      "developerName": "KAMO HACkS",
+      "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 03-24-2023\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.allconnected.turbovpn.png"
+    },
+    {
       "name": "TruecallerPremium",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "version": "12.69.6",
       "versionDate": "2024-10-15",
       "size": 88640952,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.69.6.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png"
+    },
+    {
+      "name": "TruecallerPremium",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "version": "12.75.4",
+      "versionDate": "2024-10-15",
+      "size": 94163248,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.75.4.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png"
+    },
+    {
+      "name": "TruecallerPremium",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "version": "12.76.6",
+      "versionDate": "2024-10-15",
+      "size": 97623150,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.76.6.ipa",
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png"
