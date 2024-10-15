@@ -4,6 +4,39 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TruecallerPremium",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "version": "12.69.6",
+      "versionDate": "2024-10-15",
+      "size": 88640952,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.69.6.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png"
+    },
+    {
+      "name": "TruckerPathDiamond",
+      "bundleIdentifier": "com.Trucker-Path-Pro",
+      "version": "6.3.9",
+      "versionDate": "2024-10-15",
+      "size": 362820172,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruckerPathDiamond/TruckerPathDiamond-6.3.9.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Trucker-Path-Pro.png"
+    },
+    {
+      "name": "TruckerPathDiamond",
+      "bundleIdentifier": "com.Trucker-Path-Pro",
+      "version": "6.4.2",
+      "versionDate": "2024-10-15",
+      "size": 367685736,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruckerPathDiamond/TruckerPathDiamond-6.4.2.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Trucker-Path-Pro.png"
+    },
+    {
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
       "version": "1.10.1",
@@ -510,17 +543,6 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
     },
     {
-      "name": "TrollMisaka",
-      "bundleIdentifier": "com.straight-tamago.trollmisaka",
-      "version": "2.0",
-      "versionDate": "2024-10-14",
-      "size": 913060,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollMisaka/TrollMisaka-2.0.ipa",
-      "developerName": "straight-tamago",
-      "localizedDescription": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions.\nLast updated: 01-19-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.trollmisaka.png"
-    },
-    {
       "name": "TrollLEDs",
       "bundleIdentifier": "com.ps.TrollLEDs",
       "version": "1.1.0",
@@ -601,7 +623,7 @@
       "name": "TrollInstallerX",
       "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "version": "1.0.3",
-      "versionDate": "2024-10-14",
+      "versionDate": "2024-10-15",
       "size": 6889214,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerX/TrollInstallerX-1.0.3.ipa",
       "developerName": "alfiecg24",
@@ -1473,6 +1495,39 @@
       "versionDate": "2024-10-14",
       "size": 240534450,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TikTokDark/TikTokDark-33.7.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
+      "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "33.8.0",
+      "versionDate": "2024-10-15",
+      "size": 247341888,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TikTokDark/TikTokDark-33.8.0.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
+      "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "33.9.1",
+      "versionDate": "2024-10-15",
+      "size": 245866237,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TikTokDark/TikTokDark-33.9.1.ipa",
+      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
+      "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "34.1.0",
+      "versionDate": "2024-10-15",
+      "size": 247020127,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TikTokDark/TikTokDark-34.1.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
       "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 08-08-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
