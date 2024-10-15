@@ -4,6 +4,51 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "VSCOLion",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "developerName": "ipahost / KZStore*",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+      "versions": [
+        {
+          "version": "1.4-282.0",
+          "date": "2024-10-15",
+          "size": 114260647,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VSCOLion/VSCOLion-1.4-282.0.ipa",
+          "localizedDescription": "VSCO, injected with the tweak Lion by Michael Lema. Allows for saving pretty much all media by long-pressing on them. Few things to note: If you're jailbroken, fully disable tweak injection into VSCO using Choicy. Signing in through Apple and Google don't work (clicking Apple does nothing, clicking Google causes a crash). If you need to sign in this way, create a backup of VSCO from the App Store using either Apps Manager or Crane, depending on if your phone is jailbroken or not, while signed in before installing this ipa through TrollStore. This version also does not include dark mode. All other features should be the same\nLast updated: 12-03-2022\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
+      "name": "VPNSatoshi",
+      "bundleIdentifier": "com.vpnsatoshi.vpnsatoshiapp",
+      "developerName": "binnichtaktiv's iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.vpnsatoshi.vpnsatoshiapp.png",
+      "versions": [
+        {
+          "version": "2.4",
+          "date": "2024-10-15",
+          "size": 36949562,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VPNSatoshi/VPNSatoshi-2.4.ipa",
+          "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 03-27-2024\nStatus: \u274c"
+        }
+      ]
+    },
+    {
+      "name": "VPNPremium",
+      "bundleIdentifier": "vpn.vpn.proxy",
+      "developerName": "HertzSign iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/vpn.vpn.proxy.png",
+      "versions": [
+        {
+          "version": "3.17",
+          "date": "2024-10-15",
+          "size": 53032655,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VPNPremium/VPNPremium-3.17.ipa",
+          "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 12-19-2023\nStatus: \u274c"
+        }
+      ]
+    },
+    {
       "name": "VPNERO",
       "bundleIdentifier": "com.appyogi.vpnapp",
       "developerName": "iApps",
@@ -12056,13 +12101,6 @@
       "developerName": "DPixel",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bonov.sensial.png",
       "versions": [
-        {
-          "version": "4.0",
-          "date": "2024-09-29",
-          "size": 17727292,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramasFlic/DramasFlic-4.0.ipa",
-          "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: \u26a0\ufe0f"
-        },
         {
           "version": "4.0",
           "date": "2024-09-29",
