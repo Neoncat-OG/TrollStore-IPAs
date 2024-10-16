@@ -4,12 +4,100 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "WebVideoCasterPremium",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "1.40",
+      "versionDate": "2024-10-16",
+      "size": 22505251,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebVideoCasterPremium/WebVideoCasterPremium-1.40.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
+      "name": "WebVideoCasterPremium",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "version": "2.31",
+      "versionDate": "2024-10-16",
+      "size": 42115601,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebVideoCasterPremium/WebVideoCasterPremium-2.31.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.instantbits.cast.webvideo.png"
+    },
+    {
+      "name": "WebSSHPro",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "26.4",
+      "versionDate": "2024-10-16",
+      "size": 34019480,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-26.4.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
+    },
+    {
+      "name": "WebSSHPro",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "26.6",
+      "versionDate": "2024-10-16",
+      "size": 29762304,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-26.6.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
+    },
+    {
+      "name": "WebSSHPro",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "27.0",
+      "versionDate": "2024-10-16",
+      "size": 29733439,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-27.0.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
+    },
+    {
+      "name": "WebSSHPro",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "27.2",
+      "versionDate": "2024-10-16",
+      "size": 29806544,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-27.2.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
+    },
+    {
+      "name": "WebSSHPro",
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "version": "27.3",
+      "versionDate": "2024-10-16",
+      "size": 30018133,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-27.3.ipa",
+      "developerName": "binnichtaktiv's iPA Library",
+      "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png"
+    },
+    {
       "name": "WeatherSuper",
       "bundleIdentifier": "com.andyworks.weather",
       "version": "3.23",
       "versionDate": "2024-10-16",
       "size": 120244159,
       "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherSuper/WeatherSuper-3.23.ipa",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
+      "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: \u2705 \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.andyworks.weather.png"
+    },
+    {
+      "name": "WeatherSuper",
+      "bundleIdentifier": "com.andyworks.weather",
+      "version": "3.28",
+      "versionDate": "2024-10-16",
+      "size": 99578038,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherSuper/WeatherSuper-3.28.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
       "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: \u2705 \u2b50",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.andyworks.weather.png"
@@ -4094,6 +4182,61 @@
       "developerName": "jarrodnorwell",
       "localizedDescription": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulkan rendering, coded in C++, Objective-C, and Swift. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 03-15-2024\nStatus: \u274c",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Sudachi.png"
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "version": "3.3.1",
+      "versionDate": "2024-10-13",
+      "size": 66861189,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.3.1.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leomehlig.today.png"
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "version": "3.4.0",
+      "versionDate": "2024-10-13",
+      "size": 96898251,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.4.0.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leomehlig.today.png"
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "version": "3.5.0",
+      "versionDate": "2024-10-13",
+      "size": 91278791,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.5.0.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leomehlig.today.png"
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "version": "3.6.1",
+      "versionDate": "2024-10-13",
+      "size": 98049171,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.6.1.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leomehlig.today.png"
+    },
+    {
+      "name": "StructuredPro",
+      "bundleIdentifier": "com.leomehlig.today",
+      "version": "3.6.2",
+      "versionDate": "2024-10-13",
+      "size": 83886080,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.6.2.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leomehlig.today.png"
     },
     {
       "name": "StructuredPro",
@@ -13787,6 +13930,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
     },
     {
+      "name": "Antoine",
+      "bundleIdentifier": "com.serena.Antoine",
+      "version": "1.3.tipa.ipa.",
+      "versionDate": "2024-10-03",
+      "size": 1623275,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Antoine/Antoine-1.3.tipa.ipa.tipa",
+      "developerName": "SerenaKit",
+      "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.serena.Antoine.png"
+    },
+    {
       "name": "AnimeNow",
       "bundleIdentifier": "com.errorerrorerror.animenow",
       "version": "1.0.0b1",
@@ -17987,28 +18141,6 @@
       "developerName": "retr0devops",
       "localizedDescription": "A standalone, straightforward one-click cracking tool for CopyLog. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.retr0dev.cracker.png"
-    },
-    {
-      "name": "ConceptsPro",
-      "bundleIdentifier": "com.tophatch.Concepts",
-      "version": "6.14.2",
-      "versionDate": "2024-09-28",
-      "size": 103333803,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ConceptsPro/ConceptsPro-6.14.2.ipa",
-      "developerName": "Paisseon",
-      "localizedDescription": "This app is a versatile vector-based sketchbook that allows you to transform your ideas from concept to reality. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tophatch.Concepts.png"
-    },
-    {
-      "name": "ConceptsPro",
-      "bundleIdentifier": "com.tophatch.Concepts",
-      "version": "6.15.1",
-      "versionDate": "2024-09-28",
-      "size": 103478223,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ConceptsPro/ConceptsPro-6.15.1.ipa",
-      "developerName": "Paisseon",
-      "localizedDescription": "This app is a versatile vector-based sketchbook that allows you to transform your ideas from concept to reality. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tophatch.Concepts.png"
     },
     {
       "name": "ConceptsPro",
