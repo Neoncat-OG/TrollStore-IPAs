@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "YTKillerPlusPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "19.08.2-2.4.0",
+      "versionDate": "2024-10-16",
+      "size": 111271156,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YTKillerPlusPlus/YTKillerPlusPlus-19.08.2-2.4.0.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+    },
+    {
       "name": "YTKillerPlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.01.1-2.3.5",
