@@ -4,6 +4,51 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "iPoGo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "ipogo",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+      "versions": [
+        {
+          "version": "2.7.5",
+          "date": "2024-10-17",
+          "size": 115862609,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iPoGo/iPoGo-2.7.5.ipa",
+          "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-15-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "appdb",
+      "bundleIdentifier": "it.ned.appdb-ios",
+      "developerName": "n3d1117",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/it.ned.appdb-ios.png",
+      "versions": [
+        {
+          "version": "1.1.6",
+          "date": "2024-10-17",
+          "size": 23229778,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/appdb/appdb-1.1.6.ipa",
+          "localizedDescription": "Comprehensive iOS client for AppDB, compatible with iOS 10 and up.\nLast updated: 12-12-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "ZiniTeviPlusPlus",
+      "bundleIdentifier": "jb.zini.tevi",
+      "developerName": "AppDB",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jb.zini.tevi.png",
+      "versions": [
+        {
+          "version": "1.5.0",
+          "date": "2024-10-17",
+          "size": 7948926,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ZiniTeviPlusPlus/ZiniTeviPlusPlus-1.5.0.ipa",
+          "localizedDescription": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f"
+        }
+      ]
+    },
+    {
       "name": "YukaPremium",
       "bundleIdentifier": "yuca.scanner",
       "developerName": "iOS Tutorials + App Cracks",
@@ -14,6 +59,34 @@
           "date": "2024-10-17",
           "size": 121466871,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.34.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.35",
+          "date": "2024-10-17",
+          "size": 123092775,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.35.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.36",
+          "date": "2024-10-17",
+          "size": 128066428,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.36.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.37",
+          "date": "2024-10-17",
+          "size": 128090889,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.37.ipa",
+          "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "4.39",
+          "date": "2024-10-17",
+          "size": 137085186,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.39.ipa",
           "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
