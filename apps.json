@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "onesecpro",
+      "bundleIdentifier": "wtf.riedel.one-sec",
+      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wtf.riedel.one-sec.png",
+      "versions": [
+        {
+          "version": "3.10",
+          "date": "2024-10-17",
+          "size": 113179055,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/onesecpro/onesecpro-3.10.ipa",
+          "localizedDescription": "App that helps you taking a deep breath before accessing selected websites or apps (like Twitter, YouTube, Instagram), disrupting immediate social media habits and introducing a deliberate pause to reduce usage over time. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "nPlayerPlus",
+      "bundleIdentifier": "com.newin.nplayer",
+      "developerName": "iOSGods!",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.newin.nplayer.png",
+      "versions": [
+        {
+          "version": "3.12.17",
+          "date": "2024-10-17",
+          "size": 42439541,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/nPlayerPlus/nPlayerPlus-3.12.17.ipa",
+          "localizedDescription": "Having received positive reviews about nPlayer, I'm posting it here as a potential alternative of Infuse!\nLast updated: 12-19-2023\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "inshot",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "",
@@ -14,6 +44,13 @@
           "date": "2024-10-17",
           "size": 128843318,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/inshot/inshot-1.72.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.74.0",
+          "date": "2024-10-17",
+          "size": 142979578,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/inshot/inshot-1.74.0.ipa",
           "localizedDescription": ""
         }
       ]
@@ -13338,6 +13375,160 @@
           "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
         },
         {
+          "version": "2.1.4-153.0",
+          "date": "2024-10-09",
+          "size": 78691336,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.1.4-153.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-155.0",
+          "date": "2024-10-09",
+          "size": 79750354,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.1.4-155.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1.4-158.0",
+          "date": "2024-10-09",
+          "size": 134818918,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.1.4-158.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.5-175.0",
+          "date": "2024-10-09",
+          "size": 87875691,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.5-175.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-177.1",
+          "date": "2024-10-09",
+          "size": 90036977,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-184.0",
+          "date": "2024-10-09",
+          "size": 99992444,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-184.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-190.0",
+          "date": "2024-10-09",
+          "size": 96341212,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-190.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-194.0",
+          "date": "2024-10-09",
+          "size": 103897880,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-194.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-195.0",
+          "date": "2024-10-09",
+          "size": 108435829,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-195.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-206.0",
+          "date": "2024-10-09",
+          "size": 97983202,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-206.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-207.0",
+          "date": "2024-10-09",
+          "size": 94194608,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-207.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-209.0",
+          "date": "2024-10-09",
+          "size": 94971519,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-209.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-213.1",
+          "date": "2024-10-09",
+          "size": 95239142,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-213.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-218",
+          "date": "2024-10-09",
+          "size": 96424709,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-218.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-231.1",
+          "date": "2024-10-09",
+          "size": 104499137,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-231.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-234.0",
+          "date": "2024-10-09",
+          "size": 110987837,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-234.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-236.0",
+          "date": "2024-10-09",
+          "size": 114805387,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-236.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-240.0",
+          "date": "2024-10-09",
+          "size": 117875524,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-240.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6-245.0",
+          "date": "2024-10-09",
+          "size": 117068980,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6-245.0.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "177.1",
+          "date": "2024-09-29",
+          "size": 95348126,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-177.1.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.6",
+          "date": "2024-09-29",
+          "size": 100528562,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity-2.2.6.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2024-09-29",
+          "size": 76682774,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Enmity/Enmity.ipa",
+          "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 08-11-2024\nStatus: \u2705"
+        },
+        {
           "version": "177.1",
           "date": "2024-09-29",
           "size": 95348126,
@@ -14615,27 +14806,6 @@
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iPwners.Plonkan.png",
       "versions": [
-        {
-          "version": "11.40",
-          "date": "2024-09-28",
-          "size": 61974006,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BuddyPremium/BuddyPremium-11.40.ipa",
-          "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "11.48",
-          "date": "2024-09-28",
-          "size": 62616712,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BuddyPremium/BuddyPremium-11.48.ipa",
-          "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
-        },
-        {
-          "version": "12.3",
-          "date": "2024-09-28",
-          "size": 62843443,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BuddyPremium/BuddyPremium-12.3.ipa",
-          "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 07-12-2024\nStatus: \u2705 \u2b50"
-        },
         {
           "version": "11.40",
           "date": "2024-09-28",
