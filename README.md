@@ -36,6 +36,8 @@
 
 ---
 
+*Thanks to [Trick-Minimum](https://github.com/TestAccountFooBar) for uploading all apps from Swaggy's repo to this one.
+
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.* 
 
 *Many thanks to [Cleover](https://github.com/Cleover) / [Team](https://github.com/TheResonanceTeam) for their diligent work in providing a functional version of [TrollApps](https://github.com/TheResonanceTeam/TrollApps).*
