@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "ipogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "version": "3.6.0",
+      "versionDate": "2024-11-14",
+      "size": 149124005,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/ipogo-3.6.0.ipa",
+      "developerName": "ipogo",
+      "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-15-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+    },
+    {
+      "name": "TRApp_2.7",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "version": "422.",
+      "versionDate": "2024-11-14",
+      "size": 4877044,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TRApp_2.7-422.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+    },
+    {
+      "name": "TrollBox_0.2.",
+      "bundleIdentifier": "live.cclerc.trollbox",
+      "version": "1.0",
+      "versionDate": "2024-11-14",
+      "size": 26633972,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollBox_0.2.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png"
+    },
+    {
+      "name": "TrollFools_2.8",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "version": "15.",
+      "versionDate": "2024-11-14",
+      "size": 3304212,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollFools_2.8-15.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png"
+    },
+    {
+      "name": "TrollSpeed_1.12.1.",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "version": "1.0",
+      "versionDate": "2024-11-14",
+      "size": 162585,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed_1.12.1.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png"
+    },
+    {
       "name": "soundcloud",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "version": "6.22.0-scmusicplus-2.2.1",
