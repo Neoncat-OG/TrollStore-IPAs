@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Bunny_253",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "1.0",
+      "versionDate": "2024-11-15",
+      "size": 100751235,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Bunny_253.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
+      "name": "EeveeSpotify_8.9.90",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "1.0",
+      "versionDate": "2024-11-15",
+      "size": 81248061,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/EeveeSpotify_8.9.90.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png"
+    },
+    {
+      "name": "Geranium_1.1.3.",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "version": "1.0",
+      "versionDate": "2024-11-15",
+      "size": 6100320,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Geranium_1.1.3.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png"
+    },
+    {
+      "name": "Helium_3.2.5.",
+      "bundleIdentifier": "com.leemin.helium",
+      "version": "1.0",
+      "versionDate": "2024-11-15",
+      "size": 4168281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Helium_3.2.5.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png"
+    },
+    {
+      "name": "Rosiecord_255",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "1.0",
+      "versionDate": "2024-11-15",
+      "size": 101872820,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Rosiecord_255.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
       "name": "ipogo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "version": "3.6.0",
