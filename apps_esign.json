@@ -4,6 +4,61 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "CarTube_1.3",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "version": "1.0",
+      "versionDate": "2024-11-17",
+      "size": 574441,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube_1.3.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
+    },
+    {
+      "name": "CarTube_1.3.",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "version": "1.0",
+      "versionDate": "2024-11-17",
+      "size": 574441,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube_1.3.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png"
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "version": "HV_4.5.4",
+      "versionDate": "2024-11-17",
+      "size": 122065094,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/UTM-HV_4.5.4.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.utmapp.UTM.png"
+    },
+    {
+      "name": "Watusi3",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "version": "Business_1.2.44",
+      "versionDate": "2024-11-17",
+      "size": 123464575,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3-Business_1.2.44.ipa",
+      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb",
+      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
+      "name": "Watusi3_1.2.44",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "version": "1.0",
+      "versionDate": "2024-11-17",
+      "size": 116653116,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3_1.2.44.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+    },
+    {
       "name": "Bunny_253",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "version": "1.0",

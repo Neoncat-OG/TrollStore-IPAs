@@ -4,6 +4,522 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "CarTube_1.3",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-11-17",
+          "size": 574441,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube_1.3.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "CarTube_1.3.",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-11-17",
+          "size": 574441,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube_1.3.tipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.utmapp.UTM.png",
+      "versions": [
+        {
+          "version": "HV_4.5.4",
+          "date": "2024-11-17",
+          "size": 122065094,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/UTM-HV_4.5.4.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Watusi3",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
+      "versions": [
+        {
+          "version": "Business_1.2.44",
+          "date": "2024-11-17",
+          "size": 123464575,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3-Business_1.2.44.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.3.70-1.2.20-3.4.4",
+          "date": "2024-10-16",
+          "size": 108152204,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.3.70-1.2.20-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.4.3-1.2.21-3.4.4",
+          "date": "2024-10-16",
+          "size": 102073924,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.4.3-1.2.21-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.4.78-1.2.25-3.4.4",
+          "date": "2024-10-16",
+          "size": 101991866,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.4.78-1.2.25-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.5.4-1.2.25-3.4.4",
+          "date": "2024-10-16",
+          "size": 102348759,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.5.4-1.2.25-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.5.75-1.2.25-3.4.4",
+          "date": "2024-10-16",
+          "size": 100709750,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.5.75-1.2.25-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.6.77-1.2.27-3.4.4",
+          "date": "2024-10-16",
+          "size": 105418918,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.6.77-1.2.27-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.6.78-1.2.29-3.4.4",
+          "date": "2024-10-16",
+          "size": 103814317,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.6.78-1.2.29-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.7.79-1.2.30-3.4.4",
+          "date": "2024-10-16",
+          "size": 104801350,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.7.79-1.2.30-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.8.77-1.2.30-3.4.4",
+          "date": "2024-10-16",
+          "size": 103040494,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.8.77-1.2.30-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.8.80-1.2.30-3.4.4",
+          "date": "2024-10-16",
+          "size": 101663808,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.8.80-1.2.30-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.21.27",
+          "date": "2024-10-15",
+          "size": 82165456,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-22.21.27.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.1.75",
+          "date": "2024-10-15",
+          "size": 91998110,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.1.75.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.10.76",
+          "date": "2024-10-15",
+          "size": 100563527,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.10.76.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.12.71",
+          "date": "2024-10-15",
+          "size": 101962327,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.12.71.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.12.76",
+          "date": "2024-10-15",
+          "size": 105959446,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.12.76.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.14.0",
+          "date": "2024-10-15",
+          "size": 102817118,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.14.0.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.14.79",
+          "date": "2024-10-15",
+          "size": 81350176,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.14.79.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.14.82",
+          "date": "2024-10-15",
+          "size": 100871259,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.14.82.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.15.0",
+          "date": "2024-10-15",
+          "size": 82209996,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.15.0.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.15.78-1.2",
+          "date": "2024-10-15",
+          "size": 73235853,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.15.78-1.2.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.15.78",
+          "date": "2024-10-15",
+          "size": 76031723,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.15.78.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.16.0-1.2",
+          "date": "2024-10-15",
+          "size": 83554261,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.16.0-1.2.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.16.78-1.2",
+          "date": "2024-10-15",
+          "size": 97147281,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.16.78-1.2.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.17.0-1.2",
+          "date": "2024-10-15",
+          "size": 74349431,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.0-1.2.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.17.78-1.2.1",
+          "date": "2024-10-15",
+          "size": 102599442,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.78-1.2.1.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.17.78-1.2",
+          "date": "2024-10-15",
+          "size": 75874909,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.78-1.2.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.17.81-1.2.1",
+          "date": "2024-10-15",
+          "size": 93508949,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.81-1.2.1.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.18.75-1.2.1",
+          "date": "2024-10-15",
+          "size": 103310768,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.18.75-1.2.1.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.18.78-1.2.1",
+          "date": "2024-10-15",
+          "size": 98513913,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.18.78-1.2.1.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.19.0-1.2.4-3.4.4",
+          "date": "2024-10-15",
+          "size": 99395812,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.19.0-1.2.4-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.19.76-1.2.4-3.4.4",
+          "date": "2024-10-15",
+          "size": 98950997,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.19.76-1.2.4-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.19.86-1.2.8-3.4.4",
+          "date": "2024-10-15",
+          "size": 99212272,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.19.86-1.2.8-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.2.75",
+          "date": "2024-10-15",
+          "size": 90626818,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.2.75.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.21.0-1.2.8-3.4.4",
+          "date": "2024-10-15",
+          "size": 102438028,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.21.0-1.2.8-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.21.77-1.2.8-3.4.4",
+          "date": "2024-10-15",
+          "size": 102481247,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.21.77-1.2.8-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.21.79-1.2.8-3.4.4",
+          "date": "2024-10-15",
+          "size": 102488172,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.21.79-1.2.8-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.23.0-1.2.8-3.4.4",
+          "date": "2024-10-15",
+          "size": 102717889,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.0-1.2.8-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.23.77-1.2.10-3.4.4",
+          "date": "2024-10-15",
+          "size": 102740303,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.77-1.2.10-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.23.78-1.2.10-3.4.4",
+          "date": "2024-10-15",
+          "size": 102742011,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.78-1.2.10-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.23.79-1.2.10-3.4.4",
+          "date": "2024-10-15",
+          "size": 95463735,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.79-1.2.10-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.23.82-1.2.10-3.4.4",
+          "date": "2024-10-15",
+          "size": 107894613,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.82-1.2.10-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.24.0-1.2.10-3.4.4",
+          "date": "2024-10-15",
+          "size": 96258781,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.24.0-1.2.10-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.24.73-1.2.10-3.4.4",
+          "date": "2024-10-15",
+          "size": 96266745,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.24.73-1.2.10-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.6-1.2.11-3.4.4",
+          "date": "2024-10-15",
+          "size": 97168799,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.6-1.2.11-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.79-1.2.11-3.4.4",
+          "date": "2024-10-15",
+          "size": 97172602,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.79-1.2.11-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.80-1.2.11-3.4.4",
+          "date": "2024-10-15",
+          "size": 97588153,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.80-1.2.11-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.81-1.2.11-3.4.4",
+          "date": "2024-10-15",
+          "size": 107370002,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.81-1.2.11-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.81-1.2.14-3.4.4",
+          "date": "2024-10-15",
+          "size": 107370188,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.81-1.2.14-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.84-1.2.14-3.4.4",
+          "date": "2024-10-15",
+          "size": 107374288,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.84-1.2.14-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.25.85-1.2.14-3.4.4",
+          "date": "2024-10-15",
+          "size": 107373149,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.85-1.2.14-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.3.77",
+          "date": "2024-10-15",
+          "size": 78920293,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.3.77.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.75",
+          "date": "2024-10-15",
+          "size": 94801790,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.5.75.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.79",
+          "date": "2024-10-15",
+          "size": 92866223,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.5.79.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.8.78",
+          "date": "2024-10-15",
+          "size": 97703442,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.8.78.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.1.4-1.2.14-3.4.4",
+          "date": "2024-10-15",
+          "size": 107627343,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.1.4-1.2.14-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.1.80-1.2.14-3.4.4",
+          "date": "2024-10-15",
+          "size": 107646622,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.1.80-1.2.14-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.10.4-1.2.32-3.4.4",
+          "date": "2024-10-15",
+          "size": 99586735,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.10.4-1.2.32-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.11.85-1.2.33-3.4.4",
+          "date": "2024-10-15",
+          "size": 104454935,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.11.85-1.2.33-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.13.79-1.2.36-3.4.4",
+          "date": "2024-10-15",
+          "size": 104147447,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.13.79-1.2.36-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.17.78-1.2.36-3.4.4",
+          "date": "2024-10-15",
+          "size": 118029186,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.17.78-1.2.36-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.2.75-1.2.18-3.4.4",
+          "date": "2024-10-15",
+          "size": 107603482,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.2.75-1.2.18-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.2.75-1.2.19-3.4.4",
+          "date": "2024-10-15",
+          "size": 107601737,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.2.75-1.2.19-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.3.70-1.2.19-3.4.4",
+          "date": "2024-10-15",
+          "size": 108132168,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.3.70-1.2.19-3.4.4.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Watusi3_1.2.44",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-11-17",
+          "size": 116653116,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3_1.2.44.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "Bunny_253",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "",
@@ -930,455 +1446,6 @@
           "size": 90782814,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WazePlus/WazePlus-4.108.0.ipa",
           "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.\nLast updated: 12-23-2023\nStatus: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
-      "name": "Watusi3",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn\u2019s tweaked IPAs / FouadRaheb",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
-      "versions": [
-        {
-          "version": "24.3.70-1.2.20-3.4.4",
-          "date": "2024-10-16",
-          "size": 108152204,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.3.70-1.2.20-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.4.3-1.2.21-3.4.4",
-          "date": "2024-10-16",
-          "size": 102073924,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.4.3-1.2.21-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.4.78-1.2.25-3.4.4",
-          "date": "2024-10-16",
-          "size": 101991866,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.4.78-1.2.25-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.5.4-1.2.25-3.4.4",
-          "date": "2024-10-16",
-          "size": 102348759,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.5.4-1.2.25-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.5.75-1.2.25-3.4.4",
-          "date": "2024-10-16",
-          "size": 100709750,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.5.75-1.2.25-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.6.77-1.2.27-3.4.4",
-          "date": "2024-10-16",
-          "size": 105418918,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.6.77-1.2.27-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.6.78-1.2.29-3.4.4",
-          "date": "2024-10-16",
-          "size": 103814317,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.6.78-1.2.29-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.7.79-1.2.30-3.4.4",
-          "date": "2024-10-16",
-          "size": 104801350,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.7.79-1.2.30-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.8.77-1.2.30-3.4.4",
-          "date": "2024-10-16",
-          "size": 103040494,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.8.77-1.2.30-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.8.80-1.2.30-3.4.4",
-          "date": "2024-10-16",
-          "size": 101663808,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.8.80-1.2.30-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.21.27",
-          "date": "2024-10-15",
-          "size": 82165456,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-22.21.27.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.1.75",
-          "date": "2024-10-15",
-          "size": 91998110,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.1.75.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.10.76",
-          "date": "2024-10-15",
-          "size": 100563527,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.10.76.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.12.71",
-          "date": "2024-10-15",
-          "size": 101962327,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.12.71.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.12.76",
-          "date": "2024-10-15",
-          "size": 105959446,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.12.76.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.14.0",
-          "date": "2024-10-15",
-          "size": 102817118,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.14.0.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.14.79",
-          "date": "2024-10-15",
-          "size": 81350176,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.14.79.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.14.82",
-          "date": "2024-10-15",
-          "size": 100871259,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.14.82.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.15.0",
-          "date": "2024-10-15",
-          "size": 82209996,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.15.0.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.15.78-1.2",
-          "date": "2024-10-15",
-          "size": 73235853,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.15.78-1.2.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.15.78",
-          "date": "2024-10-15",
-          "size": 76031723,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.15.78.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.16.0-1.2",
-          "date": "2024-10-15",
-          "size": 83554261,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.16.0-1.2.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.16.78-1.2",
-          "date": "2024-10-15",
-          "size": 97147281,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.16.78-1.2.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.17.0-1.2",
-          "date": "2024-10-15",
-          "size": 74349431,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.0-1.2.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.17.78-1.2.1",
-          "date": "2024-10-15",
-          "size": 102599442,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.78-1.2.1.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.17.78-1.2",
-          "date": "2024-10-15",
-          "size": 75874909,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.78-1.2.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.17.81-1.2.1",
-          "date": "2024-10-15",
-          "size": 93508949,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.17.81-1.2.1.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.18.75-1.2.1",
-          "date": "2024-10-15",
-          "size": 103310768,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.18.75-1.2.1.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.18.78-1.2.1",
-          "date": "2024-10-15",
-          "size": 98513913,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.18.78-1.2.1.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.19.0-1.2.4-3.4.4",
-          "date": "2024-10-15",
-          "size": 99395812,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.19.0-1.2.4-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.19.76-1.2.4-3.4.4",
-          "date": "2024-10-15",
-          "size": 98950997,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.19.76-1.2.4-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.19.86-1.2.8-3.4.4",
-          "date": "2024-10-15",
-          "size": 99212272,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.19.86-1.2.8-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.2.75",
-          "date": "2024-10-15",
-          "size": 90626818,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.2.75.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.21.0-1.2.8-3.4.4",
-          "date": "2024-10-15",
-          "size": 102438028,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.21.0-1.2.8-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.21.77-1.2.8-3.4.4",
-          "date": "2024-10-15",
-          "size": 102481247,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.21.77-1.2.8-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.21.79-1.2.8-3.4.4",
-          "date": "2024-10-15",
-          "size": 102488172,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.21.79-1.2.8-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.23.0-1.2.8-3.4.4",
-          "date": "2024-10-15",
-          "size": 102717889,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.0-1.2.8-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.23.77-1.2.10-3.4.4",
-          "date": "2024-10-15",
-          "size": 102740303,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.77-1.2.10-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.23.78-1.2.10-3.4.4",
-          "date": "2024-10-15",
-          "size": 102742011,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.78-1.2.10-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.23.79-1.2.10-3.4.4",
-          "date": "2024-10-15",
-          "size": 95463735,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.79-1.2.10-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.23.82-1.2.10-3.4.4",
-          "date": "2024-10-15",
-          "size": 107894613,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.23.82-1.2.10-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.24.0-1.2.10-3.4.4",
-          "date": "2024-10-15",
-          "size": 96258781,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.24.0-1.2.10-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.24.73-1.2.10-3.4.4",
-          "date": "2024-10-15",
-          "size": 96266745,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.24.73-1.2.10-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.6-1.2.11-3.4.4",
-          "date": "2024-10-15",
-          "size": 97168799,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.6-1.2.11-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.79-1.2.11-3.4.4",
-          "date": "2024-10-15",
-          "size": 97172602,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.79-1.2.11-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.80-1.2.11-3.4.4",
-          "date": "2024-10-15",
-          "size": 97588153,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.80-1.2.11-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.81-1.2.11-3.4.4",
-          "date": "2024-10-15",
-          "size": 107370002,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.81-1.2.11-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.81-1.2.14-3.4.4",
-          "date": "2024-10-15",
-          "size": 107370188,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.81-1.2.14-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.84-1.2.14-3.4.4",
-          "date": "2024-10-15",
-          "size": 107374288,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.84-1.2.14-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.25.85-1.2.14-3.4.4",
-          "date": "2024-10-15",
-          "size": 107373149,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.25.85-1.2.14-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.3.77",
-          "date": "2024-10-15",
-          "size": 78920293,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.3.77.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.75",
-          "date": "2024-10-15",
-          "size": 94801790,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.5.75.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.79",
-          "date": "2024-10-15",
-          "size": 92866223,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.5.79.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.8.78",
-          "date": "2024-10-15",
-          "size": 97703442,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-23.8.78.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.1.4-1.2.14-3.4.4",
-          "date": "2024-10-15",
-          "size": 107627343,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.1.4-1.2.14-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.1.80-1.2.14-3.4.4",
-          "date": "2024-10-15",
-          "size": 107646622,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.1.80-1.2.14-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.10.4-1.2.32-3.4.4",
-          "date": "2024-10-15",
-          "size": 99586735,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.10.4-1.2.32-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.11.85-1.2.33-3.4.4",
-          "date": "2024-10-15",
-          "size": 104454935,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.11.85-1.2.33-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.13.79-1.2.36-3.4.4",
-          "date": "2024-10-15",
-          "size": 104147447,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.13.79-1.2.36-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.17.78-1.2.36-3.4.4",
-          "date": "2024-10-15",
-          "size": 118029186,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.17.78-1.2.36-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.2.75-1.2.18-3.4.4",
-          "date": "2024-10-15",
-          "size": 107603482,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.2.75-1.2.18-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.2.75-1.2.19-3.4.4",
-          "date": "2024-10-15",
-          "size": 107601737,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.2.75-1.2.19-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
-        },
-        {
-          "version": "24.3.70-1.2.19-3.4.4",
-          "date": "2024-10-15",
-          "size": 108132168,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watusi3/Watusi3-24.3.70-1.2.19-3.4.4.ipa",
-          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
         }
       ]
     },
