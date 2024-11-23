@@ -34,6 +34,30 @@
   </a>
 </p>
 
+<p align="center">
+    <a href="https://fwuf.in/#/altstore://source?url=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
+    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=0f7c7f" alt="Add repo to AltStore">
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://fwuf.in/#/sidestore://source?url=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
+    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=6914A8" alt="Add repo to SideStore">
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://fwuf.in/#/feather://source/https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
+    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=868EF0" alt="Add repo to Feather">
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://fwuf.in/#/scarlet://source=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
+    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=EB465B" alt="Add repo to Scarlet">
+  </a>
+</p>
+
 ---
 
 *Thanks to [Trick-Minimum](https://github.com/TestAccountFooBar) for uploading all apps from Swaggy's repo to this one.*
