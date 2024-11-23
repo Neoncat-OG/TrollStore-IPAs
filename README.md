@@ -30,7 +30,7 @@
 
 <p align="center">
     <a href="https://s0n1c.ca/altlist/">
-    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=0f7c7f" alt="Use repo on AltList">
+    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=2C676C" alt="Use repo on AltList">
   </a>
 </p>
 
