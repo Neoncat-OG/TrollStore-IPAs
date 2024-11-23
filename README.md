@@ -36,25 +36,25 @@
 
 <p align="center">
     <a href="https://fwuf.in/#/altstore://source?url=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
-    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=0f7c7f" alt="Add repo to AltStore">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20AltStore-%20black?style=for-the-badge&color=0f7c7f" alt="Add repo to AltStore">
   </a>
 </p>
 
 <p align="center">
     <a href="https://fwuf.in/#/sidestore://source?url=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
-    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=6914A8" alt="Add repo to SideStore">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20SideStore-%20black?style=for-the-badge&color=6914A8" alt="Add repo to SideStore">
   </a>
 </p>
 
 <p align="center">
     <a href="https://fwuf.in/#/feather://source/https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
-    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=868EF0" alt="Add repo to Feather">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20Feather-%20black?style=for-the-badge&color=868EF0" alt="Add repo to Feather">
   </a>
 </p>
 
 <p align="center">
     <a href="https://fwuf.in/#/scarlet://source=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
-    <img src="https://img.shields.io/badge/Use%20repo%20on%20AltList-%20black?style=for-the-badge&color=EB465B" alt="Add repo to Scarlet">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20Scarlet-%20black?style=for-the-badge&color=EB465B" alt="Add repo to Scarlet">
   </a>
 </p>
 
