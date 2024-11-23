@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "MuffinStore_v1.1.",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "version": "1.0",
+      "versionDate": "2024-11-23",
+      "size": 29281,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-23-2024/MuffinStore_v1.1.tipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png"
+    },
+    {
       "name": "CarTube_1.3",
       "bundleIdentifier": "com.avangelista.CarTube",
       "version": "1.0",
