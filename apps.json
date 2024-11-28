@@ -4,6 +4,36 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "EeveeSpotify_v8.9.94",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-11-28",
+          "size": 84039862,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-28-2024/EeveeSpotify_v8.9.94.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "iTorrent_v2.0.13",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xitrix.iTorrent2.png",
+      "versions": [
+        {
+          "version": "2",
+          "date": "2024-11-28",
+          "size": 7025619,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-28-2024/iTorrent_v2.0.13-2.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "MuffinStore_v1.1.",
       "bundleIdentifier": "dev.mineek.muffinstore",
       "developerName": "",
