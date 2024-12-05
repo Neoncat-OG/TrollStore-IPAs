@@ -4,6 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "Procreate_v5.3.14",
+      "bundleIdentifier": "au.com.savageinteractive.procreate",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-12-05",
+          "size": 369296347,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/12-05-2024/Procreate_v5.3.14.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "EeveeSpotify_v8.9.94",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "",
