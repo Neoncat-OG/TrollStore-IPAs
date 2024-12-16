@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-    <a href="https://fwuf.in/#/altstore://source?url=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json">
+    <a href="https://fwuf.in/#/altstore://source?url=https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_altstore.json">
     <img src="https://img.shields.io/badge/Add%20repo%20to%20AltStore-%20black?style=for-the-badge&color=397C81" alt="Add repo to AltStore">
   </a>
 </p>
