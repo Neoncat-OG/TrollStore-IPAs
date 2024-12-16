@@ -4,92 +4,314 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
-      "name": "Procreate_v5.3.14",
+      "name": "Procreate",
       "bundleIdentifier": "au.com.savageinteractive.procreate",
-      "developerName": "",
+      "developerName": "N/A",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "5.3.14",
           "date": "2024-12-05",
           "size": 369296347,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/12-05-2024/Procreate_v5.3.14.ipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/12-05-2024/Procreate-5.3.14.ipa",
+          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
+        },
+        {
+          "version": "5.3.6",
+          "date": "2024-10-12",
+          "size": 492323229,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Procreate/Procreate-5.3.6.ipa",
+          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
         }
       ]
     },
     {
-      "name": "EeveeSpotify_v8.9.94",
+      "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "",
+      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "8.9.94",
           "date": "2024-11-28",
           "size": 84039862,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-28-2024/EeveeSpotify_v8.9.94.ipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-28-2024/EeveeSpotify-8.9.94.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.90",
+          "date": "2024-11-15",
+          "size": 81248061,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/EeveeSpotify-8.9.90.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.90-5.8",
+          "date": "2024-11-12",
+          "size": 81248061,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.90-5.8.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.32-1.1",
+          "date": "2024-10-09",
+          "size": 67901441,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.32-1.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.32-1.3",
+          "date": "2024-10-09",
+          "size": 68598253,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.32-1.3.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.34-1.4.1",
+          "date": "2024-10-09",
+          "size": 69845551,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.34-1.4.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.34",
+          "date": "2024-10-09",
+          "size": 69845551,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.34.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.36-2.1",
+          "date": "2024-10-09",
+          "size": 72906034,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.36-2.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.38-3.0",
+          "date": "2024-10-09",
+          "size": 72660511,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.38-3.0.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.40-3.1",
+          "date": "2024-10-09",
+          "size": 74984525,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.40-3.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.42-4.0",
+          "date": "2024-10-09",
+          "size": 75072303,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.42-4.0.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.44-4.1",
+          "date": "2024-10-09",
+          "size": 75650658,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.44-4.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.48-4.2",
+          "date": "2024-10-09",
+          "size": 75337996,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.48-4.2.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.50-4.3",
+          "date": "2024-10-09",
+          "size": 75026367,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.50-4.3.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.54-4.4",
+          "date": "2024-10-09",
+          "size": 75064559,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.54-4.4.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.58-4.5",
+          "date": "2024-10-09",
+          "size": 76177478,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.58-4.5.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.60-4.5",
+          "date": "2024-10-09",
+          "size": 84877074,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.60-4.5.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.60-4.6",
+          "date": "2024-10-09",
+          "size": 76880363,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.60-4.6.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.62-4.6",
+          "date": "2024-10-09",
+          "size": 77373895,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.62-4.6.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.64-4.6",
+          "date": "2024-10-09",
+          "size": 85407516,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.64-4.6.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.64-4.7",
+          "date": "2024-10-09",
+          "size": 77441278,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.64-4.7.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.66-4.8",
+          "date": "2024-10-09",
+          "size": 77933103,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.66-4.8.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.68-4.9",
+          "date": "2024-10-09",
+          "size": 78479774,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.68-4.9.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.74-5.1",
+          "date": "2024-10-09",
+          "size": 79661600,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.74-5.1.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.76-5.2",
+          "date": "2024-10-09",
+          "size": 79401385,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.76-5.2.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.78-5.3",
+          "date": "2024-10-09",
+          "size": 80513996,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.78-5.3.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.80-5.4",
+          "date": "2024-10-09",
+          "size": 80816437,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.80-5.4.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
+        {
+          "version": "8.9.32",
+          "date": "2024-09-29",
+          "size": 68154131,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.32.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
         }
       ]
     },
     {
-      "name": "iTorrent_v2.0.13",
-      "bundleIdentifier": "com.xitrix.iTorrent2",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.xitrix.iTorrent2.png",
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
       "versions": [
         {
-          "version": "2",
+          "version": "2.0.13-2",
           "date": "2024-11-28",
           "size": 7025619,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-28-2024/iTorrent_v2.0.13-2.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "MuffinStore_v1.1.",
-      "bundleIdentifier": "dev.mineek.muffinstore",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.mineek.muffinstore.png",
-      "versions": [
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-28-2024/iTorrent-2.0.13-2.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
         {
-          "version": "1.0",
-          "date": "2024-11-23",
-          "size": 29281,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-23-2024/MuffinStore_v1.1.tipa",
-          "localizedDescription": ""
+          "version": "2.0.12-1",
+          "date": "2024-11-12",
+          "size": 7002771,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.12-1.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "1.9-25",
+          "date": "2024-10-17",
+          "size": 17095980,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-1.9-25.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "2.0.10-1",
+          "date": "2024-10-17",
+          "size": 6581661,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.10-1.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "2.0.7-2",
+          "date": "2024-10-17",
+          "size": 6755521,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.7-2.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "2.0.7-5",
+          "date": "2024-10-17",
+          "size": 6917642,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.7-5.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "2.0.8-1",
+          "date": "2024-10-17",
+          "size": 6917810,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.8-1.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "2.0.9-1",
+          "date": "2024-10-17",
+          "size": 6555495,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.9-1.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
     {
-      "name": "CarTube_1.3",
+      "name": "CarTube",
       "bundleIdentifier": "com.avangelista.CarTube",
-      "developerName": "",
+      "developerName": "Avangelista",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.3",
           "date": "2024-11-17",
           "size": 574441,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube_1.3.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "CarTube_1.3.",
-      "bundleIdentifier": "com.avangelista.CarTube",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
-      "versions": [
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
+          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
+        },
         {
-          "version": "1.0",
-          "date": "2024-11-17",
-          "size": 574441,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube_1.3.tipa",
-          "localizedDescription": ""
+          "version": "1.01",
+          "date": "2024-09-28",
+          "size": 543907,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarTube/CarTube-1.01.ipa",
+          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
         }
       ]
     },
@@ -100,10 +322,10 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.utmapp.UTM.png",
       "versions": [
         {
-          "version": "HV_4.5.4",
+          "version": "HV-4.5.4",
           "date": "2024-11-17",
           "size": 122065094,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/UTM-HV_4.5.4.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/UTM-HV-4.5.4.ipa",
           "localizedDescription": ""
         }
       ]
@@ -115,10 +337,17 @@
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
         {
-          "version": "Business_1.2.44",
+          "version": "24.22.82",
+          "date": "2024-11-17",
+          "size": 116653116,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3-24.22.82.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "Business-24.22.82",
           "date": "2024-11-17",
           "size": 123464575,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3-Business_1.2.44.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3-Business-24.22.82.ipa",
           "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
         },
         {
@@ -565,92 +794,188 @@
       ]
     },
     {
-      "name": "Watusi3_1.2.44",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2024-11-17",
-          "size": 116653116,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3_1.2.44.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "Bunny_253",
+      "name": "Bunny",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "253",
           "date": "2024-11-15",
           "size": 100751235,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Bunny_253.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Bunny-253.ipa",
           "localizedDescription": ""
         }
       ]
     },
     {
-      "name": "EeveeSpotify_8.9.90",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2024-11-15",
-          "size": 81248061,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/EeveeSpotify_8.9.90.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "Geranium_1.1.3.",
+      "name": "Geranium",
       "bundleIdentifier": "live.cclerc.geranium",
-      "developerName": "",
+      "developerName": "c22dev",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
       "versions": [
         {
-          "version": "1.0",
-          "date": "2024-11-15",
+          "version": "1.1.3",
+          "date": "2024-12-16",
           "size": 6100320,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Geranium_1.1.3.tipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Geranium-1.1.3.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0.4",
+          "date": "2024-10-01",
+          "size": 5945760,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.0.4.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.1",
+          "date": "2024-10-01",
+          "size": 6135248,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.1.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1.2",
+          "date": "2024-10-01",
+          "size": 6161855,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.2.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.1",
+          "date": "2024-10-01",
+          "size": 6032621,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.ipa",
+          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
         }
       ]
     },
     {
-      "name": "Helium_3.2.5.",
+      "name": "Helium",
       "bundleIdentifier": "com.leemin.helium",
-      "developerName": "",
+      "developerName": "leminlimez",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png",
       "versions": [
         {
-          "version": "1.0",
-          "date": "2024-11-15",
+          "version": "3.2.5",
+          "date": "2024-12-16",
           "size": 4168281,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Helium_3.2.5.tipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Helium-3.2.5.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.0.1",
+          "date": "2024-10-01",
+          "size": 3827002,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.0.2",
+          "date": "2024-10-01",
+          "size": 3829465,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.2.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1",
+          "date": "2024-10-01",
+          "size": 3874054,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2.1",
+          "date": "2024-10-01",
+          "size": 3924363,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2",
+          "date": "2024-10-01",
+          "size": 3896129,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
         }
       ]
     },
     {
-      "name": "Rosiecord_255",
+      "name": "Rosiecord",
       "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "",
+      "developerName": "acquitelol",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "255",
           "date": "2024-11-15",
           "size": 101872820,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Rosiecord_255.ipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Rosiecord-255.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "155",
+          "date": "2024-10-13",
+          "size": 80707613,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-155.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "208.0",
+          "date": "2024-10-13",
+          "size": 99949821,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-208.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "209.0",
+          "date": "2024-10-13",
+          "size": 100981286,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-209.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "212.0",
+          "date": "2024-10-13",
+          "size": 101241215,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-212.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "217.0",
+          "date": "2024-10-13",
+          "size": 101230124,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-217.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "218.0",
+          "date": "2024-10-13",
+          "size": 102435896,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-218.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "219.0",
+          "date": "2024-10-13",
+          "size": 107926514,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-219.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "221.0",
+          "date": "2024-10-13",
+          "size": 108580034,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-221.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "223.0",
+          "date": "2024-10-13",
+          "size": 106773646,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-223.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
         }
       ]
     },
@@ -670,62 +995,223 @@
       ]
     },
     {
-      "name": "TRApp_2.7",
+      "name": "TRApp",
       "bundleIdentifier": "wiki.qaq.trapp",
       "developerName": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
       "versions": [
         {
-          "version": "422.",
+          "version": "2.7-422.",
           "date": "2024-11-14",
           "size": 4877044,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TRApp_2.7-422.tipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TRApp-2.7-422.tipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.18.0-352",
+          "date": "2024-10-13",
+          "size": 4156529,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TRApp/TRApp-1.18.0-352.ipa",
           "localizedDescription": ""
         }
       ]
     },
     {
-      "name": "TrollBox_0.2.",
+      "name": "TrollBox",
       "bundleIdentifier": "live.cclerc.trollbox",
-      "developerName": "",
+      "developerName": "c22dev",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "0.2.",
           "date": "2024-11-14",
           "size": 26633972,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollBox_0.2.tipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollBox-0.2.tipa",
+          "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c"
+        },
+        {
+          "version": "0.0.6a",
+          "date": "2024-10-14",
+          "size": 3510461,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollBox/TrollBox-0.0.6a.ipa",
+          "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c"
         }
       ]
     },
     {
-      "name": "TrollFools_2.8",
+      "name": "TrollFools",
       "bundleIdentifier": "wiki.qaq.TrollFools",
-      "developerName": "",
+      "developerName": "Lessica / trollfools",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
       "versions": [
         {
-          "version": "15.",
+          "version": "2.8-15.",
           "date": "2024-11-14",
           "size": 3304212,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollFools_2.8-15.tipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollFools-2.8-15.tipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.0-2",
+          "date": "2024-10-14",
+          "size": 28248614,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.0-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1-6",
+          "date": "2024-10-14",
+          "size": 3141310,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.1-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3-5",
+          "date": "2024-10-14",
+          "size": 3242975,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.3-5.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-1",
+          "date": "2024-10-14",
+          "size": 3247279,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-1.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-2",
+          "date": "2024-10-14",
+          "size": 3371615,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-2",
+          "date": "2024-10-14",
+          "size": 3376019,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-3",
+          "date": "2024-10-14",
+          "size": 3383534,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-3.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.6-6",
+          "date": "2024-10-14",
+          "size": 3383397,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.6-8",
+          "date": "2024-10-14",
+          "size": 3383703,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-8.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
     {
-      "name": "TrollSpeed_1.12.1.",
+      "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
-      "developerName": "",
+      "developerName": "Lessica",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.12.1.",
           "date": "2024-11-14",
           "size": 162585,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed_1.12.1.tipa",
-          "localizedDescription": ""
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.1",
+          "date": "2024-10-14",
+          "size": 160220,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.1.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.10.2",
+          "date": "2024-10-14",
+          "size": 161220,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.2.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.11.0",
+          "date": "2024-10-14",
+          "size": 163255,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.0.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.11.11",
+          "date": "2024-10-14",
+          "size": 162640,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.11.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.11.2",
+          "date": "2024-10-14",
+          "size": 159827,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.2.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.11.9",
+          "date": "2024-10-14",
+          "size": 160981,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.9.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.12.1",
+          "date": "2024-10-14",
+          "size": 162585,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.12.1.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.2.",
+          "date": "2024-10-14",
+          "size": 147136,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.2.tipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.3",
+          "date": "2024-10-14",
+          "size": 147696,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.3.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.5",
+          "date": "2024-10-14",
+          "size": 147710,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.5.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.6",
+          "date": "2024-10-14",
+          "size": 153659,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.6.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.9.8",
+          "date": "2024-10-14",
+          "size": 154789,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.8.ipa",
+          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
         }
       ]
     },
@@ -858,63 +1344,6 @@
           "size": 100168070,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTranslatePro/iTranslatePro-17.4.2.ipa",
           "localizedDescription": "Injected with Pro. Translation and dictionary app making it easy to break language barriers. It allows for easy translation of text, websites, objects, and voice conversations in over 100 languages. Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should grant access to other features like iTranslate keyboard.\nLast updated: 07-16-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
-      "versions": [
-        {
-          "version": "2.0.12-1",
-          "date": "2024-11-12",
-          "size": 7002771,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.12-1.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "1.9-25",
-          "date": "2024-10-17",
-          "size": 17095980,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-1.9-25.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "2.0.10-1",
-          "date": "2024-10-17",
-          "size": 6581661,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.10-1.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "2.0.7-2",
-          "date": "2024-10-17",
-          "size": 6755521,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.7-2.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "2.0.7-5",
-          "date": "2024-10-17",
-          "size": 6917642,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.7-5.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "2.0.8-1",
-          "date": "2024-10-17",
-          "size": 6917810,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.8-1.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "2.0.9-1",
-          "date": "2024-10-17",
-          "size": 6555495,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTorrent/iTorrent-2.0.9-1.ipa",
-          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
         }
       ]
     },
@@ -2670,98 +3099,6 @@
       ]
     },
     {
-      "name": "TrollSpeed",
-      "bundleIdentifier": "ch.xxtou.hudapp",
-      "developerName": "Lessica",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
-      "versions": [
-        {
-          "version": "1.10.1",
-          "date": "2024-10-14",
-          "size": 160220,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.1.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.10.2",
-          "date": "2024-10-14",
-          "size": 161220,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.2.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.11.0",
-          "date": "2024-10-14",
-          "size": 163255,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.0.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.11.11",
-          "date": "2024-10-14",
-          "size": 162640,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.11.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.11.2",
-          "date": "2024-10-14",
-          "size": 159827,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.2.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.11.9",
-          "date": "2024-10-14",
-          "size": 160981,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.9.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.12.1",
-          "date": "2024-10-14",
-          "size": 162585,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.12.1.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.2.",
-          "date": "2024-10-14",
-          "size": 147136,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.2.tipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.3",
-          "date": "2024-10-14",
-          "size": 147696,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.3.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.5",
-          "date": "2024-10-14",
-          "size": 147710,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.5.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.6",
-          "date": "2024-10-14",
-          "size": 153659,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.6.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.9.8",
-          "date": "2024-10-14",
-          "size": 154789,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.8.ipa",
-          "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "TrollRecorder",
       "bundleIdentifier": "wiki.qaq.trapp",
       "developerName": "Lessica / TrollRecorder",
@@ -3117,77 +3454,6 @@
       ]
     },
     {
-      "name": "TrollFools",
-      "bundleIdentifier": "wiki.qaq.TrollFools",
-      "developerName": "Lessica / trollfools",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
-      "versions": [
-        {
-          "version": "2.0-2",
-          "date": "2024-10-14",
-          "size": 28248614,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.0-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.1-6",
-          "date": "2024-10-14",
-          "size": 3141310,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.1-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.3-5",
-          "date": "2024-10-14",
-          "size": 3242975,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.3-5.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-1",
-          "date": "2024-10-14",
-          "size": 3247279,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-1.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-2",
-          "date": "2024-10-14",
-          "size": 3371615,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.5-2",
-          "date": "2024-10-14",
-          "size": 3376019,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.5-3",
-          "date": "2024-10-14",
-          "size": 3383534,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-3.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.6-6",
-          "date": "2024-10-14",
-          "size": 3383397,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.6-8",
-          "date": "2024-10-14",
-          "size": 3383703,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-8.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
       "name": "TrollCuts",
       "bundleIdentifier": "com.udevs.TrollCuts",
       "developerName": "udevsharold",
@@ -3199,21 +3465,6 @@
           "size": 529664,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollCuts/TrollCuts-1.1.ipa",
           "localizedDescription": "Shortcuts extensions for iOS 16.0+\nLast updated: 01-23-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TrollBox",
-      "bundleIdentifier": "live.cclerc.trollbox",
-      "developerName": "c22dev",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.trollbox.png",
-      "versions": [
-        {
-          "version": "0.0.6a",
-          "date": "2024-10-14",
-          "size": 3510461,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollBox/TrollBox-0.0.6a.ipa",
-          "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c"
         }
       ]
     },
@@ -3963,21 +4214,6 @@
           "size": 17586984,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TabataTimerPremium/TabataTimerPremium-5.1.14.ipa",
           "localizedDescription": "App for both beginners and advanced users, offers a user-friendly interface for simple one-click workout starts and customizable options for tailored fitness routines. A user requested it so here it is.\nLast updated: 04-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TRApp",
-      "bundleIdentifier": "wiki.qaq.trapp",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
-      "versions": [
-        {
-          "version": "1.18.0-352",
-          "date": "2024-10-13",
-          "size": 4156529,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TRApp/TRApp-1.18.0-352.ipa",
-          "localizedDescription": ""
         }
       ]
     },
@@ -5178,77 +5414,6 @@
       ]
     },
     {
-      "name": "Rosiecord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "acquitelol",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "versions": [
-        {
-          "version": "155",
-          "date": "2024-10-13",
-          "size": 80707613,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-155.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "208.0",
-          "date": "2024-10-13",
-          "size": 99949821,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-208.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "209.0",
-          "date": "2024-10-13",
-          "size": 100981286,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-209.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "212.0",
-          "date": "2024-10-13",
-          "size": 101241215,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-212.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "217.0",
-          "date": "2024-10-13",
-          "size": 101230124,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-217.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "218.0",
-          "date": "2024-10-13",
-          "size": 102435896,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-218.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "219.0",
-          "date": "2024-10-13",
-          "size": 107926514,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-219.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "221.0",
-          "date": "2024-10-13",
-          "size": 108580034,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-221.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "223.0",
-          "date": "2024-10-13",
-          "size": 106773646,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-223.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "RingtoneMaker",
       "bundleIdentifier": "com.csj.ling",
       "developerName": "ArianaMinajj",
@@ -5862,21 +6027,6 @@
           "size": 296768591,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ProcreatePocket/ProcreatePocket-4.0.9.ipa",
           "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 06-30-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Procreate",
-      "bundleIdentifier": "au.com.savageinteractive.procreate",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png",
-      "versions": [
-        {
-          "version": "5.3.6",
-          "date": "2024-10-12",
-          "size": 492323229,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Procreate/Procreate-5.3.6.ipa",
-          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
         }
       ]
     },
@@ -12027,49 +12177,6 @@
       ]
     },
     {
-      "name": "Helium",
-      "bundleIdentifier": "com.leemin.helium",
-      "developerName": "leminlimez",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png",
-      "versions": [
-        {
-          "version": "2.0.1",
-          "date": "2024-10-01",
-          "size": 3827002,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.1.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.0.2",
-          "date": "2024-10-01",
-          "size": 3829465,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.2.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.1",
-          "date": "2024-10-01",
-          "size": 3874054,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.1.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2.1",
-          "date": "2024-10-01",
-          "size": 3924363,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.1.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2",
-          "date": "2024-10-01",
-          "size": 3896129,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "HdoPlay",
       "bundleIdentifier": "com.hdoplay.apt",
       "developerName": "N/A",
@@ -12362,42 +12469,6 @@
           "size": 26873107,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.19.1203.ipa",
           "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Geranium",
-      "bundleIdentifier": "live.cclerc.geranium",
-      "developerName": "c22dev",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
-      "versions": [
-        {
-          "version": "1.0.4",
-          "date": "2024-10-01",
-          "size": 5945760,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.0.4.ipa",
-          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.1",
-          "date": "2024-10-01",
-          "size": 6135248,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.1.ipa",
-          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1.2",
-          "date": "2024-10-01",
-          "size": 6161855,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.2.ipa",
-          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.1",
-          "date": "2024-10-01",
-          "size": 6032621,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.ipa",
-          "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: \u2705"
         }
       ]
     },
@@ -13828,196 +13899,6 @@
       ]
     },
     {
-      "name": "EeveeSpotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png",
-      "versions": [
-        {
-          "version": "8.9.90-5.8",
-          "date": "2024-11-12",
-          "size": 81248061,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.90-5.8.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.32-1.1",
-          "date": "2024-10-09",
-          "size": 67901441,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.32-1.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.32-1.3",
-          "date": "2024-10-09",
-          "size": 68598253,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.32-1.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.34-1.4.1",
-          "date": "2024-10-09",
-          "size": 69845551,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.34-1.4.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.34",
-          "date": "2024-10-09",
-          "size": 69845551,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.34.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.36-2.1",
-          "date": "2024-10-09",
-          "size": 72906034,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.36-2.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.38-3.0",
-          "date": "2024-10-09",
-          "size": 72660511,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.38-3.0.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.40-3.1",
-          "date": "2024-10-09",
-          "size": 74984525,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.40-3.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.42-4.0",
-          "date": "2024-10-09",
-          "size": 75072303,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.42-4.0.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.44-4.1",
-          "date": "2024-10-09",
-          "size": 75650658,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.44-4.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.48-4.2",
-          "date": "2024-10-09",
-          "size": 75337996,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.48-4.2.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.50-4.3",
-          "date": "2024-10-09",
-          "size": 75026367,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.50-4.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.54-4.4",
-          "date": "2024-10-09",
-          "size": 75064559,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.54-4.4.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.58-4.5",
-          "date": "2024-10-09",
-          "size": 76177478,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.58-4.5.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.60-4.5",
-          "date": "2024-10-09",
-          "size": 84877074,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.60-4.5.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.60-4.6",
-          "date": "2024-10-09",
-          "size": 76880363,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.60-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.62-4.6",
-          "date": "2024-10-09",
-          "size": 77373895,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.62-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.64-4.6",
-          "date": "2024-10-09",
-          "size": 85407516,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.64-4.6.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.64-4.7",
-          "date": "2024-10-09",
-          "size": 77441278,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.64-4.7.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.66-4.8",
-          "date": "2024-10-09",
-          "size": 77933103,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.66-4.8.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.68-4.9",
-          "date": "2024-10-09",
-          "size": 78479774,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.68-4.9.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.74-5.1",
-          "date": "2024-10-09",
-          "size": 79661600,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.74-5.1.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.76-5.2",
-          "date": "2024-10-09",
-          "size": 79401385,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.76-5.2.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.78-5.3",
-          "date": "2024-10-09",
-          "size": 80513996,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.78-5.3.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.80-5.4",
-          "date": "2024-10-09",
-          "size": 80816437,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.80-5.4.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        },
-        {
-          "version": "8.9.32",
-          "date": "2024-09-29",
-          "size": 68154131,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EeveeSpotify/EeveeSpotify-8.9.32.ipa",
-          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
       "name": "EarthquakePro",
       "bundleIdentifier": "org.tranquilli.Earthquake",
       "developerName": "DPixel / Paisseon",
@@ -14826,21 +14707,6 @@
           "size": 224904127,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarrotWeatherUltra/CarrotWeatherUltra-6.0.3.ipa",
           "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "CarTube",
-      "bundleIdentifier": "com.avangelista.CarTube",
-      "developerName": "Avangelista",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
-      "versions": [
-        {
-          "version": "1.01",
-          "date": "2024-09-28",
-          "size": 543907,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarTube/CarTube-1.01.ipa",
-          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
         }
       ]
     },
