@@ -3,33 +3,34 @@
   "subtitle": "TrollStore-IPAs",
   "description": "An ipa repo.",
   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/com.apple.FinalCutApp.companion.png",
+  "headerURL": "",
   "website": "https://github.com/Neoncat-OG/TrollStore-IPAs",
   "tintColor": "#ffffff",
   "featuredApps": [],
   "apps": [
     {
-      "name": "Procreate",
-      "bundleIdentifier": "au.com.savageinteractive.procreate",
-      "developerName": "N/A",
+      "name": "Bunny",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "",
       "subtitle": "",
-      "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
       "tintColor": "#ffffff",
       "screenshots": [],
       "versions": [
         {
-          "version": "5.3.14",
-          "date": "2024-12-05T00:00:00-00:00",
-          "size": 369296347,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/12-05-2024/Procreate-5.3.14.ipa",
-          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
+          "version": "260",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 88529265,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Bunny-260.ipa",
+          "localizedDescription": ""
         },
         {
-          "version": "5.3.6",
-          "date": "2024-10-12T00:00:00-00:00",
-          "size": 492323229,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Procreate/Procreate-5.3.6.ipa",
-          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
+          "version": "253",
+          "date": "2024-11-15T00:00:00-00:00",
+          "size": 100751235,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Bunny-253.ipa",
+          "localizedDescription": ""
         }
       ],
       "appPermissions": {}
@@ -44,6 +45,13 @@
       "tintColor": "#ffffff",
       "screenshots": [],
       "versions": [
+        {
+          "version": "9.0.2",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 83798628,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/EeveeSpotify-9.0.2.ipa",
+          "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: To fix widgets, install Spotify from the App Store then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 08-10-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d"
+        },
         {
           "version": "8.9.94",
           "date": "2024-11-28T00:00:00-00:00",
@@ -254,6 +262,13 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.0.14-1",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 7027297,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa",
+          "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 07-30-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
           "version": "2.0.13-2",
           "date": "2024-11-28T00:00:00-00:00",
           "size": 7025619,
@@ -313,28 +328,221 @@
       "appPermissions": {}
     },
     {
-      "name": "CarTube",
-      "bundleIdentifier": "com.avangelista.CarTube",
-      "developerName": "Avangelista",
+      "name": "Rosiecord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "acquitelol",
       "subtitle": "",
-      "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
+      "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
       "tintColor": "#ffffff",
       "screenshots": [],
       "versions": [
         {
-          "version": "1.3",
-          "date": "2024-11-17T00:00:00-00:00",
-          "size": 574441,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
-          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
+          "version": "262",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 101242813,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Rosiecord-262.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
         },
         {
-          "version": "1.01",
-          "date": "2024-09-28T00:00:00-00:00",
-          "size": 543907,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarTube/CarTube-1.01.ipa",
-          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
+          "version": "255",
+          "date": "2024-11-15T00:00:00-00:00",
+          "size": 101872820,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Rosiecord-255.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "155",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 80707613,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-155.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "208.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 99949821,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-208.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "209.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 100981286,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-209.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "212.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 101241215,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-212.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "217.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 101230124,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-217.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "218.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 102435896,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-218.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "219.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 107926514,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-219.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "221.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 108580034,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-221.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        },
+        {
+          "version": "223.0",
+          "date": "2024-10-13T00:00:00-00:00",
+          "size": 106773646,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-223.0.ipa",
+          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "SpotC++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png",
+      "tintColor": "#ffffff",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.2",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 78994570,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/SpotC%2B%2B-9.0.2.ipa",
+          "localizedDescription": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "SpotveeC",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.spotify.client.png",
+      "tintColor": "#ffffff",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.2",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 78617456,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/SpotveeC-9.0.2.ipa",
+          "localizedDescription": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "developerName": "Lessica / trollfools",
+      "subtitle": "",
+      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+      "tintColor": "#ffffff",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.8-16",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 3305897,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/TrollFools-2.8-16.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.8-15.",
+          "date": "2024-11-14T00:00:00-00:00",
+          "size": 3304212,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollFools-2.8-15.tipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.0-2",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 28248614,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.0-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.1-6",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3141310,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.1-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.3-5",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3242975,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.3-5.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-1",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3247279,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-1.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.4-2",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3371615,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-2",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3376019,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-2.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.5-3",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3383534,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-3.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.6-6",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3383397,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-6.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "2.6-8",
+          "date": "2024-10-14T00:00:00-00:00",
+          "size": 3383703,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-8.ipa",
+          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ],
       "appPermissions": {}
@@ -349,6 +557,13 @@
       "tintColor": "#ffffff",
       "screenshots": [],
       "versions": [
+        {
+          "version": "HV-4.6.4",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 126284039,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/UTM-HV-4.6.4.ipa",
+          "localizedDescription": ""
+        },
         {
           "version": "HV-4.5.4",
           "date": "2024-11-17T00:00:00-00:00",
@@ -369,6 +584,20 @@
       "tintColor": "#ffffff",
       "screenshots": [],
       "versions": [
+        {
+          "version": "24.24.83",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 121685187,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Watusi3-24.24.83.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
+        {
+          "version": "Business-24.24.83",
+          "date": "2025-01-08T00:00:00-00:00",
+          "size": 128489116,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Watusi3-Business-24.24.83.ipa",
+          "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: \u2705"
+        },
         {
           "version": "24.22.82",
           "date": "2024-11-17T00:00:00-00:00",
@@ -828,21 +1057,55 @@
       "appPermissions": {}
     },
     {
-      "name": "Bunny",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "",
+      "name": "Procreate",
+      "bundleIdentifier": "au.com.savageinteractive.procreate",
+      "developerName": "N/A",
       "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+      "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png",
       "tintColor": "#ffffff",
       "screenshots": [],
       "versions": [
         {
-          "version": "253",
-          "date": "2024-11-15T00:00:00-00:00",
-          "size": 100751235,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Bunny-253.ipa",
-          "localizedDescription": ""
+          "version": "5.3.14",
+          "date": "2024-12-05T00:00:00-00:00",
+          "size": 369296347,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/12-05-2024/Procreate-5.3.14.ipa",
+          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
+        },
+        {
+          "version": "5.3.6",
+          "date": "2024-10-12T00:00:00-00:00",
+          "size": 492323229,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Procreate/Procreate-5.3.6.ipa",
+          "localizedDescription": "Removed from the repo: Grab futur updates here.\nLast updated: 07-03-2024\nStatus: \u274c"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "CarTube",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "developerName": "Avangelista",
+      "subtitle": "",
+      "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
+      "tintColor": "#ffffff",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-11-17T00:00:00-00:00",
+          "size": 574441,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
+          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
+        },
+        {
+          "version": "1.01",
+          "date": "2024-09-28T00:00:00-00:00",
+          "size": 543907,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarTube/CarTube-1.01.ipa",
+          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
         }
       ],
       "appPermissions": {}
@@ -951,89 +1214,6 @@
       "appPermissions": {}
     },
     {
-      "name": "Rosiecord",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "acquitelol",
-      "subtitle": "",
-      "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-      "tintColor": "#ffffff",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "255",
-          "date": "2024-11-15T00:00:00-00:00",
-          "size": 101872820,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Rosiecord-255.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "155",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 80707613,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-155.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "208.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 99949821,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-208.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "209.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 100981286,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-209.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "212.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 101241215,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-212.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "217.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 101230124,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-217.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "218.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 102435896,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-218.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "219.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 107926514,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-219.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "221.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 108580034,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-221.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        },
-        {
-          "version": "223.0",
-          "date": "2024-10-13T00:00:00-00:00",
-          "size": 106773646,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-223.0.ipa",
-          "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705"
-        }
-      ],
-      "appPermissions": {}
-    },
-    {
       "name": "ipogo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "ipogo",
@@ -1103,89 +1283,6 @@
           "size": 3510461,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollBox/TrollBox-0.0.6a.ipa",
           "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: \u274c"
-        }
-      ],
-      "appPermissions": {}
-    },
-    {
-      "name": "TrollFools",
-      "bundleIdentifier": "wiki.qaq.TrollFools",
-      "developerName": "Lessica / trollfools",
-      "subtitle": "",
-      "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
-      "tintColor": "#ffffff",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.8-15.",
-          "date": "2024-11-14T00:00:00-00:00",
-          "size": 3304212,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollFools-2.8-15.tipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.0-2",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 28248614,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.0-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.1-6",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3141310,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.1-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.3-5",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3242975,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.3-5.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-1",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3247279,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-1.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.4-2",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3371615,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.4-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.5-2",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3376019,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-2.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.5-3",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3383534,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.5-3.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.6-6",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3383397,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-6.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "2.6-8",
-          "date": "2024-10-14T00:00:00-00:00",
-          "size": 3383703,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.6-8.ipa",
-          "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ],
       "appPermissions": {}
