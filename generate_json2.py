@@ -64,13 +64,25 @@ def transform_object(original_object):
 
     return transformed_object
 
+
+def filter_unique_values(list_of_maps, key):
+    seen = set()
+    filtered_list = []
+    
+    for map in list_of_maps:
+        value = map.get(key)
+        if value not in seen:
+            seen.add(value)
+            filtered_list.append(map)
+    
+    return filtered_list
+
 def transform_for_altstore(original_object):
     transformed_object = {
         "name": "Neoncat-OG IPA Library",
         "subtitle": "TrollStore-IPAs",
         "description": "An ipa repo.",
         "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/com.apple.FinalCutApp.companion.png",
-        "headerURL": "",
         "website": "https://github.com/Neoncat-OG/TrollStore-IPAs",
         "tintColor": "#ffffff",
         "featuredApps": [],
@@ -80,7 +92,7 @@ def transform_for_altstore(original_object):
 
     app_map = {}
 
-    for app in original_object["apps"]:
+    for app in filter_unique_values(original_object["apps"], "bundleIdentifier"): # altstore doesn't like duplicated bundle ids
         (
             name,
             bundle_identifier,
