@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "TwitchDvnloaderPlus",
+      "bundleIdentifier": "tv.twitch",
+      "version": "23.4-0.1.5",
+      "versionDate": "2025-04-25",
+      "size": 150094691,
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/26-04-2025/TwitchDvnloaderPlus-23.4-0.1.5.ipa",
+      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
+      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
+    {
       "name": "Bunny",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "version": "260",

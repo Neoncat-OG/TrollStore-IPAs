@@ -8,6 +8,26 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "TwitchDvnloaderPlus",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
+      "subtitle": "",
+      "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png",
+      "tintColor": "#ffffff",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "23.4-0.1.5",
+          "date": "2025-04-25T00:00:00-00:00",
+          "size": 150094691,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/26-04-2025/TwitchDvnloaderPlus-23.4-0.1.5.ipa",
+          "localizedDescription": "A compilation of TwitchAdBlock (0.1.4) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 08-13-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
       "name": "Bunny",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "",
@@ -943,26 +963,6 @@
           "size": 19232013,
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/UsagePro/UsagePro-4.20.3.ipa",
           "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50"
-        }
-      ],
-      "appPermissions": {}
-    },
-    {
-      "name": "TwitchToolbox",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "AppDB / DPixel",
-      "subtitle": "",
-      "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png",
-      "tintColor": "#ffffff",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "14.2",
-          "date": "2024-10-15T00:00:00-00:00",
-          "size": 74624303,
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchToolbox/TwitchToolbox-14.2.ipa",
-          "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f"
         }
       ],
       "appPermissions": {}
