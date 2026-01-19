@@ -142,10 +142,11 @@ These emojis should assist you in making informed decisions when selecting apps 
     | [DVC iPA](https://t.me/dvcipaios) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [HertzSign iPA Library](https://t.me/HertzSign) |
     | [ipa.tweakdoor](https://ipa.tweakdoor.com/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) |
     | [WuXu1](https://github.com/WuXu1/WuXu1.github.io/)→ [AppDB](https://appdb.to/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [Haidar_Phantom](https://iosgods.com/topic/171723-ytkillerplus_v18229_2214-cracked/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
+  | [iPAApps.net](https://ipaapps.net) | [iOSGods!](https://iosgods.com/). |
     | [Da StashSpot 2.0](https://t.me/DaStashSpot) **(UNSAFE)**| [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) / [ipalibrary.me](https://ipalibrary.me) / [DPixel](https://t.me/dpixel) / [iOSGods!](https://iosgods.com/) |
     | [Тик ток мод на айфон](https://t.me/vvveco) / [Makarr iOS TikTok mod на iPhone](https://t.me/MakarrIOS)| [iStorePlus تحديثات](https://t.me/iStoreplus) / [LazyShop](https://lazyshop.app/) / [DzMoha 𝕏](https://twitter.com/contact_nadhir) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) |
     | [ipaomtk](https://ipaomtk.com/) | [iOSGods!](https://iosgods.com/) / [AppDB](https://appdb.to/) |
-    | [IPA Free](https://t.me/IPA_FREE_RAK) | [iOSGods!](https://iosgods.com/) / [ipalibrary.me](https://ipalibrary.me) |
+    | [IPA Library](https://ipalibrary.net) | [iOSGods!](https://iosgods.com/) |
     | [Trollstore+jailbreak](https://t.me/trollstorebootstrap) | [nowesr1](https://twitter.com/nowesr1) |
     | [TrollStore AppsUpdates](https://t.me/TrollStoreApps) | [nowesr1](https://twitter.com/nowesr1) |
     | [Zappfree](https://zappfree.com/ipa-library/)→ [TweakHome: Website](https://tweakhome.app/) **(UNSAFE)**| [iOSGods!](https://iosgods.com/) |
